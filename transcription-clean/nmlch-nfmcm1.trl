@@ -8,9 +8,9 @@
 nmlch-nfmcm1_x_0000_nmlch_00: Mari mari papay
 nmlch-nfmcm1_x_0001_nfmcm_00: mari mari chaw,
 nmlch-nfmcm1_x_0002_nmlch_00: ¿chumlefuymi am tami mongenmu tüfa, tüfachi nagünantümew?. 
-nmlch-nfmcm1_x_0003_nfmcm_00:<*SPA>no kutrankülen 
+nmlch-nfmcm1_x_0003_nfmcm_00: <*SPA>no kutrankülen 
 nmlch-nfmcm1_x_0004_nmlch_00: kutrankülimi may 
-nmlch-nfmcm1_x_0005_nfmcm_00:<*SPA>si 
+nmlch-nfmcm1_x_0005_nfmcm_00: <*SPA>si 
 nmlch-nfmcm1_x_0006_nmlch_00: ¡aa! weda dungu tüfey ka, weda dungu tüfey tati 
 nmlch-nfmcm1_x_0007_nfmcm_00: weda dungu <*SPA>pu' 
 nmlch-nfmcm1_x_0008_nmlch_00: tami pu che kakelu kümekechi mongeli tüfi kom engün ka 
@@ -18,7 +18,7 @@ nmlch-nfmcm1_x_0009_nfmcm_00: kom kümelkali
 nmlch-nfmcm1_x_0010_nmlch_00: feyta küme dungu ta tüfi fey kme dungu ta tüfey <Smack> kuyfi eymi papay, we pichidomongelu chem kutran chi llowimi wüne tami mongenmu tüfi 
 nmlch-nfmcm1_x_0011_nfmcm_00: <P> llowlan kutran 
 nmlch-nfmcm1_x_0012_nmlch_00: kutranlaymi, 
-nmlch-nfmcm1_x_0013_nfmcm_00:<*SPA>no 
+nmlch-nfmcm1_x_0013_nfmcm_00: <*SPA>no 
 nmlch-nfmcm1_x_0014_nmlch_00: kutranlaymi may y depue'  amulelu ti  tüfichi antü tripantu rupalelu kutranimi?
 nmlch-nfmcm1_x_0015_nfmcm_00: may depue' de <*SPA>eda' dew pu tremlu wüla 
 nmlch-nfmcm1_x_0016_nmlch_00: pu tremlu eymi fey wüla kutranimi 
@@ -66,7 +66,7 @@ nmlch-nfmcm1_x_0057_nfmcm_00: feypeno chem depue' doyelenu <Noise>
 nmlch-nfmcm1_x_0058_nmlch_00: ¡aaa! 
 nmlch-nfmcm1_x_0059_nfmcm_00: kurüweli tañi n'amun' 
 nmlch-nfmcm1_x_0060_nmlch_00: kurüweli may no, rume wedalkay tüfi 
-nmlch-nfmcm1_x_0061_nfmcm_00:<*SPA>si <*SPA>pu'  
+nmlch-nfmcm1_x_0061_nfmcm_00: <*SPA>si <*SPA>pu'  
 nmlch-nfmcm1_x_0062_nmlch_00: chem l'awen' tukulelkefuymi ti, papay, 
 nmlch-nfmcm1_x_0063_nfmcm_00: foye wadküm foye con matiko fey llanten <*SPA>ese <*SPA>no <*SPA>ma' <*SPA>pu', fey müten <*SPA>pu'  
 nmlch-nfmcm1_x_0064_nmlch_00: foye...
@@ -86,7 +86,7 @@ nmlch-nfmcm1_x_0077_nfmcm_00: afkentu indeccion tukufun <*SPA>igual <*SPA>no <*S
 nmlch-nfmcm1_x_0078_nmlch_00: <hm> kimlavimi ka chumngechi tami tufiel chi kutran tüfi kimlafimi 
 nmlch-nfmcm1_x_0079_nfmcm_00: pajonalmu we rupay chi vilu fey pünokonimi pingen, feymu nanfe feymu llemay mongelen 
 nmlch-nfmcm1_x_0080_nmlch_00: mekomu rumerki chi vilu 
-nmlch-nfmcm1_x_0081_nfmcm_00:<*SPA>no müte kuyfi fam pichikalu jovenngelu inche, jovenkülen pipiminga 
+nmlch-nfmcm1_x_0081_nfmcm_00: <*SPA>no müte kuyfi fam pichikalu jovenngelu inche, jovenkülen pipiminga 
 nmlch-nfmcm1_x_0082_nmlch_00: wechengelu eymi 
 nmlch-nfmcm1_x_0083_nfmcm_00: may fey, kuydayawlu sanchu inche fey lefkülen nifniffi<*SPA>pero <*SPA>no <*SPA>se <*SPA>que <*SPA>lo <*SPA>que <*SPA>e' chemngefel <%><*SPA>no uamlafiñ -/aho/- fewla machimu  feypingen 
 nmlch-nfmcm1_x_0084_nmlch_00: <hm> 
@@ -157,8 +157,7 @@ nmlch-nfmcm1_x_0148_nmlch_00: may
 nmlch-nfmcm1_x_0149_nfmcm_00: feychi kitana we pichi kitana 
 nmlch-nfmcm1_x_0150_nmlch_00: chem yelelfimi tami peatew kam kuwümu 
 nmlch-nfmcm1_x_0151_nfmcm_00: re kuwümu
-nmlch-nfmcm1_x_0152_nmlch_00: kuwümu?
-chem, kuwümu
+nmlch-nfmcm1_x_0152_nmlch_00: kuwümu? chem, kuwümu
 nmlch-nfmcm1_x_0153_nfmcm_00: kuwü müten pulsaenu 
 nmlch-nfmcm1_x_0154_nmlch_00: ¡aa! peñmaymu tami kuwü 
 nmlch-nfmcm1_x_0155_nfmcm_00: may 
@@ -185,7 +184,7 @@ nmlch-nfmcm1_x_0175_nfmcm_00: kiñe kurammu pelotuenu
 nmlch-nfmcm1_x_0176_nmlch_00: ¿chemmu?
 nmlch-nfmcm1_x_0177_nfmcm_00: kiñe kurammu chew tañi kutrankenmu faw kuram feychi kuram famngechi <%> fey inche trafoafiñ kidu tañi chem -/a mi mane/- inche tañi maneramew trafoafiñ ngillatukunuan pi fey trafofi<*SPA>si te chumngechi  tami üllunietew fey kuleura mülemekemiawle pielmew ka felen küpayay dijo -/sa/- sapu reke müleaymi pielmi ka felen küpayay me dijo <%> figura kulewra tripay, tripay filu 
 nmlch-nfmcm1_x_0178_nmlch_00: filu, femngechi ta dangerkimi eymi 
-nmlch-nfmcm1_x_0179_nfmcm_00:<*SPA>si femngechi dange 
+nmlch-nfmcm1_x_0179_nfmcm_00: <*SPA>si femngechi dange 
 nmlch-nfmcm1_x_0180_nmlch_00: ¡aaa! , 
 nmlch-nfmcm1_x_0181_nfmcm_00: longko kintuyawülmakeyemew komew <*SPA>dijo fey faw yepakefuy ko yepakefuy ko <*SPA>aqui, feytamu
 nmlch-nfmcm1_x_0182_nmlch_00: kintuñmakefeymu tami longko tüfa
@@ -215,7 +214,7 @@ nmlch-nfmcm1_x_0205_nfmcm_00: feymew
 nmlch-nfmcm1_x_0206_nmlch_00: welu, feypifimi chumuelu feypien am pifilmi, welu ta kümekünukarkeafuymi chi kümekünuafuymika 
 nmlch-nfmcm1_x_0207_nfmcm_00: kümekünuafun <*SPA>pu'  wün pifili wünkelafiñ müten 
 nmlch-nfmcm1_x_0208_nmlch_00: akuki kiñekemu tüfa ka
-nmlch-nfmcm1_x_0209_nfmcm_00:<*SPA>no küpakelay 
+nmlch-nfmcm1_x_0209_nfmcm_00: <*SPA>no küpakelay 
 nmlch-nfmcm1_x_0210_nmlch_00: kimni kidu ka ñi kulpalen 
 nmlch-nfmcm1_x_0211_nfmcm_00: kimni <*SPA>pu'  
 nmlch-nfmcm1_x_0212_nmlch_00: ¡aaa!
@@ -223,7 +222,7 @@ nmlch-nfmcm1_x_0213_nfmcm_00: kiñe nag trafyefiñ ñi lamngen fey pangkokaenu h
 nmlch-nfmcm1_x_0214_nmlch_00: kimnierki ñi yafkalen tüfi?
 nmlch-nfmcm1_x_0215_nfmcm_00: kimni <*SPA>pu'  kidu kimfaluwi 
 nmlch-nfmcm1_x_0216_nmlch_00: <P> müna wedano, müna wedano 
-nmlch-nfmcm1_x_0217_nfmcm_00:<*SPA>si <*SPA>pu'  feychi nütram ta -/elu/- machimu nütramtupan chi l'awen'  chumafenu chi kayno
+nmlch-nfmcm1_x_0217_nfmcm_00: <*SPA>si <*SPA>pu'  feychi nütram ta -/elu/- machimu nütramtupan chi l'awen'  chumafenu chi kayno
 1_x_0218_nfmcm_0016_nmlch_00: chempingimi machimu tüfey kay? 
 nmlch-nfmcm1_x_0219_nfmcm_00: machimu ta nütramdungun ta trewa nga rapiki nga feychi kachumu
 nmlch-nfmcm1_x_0220_nmlch_00: may 
@@ -231,7 +230,7 @@ nmlch-nfmcm1_x_0221_nfmcm_00: fey pirki feymu mongeafun foye l'awen' fey filu l'
 nmlch-nfmcm1_x_0222_nmlch_00: küñke?
 nmlch-nfmcm1_x_0223_nfmcm_00: <*SPA>no, chodi ngati müna küme trochentuleki kampumu müleki nga, trapimu tripaki <*SPA>avece'  nga 
 nmlch-nfmcm1_x_0224_nmlch_00: ütriw no?
-nmlch-nfmcm1_x_0225_nfmcm_00:<*SPA>no fey<*SPA>no to' <*SPA>la <*SPA>parte<*SPA>no <*SPA>sale <*SPA>avece'  ka <*SPA>pu'  tripaki <*SPA>pu'  chem <uh> arro pipi, <*SPA>parece 
+nmlch-nfmcm1_x_0225_nfmcm_00: <*SPA>no fey<*SPA>no to' <*SPA>la <*SPA>parte<*SPA>no <*SPA>sale <*SPA>avece'  ka <*SPA>pu'  tripaki <*SPA>pu'  chem <uh> arro pipi, <*SPA>parece 
 nmlch-nfmcm1_x_0226_nmlch_00: femuechi pewman l'awen' rume kümeke l'awen' pingeki, tüfa feytachi küdawmu inche niawün ta fey feypingeken pewman l'awen' Ngünechen tañi wülün kimün pingeki machi piam kuyfi tüfa re pewmakefuy l'awen' fey ta mongelkerkefuy che 
 nmlch-nfmcm1_x_0227_nfmcm_00: pewmalu l'awen' che mongeki pu' ellakamu doy kutrankülelu inche pewmafun famngechi nelngen chi l'awen' chem ama nga ese troltro kurü troltro pültrülelu nga.
 nmlch-nfmcm1_x_0228_nmlch_00: kurü troltro 
@@ -361,7 +360,7 @@ nmlch-nfmcm1_x_0352_nfmcm_00: may
 nmlch-nfmcm1_x_0353_nmlch_00: fey mongetuki tüfi?
 nmlch-nfmcm1_x_0354_nfmcm_00: mongetuki <*SPA>pu'  pichikeche <%> 
 nmlch-nfmcm1_x_0355_nmlch_00: pekelay l'awen'  pitalmu pingi ta tüfi 
-nmlch-nfmcm1_x_0356_nfmcm_00:<*SPA>no pekelay <*SPA>pu'  
+nmlch-nfmcm1_x_0356_nfmcm_00: <*SPA>no pekelay <*SPA>pu'  
 nmlch-nfmcm1_x_0357_nmlch_00: kimngelay -/notu/- notulay <*SPA>pu'  
 nmlch-nfmcm1_x_0358_nfmcm_00: no pal' el empachu kimlay <*SPA>pu' 
 nmlch-nfmcm1_x_0359_nmlch_00: chumuechi chi <uh> mongetuki kay füchakeche katrüyüm ñi pütra 
