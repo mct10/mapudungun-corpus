@@ -346,7 +346,7 @@ M: Kimfin peñi
 C: Lo sé hermano 
 
 M: <SPA>e'te kiñeke tañi pu'che ka kutranki 
-C; éste alguno mi gente tambien se enferma 
+C: éste alguno mi gente tambien se enferma 
 
 M: feytichi kutranmew füngekey 
 C: en esa enfermedad afecta la carne
@@ -465,7 +465,7 @@ M:  fey wingka kutran peno
 C: eso seria enfermedad del huinca  
 
 M: welu ta machi müten ta <Noise> pepiluwlay 
-C; pero no solamente la machi nomás tienes habilidades
+C: pero no solamente la machi nomás tienes habilidades
 
 M: ta feytachi kutranmew 
 C: entonces en ésta enfermedad 
@@ -1019,7 +1019,7 @@ C: también ahora recien se está calmando si
 M: ka kom pichike wentrungeayngün
 C: también todos pueden ser niñitos
  
-M; regle tripantu pura tripantu 
+M: regle tripantu pura tripantu 
 C: siete años ocho años
 
 M: ta kutran kutrangeyngün
@@ -1307,7 +1307,7 @@ M: newen kalül niewetulayiñ
 C: fuerza en el cuerpo ya no lo tenemos
 
 M: feymu ta chem kutran rume ta mülele tati 
-C; por eso hay cualquier enfermedad pues 
+C: por eso hay cualquier enfermedad pues 
 
 M: +/tufema/+ tufemkeyngün ta che pu' 
 C: que la gente se contagian luego pues 
@@ -1431,7 +1431,7 @@ nmlch-nmfhpB1_x_0107_nmlch_00:
 M: <uh> Fey ka kuyfi pichike che
 C: Si también los niñitos de ante 
 
-M; re pewfalüwmekelafuy 
+M: re pewfalüwmekelafuy 
 C: no se iban mostrarse ha su gusto  
 
 M: eymi kuyfi tami chemunmu
@@ -1560,19 +1560,19 @@ C: otra parte en otra machi he ido
 M: <Noise> chem dungumew rume ta miawken 
 C: en cualquier cosa entonces ando 
 
-M; machi konken feymu ta miawken tati
+M: machi konken feymu ta miawken tati
 C: éntro en la machi por eso he andado pues  
 
 M: pütokoken l'awen' 
 C: tomo remedio 
 
 M: ka miawlu ta lelfün inche
-C; también cuando andado en el campo yo 
+C: también cuando andado en el campo yo 
 
 M: lelfünpüle ta ka changafken
 C: en el campo también mastico
 
-M; chem t'apül' rume folle t'apül', 
+M: chem t'apül' rume folle t'apül', 
 C: cualquier hoja seria hoja de canelo,
 
 M: make t'apül' chem t'apül' rume
@@ -1584,11 +1584,11 @@ C: éste hoja boldo
 M: chew püle rume tüpelü inche
 C: en cualquier parte lo veo yo 
 
-M; ta changafmeken ta <%> ürke feyta.
+M: ta changafmeken ta <%> ürke feyta.
 C: entonces lo mastico éste pues esta.
  
 nmlch-nmfhpB1_x_0117_nmfhp_00: 
-M; E'te' feytichi ke t'apül' tati peñi. 
+M: E'te' feytichi ke t'apül' tati peñi. 
 C: Este esa mismo hojas pues hermano. 
 
 nmlch-nmfhpB1_x_0118_nmlch_00: 
@@ -1603,7 +1603,7 @@ nmlch-nmfhpB1_x_0120_nmlch_00:
 M: Feyti ta fentren dungu ta niy 
 C: Esos entonces es una argumentación grande que tiene
 
-M; ka mapuem tañi <uh. Newenmu
+M: ka mapuem tañi <uh. Newenmu
 C: también es la fuerza de la tierra
 
 M: mongelelu ka mapu tañi anümka tüfi 
@@ -2044,7 +2044,7 @@ C: éste tengo mi añito pues
 M: inche dewma küla, 
 C: yo tengo recien treinta,
 
-M; küla mari küla mari meli tripantu ta nien
+M: küla mari küla mari meli tripantu ta nien
 C: treinta treinta cuatro años entonces tengo
 
 M: inche feyta kimentunieken

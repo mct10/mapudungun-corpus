@@ -3,7 +3,7 @@
 ; File: nmlch-pfrhf2 
 ; Last changes made on 02/08/2003 
 ; Transcriber: Cristian C. Anton  
-Traduce: Gloria Caniulen.
+;Traduce: Gloria Caniulen.
 
 nmlch-pfrhf2_1_0000_pfrhf_00: 
 M: Ñami tani chau 
@@ -948,8 +948,7 @@ M: ¿Chem kutrankefuy?
 C: ¿ Qué enfermedad?
 
 nmlch-pfrhf2_1_0154_pfrhf_00: 
-M: Kiwün <*SPA>primero okeangey <!1ojeangey>, okeangey 
-<!1ojeangey> 
+M: Kiwün <*SPA>primero okeangey <!1ojeangey>, okeangey <!1ojeangey> 
 C: Conocí la enfermedad, primero fue ahojado
 
 M: epe lafuy 
@@ -1220,8 +1219,7 @@ M: Chempituy kidu <!1kichu>
 C: Y que comentarios hizo,
 
 nmlch-pfrhf2_1_0198_pfrhf_00: 
-M: Ta +/pütrawen/+ pütra wentrutuy tañi ayikau <!1ayijau>
-ta pütrüwetuy 
+M: Ta +/pütrawen/+ pütra wentrutuy tañi ayikau <!1ayijau> ta pütrüwetuy 
 C: ahora es un gran hombre mi ahijado
 
 nmlch-pfrhf2_1_0199_nmlch_00: 
@@ -1327,8 +1325,7 @@ C: Yo soy nagche
 M: eymi ta pewenche 
 C: usted es pewenche
 
-M: fey <uh> ngütramkamean tañi puche pipen 
-<uh> pewenche pin 
+M: fey <uh> ngütramkamean tañi puche pipen <uh> pewenche pin 
 C: así iré a conversar con la gente pewenche, me dije
 
 M: feymu ta miawün tati lamngen 

@@ -623,14 +623,14 @@ nmlch-nfrchB2_x_0030_nmlch_00:
 M: Ka rakiduam inapetuyin tüfa.
 C: Seguimos otros pensamientos ahora.
  
-nmlch-nfrchB2_x_0031_nfrch_00 
+nmlch-nfrchB2_x_0031_nfrch_00:
 M: Inkawetulayiñmu
 C: Ya no nos defiende
 
 M: ta Ngünechen tañi femül üllkukerki.
 C: Ngünechen porque se ha molestado pues.
   
-rchB2_x_0033_nfrch_00
+rchB2_x_0033_nfrch_00:
 M: Inkawetulayiñmu ta Ngünechen,
 C:  Ya no nos defiende Ngüenechen,
 
@@ -850,7 +850,7 @@ C:  Eso hacían los ancianos,
 M: kuyfi ta felekerkefuy ta dungu
 C: antes eran así las cosas
 
-M. inchiñ ta tüfa ta ngoyitufuyiñ.
+M: inchiñ ta tüfa ta ngoyitufuyiñ.
 C: nosotros acá nos olvidamos.
  
 
@@ -894,7 +894,7 @@ C: si recuperamos nuestros buenos pensamientos
 M: kom eluketeu chau Dios,
 C: todo me da Padre Dios,
 
-M. kom kümeke akutuay
+M: kom kümeke akutuay
 C: todo bien llegará 
 
 M: kom ta elungetuaiñ feula,
@@ -1656,7 +1656,7 @@ M: ta chem kutrantule.
 C:  con cualquier enfermedad.
 
 M: Feymu ta inchiñ ta kuydaukülekiyiñ
-C : Por eso nosotros nos cuidamos
+C: Por eso nosotros nos cuidamos
 
 M: sapineukeyiñ, 
 C: nos cuidamos, 
@@ -2377,7 +2377,7 @@ C: que sacan en las montañas;
 M: inche ka mañumneyu
 C: yo también estoy agradecida
 
-M faliltuen tati, 
+M: faliltuen tati, 
 C: me consideraste pues, 
 
 M: pepayen, 
@@ -2438,7 +2438,6 @@ nmlch-nfrchB2_x_0132_nfrch_00:
 M: Femi chau.
 C: Así es padre.
 
-Cañulef
 
 
 

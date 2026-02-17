@@ -1019,7 +1019,7 @@ M: pitalmu, pitalmu konlu%
 C: el que entra en el hospital.
 
 nmlch-nfipp1_x_0157_nfipp_00:
-M. <*SPA>no re famngechi müten,
+M: <*SPA>no re famngechi müten,
 C: No así no mas,
 
 M: kuyfi ngekenofulu pital kay
@@ -2334,7 +2334,7 @@ M: <*SPA>Si <*SPA>pue' feley, feley <Noise>
 C: Si pues, así es,
 
 M: ñi kutran<*SPA>si.<*SPA>hay%
-su enfermedad, si. hay.
+C: su enfermedad, si. hay.
 
 nmlch-nfipp1_x_0368_nmlch_00:
 M: <Noise> Ah
@@ -2557,7 +2557,7 @@ M:  feyta l'angümkünuñmangi ñi ange che <Laugh>
 C: Eso le aplica en la cara a las personas.
 
 
-nmlch-nfipp1_x_0404_nmlch_00
+nmlch-nfipp1_x_0404_nmlch_00:
 M: L'angümkünuñmangi, 
 C:  Le aplican,
 
@@ -2587,7 +2587,7 @@ M: L'angümkünuñmangi ñi ange
 C: Se  les dormia la cara
 
 M:  fey tripay chi foro tüfey,
-C : y salio la muela esa
+C: y salio la muela esa
 
 M: Ah 
 C: Ah
@@ -3217,7 +3217,7 @@ C: ese.
 
 nmlch-nfipp1_x_0505_nmlch_00:
 M: Ah 
-C.: Ah
+C: Ah
 
 M: pwelleñ 
 C:

@@ -666,7 +666,7 @@ C: también habrá remedio
 
 nmlch-nmjahB2_x_0079_nmjah_00: 
 M: Vey, vey kimlay ka 
-C. Eso, eso no sabe pues
+C: Eso, eso no sabe pues
 
 M: vey -/kim/- kimlaviñ.
 C: eso no lo conozco.
@@ -931,7 +931,7 @@ M: L'awen' nierkefeyu welu.
 C: Remedio tenia pero.
 
 nmlch-nmjahB2_x_0123_nmjah_00:
-<Laugh><Laugh>
+<Laugh>
 
 nmlch-nmjahB2_x_0124_nmlch_00: 
 M: L'awen'ürkefel ka. 

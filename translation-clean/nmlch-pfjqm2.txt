@@ -423,7 +423,6 @@ M: keka doy kuydangekey tati paysanu
 C: los mapuches lo cuidan mucho
 
 M: ta kuydawi doy <*SPA>no <*SPA>como tati pu 
-chiñura 
 C: se cuida más, no es como las chilenas 
 
 M: pu wingka <*SPA>no <*SPA>se <*SPA>cuidan
@@ -832,8 +831,7 @@ nmlch-pfjqm2_1_0160_pfjqm_00:
 M: <*SPA>hay <*SPA>que <*SPA>hacerlo <!1hacerlu> <*SPA>con <*SPA>una <*SPA>manta 
 C: Hay que hacerlo con una manta
 
-M: <*SPA>dicen <*SPA>que <*SPA>hacerlo pa <*SPA>escondido <!1condiditu> <*SPA>dicen <*SPA>que <*SPA>hacerlo 
-<*SPA>remedio <*SPA>ese
+M: <*SPA>dicen <*SPA>que <*SPA>hacerlo pa <*SPA>escondido <!1condiditu> <*SPA>dicen <*SPA>que <*SPA>hacerlo <*SPA>remedio <*SPA>ese
 C: dicen que hay que hacerlo escondido el remedio ese
 
 nmlch-pfjqm2_1_0161_nmlch_00: 
@@ -1087,7 +1085,7 @@ M: kuyfi fütakeche müna llellipufengefuy pingey feyngey <!1feyngi>
 C: Los antiguos rogaban mucho dicen
 
 nmlch-pfjqm2_1_0206_pfjqm_00:
-M. kuyfi tati fütakeche pütrümnake kim ngillatufuy 
+M: kuyfi tati fütakeche pütrümnake kim ngillatufuy 
 C: Antes los viejos con maquí hacian ngillatun
 
 M: tüfamay kimwelay ngillatun 

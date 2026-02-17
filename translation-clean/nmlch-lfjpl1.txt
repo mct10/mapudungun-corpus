@@ -87,7 +87,7 @@ C: estamos todos bien
 M: fey iñche ngütramkayafiñ pipiyu tati papay 
 C:  yo le voy a conversar le dije señora
 
-nmlch-lfjpl1_x_0019_lfjpl_00: <hm>  
+nmlch-lfjpl1_x_0019_lfjpl_00: 
 
 
 nmlch-lfjpl1_x_0020_nmlch_00: 
@@ -217,7 +217,7 @@ nmlch-lfjpl1_x_0048_nmlch_00:
 M: may ngütramkaleaymi müten
 C: si, converse no más
 
-nmlch-lfjpl1_x_0049_lfjpl_00: <uh> <Laugh> 
+nmlch-lfjpl1_x_0049_lfjpl_00: 
 
 nmlch-lfjpl1_x_0050_nmlch_00:
 M: kuyfi 
@@ -581,8 +581,7 @@ nmlch-lfjpl1_x_0095_lfjpl_00:
 M: may 
 C: si
 
-M: chumekekey <!1chumekeki> nga pichike <*SPA>maquina <*SPA>en
-<*SPA>el
+M: chumekekey <!1chumekeki> nga pichike <*SPA>maquina <*SPA>en <*SPA>el
 C: así como hacen pequeñas máquinas en el... 
 
 M: chemu <*SPA>en <*SPA>el 
@@ -1350,7 +1349,7 @@ C: ¡cómo es que se llama!
 M: <*SPA>esto ka kümey rapitunmu 
 C: eso que también es bueno para vomitar,
 
-M. <*SPA>el <*SPA>samuera 
+M: <*SPA>el <*SPA>samuera 
 C: la salmuera
 
 M: <*SPA>sal<*SPA> tambien 
@@ -1379,7 +1378,7 @@ C: eso no más,
 M: <*SPA>mas <!1ma'> <*SPA>luego <*SPA>aguanta fey 
 C: aguanta eso,
 
-M. <*SPA>porque illmukey <!1illmuki> el piuke  
+M: <*SPA>porque illmukey <!1illmuki> el piuke  
 C: porque el corazón 
 
 nmlch-lfjpl1_x_0180_nmlch_00:
@@ -2202,7 +2201,7 @@ nmlch-lfjpl1_x_0274_lfjpl_00:
 M: may 
 C: si
 
-nmlch-lfjpl1_x_0275_nmlch_00: <hm>  
+nmlch-lfjpl1_x_0275_nmlch_00:  
 
 nmlch-lfjpl1_x_0276_lfjpl_00: 
 M: <*SPA>peliaron <*SPA>y <*SPA>lo 
@@ -2258,7 +2257,7 @@ nmlch-lfjpl1_x_0283_nmlch_00:
 M: feyti ¡Aa! ruka traru 
 C: a esa, la de ruka traru
 
-nmlch-lfjpl1_x_0284_lfjpl_00: <hm>  
+nmlch-lfjpl1_x_0284_lfjpl_00: 
 
 nmlch-lfjpl1_x_0285_nmlch_00:
 M: ¿küme machi ?
@@ -2437,7 +2436,7 @@ C: esa la mandaron a hacer,
 M: <*SPA>el munimu deumalngey 
 C: a él mismo se la hicieron,
 
-nmlch-lfjpl1_x_0303_nmlch_00: <hm>  
+nmlch-lfjpl1_x_0303_nmlch_00:  
 
 nmlch-lfjpl1_x_0304_lfjpl_00: 
 M: <*SPA>ese <*SPA>cacita <*SPA>con <*SPA>singue
@@ -2688,11 +2687,11 @@ M: ¿amutuy tiyüupüle?
 C: ¿se fue para allá?
 
 nmlch-lfjpl1_x_0323_lfjpl_00:
-M <*SPA>si 
+M: <*SPA>si 
 C: si
 
 nmlch-lfjpl1_x_0324_nmlch_00:
-M ¿fütangepuy?
+M: ¿fütangepuy?
 C: ¿se casó?
 
 nmlch-lfjpl1_x_0325_lfjpl_00:
@@ -2863,7 +2862,7 @@ M: ka chempüle perimontun ¿kimlafimi tüfey ?
 C: también, donde se ven apariciones ¿lo sabe?
 
 nmlch-lfjpl1_x_0349_lfjpl_00:
-M <hm> ka fey 
+M: <hm> ka fey 
 C: eso también
 
 nmlch-lfjpl1_x_0350_nmlch_00:

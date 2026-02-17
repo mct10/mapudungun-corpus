@@ -15,64 +15,64 @@ M:  Mari mari koñintu
 C:  Buenas tardes sobrino.
 
 nmlch-lfmch1_x_0002_nmlch_00: 
-M : ¿Chumngechili tami mongen?
-C :  ¿Como esta tu vivir?
+M: ¿Chumngechili tami mongen?
+C:  ¿Como esta tu vivir?
 
-M :  tüfa tami felen ta rukamew
-C : como estas aqui en tu casa
+M:  tüfa tami felen ta rukamew
+C: como estas aqui en tu casa
 
-M :  tüfa tami lof 
-C : aqui en tu comunidad
+M:  tüfa tami lof 
+C: aqui en tu comunidad
 
-M : chem dungu müli 
-C : que novedades hay
+M: chem dungu müli 
+C: que novedades hay
 
-M : ¿kümelkalimünan.?
-C : ¿estan ustedes bien.?
+M: ¿kümelkalimünan.?
+C: ¿estan ustedes bien.?
 
 nmlch-lfmch1_x_0003_lfmch_00:
 M:  Kom kümeliyin
-C : Estamos todos bien
+C: Estamos todos bien
 
-M : ta fentenmu taiñ femlen 
-C : hasta aqui estamos asi 
+M: ta fentenmu taiñ femlen 
+C: hasta aqui estamos asi 
 
-M : ta fentenen taiñ familia,
-C : tengo toda esta familia
+M: ta fentenen taiñ familia,
+C: tengo toda esta familia
 
-M : trür nefin ta fantenmu antanta
-C : 
+M: trür nefin ta fantenmu antanta
+C: 
 
-M : domingo antümew
-C : el dia Domingo
+M: domingo antümew
+C: el dia Domingo
 
-M : feyta kom kümeliyiñ 
-C : estamos todos bien
+M: feyta kom kümeliyiñ 
+C: estamos todos bien
 
-M :  ngelay ta chem dungu rume
-C : no hay ninguna novedad
+M:  ngelay ta chem dungu rume
+C: no hay ninguna novedad
 
-M : ta lof mew allkenngelay.
-C : en la comunidad no se ha escuchado nada.
+M: ta lof mew allkenngelay.
+C: en la comunidad no se ha escuchado nada.
 
 nmlch-lfmch1_x_0004_nmlch_00: 
 M: Küme dungu tati 
-C : Que buena noticia
+C: Que buena noticia
  
-M : fey ta trür küli che ñi rukamew
-C : asi la gente esta bien en su casa
+M: fey ta trür küli che ñi rukamew
+C: asi la gente esta bien en su casa
 
-M : ka ñi admapu
-C : tambien en su lugar
+M: ka ñi admapu
+C: tambien en su lugar
 
-M : kom ta lof rume kechi
-C : toda la comunidad
+M: kom ta lof rume kechi
+C: toda la comunidad
 
-M : küpali ta mongen 
-C : avanza bien en su vivir
+M: küpali ta mongen 
+C: avanza bien en su vivir
 
-M : feyta küme kechi küpali antü
-C : pues asi los dias estan pasando bien
+M: feyta küme kechi küpali antü
+C: pues asi los dias estan pasando bien
 
 M: tripantu kom feli tati ñukentu.
 C: los años estan asi tia.
@@ -460,11 +460,11 @@ nmlch-lfmch1_x_0024_lfmch_00:
 M: Mülekevuy ta
 C: Pues había 
 
-M : ngillatun ta kuyvi 
-C : oraciones antes
+M: ngillatun ta kuyvi 
+C: oraciones antes
 
 M: ta trumawkevuy ta epu
-C : 
+C: 
 
 M: epu lof che ta kakotuluwkevuy.
 C: dos comunidades se daban mote.
@@ -475,59 +475,59 @@ C: Muday tambien.
  
 nmlch-lfmch1_x_0026_lfmch_00: 
 M: Kakotuluwkevuy 
-C : Se convidaban Mote
+C: Se convidaban Mote
 
-M : veyta muday 
-C : tambien Muday
+M: veyta muday 
+C: tambien Muday
 
 M: tuluukevuy poyewkevuy 
-C : .................. con cariño.
+C: .................. con cariño.
 
-M : veyta vey vel ta mülekevuy 
-C : .......................habian
+M: veyta vey vel ta mülekevuy 
+C: .......................habian
 
-M : vemngechi trawün
-C : esos encuentros
+M: vemngechi trawün
+C: esos encuentros
 
-M : ta ngillatun ta kuyvi 
-C : de oraciones antes
+M: ta ngillatun ta kuyvi 
+C: de oraciones antes
 
 M: vemngechi ngillatunmu ta
-C : esas oraciones pues
+C: esas oraciones pues
 
-M : mülekevuy 
-C : había
+M: mülekevuy 
+C: había
 
-M : taiñ vüchakecheyem
-C : nuestros antepasados
+M: taiñ vüchakecheyem
+C: nuestros antepasados
 
-M : veyta inche kay
-C : pues yo tambien
+M: veyta inche kay
+C: pues yo tambien
 
 M: ta konlan ta 
 C: yo no entre ahora
 
 M: ngillatun mu 
-C : en la rogativa
+C: en la rogativa
 
 M: kuyfi ta konlan ta ngillatun mu
-C : antes no entre a la rogativa
+C: antes no entre a la rogativa
 
-M : ta inche.
+M: ta inche.
 C: pues yo.
  
 nmlch-lfmch1_x_0027_nmlch_00: 
 M: ¿Veyti may konlaymi <*SPA> ?
-C : ¿Ahora tampoco entro ?
+C: ¿Ahora tampoco entro ?
 
 M: No.
 C: no.
  
 nmlch-lfmch1_x_0028_lfmch_00:
 M:  Konlan ngillatunmu tay
-C : Ahora no entré a la rogativa
+C: Ahora no entré a la rogativa
 
-M : tüfa ta konkelan ngillatunmu.
+M: tüfa ta konkelan ngillatunmu.
 C: ahora no entró a la rogativa.
  
 nmlch-lfmch1_x_0029_nmlch_00: 
@@ -612,7 +612,7 @@ M: Vemngechi rupaken
 C: Asi lo paso
 
 M: tati koñintu.
-C. pues sobrina
+C: pues sobrina
 
 nmlch-lfmch1_x_0035_nmlch_00:
 M:  Feley llimay 
@@ -779,9 +779,9 @@ M: naükevuy tati
 C: pues caia
 
 M: akukevuy ta ko
-C : llegaba el agua
+C: llegaba el agua
 
-M : vantenmu ta venwelay che pu'.
+M: vantenmu ta venwelay che pu'.
 C: ahora la gente ya no hace eso
  
 nmlch-lfmch1_x_0040_nmlch_00: 
@@ -790,157 +790,157 @@ C: Ya no se hace pues.
 
 nmlch-lfmch1_x_0041_lfmch_00: 
 M: Ngillatuay
-C : Rogativa
+C: Rogativa
 
-M : ngillatuwelay ta che
-C : la gente ya no ruega
+M: ngillatuwelay ta che
+C: la gente ya no ruega
 
-M : anken tripantu ta küpay 
-C : vienen años secos
+M: anken tripantu ta küpay 
+C: vienen años secos
 
-M : küpay müten
-C : vienen no mas
+M: küpay müten
+C: vienen no mas
 
-M : veyta vemwelay taiñ lof mu
-C : en mi Comunidad ya no se hace
+M: veyta vemwelay taiñ lof mu
+C: en mi Comunidad ya no se hace
 
-M : ta mawün mu
-C : por la lluvia pues
+M: ta mawün mu
+C: por la lluvia pues
 
-M : kakelumu ta tripaki <*SPA>
-C : por lo otro sale 
+M: kakelumu ta tripaki <*SPA>
+C: por lo otro sale 
 
-M : parece
-C : parece
+M: parece
+C: parece
 
-M : veley tachi lof mey 
-C : asi esta la Comunidad
+M: veley tachi lof mey 
+C: asi esta la Comunidad
 
-M : ta newe tripalay ta <Noise>
-C : ya no sale mucho
+M: ta newe tripalay ta <Noise>
+C: ya no sale mucho
 
-M : ngewelay ta machi 
-C : ya no quedan Machi
+M: ngewelay ta machi 
+C: ya no quedan Machi
 
 M: avi ta machi.
 C: se acabo la Machi.
   
 nmlch-lfmch1_x_0042_nmlch_00:
 M:  Mapuche kuyfi
-C : Los mapuche antes 
+C: Los mapuche antes 
 
-M : rume yamkevuy ta ngen
-C : le tenian mucho respeto a los dueños
+M: rume yamkevuy ta ngen
+C: le tenian mucho respeto a los dueños
 
-M : winkul ngen ko pingi 
-C : a los dueños de los cerros y del agua dicen
+M: winkul ngen ko pingi 
+C: a los dueños de los cerros y del agua dicen
 
-M :vey ngen mawida felefuy tüfi.
+M:vey ngen mawida felefuy tüfi.
 C: el dueño de la Montaña esta ahÍ.
  
 nmlch-lfmch1_x_0043_lfmch_00: 
 M: Velevuy ti pu'
-C : Esta asi pues
+C: Esta asi pues
 
-M : lika yamney ta mawida
-C : se le teme y respeta  a la Montaña
+M: lika yamney ta mawida
+C: se le teme y respeta  a la Montaña
 
-M : katrükangelay ngen ko
-C : no e cortan los dueños del agua
+M: katrükangelay ngen ko
+C: no e cortan los dueños del agua
 
-M : chew ta weli ko 
-C : donde hay agua
+M: chew ta weli ko 
+C: donde hay agua
 
-M : müli ta ngen ko pingi
-C : hay dueño del agua se dice
+M: müli ta ngen ko pingi
+C: hay dueño del agua se dice
 
-M : ta lipüm ngelay 
-C : ya no se quema
+M: ta lipüm ngelay 
+C: ya no se quema
 
-M : yamngey ta tüvi 
-C : se le tiene mucho respeto
+M: yamngey ta tüvi 
+C: se le tiene mucho respeto
 
-M : katruy mangeal tañi 
-C : para cortarle su 
+M: katruy mangeal tañi 
+C: para cortarle su 
 
-M : taiñ niewelchi mamüll 
-C : su, leña que tiene
+M: taiñ niewelchi mamüll 
+C: su, leña que tiene
 
-M : ta katrükaymangelay 
-C : ahora ya no se le corta
+M: ta katrükaymangelay 
+C: ahora ya no se le corta
 
-M : yamngey pu'
-C : se le respeta pues
+M: yamngey pu'
+C: se le respeta pues
 
-M : feula ta winka yamlay
-C : ahora el huinca no respeta
+M: feula ta winka yamlay
+C: ahora el huinca no respeta
 
-M : lipümi anümtuy ta pinu 
-C : hace quema y planta pinos
+M: lipümi anümtuy ta pinu 
+C: hace quema y planta pinos
 
-M :veymu ta niewetukelayiñ ta ko
-C : por eso no tenemos agua
+M:veymu ta niewetukelayiñ ta ko
+C: por eso no tenemos agua
 
-M : aftuy ta ko 
-C : se acabo el agua
+M: aftuy ta ko 
+C: se acabo el agua
 
-M : veymu ta ngewetukelay 
-C : por eso a veces ya no hay
+M: veymu ta ngewetukelay 
+C: por eso a veces ya no hay
 
-M : anken ankütuy taiñ mapu tati.
+M: anken ankütuy taiñ mapu tati.
 C: se seca nuestra tierra pues
  
 nmlch-lfmch1_x_0044_nmlch_00: 
 M: Femllimaychi
-C : Así es pues
+C: Así es pues
 
-M : feyta ka tripache tüfa
-C : pues ahora cuando sale esto 
+M: feyta ka tripache tüfa
+C: pues ahora cuando sale esto 
 
-M : kimlafuy fente ñi
-C : ya no sabria como 
+M: kimlafuy fente ñi
+C: ya no sabria como 
 
-M : falin ta mawisa
-C : esta la montaña
+M: falin ta mawisa
+C: esta la montaña
 
-M : fente tañi ñamfalün
-C : de tanto se va a perder
+M: fente tañi ñamfalün
+C: de tanto se va a perder
 
-M : veymu peno ta impolkafi 
-C : yo creo que por eso lo..... 
+M: veymu peno ta impolkafi 
+C: yo creo que por eso lo..... 
 
-M : ka lüpümtukufi afi ko 
-C : tambien lo quema se acaba el agua
+M: ka lüpümtukufi afi ko 
+C: tambien lo quema se acaba el agua
 
-M : afi l'awen' ka fey.
+M: afi l'awen' ka fey.
 C: se acaba el agua pues
  
 nmlch-lfmch1_x_0045_lfmch_00:
 M:  Ka fey avi l'awen' pu'
-C : Tambien se acaba el agua
+C: Tambien se acaba el agua
 
-M : veyta kütral 
-C : pues el fuego
+M: veyta kütral 
+C: pues el fuego
 
-M :el lay chem rume pu 
-C : no deja nada pues
+M:el lay chem rume pu 
+C: no deja nada pues
 
-M :veychi pinu ka 
-C : ese pino pues
+M:veychi pinu ka 
+C: ese pino pues
 
-M : elulavi tremal tachi l'awen' 
-C : no deja crecer a los remedios
+M: elulavi tremal tachi l'awen' 
+C: no deja crecer a los remedios
 
-M :veyta wewi
-C : pues le gana 
+M:veyta wewi
+C: pues le gana 
 
-M : veyta anküy l'awen' 
-C : pues el remedio se seca
+M: veyta anküy l'awen' 
+C: pues el remedio se seca
 
-M :ngelay tañi ngelay ko 
-C : no hay agua pues
+M:ngelay tañi ngelay ko 
+C: no hay agua pues
 
-M : ma <*SPA>bien anküy pu.
+M: ma <*SPA>bien anküy pu.
 C: mas bien se seco pues
 
 nmlch-lfmch1_x_0046_nmlch_00:
@@ -951,135 +951,135 @@ M: feli llemay
 C: asi pues
 
 M:  fey fente kümeke tañi
-C : eso era lo que los buenos 
+C: eso era lo que los buenos 
 
-M : kimkefel ta mapuche
-C : mapuche sabian
+M: kimkefel ta mapuche
+C: mapuche sabian
 
-M : iñichi elukefeyu 
-C : quien le daba 
+M: iñichi elukefeyu 
+C: quien le daba 
 
 M: fenten kimün tüfey engün.
 C: tantos conocimientos a ellos
  
 nmlch-lfmch1_x_0047_lfmch_00: 
 M: Elukeveyu ta wenu chaw
-C : Se lo dada el padre de arriba 
+C: Se lo dada el padre de arriba 
 
-M : ta elukeveyu <%> 
-C : el le daba
+M: ta elukeveyu <%> 
+C: el le daba
 
-M : ta elukeveyu ta kimün engün 
-C : el le daba conocmientos a ellos
+M: ta elukeveyu ta kimün engün 
+C: el le daba conocmientos a ellos
 
-M : pewma veymu ta kimkevuy
-C : por el sueño se conocian
+M: pewma veymu ta kimkevuy
+C: por el sueño se conocian
 
-M : veymu ta ngünedumkefuyngün
-C : por eso lo pensaban harto
+M: veymu ta ngünedumkefuyngün
+C: por eso lo pensaban harto
 
-M : veyta vey ngerki nga
-C : pues ese era 
+M: veyta vey ngerki nga
+C: pues ese era 
 
-M : ñi pewman
-C : mi sueño
+M: ñi pewman
+C: mi sueño
 
-M : veyta pingün
-C : eso dijeron
+M: veyta pingün
+C: eso dijeron
 
-M : veymu ta niekevuyngün
-C : por eso tenian
+M: veymu ta niekevuyngün
+C: por eso tenian
 
-M : vill kimün
-C : muchos conocimientos
+M: vill kimün
+C: muchos conocimientos
 
-M : kimi ta l'awen' 
-C : se conocian los remedios
+M: kimi ta l'awen' 
+C: se conocian los remedios
 
-M : kimingün tañi repetayafel 
-C : sabian que se debia respetar 
+M: kimingün tañi repetayafel 
+C: sabian que se debia respetar 
 
-M : tañi ko engün
-C : sus aguas pues
+M: tañi ko engün
+C: sus aguas pues
 
-M : chungen ko 
-C : como es el agua
+M: chungen ko 
+C: como es el agua
 
 M: yamaviel yamaviel
-C : que lo respete, que lo respete
+C: que lo respete, que lo respete
 
-M : también mawida 
-C : tambien la montaña
+M: también mawida 
+C: tambien la montaña
 
-M :veymu kimkevuy ta
-C : por eso conocian
+M:veymu kimkevuy ta
+C: por eso conocian
 
-M :  füchakecheyem kuyvi pu'.
+M:  füchakecheyem kuyvi pu'.
 C: los abuelos antes pues
 
 nmlch-lfmch1_x_0048_nmlch_00: 
 M: Feyllemaychi 
-C : Asi es pues
+C: Asi es pues
 
 M: fey mapuche tüfi <uh> 
-C : pues el mapuche
+C: pues el mapuche
 
-M : entumealu l'awen' pu 
-C : para sacar el remedio 
+M: entumealu l'awen' pu 
+C: para sacar el remedio 
 
 M: mawisa tumingün 
-C : va a la montaña
+C: va a la montaña
 
-M : komu chuchipüle rume
-C : al agua, o por cualquier parte
+M: komu chuchipüle rume
+C: al agua, o por cualquier parte
 
-M : re felen nentumekelafuy 
-C : asi no mas, no iban a buscar
+M: re felen nentumekelafuy 
+C: asi no mas, no iban a buscar
 
-M : l'awen' peñi 
-C : remedio hermano
+M: l'awen' peñi 
+C: remedio hermano
 
-M : ngellipukerkefuy pingi
-C : se hacia una rogativa dicen
+M: ngellipukerkefuy pingi
+C: se hacia una rogativa dicen
 
-M : fey feyngi tüfey.
+M: fey feyngi tüfey.
 C: se dice eso pues.
  
 nmlch-lfmch1_x_0049_lfmch_00:
 M: Feyngi pue koñintu 
-C : Asi es pues sobrina
+C: Asi es pues sobrina
 
-M : veyta ngellipukevuy 
-C : eso se le rogaba......................
+M: veyta ngellipukevuy 
+C: eso se le rogaba......................
 
-M : veyta vurenean 
-C : pues hazme un favor
+M: veyta vurenean 
+C: pues hazme un favor
 
-M : eluan l'awen' nentuan l'awen'
-C : dame remedio, y voy a sacar
+M: eluan l'awen' nentuan l'awen'
+C: dame remedio, y voy a sacar
 
-M : tüva ta nien ta kutran 
-C : pues estoy enfermo
+M: tüva ta nien ta kutran 
+C: pues estoy enfermo
 
-M : mongelmutuan tañi kutran pi 
-C : aliviame de mi enfermedad decia
+M: mongelmutuan tañi kutran pi 
+C: aliviame de mi enfermedad decia
 
-M : veyta nentumekevuy l'awen' 
-C : asi se sacaba remedio
+M: veyta nentumekevuy l'awen' 
+C: asi se sacaba remedio
 
-M : elungekevuy ta l'awen' pu' 
-C : le daban remedio pues
+M: elungekevuy ta l'awen' pu' 
+C: le daban remedio pues
 
-M : veyta mongeluwtukevuy
-C :  este asi se aliviaba
+M: veyta mongeluwtukevuy
+C:  este asi se aliviaba
 
-M : mongeltukevuy tañi kutran
-C : se aliviaba de su enfermedad
+M: mongeltukevuy tañi kutran
+C: se aliviaba de su enfermedad
 
-M : veyta ngillatuyawkevuy ta
-C : pues rogaba para 
+M: veyta ngillatuyawkevuy ta
+C: pues rogaba para 
 
-M : tuteavel ta ngen l'awen'.
+M: tuteavel ta ngen l'awen'.
 C: para simpatizarle al dueño del remedio
 
 nmlch-lfmch1_x_0050_nmlch_00:
@@ -1088,69 +1088,69 @@ C: Primero le rogaba.
  
 nmlch-lfmch1_x_0051_lfmch_00: 
 M: Wüne ngellipukevuy
-C : Primero oraba 
+C: Primero oraba 
 
-M :  kontuaviel tachi mawidad
-C : para ir a la montaña
+M:  kontuaviel tachi mawidad
+C: para ir a la montaña
 
-M : nentu l'awen' nal 
-C : para ir a sacar el remedio
+M: nentu l'awen' nal 
+C: para ir a sacar el remedio
 
-M : vemngechi vemyawkevuy
-C : de esa manera andaban
+M: vemngechi vemyawkevuy
+C: de esa manera andaban
 
-M : tachi taiñ vüchakecheyem
-C : mis grandes abuelitos
+M: tachi taiñ vüchakecheyem
+C: mis grandes abuelitos
 
-M : ta kuyvi pu'
-C : antiguamente pues
+M: ta kuyvi pu'
+C: antiguamente pues
 
-M : veula ta ngewelay ta l'awen'
-C : ahora ya no hay remedios
+M: veula ta ngewelay ta l'awen'
+C: ahora ya no hay remedios
 
-M : veyta pital müten
-C : solo en el Hospital
+M: veyta pital müten
+C: solo en el Hospital
 
-M : piletuyin pu <*SPA>sobrinu
-C : decimos pues sobrina.
+M: piletuyin pu <*SPA>sobrinu
+C: decimos pues sobrina.
 
-M :  fey peñitu.
+M:  fey peñitu.
 C: asi es hermano.
  
 nmlch-lfmch1_x_0052_nmlch_00: 
-M : Feyti kay ka <uh> machi 
-C : Tambien la machi
+M: Feyti kay ka <uh> machi 
+C: Tambien la machi
 
-M : l'awen' tu cheyem
-C : cuando da remedio
+M: l'awen' tu cheyem
+C: cuando da remedio
 
-M : re l'awen'tu che vemkelavuy
-C : no llega y da remedio
+M: re l'awen'tu che vemkelavuy
+C: no llega y da remedio
 
-M : wüne ngellipukunukevuy pingi
-C : primero  oraba dicen
+M: wüne ngellipukunukevuy pingi
+C: primero  oraba dicen
 
-M : fey wüla l'awentukefuy
-C : asi se hacia el  remedio
+M: fey wüla l'awentukefuy
+C: asi se hacia el  remedio
 
-M : pingi feyngefuy tüfi.
+M: pingi feyngefuy tüfi.
 C: se decia, que asi era.
  
 nmlch-lfmch1_x_0053_lfmch_00: 
 M: Veyngi koñintu
-C :Asi es sobrina
+C:Asi es sobrina
 
-M : ngellipukevuy ta machi
-C : Oraba la Machi
+M: ngellipukevuy ta machi
+C: Oraba la Machi
 
-M : wüne ta ngillatuy
-C : primero rogaba
+M: wüne ta ngillatuy
+C: primero rogaba
 
-M : ta ngellipuy chaw ngünechenmu 
-C : le rogaba al ser superior
+M: ta ngellipuy chaw ngünechenmu 
+C: le rogaba al ser superior
 
 M: veyta wüla ta 
-C : de ahi recien
+C: de ahi recien
 
 M: werküli ta l'awen' tañi kutran.
 C: le daba remedio a su enfermo.
@@ -1161,22 +1161,22 @@ C: No daba el remedio asi no mas.
 
 nmlch-lfmch1_x_0055_lfmch_00: 
 M: Re wülvemlay ta l'awen' 
-C : No daba el remedio asi no mas
+C: No daba el remedio asi no mas
 
-M :wüne ta ngellipuy
-C : primero rogaba
+M:wüne ta ngellipuy
+C: primero rogaba
 
-M : veula ta wüli ta l'awen' 
-C : recien daba remedio
+M: veula ta wüli ta l'awen' 
+C: recien daba remedio
 
-M :veyta l'awen'tuy tañi kutran.
+M:veyta l'awen'tuy tañi kutran.
 C: le daba remedio a su paciente
  
 nmlch-lfmch1_x_0056_nmlch_00: 
 M: Feyllemay ta kaletuy <uh>
-C : Asi es, ahora es diferente
+C: Asi es, ahora es diferente
 
-M : kawintun ka chumli ta
+M: kawintun ka chumli ta
 C:
 
 M: winkamu felelay pu':
@@ -1275,18 +1275,18 @@ M: Mongeltukevuy ñi kutran
 C: Aliviaba las enfermedades
 
 M: veyta machi ta weupi 
-C : pues la machi converzaba
+C: pues la machi converzaba
 
-M : ta traventun 
-C : esa enfermedad del mal
+M: ta traventun 
+C: esa enfermedad del mal
 
-M : veyta tüvi ta trekayaulu ta pun
-C : ese pues el que camina de noche
+M: veyta tüvi ta trekayaulu ta pun
+C: ese pues el que camina de noche
 
-M : ta neyüymakeyu ta kuñival 
-C :
+M: ta neyüymakeyu ta kuñival 
+C:
 
-M : veyta traventuy tati.
+M: veyta traventuy tati.
 C: pues se enferma mal pues
 
 nmlch-lfmch1_x_0062_nmlch_00:
@@ -1361,90 +1361,90 @@ C: pues el ser superior
 M: eluneyu ta <*SPA>poder
 C: le esta dando poder
 
-M : ta newen 
-C : tambien fuerza
+M: ta newen 
+C: tambien fuerza
 
-M :veymu ta weukevi ta 
-C : por eso le gana
+M:veymu ta weukevi ta 
+C: por eso le gana
 
-M : wedake unuwma ta mialu
-C : 
+M: wedake unuwma ta mialu
+C: 
 
-M : veymu ta mongel kutrantuy.
+M: veymu ta mongel kutrantuy.
 C: por eso el enfermo vive
  
 nmlch-lfmch1_x_0068_nmlch_00:
 M:  Feley maychi,
-C : Asi es
+C: Asi es
 
-M : feyti ka kiñe kutran müley 
-C : pues existe una enfermedad
+M: feyti ka kiñe kutran müley 
+C: pues existe una enfermedad
 
-M :ti <uh> somo peki wentru ngeay
-C : sea mujer u hombre
+M:ti <uh> somo peki wentru ngeay
+C: sea mujer u hombre
 
-M : rume tüfichi  kutran ta 
-C : se enferma de esto
+M: rume tüfichi  kutran ta 
+C: se enferma de esto
 
-M : penglay ta l'awen' 
-C : no encuentra remedio 
+M: penglay ta l'awen' 
+C: no encuentra remedio 
 
-M : ta pitalmu pingeki 
-C : en el Hospital dicen
+M: ta pitalmu pingeki 
+C: en el Hospital dicen
 
-M : perimontun pingey
-C : se dice visiones
+M: perimontun pingey
+C: se dice visiones
 
-M : fey kimpelafimi allkükepelafimi.
+M: fey kimpelafimi allkükepelafimi.
 C: yo creo que lo conoces o lo ha escuchado.
 
 nmlch-lfmch1_x_0069_lfmch_00: 
 M: Ka vey ta allküvin
-C : Pues lo he escuchado
+C: Pues lo he escuchado
 
-M : veyta mapuche am taiñ 
-C : pues como eso es 
+M: veyta mapuche am taiñ 
+C: pues como eso es 
 
-M : veychi dungu taiñ nien 
-C : algo propio de los mapuche
+M: veychi dungu taiñ nien 
+C: algo propio de los mapuche
 
-M :veyta veyta perimontuy
-C : pues, pues las visiones
+M:veyta veyta perimontuy
+C: pues, pues las visiones
 
-M : veyta allkünekay
-C : pues uno escucha las 
+M: veyta allkünekay
+C: pues uno escucha las 
 
-M : ta ngütram che pu' 
-C : conversaciones pues
+M: ta ngütram che pu' 
+C: conversaciones pues
 
-M : veyta nielay l'awen'
-C : eso no tiene remedio
+M: veyta nielay l'awen'
+C: eso no tiene remedio
 
-M : ta pitalmew
-C : en el Hospital
+M: ta pitalmew
+C: en el Hospital
 
-M : veyta machi ta mongeliyu
-C : eso lo sana la Machi
+M: veyta machi ta mongeliyu
+C: eso lo sana la Machi
 
-M : müli tañi machilngeal
-C : existe para que sea tratado por la Machi
+M: müli tañi machilngeal
+C: existe para que sea tratado por la Machi
 
-M : veymu ta wüv tripatuy 
-C : por eso ..sale
+M: veymu ta wüv tripatuy 
+C: por eso ..sale
 
-M : veymu ta wüv chengetuy 
-C : por eso pues.....es persona
+M: veymu ta wüv chengetuy 
+C: por eso pues.....es persona
 
-M : mongetuy 
-C : vive
+M: mongetuy 
+C: vive
 
-M : veyta chaw Dios 
-C : pues el padre dios
+M: veyta chaw Dios 
+C: pues el padre dios
 
-M : tañi vemngechi tañi 
-C : de esa forma pues
+M: tañi vemngechi tañi 
+C: de esa forma pues
 
-M : ütrirnetew ta perimontuki ka.
+M: ütrirnetew ta perimontuki ka.
 C:
 
 nmlch-lfmch1_x_0070_nmlch_00: 
@@ -1453,37 +1453,37 @@ C: Ah
 
 nmlch-lfmch1_x_0071_lfmch_00:
 M: Veymu ta machingepuy 
-C : Por eso se va a  la Machi 
+C: Por eso se va a  la Machi 
 
-M : veyta mongelchetuki 
-C : ella lo sana
+M: veyta mongelchetuki 
+C: ella lo sana
 
 M: mongel kutranalu
-C : para sanar y hacer vivir
+C: para sanar y hacer vivir
 
-M : mongelchetualu tañi 
-C : para hacer vivir su 
+M: mongelchetualu tañi 
+C: para hacer vivir su 
 
 M: machi ken ka.
 C: Machi..................
  
 nmlch-lfmch1_x_0072_nmlch_00: 
 M: Feyllemaychi. 
-C : Asi es pues
+C: Asi es pues
 
-M : eymi <%> tüfa fentenieymi 
-C : usted ahora tiene
+M: eymi <%> tüfa fentenieymi 
+C: usted ahora tiene
 
-M :sewma tripantu ta <uh>
-C : varios años
+M:sewma tripantu ta <uh>
+C: varios años
 
-M : eymi inakimu kutran kay y 
-C : a usted lo siguen las enfermedades
+M: eymi inakimu kutran kay y 
+C: a usted lo siguen las enfermedades
 
-M : eymi pichisomongelu 
-C : usted cuando era pequeña
+M: eymi pichisomongelu 
+C: usted cuando era pequeña
 
-M : chem kutran wüne
+M: chem kutran wüne
 C: que enfermedad primero
 
 M: inaymu tami mongenmu.
@@ -1491,21 +1491,21 @@ C: le siguió en su vivir.
  
 nmlch-lfmch1_x_0073_lfmch_00: 
 M: Inche wüne ta traventun
-C : Yo me enferme de mal primero
+C: Yo me enferme de mal primero
 
-M : ta wüne we pichi domo ngen
-C : fui la primera pequeña niña en ser
+M: ta wüne we pichi domo ngen
+C: fui la primera pequeña niña en ser
 
-M : veyta machitueneu 
-C : vista por una Machi
+M: veyta machitueneu 
+C: vista por una Machi
 
-M : tañi ñuke chaw 
-C : mi Madre y mi Padre
+M: tañi ñuke chaw 
+C: mi Madre y mi Padre
 
-M : veyta monge tripatun
-C : pues sali viva
+M: veyta monge tripatun
+C: pues sali viva
 
-M : veychi kutran ta wüne ta.
+M: veychi kutran ta wüne ta.
 C: pues me dio esa enfermedad primero.
  
 nmlch-lfmch1_x_0074_nmlch_00:
@@ -1719,7 +1719,7 @@ M: Veymu ta vemngechi müten
 C: Por eso solo de esa forma 
 
 M: ta datungeki ta kutran.
-C : se mejora la enfermedad.
+C: se mejora la enfermedad.
  
 nmlch-lfmch1_x_0093_nmlch_00: 
 M: Re femngechi.
@@ -1784,13 +1784,13 @@ C: pues de otra enfermedad
 M: veyta tuvin tachi chavo püñu 
 C: me toco, el ...........
 
-M : veyta ape langümvenew ka, 
-C : casi me mato pues
+M: veyta ape langümvenew ka, 
+C: casi me mato pues
 
-M : veymu ta ape lavun 
-C : ahi casi me mori
+M: veymu ta ape lavun 
+C: ahi casi me mori
 
-M : veyta vemngen ta mongetun ka.
+M: veyta vemngen ta mongetun ka.
 C: poco a poco me recupere.
  
 nmlch-lfmch1_x_0099_nmlch_00: 
@@ -1799,21 +1799,21 @@ C: ¿No sabe como lo contrajo ?
 
 nmlch-lfmch1_x_0100_lfmch_00: 
 M: Kiñe repente müten 
-C : De repente no mas
+C: De repente no mas
 
-M : veyta <%> kutranün
-C : me enferme
+M: veyta <%> kutranün
+C: me enferme
 
-M : rülelu vemngen 
-C : cuando me resfrie
+M: rülelu vemngen 
+C: cuando me resfrie
 
-M : veyta tuviñ ta chavo
-C : pues contraje el ........
+M: veyta tuviñ ta chavo
+C: pues contraje el ........
 
-M :  ta petu ayekunew 
-C : 
+M:  ta petu ayekunew 
+C: 
 
-M : pero pichike l'awen' mu ta mongen.
+M: pero pichike l'awen' mu ta mongen.
 C: pero con pequeños remedios me alivie.
  
 _x_0102_lfmch_00098_nmlch_00: 
@@ -1822,36 +1822,36 @@ C: ¿Se alivio ?
 
 nmlch-lfmch1_x_0103_lfmch_00:
 M:  Mongen ta newenmu 
-C : Me alivie con fuerza
+C: Me alivie con fuerza
 
-M : püñüwtutuviñ tachi
-C : me contagie del 
+M: püñüwtutuviñ tachi
+C: me contagie del 
 
-M : tifu pi ta winka püñu
-C :  tifus, dice el huinca....
+M: tifu pi ta winka püñu
+C:  tifus, dice el huinca....
 
-M : veyta ape yevenew ka.
+M: veyta ape yevenew ka.
 C: pues eso casi me llevo tambien.
  
 nmlch-lfmch1_x_0104_nmlch_00: 
 M: ¿Kimimi chem l'awen' 
-C : ¿Supo que remedio
+C: ¿Supo que remedio
 
 M: tami tuvun?.
 C: le dieron?
  
 nmlch-lfmch1_x_0105_lfmch_00: 
 M: Elungen ta re
-C : Me dieron solo
+C: Me dieron solo
 
-M : firkünke l'awen' müten 
-C : ..............remedio no mas
+M: firkünke l'awen' müten 
+C: ..............remedio no mas
 
-M : re chi re kampu l'awen' 
-C : solo remedios de campo
+M: re chi re kampu l'awen' 
+C: solo remedios de campo
 
-M : wirkün müten elungen 
-C :.............solo me dieron
+M: wirkün müten elungen 
+C:.............solo me dieron
 
 M: chi sangrina pingey 
 C: 
@@ -1951,58 +1951,58 @@ C: ¿Y le hizo efecto el remedio.?
 
 nmlch-lfmch1_x_0119_lfmch_00: 
 M: Tetegenew veymu ta mongen pu.
-C : Me Produjo efecto por eso me alivie pues.
+C: Me Produjo efecto por eso me alivie pues.
 
 nmlch-lfmch1_x_0120_nmlch_00:
 M:  Ngenonmu l'awen' ta
-C : Si no existieran remedios
+C: Si no existieran remedios
 
-M : wechachengetuafuy.
-C : seria malo para las personas.
+M: wechachengetuafuy.
+C: seria malo para las personas.
 
 nmlch-lfmch1_x_0121_lfmch_00:
 M: Veymew ta vantenmu ta
-C : Pues en la actualidad
+C: Pues en la actualidad
 
-M : ngewetulayavun may
-C : ya no existiría
+M: ngewetulayavun may
+C: ya no existiría
 
-M : kuyvi ta vembun.
-C : eso me sucedió antes.
+M: kuyvi ta vembun.
+C: eso me sucedió antes.
  
 nmlch-lfmch1_x_0122_nmlch_00:
-M : Feytichi kutran rupalu püñu tüfey
-C : Los que pasaron por esa enfermedad .......
+M: Feytichi kutran rupalu püñu tüfey
+C: Los que pasaron por esa enfermedad .......
 
-M : iñi rume petu amulay 
-C : nadie todavia a ido 
+M: iñi rume petu amulay 
+C: nadie todavia a ido 
 
-M :pitalmu tüfa.
-C : al Hospital ahora.
+M:pitalmu tüfa.
+C: al Hospital ahora.
  
 nmlch-lfmch1_x_0123_lfmch_00: 
 M: Petu amulayngün 
-C : Todavia no van
+C: Todavia no van
 
-M : veychi ka 
-C : esa vez
+M: veychi ka 
+C: esa vez
 
-M : veyta amulay ta kiñeke
-C : no fue nadie
+M: veyta amulay ta kiñeke
+C: no fue nadie
 
-M : ta amuyey ka
-C : ahora van pues
+M: ta amuyey ka
+C: ahora van pues
 
-M : veychi veychi püñumu 
-C : esa vez, esa vez...........
+M: veychi veychi püñumu 
+C: esa vez, esa vez...........
 
-M : ta amuy ta che
-C : fueron las personas
+M: ta amuy ta che
+C: fueron las personas
 
-M : welu ta yengey ngün
-C : pero lo llevaron
+M: welu ta yengey ngün
+C: pero lo llevaron
 
-M : ta kawellumu.
+M: ta kawellumu.
 C: en caballo.
 
 nmlch-lfmch1_x_0124_nmlch_00:
@@ -2010,24 +2010,24 @@ M: Ngelay <*SPA>micro.
 C: No hay micro
 nmlch-lfmch1_x_0125_lfmch_00:
 M:  Ngelay <*SPA>micro 
-C : No hay micro
+C: No hay micro
 
-M : yengey kawellumu
-C : lo llevaron en caballo
+M: yengey kawellumu
+C: lo llevaron en caballo
 
-M : veyta kakelu
-C : pues a los otros
+M: veyta kakelu
+C: pues a los otros
 
-M : yengey karetamu yengey 
-C : lo llevaron en carreta, lo llevaron
+M: yengey karetamu yengey 
+C: lo llevaron en carreta, lo llevaron
 
-M : veyta  amuyey 
-C : pues fueron 
+M: veyta  amuyey 
+C: pues fueron 
 
-M : vill kutran tripay 
-C : aparecieron distintas enfermedades
+M: vill kutran tripay 
+C: aparecieron distintas enfermedades
 
-M : veyta itrokom che tuki pu'.
+M: veyta itrokom che tuki pu'.
 C: pues todas las personas se contagian. 
 
 nmlch-lfmch1_x_0126_nmlch_00:
@@ -2036,16 +2036,16 @@ C: Asi es.
 
 nmlch-lfmch1_x_0127_lfmch_00:
 M:  Yemeay mi ta perdeyey kakelu
-C : Anda a buscar, los otros se perderan 
+C: Anda a buscar, los otros se perderan 
 
-M : veyti chi mongelelu
-C : el que esta vivo
+M: veyti chi mongelelu
+C: el que esta vivo
 
-M : veyta apuraukülelu yengi
-C : cuando estuvo grave lo llevaron 
+M: veyta apuraukülelu yengi
+C: cuando estuvo grave lo llevaron 
 
 M: karetamu 
-C : en carreta
+C: en carreta
 
 M: vemngechi puwi galvarino.
 C: asi llego a Galvarino.
@@ -2173,7 +2173,7 @@ M: veyta montun ka
 C: me salve pues
 
 M: welu ta vantenmu
-C : pero hoy en dia
+C: pero hoy en dia
 
 M: vütra kutranwekelan.
 C: no me enfermo tanto.
@@ -2184,7 +2184,7 @@ C: ¿Ahora cuantos hijos tiene ?
  
 nmlch-lfmch1_x_0143_lfmch_00:
 M:  Inche ta nien mari küla püñeñ.
-C : Yo tengo trece hijos.
+C: Yo tengo trece hijos.
 
 nmlch-lfmch1_x_0144_nmlch_00: 
 M: Mari küla nieymi .
@@ -2207,7 +2207,7 @@ C: Solo dos lo tuve en el Hospital.
 
 nmlch-lfmch1_x_0148_nmlch_00:
 M: Epu müten.
-C. Dos no mas.
+C: Dos no mas.
  
 nmlch-lfmch1_x_0149_lfmch_00: 
 M: May.
@@ -2229,8 +2229,8 @@ M: Mari kiñe.
 C: Once.
  
 nmlch-lfmch1_x_0153_lfmch_00: 
-M : Mari kiñe nien ta rukamu.
-C : Once tuve en la casa.
+M: Mari kiñe nien ta rukamu.
+C: Once tuve en la casa.
 
 nmlch-lfmch1_x_0154_nmlch_00: 
 M: Feyti eymi kontrol laymi 
@@ -2329,13 +2329,13 @@ nmlch-lfmch1_x_0165_lfmch_00:
 M: Püñeñelcheve adümuwlu niel 
 C: La que sabe de partos
 
-M : ta choyilal ta pu' domo
-C : ..............a las mujeres
+M: ta choyilal ta pu' domo
+C: ..............a las mujeres
 
-M : mülekevuy veymu 
-C : habian ahi
+M: mülekevuy veymu 
+C: habian ahi
 
-M : ta vemuechi ta nien tañi pu püñeñ.
+M: ta vemuechi ta nien tañi pu püñeñ.
 C: de esa manera tuve a mis hijos.
 
 nmlch-lfmch1_x_0166_nmlch_00: 
@@ -2344,7 +2344,7 @@ C: Solo de esa forma.
  
 nmlch-lfmch1_x_0167_lfmch_00:
 M: Re vemngechi nien tañi pu' püñeñ.
-C : De esa forma tuve a mis hijos.
+C: De esa forma tuve a mis hijos.
 
 nmlch-lfmch1_x_0168_nmlch_00:
 M:  Feyti fey ka <uh> mülefulu
@@ -2502,7 +2502,7 @@ M: vemngechi ta mongeluwkevuyin
 C: asi nos ayudabamos a vivir
 
 M: pu koñintu.
-C : pues sobrina
+C: pues sobrina
  
 nmlch-lfmch1_x_0180_nmlch_00: 
 M: Ah.
@@ -2512,7 +2512,7 @@ M:  ¿Kutranchengi kiñeke
 C: ¿Algunos son enfermos,
 
 M:  tami pu' püñeñ?.
-C : sus hijos?
+C: sus hijos?
 
 nmlch-lfmch1_x_0181_lfmch_00: 
 M: No kutranchengelay
@@ -2616,7 +2616,7 @@ M: tüfapüle
 C: por este lado 
 
 M: chem wesake sungu
-C; que cosas malas
+C: que cosas malas
 
 M:  müleki kay <uh>
 C:  han habido
@@ -2921,20 +2921,20 @@ C: no echabamos killay
 M: vemelvuyin taiñ vamilia 
 C: eso le haciamos a nuestra familia
 
-M :vey tüva may
-C : pues ahora
+M:vey tüva may
+C: pues ahora
 
-M : ta müli ta champu
-C : existen Shampoo
+M: ta müli ta champu
+C: existen Shampoo
 
-M : itrovill vey mu ta liftuy ta che
-C : con diferentes cosas se limpia la gente 
+M: itrovill vey mu ta liftuy ta che
+C: con diferentes cosas se limpia la gente 
 
-M : veyta colonia tuy 
-C : pues se echa colonia
+M: veyta colonia tuy 
+C: pues se echa colonia
 
-M : alüy ta mongen veula pu'.
-C : Ahora la vida es mas grande pues.
+M: alüy ta mongen veula pu'.
+C: Ahora la vida es mas grande pues.
 
 nmlch-lfmch1_x_0206_nmlch_00: 
 M: Kalekika.
@@ -2942,56 +2942,56 @@ C: Es distinto.
 
 nmlch-lfmch1_x_0207_lfmch_00: 
 M: Kuyvi ta vemlavuymi
-C : Antes no harias eso
+C: Antes no harias eso
 
-M : ta kimlay ta tañi ve mekeal 
-C : ahora no sabe hacer
+M: ta kimlay ta tañi ve mekeal 
+C: ahora no sabe hacer
 
-M : veyta re wüllen müten
-C : solo con orina no mas
+M: veyta re wüllen müten
+C: solo con orina no mas
 
-M : kabon engu müten
-C : con Jabon no mas
+M: kabon engu müten
+C: con Jabon no mas
 
-M : küllaytuy müñetuy
-C : se hecha killay y se baña
+M: küllaytuy müñetuy
+C: se hecha killay y se baña
 
-M : veyta ngelay doy champu pu'.
+M: veyta ngelay doy champu pu'.
 C: pues no hay otro Shampoo pues.
  
 nmlch-lfmch1_x_0208_nmlch_00: 
 M: Re firkü komu ka
-C : Solo con agua helada
+C: Solo con agua helada
 
-M : küllaytuleki pingeki
-C : se hechaba killay se dice
+M: küllaytuleki pingeki
+C: se hechaba killay se dice
 
-M : tunte antü rume
-C : cualquier dia
+M: tunte antü rume
+C: cualquier dia
 
-M : che pingeki feyngepi tüfi.
+M: che pingeki feyngepi tüfi.
 C: la gente hacia eso se dice.
  
 nmlch-lfmch1_x_0209_lfmch_00: 
 M: Veyngevuy pu' 
-C : Asi era pues
+C: Asi era pues
 
-M : re witrun komu müten
-C : solo en las vertientes
+M: re witrun komu müten
+C: solo en las vertientes
 
-M : ngelay ta llakoñ ko
-C : no habia agua tibia
+M: ngelay ta llakoñ ko
+C: no habia agua tibia
 
-M : ngelay ta ducha tañi müñetual
-C : no habia ducha para bañarse
+M: ngelay ta ducha tañi müñetual
+C: no habia ducha para bañarse
 
-M : veyta vey witra koni müten
-C : ahi solo se esta de pie no mas
+M: veyta vey witra koni müten
+C: ahi solo se esta de pie no mas
 
-M : witrun komu che pu' 
-C : la gente en la vertiente pues
+M: witrun komu che pu' 
+C: la gente en la vertiente pues
 
-M : trayen komu müten.
+M: trayen komu müten.
 C: solo en los brotes de agua no mas.
 
 nmlch-lfmch1_x_0210_nmlch_00:
@@ -3581,6 +3581,5 @@ C:  ese para despejar la cabeza......
 
 
 
-1
 
 

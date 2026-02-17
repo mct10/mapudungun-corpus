@@ -148,7 +148,7 @@ C: Que admirable
  
 nmlch-nfmch_x_0012_nfmch_00: 
 M: Fey <uh> chüfonki chi che.
-C.  Y las persona tocen.
+C:  Y las persona tocen.
 
 nmlch-nfmch_x_0013_nmlch_00:
 M:  Trüfonki ka.
@@ -324,7 +324,7 @@ C:  y se hierve este remedio
 M: wasküyem
 C: cuando se hierve
 
-M.  fey inche nümü nümü tukefin.
+M:  fey inche nümü nümü tukefin.
 C:  y eso yo lo huelo, huelo.
  
 nmlch-nfmch_x_0024_nfmch_00:
@@ -1337,7 +1337,7 @@ C: yo no lo se.
 
 nmlch-nfmch_x_0088_nmlch_00:
 M:  May, may, may, may.
-C : Sí, sí, sí, sí.
+C: Sí, sí, sí, sí.
 
 M:  Ka müli kiñe kutran nga
 C: Y también hay una enfermedad
@@ -1813,7 +1813,7 @@ M: Alüki chi kachu
 C: Son pastos grandes
 
 M:  kachu küna
-C. pastos, ratoneras
+C: pastos, ratoneras
 
 M:  alükey chi folil l'awen'
 C: son grandes las raices del remedio
@@ -1882,7 +1882,7 @@ C: es muy buen remedio.
  
 nmlch-nfmch_x_0105_nmlch_00: 
 M: May.
-C : Sí.
+C: Sí.
 
 M: May.
 C: Sí.
@@ -2814,7 +2814,7 @@ C:   no le da ganas de comer
 M:  fey inche 
 C:    y entonces yo
 
-M.  pütokolngi tüfachi l'awen'
+M:  pütokolngi tüfachi l'awen'
 C:   no tome este remedio
 
 M: pun kay tati

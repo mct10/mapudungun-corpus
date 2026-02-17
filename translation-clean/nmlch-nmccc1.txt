@@ -771,7 +771,7 @@ C: no me he enfermado.
  
 nmlch-nmccc1_x_0091_nmlch_00: 
 M: Müna wedano.
-C. Que pena no.
+C: Que pena no.
 
 M:  Fey ka chem kutran 
 C:  Y qué otra enfermedad
@@ -1552,7 +1552,7 @@ M: chi inautulelu.
 C: aquel que está con desgracia.
  
 nmlch-nmccc1_x_0177_nmlch_00: 
-M. Fey anta romatimo 
+M: Fey anta romatimo 
 C: Ese es el reumatismo
 
 M: piki ta wingka.
@@ -2361,7 +2361,7 @@ M: Chem no rume pekelan.
 C: No he visto nada.
 
 nmlch-nmccc1_x_0251_nmlch_00: 
-M. Ah. 
+M: Ah. 
 C: Ah.
 
 nmlch-nmccc1_x_0252_nmccc_00: 
@@ -2679,7 +2679,7 @@ M: amulnien regle mari kiñe <*SPA>ya deuma.
 C: voy avanzando en los setenta y uno ya.
 
 nmlch-nmccc1_x_0278_nmlch_00: 
-M. Ah. 
+M: Ah. 
 C: Ah.
 
 nmlch-nmccc1_x_0279_nmccc_00: 
@@ -2965,7 +2965,7 @@ C:  en mis hijos ahora tengo compañía;
 M: kiñe müfü nien ñi pichike
 C:  unos cuantos hijos tengo
 
-M : domo, ka ñi pichike wentru
+M: domo, ka ñi pichike wentru
 C:  mujer,  y mis pequeños hijos hombres
 
 M: fey feymu feyta trongeletuiñ.
@@ -3108,7 +3108,7 @@ C: esa enfermedad la ha vuelto enfermiza
 M:  ñi kuye ñukentu ka <*SPA>pu', 
 C: a mi viejita tía también pues,
 
-M :  welu trekayaukaki, 
+M:  welu trekayaukaki, 
 C: pero anda caminando,
 
 M: -/pefun/-rupay tapüle fey pekefiñ 
@@ -4285,7 +4285,7 @@ M: chem kutran ñi mülekefel kuyfi
 C: qué enfermedad había antes
 
 M: tañi folilmeu, 
-C. en sus raíces,
+C: en sus raíces,
 
 M: ka chem ñi kümefel 
 C: y qué otra cosa había
@@ -4352,7 +4352,6 @@ M: ñi füren kutran müle...
 C: la enfermedad de familiares...
 
 
-Cañulef
 
 
 

@@ -337,7 +337,7 @@ C:  el cayo ya
 M: vey ta kom trafolama ñi  tranga tranga tüfa
 C: esta todo quebrado quijada ahora
 
-nmlch-nmsca2_x_0050_nmlch_00
+nmlch-nmsca2_x_0050_nmlch_00:
 M: :!aaa¡
 C: ¡aaa!
 
@@ -511,8 +511,8 @@ nmlch-nmsca2_x_0086_nmlch_00:
 M: Amuymi <Noise> 
 C: Fuiste ya
 
-nmlch-nmsca2_x_0087_nmsca_00
-M: : <Cough> Vey <SPA>depue küpan faw pepafiñ ketroli 
+nmlch-nmsca2_x_0087_nmsca_00:
+M:  <Cough> Vey <SPA>depue küpan faw pepafiñ ketroli 
 C: Entonces despues vive aqui encontre ----------
 
 nmlch-nmsca2_x_0088_nmlch_00: 
@@ -957,7 +957,6 @@ M: depue fanterpuy amulerpuy
 C: hasta ahora a avanzado
 
 nmlch-nmsca2_x_0158_nmlch_00: 
-!aaa¡
 
 nmlch-nmsca2_x_0159_nmsca_00: 
 M: <SPA>Depue <SPA>ya pepi umawtulan pu 
@@ -1375,7 +1374,7 @@ M: Ka tüfa n'amunmu tiy <SPA>no
 C: Ahora en los pies no
 
 nmlch-nmsca2_x_0240_nmlch_00: 
-M :Rüfkünuürke 
+M:Rüfkünuürke 
 C: Muy
 
 nmlch-nmsca2_x_0241_nmsca_00: 
@@ -1850,7 +1849,6 @@ M: pukem adümuwinga ti vey ayekawi pingelama
 C: en invierno aprende tambien para deleitarse
 
 nmlch-nmsca2_x_0328_nmlch_00: 
-may 
 
 nmlch-nmsca2_x_0329_nmsca_00: 
 M: Veyta dewmaki kidu 

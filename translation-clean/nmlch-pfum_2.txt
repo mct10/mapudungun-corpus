@@ -92,7 +92,7 @@ nmlch-pfumñ2_x_0004_pfumñ_00:
 M: Kiñeke doy patakay 
 C:  Algunos más de cien tienen
 
-M; welu kuyfimu chem rume
+M: welu kuyfimu chem rume
 C:  pero antes cualquier cosa
 
 M:  wingka yageltunolu engün
@@ -134,7 +134,7 @@ M: inche kimpan tamu tañi pu che
 C:  yo alcancé a conocer aquí a mi gente   
 
 M:  petu wülkiawli warka pingi 
-C;  aún andan dando Warka  dicen
+C:  aún andan dando Warka  dicen
 
 M: tachi fantekeki pütake kachu 
 C:  este paste grande de este porte 

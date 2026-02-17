@@ -1689,7 +1689,7 @@ C: tiene no dices
 M: feychi tami feychi kutran nielu tami lofmeu?
 C: esta su enfermedad  que tiene su comunidad?
 
-nmdch-nflam_x_0141_nflam_00
+nmdch-nflam_x_0141_nflam_00:
 M: Tañi lofmeu <*SPA>no lamngen, 
 C: En mi comunidad no hermano,
 
@@ -1727,7 +1727,7 @@ nmdch-nflam_x_0145_nflam_00:
 M: Ka nieyngün llemay, lamngen.
 C: También tienen ellos pues,  hermano.
 
-nmdch-nflam_x_0146_nmdch_00: 2
+nmdch-nflam_x_0146_nmdch_00:
 M: ¿<uhm>Eymi fey ta pekeymi 
 C: ¿Tú has visto esto
 
@@ -3445,5 +3445,3 @@ nmdch-nflam_x_0278_nflam_00:
 M: feley lamgen, chaltu
 C: Así es hermano, gracias.
 
-Cañulef
-Huisca

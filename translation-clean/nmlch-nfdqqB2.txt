@@ -636,7 +636,7 @@ C: la gente avellano también.
  
 nmlch-nfdqqB2_x_0087_nmlch_00: 
 M: Fey fey fey. 
-C. Eso, eso, eso.
+C: Eso, eso, eso.
 
 nmlch-nfdqqB2_x_0088_nfdqq_00: 
 M: May. 
@@ -947,7 +947,7 @@ M:  ta mülita kümeke l'awen'
 C: también hay buenos remedios
 
 M:  ka femngechi sobreparto mu. 
-C. también así para el sobre parto. 
+C: también así para el sobre parto. 
 
 nmlch-nfdqqB2_x_0129_nmlch_00: 
 M: ¿Meno komu? 
@@ -1343,7 +1343,7 @@ C: Por eso pues, por eso.
 
 nmlch-nfdqqB2_x_0177_nmlch_00: 
 M: ¿Trolüf triwe? 
-C. ¿Cascara de laurel? 
+C: ¿Cascara de laurel? 
 
 nmlch-nfdqqB2_x_0178_nfdqq_00: 
 M: Trolüf triwe müna pütra l'awen' 
@@ -3482,7 +3482,7 @@ C: casí le quebró la nariz a éste.
 
 nmlch-nfdqqB2_x_0476_nmlch_00:
 M: Ah.
-C. Ah.
+C: Ah.
 
 nmlch-nfdqqB2_x_0477_nfdqq_00: 
 M: Fey tañi felewen ta tüfey. 

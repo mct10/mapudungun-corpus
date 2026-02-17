@@ -1067,7 +1067,7 @@ nmlch-lfjmcA1_x_0095_lfjmc_00:
 M: <*SPA> Si. 
 C: Sí.
 
-M *Afümkefuyiñ 
+M: *Afümkefuyiñ 
 C: 
 
 M: *fey *tüfichi llayten, 
@@ -2167,7 +2167,7 @@ M: <*SPA> una <*SPA> señora <*SPA> gorda.
 C: una señora gorda.
 
 jmcA1_x_0185_lfjmc_00nmlch_00: 
-M. Mari Cayuleu. 
+M: Mari Cayuleu. 
 C: Maria Cayuleo
 
 nmlch-lfjmcA1_x_0186_lfjmc_00: 

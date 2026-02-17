@@ -4,7 +4,7 @@
 ; Last changes made on 06/13/2001 
 ; Transcriber: Flor Caniupil H. 
 ; Comments:  ngenpin
-Traduce: Armando Marileo
+; Traduce: Armando Marileo
 
 nmlch-nmccc2_x_0023_nmlch_00:
 M:  Al'üken kimün niy
@@ -228,7 +228,7 @@ M: Feytichi ial may,
 C: Esa comida sí,
 
 M: may fey doy, doy küme newen nieperkefuy 
-C. sí así más y mejor fuerza tenían
+C: sí así más y mejor fuerza tenían
 
 M: mapumu tripalu. 
 C: con lo que sale en la tierra.
@@ -463,7 +463,7 @@ M: ¿fey irumepeafuyngün mültrün
 C: ¿comerían de repente catuto
 
 M: iale engün?
-C. si comieran?
+C: si comieran?
 
 M: ¿ka chem ingekefuy kay, 
 C: ¿y qué otras cosas se comía,
@@ -754,8 +754,7 @@ C: como el saber tiene más poder Ahora,
 M: mongenmu ñami ñi kimün che
 C: en la vida se perdió su saber 
 
-M: fey <%> kimwetukelay <%> chem ñi 
--/mwetukenoy/- 
+M: fey <%> kimwetukelay <%> chem ñi
 C: así no  recuerda  su,
 
 M: kimwetukelay ñi chemngen che <*SPA>pu',
@@ -1240,7 +1239,7 @@ C: es bueno para el dolor de estómago?
 
 nmlch-nmccc2_x_0169_nmccc_00: 
 M: May. 
-C. Sí.
+C: Sí.
 
 nmlch-nmccc2_x_0170_nmlch_00: 
 M: Ah, ¿ka chempipimiama?.
@@ -1675,7 +1674,7 @@ M: fill mapumew müli ta feychi kutran,
 C: en todas partes de la tierra hay esa enfermedad,
 
 M: fey wingka pelay chewkünual, 
-C. entonces los huincas no saben para donde ir,
+C: entonces los huincas no saben para donde ir,
 
 M: fey ramtuaymi 
 C: por eso debes preguntar 
@@ -1816,7 +1815,7 @@ C: Ah, con remedio amargo.
 
 nmlch-nmccc2_x_0261_nmccc_00:
 M: May, fürel'awen'mu. 
-C. Sí, con remedio amargo.
+C: Sí, con remedio amargo.
 
 nmlch-nmccc2_x_0262_nmlch_00: 
 M: Elungeki fürel'awen', 
@@ -2449,7 +2448,6 @@ nmlch-nmccc2_x_0347_nmccc_00:
 M: Chaltu may, chaltu may <Noise>. 
 C: Gracias pues, gracias pues.
 
-Cañulef
 
 
 

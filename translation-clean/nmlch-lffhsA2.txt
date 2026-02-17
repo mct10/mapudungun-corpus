@@ -37,7 +37,7 @@ M: veypipeyu machita küymi femi welu
 C: te dije la machi entra en trance pero
 
 M: vantepu mew ngewetulay chi ngütrümtun 
-C. hoy en día no es así los que llaman
+C: hoy en día no es así los que llaman
 
 M: kultrun mu tati chaw ngewetulay.
 C: con el cultrun padre no hay mas.
@@ -212,7 +212,7 @@ M: Kimpelu ka.
 C: Que sabe también.
  
 nmlch-lffhsA2_x_0024_lffhs_00: 
-M. Ka kimpelu kutran kimi kutran vey 
+M: Ka kimpelu kutran kimi kutran vey 
 C: Que sabe de la enfermedad, sabe de enfermedad esa 
 
 M: veypingi tachi ngen kutran l'awen' 
@@ -300,7 +300,7 @@ C: al enfermo antes mamita antes.
  
 nmlch-lffhsA2_x_0031_lffhs_00: 
 M: Kuyvi vemngechi 
-C. Antes así era
+C: Antes así era
 
 M: kimngekevuy kutran pu' chaw.
 C: se reconocía al enfermo pues padre.
@@ -366,7 +366,7 @@ M: ¿Vey chumngechi kimfi chi l'awen?
 C: ¿Y como conoce el remedio?
  
 nmlch-lffhsA2_x_0039_lffhs_00: 
-M. Chi machi.
+M: Chi machi.
 C: La machi.
  
 nmlch-lffhsA2_x_0040_nmlch_00: 
@@ -490,7 +490,7 @@ M: amupe ka pikela machi chaw
 C: que valla en la machi  dicen también padre 
 
 M: tüvachi kutran ka tripachemu mongeay 
-C. este enfermo en otras gente vivirá
+C: este enfermo en otras gente vivirá
 
 M: piki machi müna küme chayan kintucheki 
 C: dice la machi es muy bueno busca gente
@@ -547,7 +547,7 @@ C: el remedio en el trance.
  
 nmlch-lffhsA2_x_0054_lffhs_00: 
 M: Üytuy üytuy vey chichi ngüchalkelu 
-C. Le nombran, le nombran al que lo consiguen
+C: Le nombran, le nombran al que lo consiguen
 
 M: machi vey kom trananentutuy vill 
 C: a la machi ahí saca todo bien todo
@@ -615,10 +615,10 @@ C: Solo en el pantano.
  
 nmlch-lffhsA2_x_0059_lffhs_00: 
 M: Re menoko mu <*SPA>  no 
-C. Solo en el pantano pues no
+C: Solo en el pantano pues no
 
 M: ka re menoko mew vey ka püray winkul mew 
-C. y solo en el pantano y también sube al cerro
+C: y solo en el pantano y también sube al cerro
 
 M: wechuy winkulmew ka wüle 
 C: Sube arriba del cerro al otro día 
@@ -664,7 +664,7 @@ M: ¿Ngillatuy wüne?
 C: ¿Hace una rogativa primero?
  
 nmlch-lffhsA2_x_0065_lffhs_00: 
-M. May.
+M: May.
 C: Sí.
 
  M: Machi ta chem rume ta l'awen' 
@@ -711,7 +711,7 @@ M: ta machi ngen pewma machi pingeki
 C: la machi dueño de los sueños la machi lo ven
 
 M: chew ta pewmaki ta l'awen' rakika l'awen' 
-C. donde sueñe con el remedio, cuenta el remedio
+C: donde sueñe con el remedio, cuenta el remedio
 
 M: elngeki vey trepey pi rakin l'awen.'
 C: le dejan este para contar el remedio.
@@ -942,7 +942,7 @@ M: Ah.
 C: Ah.
 
 M: Vey llemaychi vey llemaychi welu 
-C. Eso pues, eso pues pero
+C: Eso pues, eso pues pero
 
 M: veyta ngewelay l'awen' müte mapumew.
 C: esta no hay mucho  remedio en la tierra. 
@@ -1062,7 +1062,7 @@ C: pero no hay creencia pues padre
 M: ngewelay ta feyentun tati.
 C: no hay creencia eso.
  
-nmlch-lffhsA2_x_0121_nmlch_00: <uh> 
+nmlch-lffhsA2_x_0121_nmlch_00:
 M: Petu ta petu ñami kimün 
 C: Se esta perdiendo el conocimiento
 

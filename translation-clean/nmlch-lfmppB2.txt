@@ -72,7 +72,7 @@ M: May rume umawtufem<%> <Noise>
 C: Sí dormia mucho
 
 M: ¿chumuelu chi femki tüfey?
-C ¿por qué hará eso?
+C: ¿por qué hará eso?
 
 nmlch-lfmppB2_x_0008_lfmpp_00:
 M: Kutrankingün ka <Noise>
@@ -330,7 +330,7 @@ C: yo no se de remedio
 M: ta vemuechi ta chem 
 C: de esta forma que 
 
-nmlch-lfmppB2_x_0042_nmlch_00vemnge: 
+nmlch-lfmppB2_x_0042_nmlch_00: 
 M: Ah. 
 C: Ah.
 
@@ -428,7 +428,7 @@ C: le pido mucho al remedio
 M: pingi fey peno
 C: decia el yo creo
 
-M. ka montuluwküleki.
+M: ka montuluwküleki.
 C: también se esta salvando.
 
 nmlch-lfmppB2_x_0053_lfmpp_00:
@@ -784,7 +784,7 @@ C: para buscar remedio
 M: yemenge l'awen' pingi
 C: busca remedio le dijieron
 
-M. ta pichikeche vey mten
+M: ta pichikeche vey mten
 C:  un poco asi no más
  
 M: lev amuy mawidamu
@@ -847,7 +847,7 @@ C: asta aquí si es así
 M: kiñe katrüle rume
 C: aun que se corte uno solo
 
-M. che pikevuy. 
+M: che pikevuy. 
 C: la gente diría.
 
 nmlch-lfmppB2_x_0092_nmlch_00:
@@ -876,7 +876,7 @@ C: si pu
 M: ngelay kimngelay
 C:  no hay no se sabe
 
-M. ta pu inche. 
+M: ta pu inche. 
 C: a nosotros. 
 B2_x_0094_lfmpp_0046_nmlch_00:
 M: Adümngewetulay ka. 
@@ -1093,7 +1093,7 @@ C: con agua tivia no más
 M: küchawlayngün pichikeche
 C: no se lavan los niños 
 
-M. küchawküli
+M: küchawküli
 C: sa lavan 
 
 M:  vemngechi komu müten <Noise>

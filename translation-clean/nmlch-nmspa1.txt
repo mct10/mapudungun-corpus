@@ -689,8 +689,8 @@ nmlch-nmspa1_x_0053_nmlch_00:
 M: ¿Chumuechi l'awen'tuki ti tüfi 
 C: ¿Como se hace el remedio ese
 
-trawa palo santo ...?
-Cascara de palo santo?
+M: trawa palo santo ...?
+C: Cascara de palo santo?
 
 nmlch-nmspa1_x_0054_nmspa_00: 
 M: Trawa palu santu
@@ -1314,7 +1314,7 @@ M: fey kimni l'awen' che
 C:  si tien conocimiento de remedio la gente
 
 M: elenngerupuy kimün
-le han dejado conocimientos
+C: le han dejado conocimientos
 
 M:  femuechi ka nguyülafi ti chi kimün
 C: de esa manera no olvida ese conocimiento
@@ -1445,7 +1445,7 @@ M: kuyfike che ka
 C: gente antigua tambien
 
 M: fey ka müley katrüfününmeu 
-tambien para la cortadura de carne
+C: tambien para la cortadura de carne
 
 M: kutrani tañi kuerpu ta che 
 C: si le duele el cuerpo la gente
@@ -1479,7 +1479,7 @@ M: tranan foye
 C: canelo machacado
 
 M: fey küme kütrorfi  
-eso se estruja bien
+C: eso se estruja bien
 
 M: ka chuntepun tañi tripan
 C: y hasta que sale todo
@@ -1548,11 +1548,11 @@ M: rüf dungu tati,
 C: es verdadero eso
  
 M: inche ta provakefiñ
-yo lo he probado
+C: yo lo he probado
  
 nmlch-nmspa1_x_0141_nmlch_00: 
 M:¡Ah!
-¡Ah! 
+C: ¡Ah! 
 
 M:  feytichi foye tuchimu
 C: ese canelo en donde
@@ -1742,7 +1742,7 @@ M:  fey kuyeke papay,
 C: esas viejitas mamitas
 
 M:  aguela pingelay am mapuchedungunmeu
-abuela no se le dice en habla mapunche
+C: abuela no se le dice en habla mapunche
 
 M: elkünurupuenu ta kimün l'awen' 
 C: me djo aca por eso conosco los remedios
@@ -1759,7 +1759,7 @@ M: <*SPA>pero  , inchiñ tañi rumeken mütenka,
 C: pero nosotros pasamos nomas pues
 
 M:  inche ta müte trafentulu 
-yo cuando tuve mucho entros con el mal
+C: yo cuando tuve mucho entros con el mal
 
 M: ta <%> feyta tañi kontunuatew ta chi weda ünüwma
 C: y entonces para que no me entre los malos habitos
@@ -1771,7 +1771,7 @@ M: müley tüfachi liman toki
 C: hay es el povo donde se liman las hachas
 
 M: kiñe liman medalla
-una limada medalla
+C: una limada medalla
 
 M:  epu liman kuchillu,
 C: dos limados cuchillos
@@ -1780,7 +1780,7 @@ M:  trupa,
 C: trupa
 
 M: kelü füw
-hilado rojo
+C: hilado rojo
 
 M:  <uh> mollfüy, kelü trewa tañi <uh> mollfüñ
 C: sangra, sangre de perro de color rojo
@@ -1829,7 +1829,7 @@ C: se está tomando de a poco
 
 nmlch-nmspa1_x_0169_nmspa_00: 
 M: pütokongi 
-se bebe
+C: se bebe
 
 nmlch-nmspa1_x_0170_nmlch_00: 
 M:¿tuchipüle chi trupa tüfi pe tapül' -/fl/- rayen kam folil
@@ -2128,7 +2128,7 @@ M:  mülerkefuy taiñ müleal
 C: debe de haber
 
 M:  ta rumel tañi kiñe ta mamüll rewe
-para siempre un madero de rewe
+C: para siempre un madero de rewe
 
 M:   kiñe epu tripantu rupale 
 C: uno o dos años si pasa
@@ -2137,13 +2137,13 @@ M:  müley taiñ müleal ta ngillatun
 C: debe de haber  ngillatun
 
 M:  tañi rüf mapuchengeal ta inchiñ
-par en verdad ser mapuches nosotros
+C: par en verdad ser mapuches nosotros
 
 M:  mülerkei tañi palikantual, müley, 
 C: debemos de practicar el palin, se debe,
 
 M:  mülerki nga ñi küme üy nga ñi nial nga ñi lof
-debe de tener un buen nombre nuestro lugar
+C: debe de tener un buen nombre nuestro lugar
 
 M:  inche ta nga ñi lof Temuche
 C: mi lugar es Temuche
@@ -2154,7 +2154,7 @@ M:  Temu pingi tati ñi lof
 C: Temu se le dice a ese mi lugar
 
 M:   Peiro Linkoñir pingerkefuy tañi longko
-Peiro Lincoñir se le decia a mi lonco
+C: Peiro Lincoñir se le decia a mi lonco
 
 M:   wüne radikapalu ta tüfachi lof tati 
 C: el primero que vino  a razonar en este lugar
@@ -2174,7 +2174,7 @@ M:   taiñ wünen longko
 C: nuestro primer lonco
 
 M:   <*SPA>entonce'  rupay tati tripantumeu
-entonces pasan en esos años
+C: entonces pasan en esos años
 
 M:   feyta senoanetukefiñ reke 
 C: entonces como que lo tengo renovado
@@ -2460,7 +2460,7 @@ M:  femuechi feley tati,pañi,
 C: asi es eso hermno
 
 M:  don lui' feyta petu ta mülewey 
-don Luis el esta aun
+C: don Luis el esta aun
 
 M:  ta pitiken tranantukuafiyiñ 
 C: poco a poco lo podiamos integar
@@ -2495,7 +2495,7 @@ M:  taiñ mapuchengen
 C: los mapuches que somos
 
 M:  tañi  yamngetual ta mapuche 
-para que vuelvan arespetar al mapuche
+C: para que vuelvan arespetar al mapuche
 
 M:  mülefuy ta amulafel ta werken 
 C: tendriamos que enviar mensajero
@@ -2562,7 +2562,7 @@ C: ese suele ser mujer
 
 nmlch-nmspa1_x_0243_nmlch_00: 
 M:  Ah,
-¡Ah!
+C: ¡Ah!
 
 nmlch-nmspa1_x_0244_nmspa_00: 
 M:  fey <*SPA>pero   kidu tañi püllü ta che
@@ -2603,7 +2603,7 @@ C: ese mal
 
 nmlch-nmspa1_x_0249_nmspa_00: 
 M:  trafentun may, 
-en encuentro si,
+C: en encuentro si,
 
 M:  feyta eymi ta pichiken 
 C: entonces usted de a poco
@@ -2611,7 +2611,7 @@ C: entonces usted de a poco
 M:  ta wüñoleltuan ta dungu 
 C: me vas a devolver un poco de palabra
 
-ka pichiken ka peñi,
+M: ka pichiken ka peñi,
 C: tambien un poco pues hermano,
 
 M:   fey chem l'awen' am müleafuy tüfi,
@@ -2682,7 +2682,7 @@ M:   femuechi feyentun ta niey ta mapuche
 C: esa forma de aceptacion tiene el mapuche
 
 M:  fantenmeu kiñekentu komno 
-en la actualida algunos no todos
+C: en la actualida algunos no todos
 
 M:  ta kom ta nielafiyiñka
 C: todos no lo tenemos pues
@@ -2736,7 +2736,7 @@ M:   weñetulkefuiñ manchun
 C: hacia robar a los bueyes
 
 M:  tempranu miawkefun
-temprano caminaba
+C: temprano caminaba
 
 M:   rangipun, epewün 
 C: media noche, al amanecer
@@ -2773,7 +2773,7 @@ C: a dar pasto a los animales
 
 nmlch-nmspa1_x_0261_nmspa_00: 
 M:  may chekünuwkefuy 
-si como gente se transformaba
+C: si como gente se transformaba
 
 M:  kawellutun femngechi
 C: a caballo de esa manera
@@ -2790,7 +2790,6 @@ C: es fuego
 M:  fey müna pekelafuiñ 
 C: ese mucho lo veia
 
-Traducción de Flor Caniupil
 
 nmlch-nmspa1_x_0262_nmlch_00: 
 M:  ¿Anchimalleñ?

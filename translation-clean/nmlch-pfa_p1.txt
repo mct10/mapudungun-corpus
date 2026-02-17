@@ -31,7 +31,7 @@ M: Feley tati.
 C: Así es.
  
 nmlch-pfañp1_1_0006_nmlch_00: 
-M. ¿Iney pingeymiam papay?
+M: ¿Iney pingeymiam papay?
 C: ¿Cómo te llamas mamita?
 
 nmlch-pfañp1_1_0007_pfañp_00: 
@@ -1278,7 +1278,7 @@ M: Pünaley.
 C: Pegado.
  
 nmlch-pfañp1_1_0245_pfañp_00: 
-M. ¿Chumal kümey añchimalleñ?
+M: ¿Chumal kümey añchimalleñ?
 C: ¿Para que es bueno el anchimallen?
 
 nmlch-pfañp1_1_0246_pfañp_00: 
@@ -1800,7 +1800,7 @@ M: Kümey fey.
 C: Es bueno ese.
  
 nmlch-pfañp1_1_0348_pfañp_00: 
-M. Kafey ka küllümtuafuymi feymu 
+M: Kafey ka küllümtuafuymi feymu 
 C: Con ese también se podría lavar con eso
 
 M: itrokom tripatuafuy tami padmu.

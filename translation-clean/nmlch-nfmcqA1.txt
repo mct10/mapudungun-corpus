@@ -539,7 +539,7 @@ C: entonces lo llego a quitarlo
 M: chem wawlutuenu toro <SPA>mamá pipakatuvun
 C: que me bramo un toro mamá había venido a decir 
 
-M. wawlutuenu toro
+M: wawlutuenu toro
 C: me bramó toro
 
 M: rupan <%> mawidamu
@@ -3158,7 +3158,7 @@ C: Hay  por allá.
 
 nmlch-nfmcqA1_x_0256_nmlch_00: 
 M: Ka mapuli <SPA>
-C : Esta en otra tierra 
+C: Esta en otra tierra 
 
 M: Pero yemeki ñi chaw 
 C: pero va a buscar mi padre 

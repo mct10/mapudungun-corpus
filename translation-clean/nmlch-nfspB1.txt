@@ -79,48 +79,48 @@ C:.asi también
 M:.ütrüventu külley 
 C:.le caen las lagrimas
 
-M:.veymu ta inchiñ ngümekiñ<Noise> 
-V:.por eso que nosotros controlamos
+M:veymu ta inchiñ ngümekiñ<Noise> 
+C:por eso que nosotros controlamos
 
-M:.veymu ta ütrüventu küllekiñ<Noise> 
-C:.por eso que tiramos lagrimas
+M:veymu ta ütrüventu küllekiñ<Noise> 
+C:por eso que tiramos lagrimas
 
-M:.kidu tañi femken Dio tañi vemken 
-C:.solo eso  hace  Dios eso hace 
+M:kidu tañi femken Dio tañi vemken 
+C:solo eso  hace  Dios eso hace 
 
-M:.vemkenovule kidu inchiñ 
-C:.si no hisiera solo nosotros
+M:vemkenovule kidu inchiñ 
+C:si no hisiera solo nosotros
 
-M:.ka vemkelavuiñ porque Dio 
-C:.tampoco lo haríamos porque
+M:ka vemkelavuiñ porque Dio 
+C:tampoco lo haríamos porque
 
-M:.ta eluneñmu ta mongen
-C:.nos dio la vida
+M:ta eluneñmu ta mongen
+C:nos dio la vida
 
-M:.kidu tañi neyen 
-C:.el espiritu del
+M:kidu tañi neyen 
+C:el espiritu del
 
-M:.ta nin kidu tañi kewün 
-C:.también su boca
+M:ta nin kidu tañi kewün 
+C:también su boca
 
-M:.molfüñ voro vün <Noise> 
-C:.sangre,hueso carne
+M:molfüñ voro vün <Noise> 
+C:sangre,hueso carne
 
-M:.Dio tañi voro ta niyin. 
-C:.Dios el hueso,su espíritu.
+M:Dio tañi voro ta niyin. 
+C:Dios el hueso,su espíritu.
 
 nmlch-nfspB1x_0005_nfsp_00: 
-M:.Dio tañi mollfüñ ta niyin 
-C:.Dios su sangre su espiritus
+M:Dio tañi mollfüñ ta niyin 
+C:Dios su sangre su espiritus
 
-M:.Dio tañi dungun 
-C:.Dios su palabra
+M:Dio tañi dungun 
+C:Dios su palabra
 
-M:.ta niyin veymu adümngenolenga 
-C:.su espiritu por eso no lo sabe
+M:ta niyin veymu adümngenolenga 
+C:su espiritu por eso no lo sabe
 
-M:.chumuechi ñi pedingeal 
-C:.como le se pedirá
+M:chumuechi ñi pedingeal 
+C:como le se pedirá
 
 M:.Dionga allkükelay Dio weñanküki müten 
 C:.Dios no escucha Dios se entristese no mas
@@ -712,7 +712,7 @@ C:.los conocimiento niño que vienen
 M:.ta tüfi lamuen feyta inche 
 C:.eso hermana esto yo
 
-M..feymu ramtumean ñi lamuen pipen 
+M:.feymu ramtumean ñi lamuen pipen 
 C:.por eso preguntare mi hermana dije
 
 M:.manelpeveyu eymi tüfa küdawkeluam 

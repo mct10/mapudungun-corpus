@@ -627,7 +627,7 @@ C: Sí remedio había en el mapuche.
  
 nmlch-pmfmñB2_x_0090_nmlch_00: 
 M: L'awen' mülepefuy mapuchemu.
-C. Habrá remedio en le mapuche.
+C: Habrá remedio en le mapuche.
  
 nmlch-pmfmñB2_x_0091_pmfmñ_00: 
 M: <*SPA>Yo <*SPA>creo <*SPA>que <*SPA>no.
@@ -707,7 +707,7 @@ C: hijas, hijos no son enfermizos.
 
 nmlch-pmfmñB2_x_0101_pmfmñ_00: 
 M: <*SPA>Nó kiñe nien <*SPA>hija 
-C. No tengo una hija
+C: No tengo una hija
 
 M: müten kutranchengi <*SPA>treinta 
 C: no mas es enfermiza treinta
@@ -1307,7 +1307,7 @@ C: Feñ feñco y que otro remedio.
  
 nmlch-pmfmñB2_x_0160_pmfmñ_00: 
 M: <*SPA>Si -/nge/- kenchenko 
-C. Sí quenchenco
+C: Sí quenchenco
 
 M: pigi mallientu müli.
 C: se llama en tierra húmeda se encuentra. 
@@ -1317,7 +1317,7 @@ M: Wente nga müli tripaleki.
 C: Arriba pues hay ahí sale.
  
 nmlch-pmfmñB2_x_0162_pmfmñ_00: 
-M. <*SPA>Sí <*SPA>sí wentemu müli 
+M: <*SPA>Sí <*SPA>sí wentemu müli 
 C: Sí, si arriba hay
 
 M: künal künalki <*SPA>así <*SPA>ese 
@@ -1366,7 +1366,7 @@ C: mi cuerpo.
  
 nmlch-pmfmñB2_x_0169_nmlch_00: 
 M: <uhm> Ka tripaki anta feychi kutran.
-C. También sale pues esa enfermedad.
+C: También sale pues esa enfermedad.
 
 nmlch-pmfmñB2_x_0170_pmfmñ_00: 
 M: Tripay alcansapaviñ veychi kutran inche.

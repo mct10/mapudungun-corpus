@@ -6,7 +6,7 @@
 ; Comments:  Se escucha un leve ruido al comienzo...
 ; Traductor: Lidia Melipil
 
-nmlch-nfmlq1_x_0000_nmlch_00
+nmlch-nfmlq1_x_0000_nmlch_00:
 M:  Mari mari lamuen.
 C:  Buenos días hermana.
 
@@ -59,7 +59,7 @@ M:  feyta küme trekarupayawi
 C:   así andan caminando bien
 
 M:  tañi wiyinmu ka. 
-C.:  en la casa.
+C:  en la casa.
 
 _nfmlq1_x_0008_nmlch_00lq_00:
 M:  Fey <uhm> <*SPA>claro fey feli pu. 
@@ -101,7 +101,7 @@ C:  ahora no lo hago.
 
 nmlch-nfmlq1_x_0013_nmlch_00:
 M: Ka kidu une witraley tüfa. 
-C. También solo se le este. 
+C: También solo se le este. 
 
 nmlch-nfmlq1_x_0014_nfmlq_00:
 M: Unelumu may wadkümkay <*SPA>tetera 
@@ -493,7 +493,7 @@ M: feymu ta kümelu.
 C:  por eso es bueno. 
 
 nmlch-nfmlq1_x_0056_nmlch_00: 
-M. ¿Chem pingi chi lamuen tüfi?
+M: ¿Chem pingi chi lamuen tüfi?
 C:  ¿Cómo se llama el remedio  que se tomó?
 
 nmlch-nfmlq1_x_0057_nfmlq_00:
@@ -509,7 +509,7 @@ M:  Epu rumi tati dinchul.
 C:   Pasa dos pues dinchul.
    
 nmlch-nfmlq1_x_0060_nmlch_00: 
-M. Ah. 
+M: Ah. 
 C:  Ah.
 
 nmlch-nfmlq1_x_0061_nfmlq_00:
@@ -662,7 +662,7 @@ nmlch-nfmlq1_x_0084_nfmlq_00:
 M: Inchemu unen feyta lefkeawken.
 C: De mi la mayor por eso andaba corriendo. 
 
-nmlch-nfmlq1_x_0085_nmlch_00
+nmlch-nfmlq1_x_0085_nmlch_00:
 M:  Inakonlu ka fey kümey.
 C:  El de la orilla es también mejor.
 
@@ -1399,7 +1399,7 @@ nmlch-nfmlq1_x_0168_nfmlq_00:
 M: Apül.
 C:
 
-nmlch-nfmlq1_x_0169_nmlch_00
+nmlch-nfmlq1_x_0169_nmlch_00:
 M: Ah.  -/ta/-
 C: Ah.
 
@@ -1451,7 +1451,7 @@ C:  vine ha cuidar los animales donde mi gente
 M:  afi ñi wedakelu
 C:  se terminaron mis cosas 
 
-M. kuyfiam ngillakalengenolu 
+M: kuyfiam ngillakalengenolu 
 C: antes como no se le compraba 
 
 M: pichikeche 
@@ -1490,7 +1490,7 @@ M: fey kellunekefinengün
 C: les ayudaba
 
 M: küdawün fey trapumün plta
-C. trabajaba y juntaba plata 
+C: trabajaba y juntaba plata 
 
 M:  itrofillem regalo elkünumekepatuken
 C: distintos regalos les venía a dejar 
@@ -1784,13 +1784,13 @@ nmlch-nfmlq1_x_0201_nmlch_00:
 M:  ¿Fey tüfi ti chi l'awen' yufkün 
 C:  ¿ Bebió ese remedio--------- 
 
-m. <uhm> wadkümngeki 
-C. se hierve
+M: <uhm> wadkümngeki 
+C: se hierve
 
-M. kam re trafon müten tukungi,
+M: kam re trafon müten tukungi,
 C:  solo quebrado se hecha
 
-m:  wadkümngi?
+M:  wadkümngi?
 C: se hierve?
 
 nmlch-nfmlq1_x_0202_nfmlq_00:
@@ -1848,7 +1848,7 @@ C:  Ah.
 
 nmlch-nfmlq1_x_0210_nfmlq_00: 
 M: Poypoy, poypoyngechi chemu pipeyelanama 
-C : Cuando se esta inchado no dijé acaso 
+C: Cuando se esta inchado no dijé acaso 
 
 M: feymu kümelu.
 C: eso es bueno.
@@ -2545,7 +2545,7 @@ M: fey kangelu
 C:  la otra
 
 M:  inche ñi lamuen
-C. mi hermana 
+C: mi hermana 
 
 
 
@@ -2575,7 +2575,6 @@ M: Kulangen pifi <%>.
 C: Eramos tres que lo vimos. 
 
 nmlch-nfmlq1_x_0292_nmlch_00:
- -/tra/-
 
 nmlch-nfmlq1_x_0293_nfmlq_00: 
 M: Mütangi kiñe fütra <*SPA>pozo komew.

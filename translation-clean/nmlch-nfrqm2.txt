@@ -563,7 +563,7 @@ nmlch-nfrqm2_x_0043_nfrqm_00:
 M: <SPA>Sí pu.
 C: Sí pues.
 
-nmlch-nfrqm2_x_0044_nmlch_00
+nmlch-nfrqm2_x_0044_nmlch_00:
 M: Ta niefun ta newen
 C: Tenía la fuerza
 
@@ -1109,7 +1109,7 @@ C: en sueños
 M: nüchey ka ka
 C: agarra a la gente también ,también.
 
-nmlch-nfrqm2_x_0087_nmlch_00 
+nmlch-nfrqm2_x_0087_nmlch_00:
 M: Pewmamu ka.
 C: En sueños también.
  

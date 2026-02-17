@@ -148,7 +148,7 @@ C: nada más que ello mismos
 M: akucha apolingün 
 C: llenan la jeringa 
 
-M; chemu chi feyta chingarkamekefi 
+M: chemu chi feyta chingarkamekefi 
 C: porque si esto lo estan operando 
 
 M: fey tutealu kay tuti wingka kutran tutey 
@@ -766,7 +766,7 @@ _nmjll2_x_0060_nmlch_00ll_00:
 M: Fey ka müten 
 C: Eso también no más 
 
-M; ka inimu kay maneluafuy.
+M: ka inimu kay maneluafuy.
 C: también con quien podemos confiar.
 
 
@@ -1025,12 +1025,12 @@ M: ka doyfuli feymu wiyudi pu domo
 C: también se acerco más por eso las mujeres circularon 
 
 M: nie püñeñkülelu 
-C la que está embarazada  
+C: la que está embarazada  
 
 M: feyta lichi elungelu pingi
 C: esta dicen que les daran leche dicen
 
-M; allmalltuy amuyngün ka. 
+M: allmalltuy amuyngün ka. 
 C: no se dudaron y fueron también.
 
 nmlch-nmjll2_x_0084_nmlch_00: 
@@ -1295,7 +1295,7 @@ nmlch-nmjll2_x_0120_nmjll_00:
 M: nf(xxx ka lufi pu) xxx 
 C:
 
-M; fey ta empachay tati 
+M: fey ta empachay tati 
 C: éste se empcho igual 
 
 M: pekan inmu tüfa rume mületuy kutran
@@ -1452,7 +1452,7 @@ M: Feley pu.
 C: Así es pues. 
 
 nmlch-nmjll2_x_0135_nmjll_00: 
-M; Kachilla widpüvi mapu afaluürke
+M: Kachilla widpüvi mapu afaluürke
 C: Trigo lo desparrama como que la tierra se vá terminar 
 
 M: <SPA>pero wüñomi ka
@@ -2417,7 +2417,7 @@ C: también me avisa mi corazón
  
 
 M: welu piwkentukueyu pemüñmaken ñi ad akutun
-C pero esta en mi corazón vé mi caracter cuando llego
+C: pero esta en mi corazón vé mi caracter cuando llego
 
 M:  witra kompatun pefel ñi papa
 C: llege derrepente encontre mi papá

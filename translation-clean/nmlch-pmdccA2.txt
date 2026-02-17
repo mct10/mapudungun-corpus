@@ -333,7 +333,6 @@ M: fey pütokofile müley <!1müli> ta rapiafiel?
 C: y si se lo toma, debe vomitar?
 
 nmlch-pmdccA2_1_0047_pmdcc_00: 
-<%> <%> 
 
 nmlch-pmdccA2_1_0048_nmlch_00: 
 M: ¿Kam?
@@ -513,7 +512,7 @@ C: esas cosas dijo
 M: fey kümeafuy mülele kiñe medika machi pi
 C: por eso sería bueno que hubiera una machi dijo 
 
-M; kom trawüleafuy tati 
+M: kom trawüleafuy tati 
 C: todo estaría junto pues 
 
 M: pu chemengün <Noise> pi tati 
@@ -1700,7 +1699,6 @@ M:  Yeeyu pifiñ <*SPA>ya.
 C: Lleveme le dije, ya. 
 
 nmlch-pmdccA2_1_0245_pmdcc_00:
- <%> <%> 
 
 nmlch-pmdccA2_1_0246_nmlch_00: 
 M: Fentre küme 

@@ -8,7 +8,7 @@
  
 nmlch-nfmcm2_x_0000_nmlch_00:
 M: ¿Mawidamu, mamüll l'awen',
-C : ¿En el monte, hay remedios,  
+C: ¿En el monte, hay remedios,  
 
 M: kachu l'awen' tüfi ka?
 C:  plantas y pasto? 
@@ -23,21 +23,21 @@ C: ¿Flores amarillas, Wetriwetri se llama?
 
 nmlch-nfmcm2_x_0003_nfmcm_00: 
 M: May. 
-C : Sí.
+C: Sí.
 
 nmlch-nfmcm2_x_0004_nmlch_00: 
 M: Ah.
-C : Ah.
+C: Ah.
  
 M: Müna weda, müna weda <P> 
-C : Que malo no, que malo
+C: Que malo no, que malo
 
 M: fey ka kiñe kutran ka müli tüfichi,
-C :  hay  otra enfermedad,
+C:  hay  otra enfermedad,
 
 
 M: ¿chem pingeki ama tüfey?
-C : ¿cómo se llamara eso? 
+C: ¿cómo se llamara eso? 
 
 M: <*SPA>presion  nielaymi eymi tüfey <*SPA>presion.  
 C: usted no tiene presión. 
@@ -63,7 +63,7 @@ C: remedio para la presión.
 
 nmlch-nfmcm2_x_0009_nfmcm_00: 
 M:May.
-C : Sí.
+C: Sí.
 
 M: Ka ajenko fey apurawkülechi mongeki.
 C: Sí, ajenjo con eso uno vive rápidamente.  
@@ -74,7 +74,7 @@ C: Como que el toma el olor.
 
 nmlch-nfmcm2_x_0011_nfmcm_00: 
 M: Pütokongeki -/bajaro/-
-C : Lo toman 
+C: Lo toman 
 
 M: pürüm bajatuki chi <*SPA>presion.
 C:  y con eso se baja de inmediato la presión. 
@@ -85,17 +85,17 @@ C: Cual es el mejor remedio para esto.
 
 nmlch-nfmcm2_x_0013_nfmcm_00: 
 M: Ajenko <*SPA>ma' <*SPA>rápido 
-C  : Ajenjo es mejor
+C: Ajenjo es mejor
 
 M:<*SPA>ma' <*SPA>luegu nagki chi <*SPA>presión.
-C : con eso se baja luego la presión. 
+C: con eso se baja luego la presión. 
  
 nmlch-nfmcm2_x_0014_nmlch_00:
 M: ¡Ah!
-C : ¡Ah!
+C: ¡Ah!
 
 M: Fey doy notuy matu. 
-C : Con eso se baja luego. 
+C: Con eso se baja luego. 
 
 nmlch-nfmcm2_x_0015_nfmcm_00: 
 M: Matukel nagi chi <*SPA>presion.  
@@ -110,10 +110,10 @@ C:  para que baje la presión que más.
 
 nmlch-nfmcm2_x_0017_nfmcm_00: 
 M: Fey müten <*SPA>pu'  l'awen'
-C : Ese remedio no mas pues
+C: Ese remedio no mas pues
 
 M: <*SPA>avece'  dipirona<%> 
-C :  a veces dipirona 
+C:  a veces dipirona 
 
 
 nmlch-nfmcm2_x_0018_nmlch_00: 
@@ -133,7 +133,7 @@ C: ¿Por que se enfermarán de eso?
 
 nmlch-nfmcm2_x_0021_nfmcm_00: 
 M:¿Chemmu chi ta ñi tripaken?
-C : ¿Quizás como salió?
+C: ¿Quizás como salió?
 
 M:Kuyfi ngekelafuy chi <*SPA>presion.  
 C: Antes no había esa enfermedad, presión. 
@@ -152,10 +152,10 @@ C: Toda la gente pues.
 
 nmlch-nfmcm2_x_0024_nmlch_00: 
 M: Ini rume montuletulay 
-C : Nadie se escapa
+C: Nadie se escapa
 
 M: reke wekeche fütakeche ka doy amulelu
-C : los niños, los adultos y asi 
+C: los niños, los adultos y asi 
 M: -/ñi/-, wüne trekalelu 
 C:  los que comienzan a caminar 
 
@@ -168,10 +168,10 @@ C: Los huincas les da a cada rato.
 
 nmlch-nfmcm2_x_0026_nmlch_00:
 M: ¡Ah!
-C : ¡Ah!
+C: ¡Ah!
 
 M:  Feytichi trombosi may 
-C : La trombosis  
+C: La trombosis  
 
 M:<uh> nüwkepi tüfichi 
 C: en conjunto con la
@@ -185,10 +185,10 @@ C: Yo creo que como que se apura.
 
 nmlch-nfmcm2_x_0028_nmlch_00: 
 M: ¡Ah!
-C : ¡Ah!
+C: ¡Ah!
 
 M:<%> fey may konki trombosi kafey ka. 
-C :  También les entra la trombosis.
+C:  También les entra la trombosis.
 
 mlch-nfmcm2_x_0029_nfmcm_00: 
 M: Femki <*SPA>pu'.  
@@ -215,18 +215,18 @@ M: Trombosiafuymi pingeken siempre inche
 C: Le puede dar trombosis me dicen siempre 
 
 M: <%> chaditulayaymi trapi <%>
-C : No comas sal ají
+C: No comas sal ají
 
 M: trapituken, chadituken. 
 C:  yo como sal y ají.  
 
-nmlch-nfmcm2_x_0034_nml 
+nmlch-nfmcm2_x_0034_nml_00:
 M: Femuechi anta konki ta chi kutran ta tüfey .
 C: Así se enfermara uno de eso. 
 
 nmlch-nfmcm2_x_0035_nfmcm_00:
 M: May. 
-C : Sí.
+C: Sí.
 
 M: Rume chaditulu che.
 C: Cuando come mucha sal.
@@ -237,7 +237,7 @@ C: Les dio trombosis a ellos.
 
 nmlch-nfmcm2_x_0037_nfmcm_00:
 M: <*SPA>Si. 
-C : Sí. 
+C: Sí. 
 
 nmlch-nfmcm2_x_0038_nmlch_00:
 M: Rume al'ün che l'aki pingi tüfi femuechi 
@@ -248,11 +248,11 @@ C: tiene que tener cuidado usted.
 
 nmlch-nfmcm2_x_0039_nfmcm_00: 
 M: Femki.
-C : Lo hago. 
+C: Lo hago. 
 
 nmlch-nfmcm2_x_0040_nmlch_00:
 M: ¡Ah!
-C : ¡Ah!    
+C: ¡Ah!    
 
 M: Kuñiwtulealu llemay eymi 
 C: Tiene que estar con cuidado  usted 
@@ -275,10 +275,10 @@ C: Con paico.............
 
 nmlch-nfmcm2_x_0045_nmlch_00: 
 M:Paykomu may,
-C : Paico sí,
+C: Paico sí,
 
 M: küme l'awen' perke may tüfichi payko.
-C : será un buen remedio.  
+C: será un buen remedio.  
 
 nmlch-nfmcm2_x_0046_nfmcm_00:
 M: Küme l'awen' <*SPA>pu'.  
@@ -286,10 +286,10 @@ C: Buen remedio pues.
 
 nmlch-nfmcm2_x_0047_nmlch_00:
 M: ¡Ah! 
-C : ¡Ah!
+C: ¡Ah!
 
 M: feyta <uh> tutey fey katrütufi chi kutran ka. 
-C :  eso termina la enfermedad. 
+C:  eso termina la enfermedad. 
 
 nmlch-nfmcm2_x_0048_nfmcm_00:
 M: Katrütufi <*SPA>pu'  <Noise>. 
@@ -304,15 +304,15 @@ M: <*SPA>No,
 C: No,
 
 M: ajalkelan. 
-C : no se ojearon.
+C: no se ojearon.
 
 nmlch-nfmcm2_x_0051_nmlch_00: 
 M: Ojalay kiñe, kiñe rume no.
-C : Ninguno se ojeo. 
+C: Ninguno se ojeo. 
 
 nmlch-nfmcm2_x_0052_nfmcm_00: 
 M:<*SPA>No kiñe rume <*SPA>parece ,
-C : NO, ninguno parece 
+C: NO, ninguno parece 
 
 M: kimlan tañi.
 C: no sé de ninguno que se.  
@@ -326,21 +326,21 @@ C: Sí.
 
 nmlch-nfmcm2_x_0055_nmlch_00: 
 M: Ojan piki pekelay l'awen'
-C : En el hospital no creen en ojo
+C: En el hospital no creen en ojo
 
 M: ka pitalmu  pingi ojalu.
 C: en hospital no hay remedio para el ojo.
 
 nmlch-nfmcm2_x_0056_nfmcm_00: 
 M:Pekelay ese <*SPA>pu'  ojalu
-C : No se ve la enfermedad del ojo
+C: No se ve la enfermedad del ojo
 
 M: müley ñi santiwangeal <*SPA>pu' . 
-C : para el ojo hay que santiguarlos pues. 
+C: para el ojo hay que santiguarlos pues. 
 
 nmlch-nfmcm2_x_0057_nmlch_00: 
 M: Santiguar, fill che santiwachekepi kiñekelepi tüfa. 
-C : Santiguar, harta gente santiguaba ahora habrá uno. 
+C: Santiguar, harta gente santiguaba ahora habrá uno. 
 
 nmlch-nfmcm2_x_0058_nfmcm_00: 
 M: Kiñeke müli kom<*SPA>no <*SPA>pu'.  
@@ -352,10 +352,10 @@ C: Los que sabían solamente.
 
 nmlch-nfmcm2_x_0060_nfmcm_00: 
 M: Adümuwlu müten <*SPA>pu'
-C : Los que sabían no mas 
+C: Los que sabían no mas 
 
 M:  inche satiwachekelan <*SPA>pu.'  
-C :  yo nunca santigüe pues.
+C:  yo nunca santigüe pues.
 nmlch-nfmcm2_x_0061_nmlch_00:
 M: ¿Santiwachekelaymi eymi?
 C: ¿No santiguaba usted?
@@ -366,14 +366,14 @@ C:No
 
 nmlch-nfmcm2_x_0063_nmlch_00: 
 M: ¿Pekelaymi rume santiwachen?
-C : ¿No veía a mucha gente santiguar?
+C: ¿No veía a mucha gente santiguar?
 
 nmlch-nfmcm2_x_0064_nfmcm_00:
 M: Pengelngekerki anfe ellkageki, 
 C: Cree que lo hacían a la vista, 
 
 M: ellkangeki mekeki.
-C : a escondidas lo hacían. 
+C: a escondidas lo hacían. 
 
 nmlch-nfmcm2_x_0065_nmlch_00:
 M: Ellka, ellka. 
@@ -385,10 +385,10 @@ C: ¿Escondido lo hacían?
 
 nmlch-nfmcm2_x_0067_nmlch_00: 
 M:<hm> Welu fente küme notuki nga pingi
-C : Como lo hacían tan bien
+C: Como lo hacían tan bien
 
  M:pichikeche mongetripatuki pingi .
-C :  los niños se sanaba.
+C:  los niños se sanaba.
 
 nmlch-nfmcm2_x_0068_nfmcm_00: 
 M: Ngillatuñmagekepelayngün. 
@@ -396,14 +396,14 @@ C: Le harían como una rogativa.
 
 nmlch-nfmcm2_x_0069_nmlch_00:
 M: ¡Ah!
-C : ¡Ah! 
+C: ¡Ah! 
 
 nmlch-nfmcm2_x_0070_nmlch_00: 
 M: Ngillatuñmangefule ka 
 C: Asiéndole una rogativa 
 
 M:<Cough>ka, ka notupelayafuy ese diaulu<*SPA>
-C : y, harán contacto con el diablo también 
+C: y, harán contacto con el diablo también 
 
 M: no ma' ta puro chemki <*SPA>pu'<%> 
 C: No es puro.
@@ -426,13 +426,13 @@ C:  ¿Lo siguió?
 
 nmlch-nfmcm2_x_0075_nmlch_00:
 M: ¡Ah!     
-C : ¡Ah!
+C: ¡Ah!
 
 M:Tüfachi mongenmu itrofill 
 C: En esta vida hay hartas cosas
 
 M: pepiluwün am mülelu papay,
-C : que ver mamita
+C: que ver mamita
 
 M: feyta ini rume ka 
 C: nadie se escapa
@@ -445,7 +445,7 @@ C:  No pues.
 
 nmlch-nfmcm2_x_0077_nmlch_00:
 M: Ini rume ta pichiwentrungeay,
-C :Puede ser un niño,
+C:Puede ser un niño,
 
 M:fütachengeay ta montulay ta feychi dungumu ta tüfey.
 C: adulto, anciano no se escapa de lo malo.
@@ -456,59 +456,59 @@ C:  Así es pues.
 
 nmlch-nfmcm2_x_0079_nmlch_00:
 M: Pepiluwünmu kiñemu ta <uh> 
-C : Algunas veces
+C: Algunas veces
 
 M: che ta inawtuy, müda weda <*SPA>no, 
-C : las personas siguen, lo malo, 
+C: las personas siguen, lo malo, 
 
 M: müna wedano, müna weda <P> 
-C : que malo, que malo
+C: que malo, que malo
 
 M:feyti kiñeke ka 
 C: algunas veces 
 
 M: eymi kutran furikelaymi tüfa.
-C : no se ha enfermado de la espalda ahora.
+C: no se ha enfermado de la espalda ahora.
 
 nmlch-nfmcm2_x_0080_nfmcm_00:
 M: Kutranken <*SPA>pu'.  
-C : Me duele pues.
+C: Me duele pues.
 
 nmlch-nfmcm2_x_0081_nmlch_00:
 M: ¿Kutrankimi chem pütokokimi kutran fürimu tüfi?
-C : ¿Se ha enfermado y que toma para eso?
+C: ¿Se ha enfermado y que toma para eso?
 
 nmlch-nfmcm2_x_0082_nfmcm_00:
 M: <*SPA>No pütokokelan. 
-C : No, no tomo nada.
+C: No, no tomo nada.
 
 nmlch-nfmcm2_x_0083_nmlch_00:
 M: ¿Chem<*SPA>no rume? 
-C : ¿No toma nada?
+C: ¿No toma nada?
 
 nmlch-nfmcm2_x_0084_nfmcm_00:
 M: <*SPA>No, <uh> müna motrileymi 
-C : No estas muy gorda 
+C: No estas muy gorda 
 
 M: feymu kutran furikeymi pienu mediku 
-C : por eso té enfermas.
+C: por eso té enfermas.
 
 nmlch-nfmcm2_x_0085_nmlch_00:
 M: Welu, feyngepeafuy, 
 C: Pero, será por eso,
 
 M: tüfi doy motrili che 
-C : hay personas más gordas
+C: hay personas más gordas
 
 M:  doy eymimu tüfey doy kutrankelay, welu .
-C : mas que usted y no se enferman.
+C: mas que usted y no se enferman.
 
 nmlch-nfmcm2_x_0086_nfmcm_00:
 M: Kutrankelay <*SPA>pu' 
-C : No se enferman pues
+C: No se enferman pues
 
 M: müna külfünküli kutranka müten 
-C : se ven muy alentados
+C: se ven muy alentados
 
 M:<*SPA>pu'  tanto rume ,<*SPA>
 C: no es tanto pues,
@@ -521,14 +521,14 @@ M: <%> <*SPA>caja <*SPA>de <*SPA>indeccnion <*SPA>yo C:
 C: cajas de inyecciones 
 
 M:<*SPA>creo <*SPA>que fey kutrani piken ta inche. 
-C : creo que eso me duele mas digo yo.
+C: creo que eso me duele mas digo yo.
 
 nmlch-nfmcm2_x_0087_nmlch_00:
 M: Tami mongenmu al'ün 
-C : En su vida se ha puesto  
+C: En su vida se ha puesto  
 
 M: indeccion tukukimi tüfi. 
-C : hartas inyecciones.
+C: hartas inyecciones.
 
 nmlch-nfmcm2_x_0088_nfmcm_00: 
 M:<*SPA>Si. 
@@ -536,58 +536,58 @@ C: Sí.
 
 nmlch-nfmcm2_x_0089_nmlch_00:
 M: Welu mongelay. <%> 
-C :  Pero no se ha muerto.
+C:  Pero no se ha muerto.
 
 nmlch-nfmcm2_x_0090_nfmcm_00:
 M: Welu notulay  <*SPA>pu'.  
-C : Pero no ha pasado.
+C: Pero no ha pasado.
 
 nmlch-nfmcm2_x_0091_nmlch_00:
 M: Notulay may no pichi rupaki müten,
-C : No pasa solo de a poco,
+C: No pasa solo de a poco,
 
 M: pichike rupaki müten. 
-C : poquito pasa no mas.
+C: poquito pasa no mas.
 
 Nmlch-nfmcm2_x_0092_nfmcm_00:
 M: <*SPA>Como <*SPA>que <*SPA>no
-C : Como que no 
+C: Como que no 
 
 M: calmalay reke <*SPA>pu.' 
-C : como que no calma pues.
+C: como que no calma pues.
 
 nmlch-nfmcm2_x_0093_nmlch_00:
 M: ¡Ah!
 C: ¡Ah!
 
 M: Müna wedano, müna weda. 
-C : Que malo no ,que malo.
+C: Que malo no ,que malo.
 
 nmlch-nfmcm2_x_0094_nfmcm_00:
 M: Weda <*SPA>pu'. 
-C : Que malo pues.
+C: Que malo pues.
 
 nmlch-nfmcm2_x_0095_nmlch_00:
 M: Itrofill <uh> kutran ta notukelay 
-C : Hay hartas enfermedades que no pasan 
+C: Hay hartas enfermedades que no pasan 
 
 M:indisionmu pingi kiñekemu ta l'akonpukika. 
-C : con inyecciones dicen hay algunos que igual mueren. 
+C: con inyecciones dicen hay algunos que igual mueren. 
 
 nmlch-nfmcm2_x_0096_nfmcm_00: 
 M: Femki <*SPA>pu'. 
-C : Asi es pues.
+C: Asi es pues.
 
-nmlch-nfmcm2_x_0097_nmlch_0
+nmlch-nfmcm2_x_0097_nmlch_00:
 M: Allfülelu ka <Noise> 
-C : Los que se lastiman
+C: Los que se lastiman
 
 M:tulay notulay ka tüfi ka. 
-C : tambien no pasa. 
+C: tambien no pasa. 
 
 nmlch-nfmcm2_x_0098_nfmcm_00:
 M: Notulay <*SPA>pu'  allfülelu.
-C : No le pasa tanpoco los que se lastiman.
+C: No le pasa tanpoco los que se lastiman.
 
 nmlch-nfmcm2_x_0099_nmlch_00:
 M: Welngikelaymi, 
@@ -598,13 +598,13 @@ C: pero a tí.
 
 nmlch-nfmcm2_x_0100_nfmcm_00:
 M:Welngilen <*SPA>pu'  tañi n'amun'. 
-C :                 pues,mi pies.  
+C:                 pues,mi pies.  
 
 M:allfüli küllküdkeawi ñi n'amun' 
-C : esta lastimado ................. mi pies
+C: esta lastimado ................. mi pies
 
 M:fey engu tuwi tati. <Noise> <uh> 
-C : con ello salio.
+C: con ello salio.
 
 nmlch-nfmcm2_x_0101_nmlch_00:
 M: ¡Ah! 
@@ -615,45 +615,45 @@ C:
 
 nmlch-nfmcm2_x_0102_nfmcm_00:
 M: May.
-C : Sí
+C: Sí
 
 M: rumel allfüli feymu chimay 
-C : esta lastimado siempre sera por eso
+C: esta lastimado siempre sera por eso
 
 M:feytimu% kunkuni tani kuwü.
-C : ahi fie que            mi mano.
+C: ahi fie que            mi mano.
 
 nmlch-nfmcm2_x_0103_nmlch_00:
 M: Fey tüfi kay welngilu 
-C : Y eso
+C: Y eso
 
 M:eymi kintulafimi tüfichi 
-C : usted busco eso
+C: usted busco eso
 
 M:<uh> areclatukelu foro. 
-C : los que arreglan las muelas.
+C: los que arreglan las muelas.
 
 nmlch-nfmcm2_x_0104_nfmcm_00:
 M: Areglalngefun müchayke
-C : Siempre me los arreglo
+C: Siempre me los arreglo
 M: tranün meli rupa tranün. 
-C : 
+C: 
 
 nmlch-nfmcm2_x_0105_nmlch_00: <hm> 
 
 nmlch-nfmcm2_x_0106_nfmcm_00:
 M: <*SPA>Avece'  pekelafiñ chi ngütamchekelu,
-C : Aveces no lo veo
+C: Aveces no lo veo
 
 M: küdawki kamapu
-C : trabaja en otra parte
+C: trabaja en otra parte
 
 M:tripay küdawalu ka fey ahi.<%>  
-C : sale a trabajar por ahi.
+C: sale a trabajar por ahi.
 
 fmcm2_x_0108_nfmcm_00mlch_00:
 M: Felewetuy müten. 
-C : Esta asi no mas.
+C: Esta asi no mas.
 
 nmlch-nfmcm2_x_0109_nfmcm_00:
 M: May. 
@@ -667,47 +667,47 @@ M:ngütamfengekelu tüfi ta
 C:
 
 M: fey lleglay tüfi ta doy,
-C : ese
+C: ese
 
 M: doyeltuki ürke ka. 
-C : aveces es peor.
+C: aveces es peor.
 
 nmlch-nfmcm2_x_0111_nfmcm_00:
 M: Doyeltuki <*SPA>pu'.  
-C : Es peor pues.
+C: Es peor pues.
 
 nmlch-nfmcm2_x_0112_nmlch_00:
 M: ¡Ah!
 C: ¡Ah!
 
 M: Feychi kütu ka trawükoni tüfi tami eymi tami. 
-C : Ese como que se junto con su
+C: Ese como que se junto con su
 
 
 M: <uh> pepilngelu ka, kefey chi.
-C : 
+C: 
 
 nmlch-nfmcm2_x_0113_nfmcm_00: 
 M:Trawüluwingu. 
-C :Se juntaron.
+C:Se juntaron.
 
 nmlch-nfmcm2_x_0114_nmlch_00:
 M: Trawüluwi may, 
-C : Se juntaron pues
+C: Se juntaron pues
 
 M:feymu may ta doy newenngi ta 
-C :por eso que tiene mas fuerza
+C:por eso que tiene mas fuerza
 
 
 M:tüfi ta chi kutranka. 
-C : esa enfermedad.
+C: esa enfermedad.
 
 nmlch-nfmcm2_x_0115_nfmcm_00:
 M: Doy <*SPA>pu' <*SPA>no <*SPA>que  allfülelu kay
-C : Mas cuando cuando esta lastimado
+C: Mas cuando cuando esta lastimado
 
 M:<*SPA>no chi n'amun' üllküdkeawi. 
-C : no el pies..........
+C: no el pies..........
 
 nmlch-nfmcm2_x_0116_nmlch_00:
 M: May. 
@@ -715,17 +715,17 @@ C: Sí.
 
 nmlch-nfmcm2_x_0117_nfmcm_00:
 M: Fey engu maneluwki -/trari/- 
-C : Con eso se juntan
+C: Con eso se juntan
 M: trariniefuiñ tati <*SPA>aquí.
-C : lo teniamos amarado aquí.
+C: lo teniamos amarado aquí.
 
 nmlch-nfmcm2_x_0118_nmlch_00: 
 M:Trariniefuymi may. 
-C : Lo tenían amarrado.
+C: Lo tenían amarrado.
 
 nmlch-nfmcm2_x_0119_nfmcm_00:
 M: Amaraw <*SPA>pu'  vendaw 
-C : Amarrado pues vendado  
+C: Amarrado pues vendado  
 
 M:<*SPA>pero  funfunküli 
 C: pero como que tiritava
@@ -734,76 +734,76 @@ M:ta feyti  wentemu lüka müten
 C: por encima no mas
 
 M: <%> engu trawüli. 
-C : están juntos.
+C: están juntos.
 
 m2_x_0121_nfmcm_001_nmlch_00:
 M: Al'ün tripantu tüfa rupay tami femün tüfey, 
-C : Hace tiempo fue lo que le paso eso,
+C: Hace tiempo fue lo que le paso eso,
 
 M: ¿al'ün tripantu dewma? 
-C : ¿hace mucho tiempo?
+C: ¿hace mucho tiempo?
 
 nmlch-nfmcm2_x_0122_nfmcm_00: 
 M: Fente dewma  epu  tripantu.
-C : Hace dos años
+C: Hace dos años
 
 nmlch-nfmcm2_x_0123_nmlch_00: 
 M: Epu tripantu dewma, 
-C : Hace dos años no mas,
+C: Hace dos años no mas,
 
 M: feyta <uh> epe wimtuymi ürke
-C : casi se acostumbro
+C: casi se acostumbro
 
 M: tüfa tami femngechi tami kutranmewka. 
-C : como se había enfermado. 
+C: como se había enfermado. 
 nmlch-nfmcm2_x_0124_nfmcm_00:
 M: Feymu kutranün%.
-C : Por eso me enferme.
+C: Por eso me enferme.
 
 nmlch-nfmcm2_x_0125_nmlch_00: 
 M:Rume,
-C : Mucho,
+C: Mucho,
 
 M: rume küpa mongeletufuymi
-C : tiene hartas ganas de vivir
+C: tiene hartas ganas de vivir
 
 M: ini rume ta fente küme duamküelay 
-C : quien no lo decea pues
+C: quien no lo decea pues
 
 M:ta kutranküliyüm ka.
-C : el no estar emfermo.
+C: el no estar emfermo.
 nmlch-nfmcm2_x_0126_nfmcm_00: 
 M: Femlay  <*SPA>pu'.  
-C : No es asi pues
+C: No es asi pues
 
 nmlch-nfmcm2_x_0127_nmlch_00: <hm> 
 nmlch-nfmcm2_x_0128_nfmcm_00:
 M: Müna küme <%> ta. 
-C : Que bueno.
+C: Que bueno.
 
 nmlch-nfmcm2_x_0129_nmlch_00:
 M: Feyti pelotufalkelafimi 
-C : No se ha visto 
+C: No se ha visto 
 
 M: pitalmu rayografia tuñmangekelaymi. 
-C : en el hospital le sacan radiografia.
+C: en el hospital le sacan radiografia.
 
 nmlch-nfmcm2_x_0130_nfmcm_00: 
 M: Chumül wüla tuñmangen. 
-C : El otro día me sacarón.
+C: El otro día me sacarón.
 
 nmlch-nfmcm2_x_0131_nmlch_00:
-M. ¡Ah!
+M: ¡Ah!
 C: ¡Ah!
 M: Tuñmangimi.
-C : Le sacaron.
+C: Le sacaron.
 
 nmlch-nfmcm2_x_0132_nfmcm_00:
 M: Luku ta tuñmangen, 
-C : En la rodilla me sacaron
+C: En la rodilla me sacaron
 
 M: tuñmangen ka. 
-C : me sacaron.
+C: me sacaron.
 
 nmlch-nfmcm2_x_0133_nmlch_00: 
 M: ¡Ah!
@@ -819,38 +819,38 @@ C: Ya.
 
 nmlch-nfmcm2_x_0136_nfmcm_00:
 M: Faw müten wüdali. 
-C : aqui no mas esta partido.
+C: aqui no mas esta partido.
 
 nmlch-nfmcm2_x_0137_nmlch_00: 
 M: Fente wüdali.
-C : Así tanto esta partido
+C: Así tanto esta partido
 
 M: ¡Ah! 
 C: ¡Ah!
 
 nmlch-nfmcm2_x_0138_nfmcm_00:
 M: Ka ta chumül wüla tungi
-C : Cuando le hicieron algo más
+C: Cuando le hicieron algo más
 
 M: tüfa funfunkülelu. 
-C : donde esta blando
+C: donde esta blando
 
 nmlch-nfmcm2_x_0139_nmlch_00: 
 M: Feyti fente wüdalelu tüfi ta ya, 
-C : Por eso es que esta tan partido
+C: Por eso es que esta tan partido
 
 M: sirviwelay tüfichi.
-C : ya no sirve mas.
+C: ya no sirve mas.
 
 nmlch-nfmcm2_x_0140_nfmcm_00: 
 M: Katali pi ta mediku 
-C : Tiene un hoyo me dijo el medico
+C: Tiene un hoyo me dijo el medico
 
 M: <%> katay tami <%>
-C : tiene un hoyo.
+C: tiene un hoyo.
 
 M: doy kutranki tañi n'amun'. 
-C : por eso es que me duele mas.
+C: por eso es que me duele mas.
 
 nmlch-nfmcm2_x_0141_nmlch_00:
 M: ¡Ah!
@@ -858,79 +858,79 @@ C: ¡Ah!
 
 nmlch-nfmcm2_x_0142_nfmcm_00:
 M: Chürarchürtuki.  
-C :
+C:
 
 nmlch-nfmcm2_x_0143_nmlch_00: 
 M: Müna weda,
-C : Que malo,
+C: Que malo,
 
 M: müna weda. 
-C : que malo.
+C: que malo.
 
 nmlch-nfmcm2_x_0144_nfmcm_00:
 M: Fey feytichi <*SPA>
-C :Y este
+C:Y este
 
 M: papel  ta puwülfilmi ka 
-C : papel le mostro
+C: papel le mostro
  
 M: trapomkafilmi chumuechi pepikalmi <%> 
-C : lo junto por eso
+C: lo junto por eso
 
 M:ta wedake dungu 
-C : que mala noticia
+C: que mala noticia
 
 M: ta femngechi trapomkalfimi chi <*SPA>
-C : que lo vaya juntando asi
+C: que lo vaya juntando asi
 
 M: papel  ta <uh> potulalmi
-C : en el papel
+C: en el papel
 
 M: ta ju'ilacion ta tuñmuafuymi ka, ka.
-C : se podría jubilar.
+C: se podría jubilar.
 
 nmlch-nfmcm2_x_0145_nfmcm_00:
 M: Feman llemay fey pewmangenmu. 
-C : Asi va aser pues
+C: Asi va aser pues
 
 nmlch-nfmcm2_x_0146_nmlch_00:
 M: Feley,
-C : Asi es,
+C: Asi es,
 
 M: feley weda,
-C : asi es lo malo,
+C: asi es lo malo,
  
 M: weda kutran kay tüfey ta femfalnual tati. 
-C : es una enfermedad mala no es para menos
+C: es una enfermedad mala no es para menos
 
 nmlch-nfmcm2_x_0147_nfmcm_00: 
 M: Femi%. 
-C : Asi.
+C: Asi.
 
 nmlch-nfmcm2_x_0148_nmlch_00:
 M: Ini rume puwlay femngechi 
-C : Nadie se ve asi
+C: Nadie se ve asi
 
 M:kutranmew feyta <uh> 
-C : con una enfermedad como esta
+C: con una enfermedad como esta
 
 M:pepi küdawlay rume ka che.
-C : no puede ni trabajar las personas. 
+C: no puede ni trabajar las personas. 
 
 nmlch-nfmcm2_x_0149_nfmcm_00: 
 M:<*SPA>No pepi küdawlay 
-C : No, puede trabajar
+C: No, puede trabajar
 
 M:<*SPA>pu'  ngünam ta trekayawi. 
-C : 
+C: 
 
 nmlch-nfmcm2_x_0150_nmlch_00: <hm> 
 nmlch-nfmcm2_x_0151_nfmcm_00:
 M: Külfünküli may ta che küpa küdawi 
-C : Las personas que estan bien esas pueden trabajar  
+C: Las personas que estan bien esas pueden trabajar  
 
 M:<%> femkülelay puedelay ñi küdawal.
-C : y los se encuentran enfermos ellos pueden trabajar.
+C: y los se encuentran enfermos ellos pueden trabajar.
 
 nmlch-nfmcm2_x_0152_nmlch_00:
 M: Küme duamkülelay ta che. 
@@ -964,7 +964,7 @@ C: No, no he ido.
 
 nmlch-nfmcm2_x_0158_nmlch_00: 
 M: Feypikelafimi chi <*SPA>doctor  <uh>
-C : No le a dicho al doctor
+C: No le a dicho al doctor
 
 M: epesialitamu doy kümelkapelafuymi 
 C: que un especialista le haria mejor 
@@ -1295,10 +1295,10 @@ C: no pasa la tos.
 
 nmlch-nfmcm2_x_0215_nfmcm_00: 
 M: Kuyfi rupakelafuy trün rume
-C : Antes ni siquiera pasaba......  
+C: Antes ni siquiera pasaba......  
 
 M: wünelken fillantü medio bronquio
-C : primero, todo el día   
+C: primero, todo el día   
 
 M: ürke tunte tayi ta nien ta bronquio. 
 C: tengo bronquitis 
@@ -1396,7 +1396,7 @@ M: Eymi welu, kiñe nag rume trafentulaymi
 C: Pero usted, una tarde hizo trafentun  
 
 M:kuyfi tami mongenmew. 
-C : antes para que viviera.
+C: antes para que viviera.
 
 nmlch-nfmcm2_x_0233_nfmcm_00: 
 M:Trafentun chi may kimlan 
@@ -1404,7 +1404,7 @@ C: Trafetun, no lo se.
 
 nmlch-nfmcm2_x_0234_nmlch_00:
 M: Pelotufaluwkelaymi ka 
-C : nunca se dio  
+C: nunca se dio  
 
 nmlch-nfmcm2_x_0235_nfmcm_00:
 M: <*SPA>No,<*SPA>no 
@@ -1476,7 +1476,7 @@ M:<*SPA>pu'  tule, puwle tañi <*SPA>mala <*SPA>suerte
 C: cuando le llega la mala suerte no mas. 
 
 nmlch-nfmcm2_x_0245_nmlch_00: 
-M.¡Ah!
+M:¡Ah!
 C:¡Ah!
 
 M:  trafentualu trafentuy müten 
@@ -1510,7 +1510,7 @@ C: ¿Cuando usted era niña antes
 M:wawüyulaymi kiñe nag rume? 
 C: se sintio muy mareada?
 
-nmlch-nfmcm2_x_0250_nfmcm_00
+nmlch-nfmcm2_x_0250_nfmcm_00:
 M:<*SPA>Nunca  
 C: Nunca
 
@@ -1535,10 +1535,10 @@ C: me podria enfermarme de la cabeza.
 
 nmlch-nfmcm2_x_0255_nmlch_00:
 M: ¡Ah!
-C : ¡Ah!
+C: ¡Ah!
 
 M: rume kutraniyüm longko 
-C : le dolia mucho la cabeza
+C: le dolia mucho la cabeza
 
 M:piam fey wawüyuki che pingi kiñeketu 
 C:dicen que algunas veces las personas se marean 
@@ -2088,21 +2088,21 @@ M: Ah.
 C: Ah.
 
 M: Netukelu korü inche fey küllürupay chi korü pidku.
-C : cuando saque la comida se ladio la olla que era de pisco.
+C: cuando saque la comida se ladio la olla que era de pisco.
 
 nmlch-nfmcm2_x_0338_nmlch_00:
 M: Korümu. 
-C : Con la comida
+C: Con la comida
 
 nmlch-nfmcm2_x_0339_nfmcm_00:
 M: May.
-C : Sí.
+C: Sí.
 
 M: fantemu pichi entupanu 
-C : cuando recien lo venia sacando
+C: cuando recien lo venia sacando
 
 M: fey petu küllüy ñi challa n'amun' challa. <Cough>
-C : se pego la olla con mi pies.
+C: se pego la olla con mi pies.
 
 nmlch-nfmcm2_x_0340_nmlch_00: 
 M: ¡Ah!    
@@ -2110,57 +2110,57 @@ C: ¡Ah!
 
 nmlch-nfmcm2_x_0341_nfmcm_00:
 M: <Cough> Püti akuy ñi n'amun' 
-C : Llego un poquito a mis pies.
+C: Llego un poquito a mis pies.
 
 nmlch-nfmcm2_x_0342_nmlch_00: 
 M: ¡Ah!  
-C :¡Ah!
+C:¡Ah!
 M: Feyti rüngül pilunmu, rüngül pilunkelaymi eymi tüfa
-C : Ese 
+C: Ese 
 
 nmlch-nfmcm2_x_0343_nfmcm_00:
 M: <*SPA>No femkelan 
-C : No lo hago
+C: No lo hago
 
 nmlch-nfmcm2_x_0344_nmlch_00: 
 M: Chemchi kümefuy feychi kutranmu tüfi 
-C : Qué sera bueno para esta enfermedad 
+C: Qué sera bueno para esta enfermedad 
 
 nmlch-nfmcm2_x_0345_nfmcm_00: 
 M: Chemchi may kümefel 
-C : Qué sera bueno
+C: Qué sera bueno
 
 nmlch-nfmcm2_x_0346_nmlch_00:
 M: ¡Ah!
-C : ¡Ah!
+C: ¡Ah!
 
 M: Kiñeke pichikeche tume kutrankawki pingi tüfa 
-C : Hay algunos niños que también se enferman dicen 
+C: Hay algunos niños que también se enferman dicen 
 
 nmlch-nfmcm2_x_0347_nfmcm_00: 
 M: Femki <*SPA>pu'.  
-C : Asi es pues.
+C: Asi es pues.
 
 nmlch-nfmcm2_x_0348_nmlch_00: 
 M:<%>  Müna wedano 
-C : Que malo
+C: Que malo
 
 M: Tami pichikeche kiñe rume rüngül pilunfengelay tüfa
-C : Tus niños, parece que se ha enfermedado de los oidos 
+C: Tus niños, parece que se ha enfermedado de los oidos 
 
 nmlch-nfmcm2_x_0349_nfmcm_00:
 M:<*SPA>No femkelay kutranpilunkelay. 
-C : No, nunca se ha enfermado de los oidos.
+C: No, nunca se ha enfermado de los oidos.
 
 nmlch-nfmcm2_x_0350_nmlch_00:
 M: Lüflay rume tami pichikeche kiñe rume ka 
-C : Ni siquiera se ha quemado ningunos de ellos
+C: Ni siquiera se ha quemado ningunos de ellos
 nmlch-nfmcm2_x_0351_nfmcm_00: 
 M: Lüfkingün <*SPA>
-C : Se han quemado
+C: Se han quemado
 
 M: pero  ti chi mülepulu Santiaw lüffi al'ün faw 
-C : el que esta en Santiago ese se ha quemado harto
+C: el que esta en Santiago ese se ha quemado harto
 
 nmlch-nfmcm2_x_0352_nmlch_00:
 M: Ka feypüle ka .
@@ -2168,410 +2168,410 @@ C:
 
 nmlch-nfmcm2_x_0353_nfmcm_00: 
 M: Tine marca. 
-C :
+C:
 
 nmlch-nfmcm2_x_0354_nmlch_00:
 M: <Noise> N'amun'mu konfuy ti 
-C :
+C:
 
 nmlch-nfmcm2_x_0355_nfmcm_00: 
 M: May. 
-C : Sí.
+C: Sí.
 
 
 
 nmlch-nfmcm2_x_0356_nmlch_00:
 M: Rume fey. 
-C : Se ha quemado harto ese
+C: Se ha quemado harto ese
 
 nmlch-nfmcm2_x_0357_nfmcm_00: 
 M: Utrüfnakümi chem kafe nien ko
-C : Se le cayo una tasa de café 
+C: Se le cayo una tasa de café 
 
 M: <*SPA>pero <*SPA>tiene <*SPA>marca <*SPA>aqui .
-C : tiene una marca aquí.
+C: tiene una marca aquí.
 
 nmlch-nfmcm2_x_0358_nmlch_00:
 M: Rume weda fente küme trürkülerki
-C : Que malo no estan casi iguales
+C: Que malo no estan casi iguales
 
 M: tamün kutran eymi chumuelu chi 
-C : las mismas enfermedades porque sera no
+C: las mismas enfermedades porque sera no
 
 M: femuechi ka femuechi trüri tüfi. 
-C : asi mismo es casi igual.
+C: asi mismo es casi igual.
 
 nmlch-nfmcm2_x_0359_nfmcm_00:
 M: Ka kiñe reke <*SPA>pu'  
-C : Es como uno solo pues
+C: Es como uno solo pues
 
 M: welu, küme trekayawika 
-C : pero camina bien cierto
+C: pero camina bien cierto
 
 nmlch-nfmcm2_x_0360_nmlch_00:
 M: Ah.
-C : Ah.
+C: Ah.
 
 M: Welu, fey tañi lüfün ka femngechi ka lüfi 
-C : Pero, ese quemadura de él es igual que la mia.
+C: Pero, ese quemadura de él es igual que la mia.
 
 nmlch-nfmcm2_x_0361_nfmcm_00: 
 M: Ka lüffi llemay chi
-C : Se quemo igual
+C: Se quemo igual
 
 nmlch-nfmcm2_x_0362_nmlch_00:
 M: <Noise> ¡Ah!
-C :¡Ah! 
+C:¡Ah! 
 
 M:  Fey mongetuy tüfi pitalmu ka. 
-C : Ese se escapo en el hospital.
+C: Ese se escapo en el hospital.
 
 nmlch-nfmcm2_x_0363_nfmcm_00:
 M: Mongetuy pitalmu kurayawmi. 
-C : Se escapo en el hospital con las curaciones.
+C: Se escapo en el hospital con las curaciones.
 
 nmlch-nfmcm2_x_0364_nmlch_00: <hm> 
 M: Ko kafemu. 
-C : Claro con el agua del café pues
+C: Claro con el agua del café pues
 
 nmlch-nfmcm2_x_0365_nfmcm_00: 
 M: May. 
-C : Sí.
+C: Sí.
 
 nmlch-nfmcm2_x_0366_nmlch_00:
 M: <hm> Müna wedano, müna wedano,
-C : Que malo, que malo
+C: Que malo, que malo
 
 M: welu welngikelay kiduka 
-C : Pero.......... solo
+C: Pero.......... solo
 
 nmlch-nfmcm2_x_0367_nfmcm_00: 
 M:Welngi ütrüfnagi kawellumu faw <%>
-C :             se cayo del caballo aqui 
+C:             se cayo del caballo aqui 
 
 M: niy faw kom kutran niy kaveseratukelay. 
 C: tiene hartas enfermedades no puede usar cabesera.
 
 nmlch-nfmcm2_x_0368_nmlch_00:
 M: Ah.
-C : Ah.
+C: Ah.
 
 
 
 nmlch-nfmcm2_x_0369_nfmcm_00:
 M: <%> Kutranün pi faw niy fey kiñe cuellu chem.
-C : Me duele aqui dice en el cuello
+C: Me duele aqui dice en el cuello
 
 M: <%> aqui ta kaveseratukelay
-C : no puede usar cabecera
+C: no puede usar cabecera
 
 M:<%> fütra kuyfi allvüvuy femngechi 
-C : hace tiempo se lastimo asi
+C: hace tiempo se lastimo asi
 
 M:<*SPA>no <*SPA>se <*SPA>como <*SPA>se <*SPA>llama 
-C :  no se como se llama
+C:  no se como se llama
 
 M:<*SPA>la <*SPA>enfermedad payla tralal-li
-C : la enfermedad cuando se esta de espalda
+C: la enfermedad cuando se esta de espalda
 
 M: wente kawellu trananagi inche vaw ütrüfnagün 
-C : se cayo del caballo yo aquí también me cai
+C: se cayo del caballo yo aquí también me cai
 
 M: kawellumu ka kuyvi.
-C : del caballo antes.
+C: del caballo antes.
 
 nmlch-nfmcm2_x_0370_nmlch_00: 
 M:¡Oh! 
-C : ¡Oh!
+C: ¡Oh!
 
 nmlch-nfmcm2_x_0371_nfmcm_00:
 M: Chem boca abajo
-C : De boca abajo
+C: De boca abajo
 
 M: <%> faw nien allfeñ, faw rükumu 
-C : aqui tengo una harida en la espalda
+C: aqui tengo una harida en la espalda
 
 nmlch-nfmcm2_x_0372_nmlch_00: 
 M: Allfülimi eymi perke<*SPA>no. 
-C : Se habria lastimado harto no.
+C: Se habria lastimado harto no.
 
 nmlch-nfmcm2_x_0373_nfmcm_00:
 M: May.
-C : Sí.
+C: Sí.
 M: Kom allfükawün. 
-C : Me lastime toda.
+C: Me lastime toda.
 
 nmlch-nfmcm2_x_0374_nmlch_00:
 M: ¡Ah! 
-C : ¡Ah!
+C: ¡Ah!
 
 M:    fütra kuyfi tami femuechi tami weda 
-C : hace tiempo que le paso eso malo
+C: hace tiempo que le paso eso malo
 
 M:<uh> weda newentun perke ürkeno 
-C : creo que fue una fuerza mala
+C: creo que fue una fuerza mala
 
 nmlch-nfmcm2_x_0375_nfmcm_00:
 M: Fütra kuyfi <*SPA>pu'  
-C : Hace tiempo pues.
+C: Hace tiempo pues.
 
 nmlch-nfmcm2_x_0376_nmlch_00: 
 M: Y tami koñi ka femngechi -/amul/-
-C : Y tu hijo tambien 
+C: Y tu hijo tambien 
 
 M: amuli ka femngechi inawtun. 
-C : va asi su enfermedad.
+C: va asi su enfermedad.
 
 nmlch-nfmcm2_x_0377_nfmcm_00:
 M: Allfü, allfügni Santiau
-C : Se lastimó en Santiago
+C: Se lastimó en Santiago
 
 nmlch-nfmcm2_x_0378_nmlch_00: 
 M: Santiau kawellumu ütrüfnagi tüfi 
-C : En Santiago se cayo de un caballo
+C: En Santiago se cayo de un caballo
 
 nmlch-nfmcm2_x_0379_nfmcm_00:  
 M: May.
-C : Sí.
+C: Sí.
 
 M: Afuera Santiau pasiamekelu engün 
-C : fuera de Santiago cuando fue a pasear
+C: fuera de Santiago cuando fue a pasear
 
 
 M: ti chem parselamu ütrüfnagi <Cough>
-C : en una parcelas ahi se cayo
+C: en una parcelas ahi se cayo
 
 nmlch-nfmcm2_x_0380_nmlch_00: 
 M: Fey ti payla trala-li tüfi 
-C : asi ahora solo puede estar de espalda
+C: asi ahora solo puede estar de espalda
 
 nmlch-nfmcm2_x_0381_nfmcm_00:
 M: May.
-C : Sí.
+C: Sí.
 
 M: <%> ta, welu ta ka 
-C : pero...
+C: pero...
 
 nmlch-nfmcm2_x_0382_nmlch_00:
 M: Feyta may ta petu ta kutrankawküli 
-C : Hasta ahora todavia estara enfermo
+C: Hasta ahora todavia estara enfermo
 
 M: doy tañi kutrankawal perke chi 
-C : se habra enfermedo más.
+C: se habra enfermedo más.
 
 nmlch-nfmcm2_x_0383_nfmcm_00:
 M: Doy kutrankaway doy <*SPA>depue' <*SPA>pu'.  
-C : Quizas despues se enferme mas pues.
+C: Quizas despues se enferme mas pues.
 
 nmlch-nfmcm2_x_0384_nmlch_00: 
 M:¡Ah!
-C :¡Ah!
+C:¡Ah!
 
 M:Müna wedano, müna wedano 
-C : Que malo no,que malo.
+C: Que malo no,que malo.
 
 M:  feyta petu pelontuwlay kidu rayografiatulay tüfa 
-C : hasta ahora todavia no se ha visto en la radiografía
+C: hasta ahora todavia no se ha visto en la radiografía
 
 nmlch-nfmcm2_x_0385_nfmcm_00: 
 M: Entuñmangi rayografia <*SPA>pu'.  
-C : Le sacaroon radiografia pues.
+C: Le sacaroon radiografia pues.
 
 
 nmlch-nfmcm2_x_0386_nmlch_00:
 M: Ah.
-C : Ah.
+C: Ah.
 
 nmlch-nfmcm2_x_0387_nfmcm_00: 
 M:<*SPA>No <*SPA>se <*SPA>como <*SPA>quedo
-C : No se como quedo
+C: No se como quedo
 
 M: <*SPA>pero kutranki pi. 
-C : pero dice que le duele. 
+C: pero dice que le duele. 
 
 nmlch-nfmcm2_x_0388_nmlch_00:
 M: ¿Kutranki? 
-C : ¿Le duele?
+C: ¿Le duele?
 
 nmlch-nfmcm2_x_0389_nfmcm_00:
 M: May.
-C : Sí.
+C: Sí.
 
 nmlch-nfmcm2_x_0390_nmlch_00:
 M: Elungelay certificau* de invalide pingelu tüfi. 
-C : No le dieron certificado de invalides que se llama.
+C: No le dieron certificado de invalides que se llama.
 
 nmlch-nfmcm2_x_0391_nfmcm_00:
 M: Elungelay kudawki secretaria ese 
-C : No le han dado trabajo, trabajaba de secretaria
+C: No le han dado trabajo, trabajaba de secretaria
 
 nmlch-nfmcm2_x_0392_nmlch_00:
 M: ¡Ah!
-C : ¡Ah!
+C: ¡Ah!
 
 M: e'pecialista may eluafeyu ti. 
-C : Un especialista le podria dar.
+C: Un especialista le podria dar.
 
 nmlch-nfmcm2_x_0393_nfmcm_00: 
 M: Femafeyu <*SPA>pu'.  
-C : Le podrían dar pues.
+C: Le podrían dar pues.
 
 
 
 nmlch-nfmcm2_x_0394_nmlch_00:
 M: Eymi ta küme e'peciali'ta pengelmu ,
-C : A usted le viera un buen especialista,
+C: A usted le viera un buen especialista,
 
 M: papay, fey eluafeymu certifica'o de invalidez. 
-C : mamita, le daria un certificado de invalidez.
+C: mamita, le daria un certificado de invalidez.
 
 nmlch-nfmcm2_x_0395_nfmcm_00: 
 M: Fey femafuy <*SPA>pu.'  
-C : Lo podria hacer pues.
+C: Lo podria hacer pues.
 
 nmlch-nfmcm2_x_0396_nmlch_00: 
 M: Feymu ta eymi <uh> -/pepilu/-
-C : Por eso usted no puede
+C: Por eso usted no puede
 
 M: pepi küdawkenolu am feyta eymi mülefuy tami
-C : trabajar, usted tiene como  
+C: trabajar, usted tiene como  
 M: <uh> femuechi <uh> pediafel certifica'o de invalidez
-C :  pedir un certificado de invalidez
+C:  pedir un certificado de invalidez
 
 M: feyta eymi pepi küdawnolu kay. 
-C : ya que no puede trabajar. 
+C: ya que no puede trabajar. 
 
 nmlch-nfmcm2_x_0397_nfmcm_00:
 M: Femi llemay. 
-C : Asi es pues.
+C: Asi es pues.
 
 nmlch-nfmcm2_x_0398_nmlch_00:
 M: Rume inawtulen pifilmi fey elungeafuymi ka 
-C : Sigo igual si les dice le podrian dar.
+C: Sigo igual si les dice le podrian dar.
 
 nmlch-nfmcm2_x_0399_nfmcm_00: 
 M: Femngeafun llemay. 
-C : Asi podria ser pues.
+C: Asi podria ser pues.
 
 nmlch-nfmcm2_x_0400_nmlch_00:
 M: Müli ta femngechi <*SPA>papel  tati<uh> 
-C : Hay un papel que sirve para eso
+C: Hay un papel que sirve para eso
 
 M: wüngekelu tüfi 
-C : tiene que hablar 
+C: tiene que hablar 
 
 M:<%> invalide' certifica'o pingi 
-C : certificado de invalides se llama 
+C: certificado de invalides se llama 
 
 nmlch-nfmcm2_x_0401_nfmcm_00:
 M: Mülepelafuy. 
-C : Dede hader pues.
+C: Dede hader pues.
 
 nmlch-nfmcm2_x_0402_nmlch_00:
 M: Feli müli, pepi küdawnolu 
-C : Sí hay para las personas que no pueden trabajar
+C: Sí hay para las personas que no pueden trabajar
 
 M: rume kutrankawkülelu feyta puedelay tañi 
-C : los que estan muy enfermos los que no pueden
+C: los que estan muy enfermos los que no pueden
 
  M:<uh> re feleafel ka. 
-C : estan asi no más.
+C: estan asi no más.
 
 nmlch-nfmcm2_x_0403_nfmcm_00:
 M: ¡Ah!    
-C : ¡Ah!
+C: ¡Ah!
 
 nmlch-nfmcm2_x_0404_nmlch_00:
 M: Feypiafimi may tami <*SPA>doctor . 
-C : Le dice no mas al doctor.
+C: Le dice no mas al doctor.
 
 nmlch-nfmcm2_x_0405_nfmcm_00:
 M: Feypiafiñ <*SPA>pu'  
-C : Le voy a decir pues
+C: Le voy a decir pues
 
 M: kim dunguy che fey kompañanu kiñemu kimlaiñ feyta.
-C : a una que sepa hablar le dire que me acompañe.
+C: a una que sepa hablar le dire que me acompañe.
 
 nmlch-nfmcm2_x_0406_nmlch_00:
 M: <hm> Feyta inche rume mañumnieyu 
-C : YOP lo podria acompañar
+C: YOP lo podria acompañar
 
 
 M: tami nütrammu pewmangelmi 
-C : para que convercemos cuando lo vea
+C: para que convercemos cuando lo vea
 
 M: ta doy petuaymi l'awen'
-C : puede encontrar ma remedios
+C: puede encontrar ma remedios
 
 M: ka küme trekarupayawtuafuymi tati papay. 
-C : y caminar mejor mamita. 
+C: y caminar mejor mamita. 
 
 nmlch-nfmcm2_x_0407_nfmcm_00: 
 M: Femafun llemay. 
-C : Asi lo puedo hacer pues.
+C: Asi lo puedo hacer pues.
 
 nmlch-nfmcm2_x_0408_nmlch_00: 
 M: Inche ta feychi küdaw niawülün fey inche ta amuletuan tüfa 
-C : Bueno yo andaba haciendo este trabajo ahora me voy retirando 
+C: Bueno yo andaba haciendo este trabajo ahora me voy retirando 
 
 nmlch-nfmcm2_x_0409_nfmcm_00: 
 M: Femaymi <*SPA>pu'  chaw, 
-C : Bueno pues padre,
+C: Bueno pues padre,
 
 M:<uh> küme amutuaymika.
-C : que le vaya bien.
+C: que le vaya bien.
 
 nmlch-nfmcm2_x_0410_nmlch_00:
 M: Feley, feley.
-C : Sí, sí.
+C: Sí, sí.
 
 nmlch-nfmcm2_x_0411_nfmcm_00: 
 M: Al'ü tuwi tami rukamu tati. 
-C : Como esta lejo su casa.
+C: Como esta lejo su casa.
 
 nmlch-nfmcm2_x_0412_nmlch_00:
 M: Al'ü tuwi, fillpüle miawalu inche tüfa papay, fillpüle 
-C : Esta lejos.como yo ando en todas partes mamita
+C: Esta lejos.como yo ando en todas partes mamita
 
 M:<%> fill papay, peñi witrankontuafilu icnhe 
-C : en todas partes, a los hermanos les visito
+C: en todas partes, a los hermanos les visito
 
 M: ta feyta ramtuafilu ka. 
-C :  y ademas les hago una entrevista.
+C:  y ademas les hago una entrevista.
 
 
 nmlch-nfmcm2_x_0413_nfmcm_00:
 M: Ya. 
-C : Ya.
+C: Ya.
 
 nmlch-nfmcm2_x_0414_nmlch_00:
 M: Itrofill mapu am mülelu tüfachi dungu. 
-C : En todas partes hay la misma conversación. 
+C: En todas partes hay la misma conversación. 
 
 nmlch-nfmcm2_x_0415_nfmcm_00:
 M: Itrofill mapu <*SPA>pu'.  
-C : En todas partes pues.
+C: En todas partes pues.
 
 nmlch-nfmcm2_x_0416_nmlch_00:
 M: <hm> Fey pewmangelmi peñmuafuymi l'awen'
-C : Si sueña, ojala que sueñe con remedios 
+C: Si sueña, ojala que sueñe con remedios 
 M: ka kümekechi ta trekarupatuafuymi tati papay,
-C : cuando se mejore ojala que pudiese caminar mamita,
+C: cuando se mejore ojala que pudiese caminar mamita,
 
 M: inche ta amuletuan tüfa. 
-C : yo me voy ahora.
+C: yo me voy ahora.
 
 nmlch-nfmcm2_x_0417_nfmcm_00:
 M: Femaymi. 
-C : Hagalo no más.
+C: Hagalo no más.
 
 nmlch-nfmcm2_x_0418_nmlch_00:
 M: Pewkayal papay, chaltu may. 
-C : Chao mamita y muchas gracias. 
+C: Chao mamita y muchas gracias. 
 
 nmlch-nfmcm2_x_0419_nfmcm_00: 
 M: Pewkayal. <Noise>.
-C : Chao.
+C: Chao.
 
 
 

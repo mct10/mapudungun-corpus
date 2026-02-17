@@ -112,7 +112,7 @@ M: kümelay longko
 C: no esta bien la cabeza 
 
 M: pilun kom tuy 
-C. todo toma oídos, 
+C: todo toma oídos, 
 
 M: ka künuy ta rünkoy n'amun' tati
 C: también agarra los talones de los pies pues
@@ -219,7 +219,7 @@ M: *koni ta foyel'awen'
 C: entra remedio de canelo 
 
 M: longko... longkomu ta 
-C. cabeza... en la cabeza pues 
+C: cabeza... en la cabeza pues 
 
 M: *fey ngüllfüngi tati foyel'awen' kom 
 C: entonces se refriega en remedio canelo 
@@ -1103,7 +1103,7 @@ C: entonces pues todo bien
 M: organu küme 
 C: su órgano se normaliza 
 M: kontrolatuy tañi organu.
-C. se controla su órgano.
+C: se controla su órgano.
 
 nmlch-lfmcnB1_x_0132_nmlch_00: 
 M: ¡Ah!
@@ -1236,7 +1236,7 @@ C: ¿Raíz?
 
 nmlch-lfmcnB1_x_0151_lfmcn_00: 
 M: May
-C : Sí 
+C: Sí 
  
 M: folil trafonentu 
 C: que la raíz se quebré 
@@ -1267,7 +1267,7 @@ C: ka koni ta
 C: también entra pues: 
 
 M: ka pichin palu santu <Noise> *konki. 
-C. también un poco de palo santo entra.
+C: también un poco de palo santo entra.
 
 nmlch-lfmcnB1_x_0154_nmlch_00: 
 M: ¡Ah!
@@ -1277,7 +1277,7 @@ M: wawyukelaymi.
 C: no le ha dado hemorragia en la nariz. 
 
 nmlch-lfmcnB1_x_0155_lfmcn_00: 
-M. May
+M: May
 C: Sí
 
 M: wawyufengelan.
@@ -1304,7 +1304,7 @@ C: Sí
 M: chem anta l'awen'no *lamngen 
 C: que no es remedio hermano 
 
-M. müna kom ta. 
+M: müna kom ta. 
 C: casi todos pues.
 
 nmlch-lfmcnB1_x_0160_nmlch_00: 
@@ -1360,7 +1360,7 @@ M: katrülki chem ta fey <*SPA>
 C: controla eso pues eso 
 
 M: no'y'que re chem kay 
-C. no, y que puro eso pues 
+C: no, y que puro eso pues 
 
 M: *fey *inkertatuy ta yu 
 C: eso injerta la nariz 
@@ -1658,7 +1658,7 @@ C: niños jóvenes.
 nmlch-lfmcnB1_x_0205_nmlch_00: 
 M: Mongeki.
 C: Se mejora 
-.
+
 nmlch-lfmcnB1_x_0206_lfmcn_00: 
 M: Pichikeche.
 C: Niño (a) pequeño (a).
@@ -1838,7 +1838,7 @@ C: a veces es más fuerte
 M: kiñekentu 
 C: muchas veces 
 M: epu rumi ta trafentulli
-se categorizar en dos este encuentro maligno 
+C: se categorizar en dos este encuentro maligno 
 M: kay meulentuy 
 C: también se encuentra con remolino 
 
@@ -2009,7 +2009,7 @@ C: para riñón pues
 M: ka *müli llemay ta l'awen'.
 C: también hay remedio.
 
-nmlch-lfmcnB1_x_0261_nmlch_00: *
+nmlch-lfmcnB1_x_0261_nmlch_00: 
 M: ¿Chumngelu *kutranki <SPA>riñón <Cough>?
 C: ¿Por qué duele el riñón?
 
@@ -2092,7 +2092,7 @@ M: fey llemay ta konkay ta  notru <Noise>
 C: entonces pues entra también el notro.
 
 nmlch-lfmcnB1_x_0271_nmlch_00: 
-<uhm> <Noise> 
+<uhm> 
 
 nmlch-lfmcnB1_x_0272_lfmcn_00: 
 M: Wingan <Noise> ka *koni ta 
@@ -2396,7 +2396,7 @@ C: likan.
 
 nmlch-lfmcnB1_x_0316_lfmcn_00: 
 M: May may may. 
-Sí, sí, sí
+C: Sí, sí, sí
 
 M: likan *pingi tati 
 C: lican se llama pues 
@@ -2559,7 +2559,7 @@ C: úlcera nerviosa se llama en huinca.
 
 nmlch-lfmcnB1_x_0342_lfmcn_00: 
 M: May. 
-C. Sí. 
+C: Sí. 
  
 nmlch-lfmcnB1_x_0343_nmlch_00: 
 M: Kimfimi tüfi. 
@@ -2679,7 +2679,7 @@ C: fochid, fochid
 M: kachan l'awen' tüfey 
 C: cachan lawen eso 
 
-M. kümeki *lamngen.
+M: kümeki *lamngen.
 C: es bueno hermano.
 
 nmlch-lfmcnB1_x_0360_lfmcn_00: 
@@ -2743,7 +2743,7 @@ M: <*SPA>y ka fey kom folilan tati
 C: Y eso todo es raíz 
 
 M: kom folil.
-C. todo es raíz.
+C: todo es raíz.
 
 nmlch-lfmcnB1_x_0370_lfmcn_00: 
 M: Kom folil.
@@ -3607,7 +3607,7 @@ C: Sí
 M: wechalelu tañi utrum tati 
 C: esta malo el hígado pues 
 
-M. rume nielu 
+M: rume nielu 
 C: tiene mucho 
 
 M: feluwe piuke pi ta mapuche 
@@ -3678,7 +3678,7 @@ M: ta küpalmemu *nieki ta newen che <uh> <%>
 C: es hereditario tiene pues la fuerza la gente 
 
 M: ta kimün 
-C. conocimiento 
+C: conocimiento 
 
 M: feymu peno ta  eymi ta kimfimi tati. 
 C: por eso yo creo que usted tiene conocimiento pues.

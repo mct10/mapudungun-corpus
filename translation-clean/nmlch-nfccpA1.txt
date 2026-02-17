@@ -252,7 +252,7 @@ M: pelay ta patilla.
 C: no encontró pastilla.
 
 nmlch-nfccpA1_x_0026_nmlch_00: 
--/pes/-
+
 
 nmlch-nfccpA1_x_0027_nfccpA_00: 
 M: Ngelay ta pital 
@@ -2305,7 +2305,7 @@ nmlch-nfccpA1_x_0257_nmlch_00:
 M: Feley pu'.
 C: Así es pues.
 
-nmlch-nfccpA1_x_0258_nfccpA_0:
+nmlch-nfccpA1_x_0258_nfccpA_00:
 M: Chumlepe rume nga ñi püñeñ, pilay,
 C: Que haga lo que quiera mi hijo, no dice,
 
@@ -2429,7 +2429,7 @@ M: Ah.
 C: Ah.
 
 M:  Femi may. 
-C. Así es sí.
+C: Así es sí.
 
 nmlch-nfccpA1_x_0278_nfccpA_00: 
 M: Feymu fey feypingey chi pelotuy mamá 
@@ -3695,7 +3695,7 @@ C: que dan enfermedades.
 nfccpA1_x_0434_nfccpA_00ch_00:
 M:  <*SPA>Ya.
 C: Ya.
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 nmlch-nfccpA1_x_0435_nfccpA_00: 
 M: Müley ta menoko,
 C: Hay esteros,
@@ -3948,7 +3948,7 @@ C: el que hace pelotun a la gente ese sabe.
 
 nmlch-nfccpA1_x_0465_nmlch_00:
 M:  Fey. 
-C. Eso.
+C: Eso.
 
 nmlch-nfccpA1_x_0466_nfccpA_00:
 M:  Kimlu ta dungu
@@ -4189,7 +4189,7 @@ C: para que se mejoren, se mejoran.
 
 nmlch-nfccpA1_x_0485_nmlch_00:
 M:  Feley pu' lamuen. 
-C. Así es pues hermana.
+C: Así es pues hermana.
 
 nmlch-nfccpA1_x_0486_nfccpA_00:
 M: Inalkefin tañi l'awen'engün, 
@@ -4779,7 +4779,7 @@ C: Así es pues.
 
 nmlch-nfccpA1_x_0563_nfccpA_00: 
 M: Kimnienolu, 
-C. Que no sabe, 
+C: Que no sabe, 
 
 M: komnolu ta machimu.
 C: que no entra donde la machi.
@@ -5332,4 +5332,3 @@ M:  Kechu <*SPA>pu', kechumaripataka tripantu.
 C: Cinco pues, quinientos años.
 
 
-Cañulef

@@ -479,7 +479,7 @@ M: wingka tañi l'awen' ka.
 C: el remedio huinca también.
 
 nmlch-nfccpA2_x_0044_nmlch_00: 
-<hm> <%> 
+<hm>
 
 nmlch-nfccpA2_x_0045_nfccpA_00: 
 M: Palümkunufemaymi patilla pi, 
@@ -1856,9 +1856,8 @@ C: Hasta luego.
 
 nmlch-nfccpA2_x_0189_nfccpA_00: 
 M: Peukayal. 
-C. Hasta luego.
+C: Hasta luego.
 
-Cañulef
 
 
 

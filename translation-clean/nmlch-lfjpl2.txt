@@ -317,7 +317,7 @@ M: May.
 C: Sí.
 
 nmlch-lfjpl2_1_0031_nmlch_00: 
-<uh>.
+<uh>
 
 nmlch-lfjpl2_1_0032_lfjpl_00:
 M: <*SPA>Ese <*SPA>se <*SPA>toma 
@@ -1264,7 +1264,7 @@ M: Fey lamngen tüfey <!1tüfi> mapumu pipiyu nga.
 C: Eso es hermana sobre la tierra, que estoy diciendo.
 
 nmlch-lfjpl2_1_0165_lfjpl_00:
-<hm>.
+<hm>
   
 nmlch-lfjpl2_1_0166_nmlch_00: 
 M: Eymi ka feypipeymi
@@ -1417,7 +1417,7 @@ C: Como también al witranalhue
 
 nmlch-lfjpl2_1_0191_lfjpl_00:
 M: Witranalwe ka fey <!1nümüki> 
-C Witranalhue también 
+C: Witranalhue también 
 
 M: <*SPA>ese <*SPA>pues <!1pu'>.
 C: ese pues.
@@ -1504,7 +1504,7 @@ M: cheu kuduli piesamu rukamu
 C: en cualquier parte que este sólo en su pieza en la casa
 
 M: wente püwichi lasu <*SPA>parece 
-C encima llega el lazo parece
+C: encima llega el lazo parece
 
 M: petu anüliyiñ femekey <!1femeki> chi lasu.
 C: cuando todavía estábamos sentados hacía así el lazo.
@@ -1832,7 +1832,7 @@ nmlch-lfjpl2_1_0233_nmlch_00:
 M: Wemüntukulelngeki ka pingey che.
 C: También se lo mandan dicen según las gentes.
  
-nmlch-lfjpl2_1_0234_lfjpl_00
+nmlch-lfjpl2_1_0234_lfjpl_00:
 M: Ka femngechi <*SPA>pues <!1pu'>
 C: También con eso pues
 
@@ -2048,7 +2048,7 @@ M: müleyi ka kümeke l'awen'
 C: hay remedio bueno
 
 M: ka wedake l'awen'
-C. como también remedio malo
+C: como también remedio malo
 
 M: ka wechanagam ka fey müley.
 C:  y también hay wechanagam.
@@ -2636,7 +2636,7 @@ M: <*SPA>no <*SPA>tiene <*SPA>nada
 C: no tiene nada
 
 M: <*SPA>que <*SPA>descuidarse <*SPA>mismo 
-C. que descuidarse uno mismo
+C: que descuidarse uno mismo
 
 M:<*SPA>hijo feypieneu 
 C: hijo me dijo
@@ -2953,4 +2953,3 @@ C: Yo estoy más o menos en mi casa[ECH1].
 
 
 
-[ECH1]

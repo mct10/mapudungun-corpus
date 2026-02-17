@@ -1578,7 +1578,7 @@ C: ase tiempo era así
 M: felelay pu felelafuy ta dungu 
 C: no era así, no se decía así 
 
-nmlch-nffh2_x_0141_nmlch_00
+nmlch-nffh2_x_0141_nmlch_00:
 M: ¿kuyfi feyti felelafuy?
 C: ¿ Eso antes no era así?.
 

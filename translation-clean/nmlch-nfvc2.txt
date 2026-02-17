@@ -986,7 +986,7 @@ nmlch-nfvc2_x_0122_nfvc_00:
 M:SPA>Noinche tulan 
 C: No eso no recibí
 
-SPA>ahorasí <SPA>siempre
+M: <SPA>ahorasí <SPA>siempre
 C: ahora sí siempre
 
 M: kontrolkiawki che
@@ -1436,7 +1436,7 @@ M: ka fey liglavuy
 C: tampoco hay no blanqueo 
 
 M: <SPA>ahora <SPA>mi <SPA>hermana
-C ahora mi hermana
+C: ahora mi hermana
 
 M: <SPA>tengo  <SPA>una  <SPA>hermana 
 C: tengo una hermana 
@@ -1968,7 +1968,7 @@ M: <SPA>Sí pu <SPA>alguno
 C: Sí pues algunos
 
 M: fellentukelay pu <Noise>
-C no obedecen pues.
+C: no obedecen pues.
  
 nmlch-nfvc2_x_0236_nmlch_00: 
 M: Petu, petu ta ñamtuy

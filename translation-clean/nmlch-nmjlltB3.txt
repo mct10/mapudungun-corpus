@@ -2660,7 +2660,7 @@ M: Rukapange.
 C: Rucapange.
 
 nmlch-nmjlltB3_x_0299_nmjllt_00: 
-M May.
+M: May.
 C: Sí.
 
 nmlch-nmjlltB3_x_0300_nmlch_00:

@@ -346,8 +346,7 @@ nmlch-pfjqm1_1_0336_pfjqm_00: fey mülekay tati areglakelu ka kuyfi tañi mülek
 nmlch-pfjqm1_1_0337_nmlch_00: kiñeke che kim areglay 
 nmlch-pfjqm1_1_0338_pfjqm_00: kim, kim areglay  
 nmlch-pfjqm1_1_0339_nmlch_00: ¡Aa! feyti püuküley petu femngechi trafon trafonmu
-nmlch-pfjqm1_1_0340_pfjqm_00: <*SPA>sí <*SPA>aqui <*SPA>hay <*SPA>varios <*SPA>pues <!1pu'> tañi femngechi
-areglaken che 
+nmlch-pfjqm1_1_0340_pfjqm_00: <*SPA>sí <*SPA>aqui <*SPA>hay <*SPA>varios <*SPA>pues <!1pu'> tañi femngechi areglaken che 
 nmlch-pfjqm1_1_0341_nmlch_00:  ¡Aa! <P> petu püuküley feymu
 nmlch-pfjqm1_1_0342_pfjqm_00: petu püuküley 
 nmlch-pfjqm1_1_0343_nmlch_00: pafmukeymi kay eymi?

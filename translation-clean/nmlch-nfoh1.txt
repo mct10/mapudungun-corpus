@@ -912,7 +912,7 @@ M: müte fürey ke tati
 C: es muy amargo sí ese
 
 M:  müte pütokonmu kümelay.
-C : no es bueno tomar mucho.
+C: no es bueno tomar mucho.
 
 nmlch-nfoh1_x_0107_nmlch_00: 
 M: ¡Ah!
@@ -1893,7 +1893,7 @@ C: por eso nosotros los que somos mapuche
 M:  feymu ta illkuki ta machi
 C: por eso se enoja la machi 
 
-M  wingkawi tañi deya pi 
+M:  wingkawi tañi deya pi 
 C: esta a huincada mi heramna dice
 
 M: ta Chaw Dio rüf tati Chaw Dio ta illkuki

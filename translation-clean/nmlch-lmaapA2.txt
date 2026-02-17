@@ -338,7 +338,7 @@ M: Tüva ta rupay ta chavo ka.
 C: Este paso el resfriado también.
  
 nmlch-lmaapA2_x_0041_nmlch_00: 
-M. Ah. 
+M: Ah. 
 C: Ah.
 
 M: Sisaña engu natrün engün funa willen.

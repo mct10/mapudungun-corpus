@@ -71,7 +71,7 @@ C: Año Nuevo.
 M: Veyta kom püle ta
 C: Entonces en todas partes,
 
-M veyta selebrangi tati
+M: veyta selebrangi tati
 C: ésto se celebra. 
 
 M: we tripantu
@@ -246,7 +246,7 @@ M: kimün pikingün dew kimuwleki
 C: conocimiento dicen ya saben.
 
 
-M : kisuengün kom. 
+M: kisuengün kom. 
 C: todos ellos todos.
 
 nmlch-pmrmmB1_x_0017_nmlch_00: 
@@ -794,7 +794,7 @@ M: tati ti tranalla tati
 C: eso botado,
 
 M: piwkeluwküle kay tati 
-C 
+C:
 
 M: utrumu ta mülepuy
 C: de visita está,
@@ -1038,7 +1038,7 @@ C: así  que  como hay,
 M:  se desaparesio <*SPA>todo
 C: se desapareció todo.
 
-M tüva <*SPA>nadie <*SPA>lo ocure 
+M: tüva <*SPA>nadie <*SPA>lo ocure 
 C: ahora nadie lo ocurre.
 
 M: <*SPA>ahora noay
@@ -1085,7 +1085,7 @@ C: existe en lo que no es capáz el huinca.
 M:  <uh> müli ta pafmu,
 C: existe el aire,
 
-M müli ka trafentun,
+M: müli ka trafentun,
 C: existe también el ver cosas,
 
 M: müli ta ilel ngelu, 
@@ -1135,7 +1135,7 @@ C: ella no es medica.
 M: mi <*SPA>señora<*SPA> pero <*SPA>ella
 C: mi señora pero ella,
 
-M <*SPA>una <*SPA>persona 
+M: <*SPA>una <*SPA>persona 
 C: una persona muy importante,
 
 M: muy <*SPA>importante
@@ -1230,7 +1230,7 @@ C: cuando va a tener,
 M:  tati eperalechi domo chi 
 C:  si está esperando la mujer,
 
-M <*SPA>ospitalmu mülepukelu
+M: <*SPA>ospitalmu mülepukelu
 C: en el hospital, está,
 
 M:  <*SPA>la <*SPA>ultima wawa 
@@ -1248,7 +1248,7 @@ C: dice, andaba.
 M: <uh> <*SPA>ke <*SPA>tenia
 C:  que tenía.
 
-<*SPA>la wawa <*SPA>atravesaw
+M:<*SPA>la wawa <*SPA>atravesaw
 C: la guagua atravesada.
 
 nmlch-pmrmmB1_x_0066_nmlch_00: 
@@ -1738,7 +1738,7 @@ C: en una importante reunión,
 M: mülepiyin chumul 
 C: estuvimos el otro día,
 
-M kiñe lamngen chumül ta
+M: kiñe lamngen chumül ta
 C: un hermano el otro día,
 
 M:  kontapuy tati
@@ -1981,7 +1981,7 @@ C: los hermanos fue a decir.
 M: lamngen <*SPA>comprovo pi
 C: hermano comprobó dijo.
 
-<*SPA> comprobó pi
+M:<*SPA> comprobó pi
 C: comprobó dijo.
 
 M: koyla sungu reke
@@ -2361,7 +2361,7 @@ nmlch-pmrmmB1_x_0119_nmlch_00:
 M: Kiñekemu ta
 C: Algunas veces. 
 
-M : pekan ta kulfu kompuy
+M: pekan ta kulfu kompuy
 C: como sea llega y entra.
 
 M: müten ta che

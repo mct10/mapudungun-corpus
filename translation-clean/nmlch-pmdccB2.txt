@@ -96,7 +96,7 @@ C: y también ese no ves que ahora hay ese ladrillo,
 M: ladrillu tati.
 C: ladrillo pues. 
 
-nmlch-pmdccB2_1_0003_nmlch_00
+nmlch-pmdccB2_1_0003_nmlch_00:
 M: Rag.
 C: Arcilla.
 
@@ -358,8 +358,7 @@ C:  Y los niños no deben pisar.
 
 nmlch-pmdccB2_1_0027_nmlch_00:
 M:  ¿Rüleyem fey konkey pichikeche pitalmu?
-C: ¿Cuándo estan resfriados entonces entran los niños al 
-hospital?
+C: ¿Cuándo estan resfriados entonces entran los niños al hospital?
 
 nmlch-pmdccB2_1_0028_pmdcc_00:
 M: May.
@@ -564,7 +563,7 @@ C:   Sí.
 M:  <*SPA>Ese <*SPA>muy <*SPA>bueno.
 C: Ese es muy bueno.
 
-nmlch-pmdccB2_1_0051_nmlch_00
+nmlch-pmdccB2_1_0051_nmlch_00:
 M: ¿Feyti kachu l'awen'?
 C: ¿Esa hierba medicinal? 
 
@@ -599,7 +598,7 @@ M:  kimluanta ta pekan feypirumerkey
 C: el que sabe no lo dice descuidadamente
 
 M: <*SPA>no kümelay piam rume, rume feypin.
-C; no,dicen que no es bueno decir mucho. 
+C: no,dicen que no es bueno decir mucho. 
 
 nmlch-pmdccB2_1_0055_nmlch_00:
 M:¡Aa!
@@ -614,7 +613,6 @@ M: Dachefe <!1sachefe>.
 C: Médico. 
 
 nmlch-pmdccB2_1_0058_pmdcc_00:
- <hm> pu antiguyem 
 
 nmlch-pmdccB2_1_0059_nmlch_00:
 M: ¡Aa!
@@ -636,7 +634,7 @@ nmlch-pmdccB2_1_0063_nmlch_00:
 M: ¡Aa!
 C: ¡Ah! 
 
-M Dawe <!1sawe> pengeafuy chuchimu?
+M: Dawe <!1sawe> pengeafuy chuchimu?
 C: Donde se puede encontrar la quínoa?
 
 nmlch-pmdccB2_1_0064_pmdcc_00: 
@@ -759,7 +757,7 @@ nmlch-pmdccB2_1_0081_nmlch_00:
 M: Chema *rülor pingey.
 C:   Qué era lo que se llama rülor.
 
-nmlch-pmdccB2_1_0082_pmdcc_00
+nmlch-pmdccB2_1_0082_pmdcc_00:
 M: +/Wülor/+ Wülo ringi.
 C:  Wülo de coligüe
 
@@ -1156,7 +1154,7 @@ M: Chumlekefel dungu kuyfi,
 C: Como serían las cosas antes, 
 
 M: chunten antü tañi ngellipukefel engün.
-C.  cuánto tiempo harían las ceremonías ellos.
+C:  cuánto tiempo harían las ceremonías ellos.
 
 nmlch-pmdccB2_1_0136_pmdcc_00:
 M: Fey. 
@@ -1213,7 +1211,7 @@ M:  ka nierputuy fotüm.
 C:   y hasta tuvo hijo.
 
 nmlch-pmdccB2_1_0145_nmlch_00: 
-Ka Nietuy fotüm.
+M: Ka Nietuy fotüm.
 C:   Tuvo hijo.
 
 nmlch-pmdccB2_1_0146_pmdcc_00:
@@ -1257,7 +1255,7 @@ M: ¡Aa!
 C:  ¡Ah!
 
 nmlch-pmdccB2_1_0153_pmdcc_00:
-M : Fey engün mületuy <Noise> feyta kuydanetuy.
+M: Fey engün mületuy <Noise> feyta kuydanetuy.
 C:  Cuando ellos estan, entonces lo cuidan.
  
 nmlch-pmdccB2_1_0154_nmlch_00:
@@ -1304,7 +1302,7 @@ M:<*SPA>el <*SPA>unico
 C:  el único, 
 
 M:  <*SPA>ese <*SPA>más <!1ma'>,
-C.  ese es el más viejo,
+C:  ese es el más viejo,
 
 M:  <*SPA>más <!1ma'> <*SPA>viejo <!1vieju>.
 C:    más viejo.
@@ -1474,7 +1472,7 @@ M:  pu <*SPA>nuevo <!1nueu> ta kümelay
 C:  para los nuevos no es bueno
 
 M:  pilay re dulcetualu müten
-C.  no quieren comer solo dulce
+C:  no quieren comer solo dulce
 
 M:  fey müten ta doy duami <!1suami> femlliyiñ may tañi 
 C:   eso es lo que mas quieren, eso hicimos
@@ -1885,7 +1883,7 @@ nmlch-pmdccB2_1_0244_pmdcc_00:
 M: ¡Aa! ja 
 C: Aja
 
-M. <*SPA>flor <*SPA>rosa 
+M: <*SPA>flor <*SPA>rosa 
 C:  flor de rosa
 
 M: feyta kümey <P> feyta rume kümey fayimünmu. 
@@ -2187,7 +2185,7 @@ C: Le salía pus pues
 
 nmlch-pmdccB2_1_0304_pmdcc_00:
  M: ¡Aa! femki fey, fey, fey feylleno. 
-C  ¡Ah!  Eso hace ese, eso debe ser no.
+C:  ¡Ah!  Eso hace ese, eso debe ser no.
 
 nmlch-pmdccB2_1_0305_nmlch_00:
 M:   Peñi tüfi kay tami pichi peñi ta, ta lüfi tati 
@@ -2376,7 +2374,7 @@ nmlch-pmdccB2_1_0332_nmlch_00:
 M:  Lüpümngeyem <*SPA>despues fey lapantukulelngetukey ka. 
 C:  Y cuando se quema después se coloca como parche pues.
 
-nmlch-pmdccB2_1_0333_pmdcc_00
+nmlch-pmdccB2_1_0333_pmdcc_00:
 M:  May.
 C: Sí.
 

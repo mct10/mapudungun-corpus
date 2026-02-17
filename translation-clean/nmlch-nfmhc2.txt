@@ -2035,7 +2035,7 @@ M: Kümey ta rüngül pilun ka chaw <*SPA>pero.
 C: Es bueno para cuando sale grano también padre pero.
 
 nmlch-nfmhc2_x_0238_nmlch_00: 
-M. ¿Tapül tupey folil?
+M: ¿Tapül tupey folil?
 C: ¿ Hoja comió raíz?
  
 nmlch-nfmhc2_x_0239_nfmhc2_00: 

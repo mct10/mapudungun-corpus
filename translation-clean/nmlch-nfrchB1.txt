@@ -387,7 +387,7 @@ C:  se cuida la persona cuando está lloviendo
 M:  ¿pingekela anchi ga? 
 C:  ¿no se dice así? 
 
-B1_x_0025_nfrch_00
+B1_x_0025_nfrch_00:
 M: Foye cheu pengeafuy,
 C:  Y el Canelo donde se va a encontrar,
 
@@ -444,8 +444,8 @@ nmlch-nfrchB1_x_0027_nfrch_00:
 M:May.
 C: Sí.
 
-M : Karü tapül müten. 
-C : Hojas verdes nomás.
+M: Karü tapül müten. 
+C: Hojas verdes nomás.
 
 
 nmlch-nfrchB1_x_0028_nmlch_00: 
@@ -995,7 +995,7 @@ C: Así hacemos nosotros.
 
 nmlch-nfrchB1_x_0077_nmlch_00:
 M: ¡Ah! 
-C : ¡Ah!
+C: ¡Ah!
  
 M: feyti lamngen
 C: eso hermana;
@@ -2271,7 +2271,7 @@ M: ta mongenmu kuifi,
 C: antes en la vida,
 
 M: <uh>fentre poye kerkefuy
-C : existia harto cariño
+C: existia harto cariño
 
 M: tañi feyentunengen ka,
 C: por la obediencia pues,
@@ -2501,7 +2501,7 @@ M: feula kisu ñi femeki fel femekenmeu
 C: ahora solo esta haciendo lo que hace
 
 M:  fey doy<uh>kisuengün kutrankingün.
-C :  por eso solos se enferman. 
+C:  por eso solos se enferman. 
 
 M:  Ka fey ngenoyem l'awen' fey.
 C:  Cuando no hay remedio.
@@ -2576,4 +2576,3 @@ C: tenían harta fuerza
 M: tüfi we iyal perkeno mapumu tripapalu tüfi.
 C: debe ser una nueva comida eso que salio de la tierra.
 
-Cañulef

@@ -1726,7 +1726,7 @@ C: entrega suerte
 M: kelluli nagümnepay tañi ketran
 C: ayuda y baja su producto de cultivo
 
-M nagümnepay tañi kulliñ 
+M: nagümnepay tañi kulliñ 
 C: baja su animale
 
 M: ta <Noise> kuydalu dapilu 

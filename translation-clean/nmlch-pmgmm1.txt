@@ -88,7 +88,7 @@ C:  hay harta verdura decimos
 M:  <*SPA>pero <*SPA>dicen <*SPA>que <*SPA>halla 
 C:  pero dicen que allá
 
-M<*SPA>chacra pingetuy. 
+M: <*SPA>chacra pingetuy. 
 C:  chacra se le llama.
 
 nmlch-pmgmm1_x_0009_nmlch_00:
@@ -307,7 +307,7 @@ M:  <*SPA>y guelta pirki.
 C:  y vuelta grande había dicho.
 
 nmlch-pmgmm1_x_0039_nmlch_00:
- <Laugh><Laugh>
+
 nmlch-pmgmm1_x_0040_pmgmm_00:
 M: <*SPA>Y <*SPA>y <*SPA>hay 
 C:  Y, y ahí
@@ -342,7 +342,7 @@ M:  <*SPA>se <*SPA>defiende piki.
 C:  se defiende les había dicho.
 
 nmlch-pmgmm1_x_0043_nmlch_00:
- <%> <Laugh>
+
 nmlch-pmgmm1_x_0044_pmgmm_00:
 M:  <*SPA>Hay. 
 C: Hay.
@@ -557,9 +557,9 @@ M:  Felen peal fey <uh> pirki.
 C:  Ver lo está había dicho.
 
 nmlch-pmgmm1_x_0077_nmlch_00:
- <Laugh>
+
 nmlch-pmgmm1_x_0078_pmgmm_00:
- <Laugh><uh> 
+
 nmlch-pmgmm1_x_0079_nmlch_00:
 M:  Ti ta Argentinu kay. 
 C:   Y esos Argentinos.
@@ -1165,7 +1165,7 @@ C:  No sé pues
 M:  <*SPA>ma' <*SPA>no <*SPA>se <*SPA>pu' tifu
 C: mas no sé pues, tifoídea
 
-M  feyta <*SPA>puede <*SPA>hacer mate
+M:  feyta <*SPA>puede <*SPA>hacer mate
 C:  esto puede hacer mate
 
 M:  kullon wadküngi <uhm>
@@ -1683,7 +1683,7 @@ C:  Mañio se llama.
 
 nmlch-pmgmm1_x_0237_pmgmm_00:
 M:  Mañiw pingi
-C. 	Mañio se llama
+C: 	Mañio se llama
 
 M:  <*SPA>medio <*SPA>sauce
 C: medio sauce
@@ -1897,7 +1897,7 @@ C:  Hay tomarlo de una ése
 M: <*SPA>e'te chem küllfo <*SPA>que
 C:  este el kullfo que
 
-M.  <*SPA>le <*SPA>dicen <*SPA>to' <*SPA>eso. <%> 
+M:  <*SPA>le <*SPA>dicen <*SPA>to' <*SPA>eso. <%> 
 C:  le dicen todo eso.
 
 nmlch-pmgmm1_x_0258_nmlch_00: 
@@ -2137,7 +2137,6 @@ M: fey <*SPA>mi sovalu to' hay que darlo.
 C:  y para su salud hay que darle pues.
 
 nmlch-pmgmm1_x_0292_nmlch_00:
- -/la/-
 
 nmlch-pmgmm1_x_0293_pmgmm_00:
 M:  Ajenko, ajenko. 

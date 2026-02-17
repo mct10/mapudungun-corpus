@@ -169,7 +169,7 @@ C: tenian buenas conversaciones ellos pues
 M: elpuy engün pingeki 
 C: dejaron ellos dicen
 
-M. pichiken niepelafimi feychi rakiduam
+M: pichiken niepelafimi feychi rakiduam
 C: usted puede tener un poco de esos pensamientos
 
 M:  pichiken kimün ka fey peñi.
@@ -234,7 +234,7 @@ M:  vemmuechi vey yagel
 C: asi para comer
 
 M:  como puede preparawkevun
-C. como podiamos lo preparabamos
+C: como podiamos lo preparabamos
 
 M: ka vey veyta tripakevun chi chaw
 C: tambien asi salia con mi padre
@@ -810,7 +810,7 @@ M: como <*SPA>la <*SPA>operacion  piki
  C: como la operación dice
 
 M: vey nagpaki welu vemngechi vey ngüneduamkeviñ 
-C. asi baja pero asi yo lo he pensado
+C: asi baja pero asi yo lo he pensado
 
 M: vemuechi vey kimkeviñ kutran
 C: asi yo reconozco la enfermedad
@@ -1917,24 +1917,24 @@ M:  <*SPA>alto <*SPA>colora'o
 C: alto colorado
 
 M: vemuechi vey elungekerkevun
-C. así entonces me darían
+C: así entonces me darían
 
 M:  kom vemuechi llikaviñ <*SPA>pu'
-C.  todo asì me dio miedo pues
+C:  todo asì me dio miedo pues
 
 M:  <*SPA>de'pue' küpay vawpüle
-C.  después vino por acá
+C:  después vino por acá
 
 M:  vey inakintuenu
-C. y volvió a mirar
+C: y volvió a mirar
 
 M:  küpay inapaenu
-C.  vino me siguio
+C:  vino me siguio
 
 M:  akuy
-C. llegó
+C: llegó
 
-M :  ngelay kiñe wecha pichi ruka 
+M:  ngelay kiñe wecha pichi ruka 
 C:  no hay, una pobre casita
 
 M: veyta pichin mürke tulekeiñ
@@ -2224,7 +2224,7 @@ M: Ka <*SPA>pais veymu chi veyta ta <uhm> villpüle müley
 C: Y en otros países, así esta esto en todas partes
 
 M:  veychi <*SPA>religion
-C.  esa religión
+C:  esa religión
 
 M:  chew amuavuy ka paismu 
 C:  que va ir a otro país
@@ -2255,7 +2255,7 @@ M:  kangelu veytachi mapumu
 C:  otros en esta tierra
 
 M: machi duamngelay <*SPA>pu'
-C.  la  machi no lo quieren pués
+C:  la  machi no lo quieren pués
 
 M: <*SPA>pero <*SPA>hay <*SPA>otro 
 C:  pero hay harto otros

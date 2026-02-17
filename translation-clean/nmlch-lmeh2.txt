@@ -329,7 +329,7 @@ C: Este por el calor no mas claro.
  
 nmlch-lmeh2_x_0060_nmlch_00: 
 M: Ah.
-C. Ah.
+C: Ah.
 
 M: Rume aremu.
 C: Por la color no mas.
@@ -795,7 +795,7 @@ C: paso dos día
 M: <*SPA>no <*SPA>no <*SPA>quise 
 C: no, no quise
 
-M. <*SPA>hacer <*SPA>ni <*SPA>una <*SPA>cosa.
+M: <*SPA>hacer <*SPA>ni <*SPA>una <*SPA>cosa.
 C: hacer ninguna cosa.
  
 nmlch-lmeh2_x_0137_nmlch_00: 

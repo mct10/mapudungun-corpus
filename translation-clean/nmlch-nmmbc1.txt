@@ -12,11 +12,11 @@ C: Hola hermano don Manuel.
 
 nmlch-nmmbc1_x_0001_nmmbc_00:
 M: Mari mari peñi.
-C : Hola hermano.
+C: Hola hermano.
  
 nmlch-nmmbc1_x_0002_nmlch_00: 
 M:¿Chumuechi anta müley tami mongen
-C :¿Cómo es que estás en su vida  
+C:¿Cómo es que estás en su vida  
 
 M: tüfapüle tami lof? 
 C:  en esta tu comunidad?
@@ -29,66 +29,66 @@ C: todos estamos bien  aquí.
 
 nmlch-nmmbc1_x_0003_nmmbc_00:
 M: Tüfamu küme wünmaliiñ tati
-C : Aquí todos amanecimos bien  
+C: Aquí todos amanecimos bien  
 
 M: feyta fachantü are antüngi
-C : en este día  que es muy caluroso
+C: en este día  que es muy caluroso
 
 M: femngen trekarupayavuiiñ 
-C : de esta forma andamos caminando
+C: de esta forma andamos caminando
 
 
 M: femuen kulliñmu pichiken
-C : por eso en un mes
+C: por eso en un mes
 
 M: entuniiñ tañi rupal 
 C: estoy sacando como lo paso
 
 M: rupa antüliiñ nga kulliñmew
-C : estamos pasando los dias con los animales
+C: estamos pasando los dias con los animales
 
 M: chem küdaw rume feyta inakiyiñ 
 C: cualquier  trabajo seguimos 
 
 M: ta rukamu ka
-C : tambien en esta casa 
+C: tambien en esta casa 
 
 M: veyta kompületaki antü pu peñi <Noise>.
-C : esto en todos los dias pues hermano.
+C: esto en todos los dias pues hermano.
 
 nmlch-nmmbc1_x_0004_nmlch_00: 
 M: Feley peñi feley mongenmu 
-C : Así es peñi asi es nuestro vivir
+C: Así es peñi asi es nuestro vivir
 
 M: ta feli ta mongen 
-C : asi es nuestro vivir 
+C: asi es nuestro vivir 
 
 M: chemu rume ta rupaleki antü ka <uh>
-C : en cualquier cosa se pasa el dia 
+C: en cualquier cosa se pasa el dia 
 
 M: niyi ta duam che
-C : tiene nesecidad la gente
+C: tiene nesecidad la gente
 
 M: feymu ta ka küme duamküli 
-C : por eso tambien esta tranquilo
+C: por eso tambien esta tranquilo
 
 M: pingeki feyngepi tüfi 
-C : dicen le dicen ha él 
+C: dicen le dicen ha él 
 
 nmlch-nmmbc1_x_0005_nmmbc_00: feyngi 
 M:<SPA>Porque trengün longkoy che
-C : Porque le duele la cabeza  a la gente
+C: Porque le duele la cabeza  a la gente
 M: dekansay ñi piwke
-C : descanza el corazón 
+C: descanza el corazón 
 
 M: ayiwküli chem küdaw rume entuy
-C : se alegra con cualquier trabajo que saca 
+C: se alegra con cualquier trabajo que saca 
 
 M:  femonole kay che
-C :  si no lo hace la persona 
+C:  si no lo hace la persona 
 
 M: falilay umawtual
-C : no vale el dormir
+C: no vale el dormir
 
 M:<SPA>porque küdawmu
 C: porque por el trabajo
@@ -100,7 +100,7 @@ M: trepeluwküli che newentuy kom
 C: esta bien la persona tiene fuerza y todo
 
 M: ayiwi ñi piwke tuchi ñi vecinu  kom -/ayi/-
-C : se alegra el corazón por cualquier su vecino
+C: se alegra el corazón por cualquier su vecino
 
 M: ayiwküli nengümkiawlu
 C: esta alegre cuando se mueve
@@ -130,7 +130,7 @@ M: feyta niaymi tati
 C: así tendrás 
 
 M: piki kuyfi pütakeche 
-C : dicen antiguas personas 
+C: dicen antiguas personas 
 
 M: vemngechi ta rulpa antülekeiñ
 C: de esta forma pasamos los días 
@@ -156,7 +156,7 @@ M: fey feypikevuy
 C:  así decia 
 
 M: küdawmu falintungi che pi
-C : con el trabajo se valora la persona 
+C: con el trabajo se valora la persona 
 
 M: küdawmu Ngünechen leliwküleyu
 C:  en el trabajo ngenechen lo mira
@@ -1915,7 +1915,7 @@ C: poder tiene distintas enfermedades
 M: anchimalleñ pingi
 C: animales del agua
 
-M. <SPA>pero fey
+M: <SPA>pero fey
 C: pero ese 
 
 M: <SPA>no inche pekelan anchimalleñ
@@ -2374,7 +2374,7 @@ C: salio algo grande
 M: tami ñuke kiñe füta chem llegi <%>
 C: su madre 
 
-M. amuletuy folfil mamüll
+M: amuletuy folfil mamüll
 C: se fue leña de rama
 
 M: feyta we choyil entuy

@@ -4,7 +4,7 @@
 ; Last changes made on 07/05/2001 
 ; Transcriber: Maria Elena Raguileo.  
 ; Comments: al comienzo se hace una prueba de grabación y resulta excelente... 
-Traduce: Camilo Quilaman.
+; Traduce: Camilo Quilaman.
 
 nmlch-nfmcpB1_x_0000_nmlch_00: 
 M: Mari mari ñukentu.
@@ -269,7 +269,7 @@ M: Fey kümey fey kümey.
 C: Sí bien sí bien.
 
 nmlch-nfmcpB1_x_0044_nfmcp_00: 
-<*SPA>si%
+<*SPA>
 
 nmlch-nfmcpB1_x_0045_nmlch_00: 
 M: ¿Relelaymün tüfachi pukem tripapalu?.
@@ -2196,7 +2196,7 @@ M: ñi pichi domo kidu feypikey
 C: mi niñita sola le decían
 
 M: nielan wentru nieymi tati 
-C no tengo hombre tienes
+C: no tengo hombre tienes
 M: feymu feley 
 C: por eso bien 
 
@@ -2318,7 +2318,7 @@ M: no künuytin füchakeche felewetuy che ka.
 C: no los viejos estan así la gente.
 
 nmlch-nfmcpB1_x_0357_nmlch_00:
- <hm>%
+ <hm>
 
 nmlch-nfmcpB1_x_0358_nfmcp_00: 
 M: Dungufe ta mülekefuy ta kuyfi 

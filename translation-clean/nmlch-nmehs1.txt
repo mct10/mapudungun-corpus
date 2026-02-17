@@ -169,7 +169,7 @@ M: ta ramtualu tañi peñi,
 C: para preguntar a mi hermano
 
 M: chumlen pipen
-C como esta dije
+C: como esta dije
 
 M: fey chem kutran chi nieki ño mongenmu pipefiñ tati,
 C:  de que sería se habría enfermado en su vida dije  pués,
@@ -2118,7 +2118,7 @@ M: trafentun l'awen' kintuken inche
 C: remedio para la ojera busco yo
 
 M: ta miawken üyiw
-C; y ando allá
+C: y ando allá
 
 M: Kichaltuwepüle kintuken l'awen'. 
 C: por lavadero busco remedio.
@@ -2297,7 +2297,7 @@ M: <uh> manelfalchi che lle
 C:una persona confiable
 
 M: feyllenanta kontungeki ta tüfachi dungumu 
-C : es eas la que se visita por estas  cosas 
+C: es eas la que se visita por estas  cosas 
 
 M: fey eymi ta fentren kimün nierkimi 
 C: y usted tiene tantos conocimnientos
@@ -2885,7 +2885,7 @@ C:  respeto al dueño remedio
 M: ngen l'awen' kidu ngen l'awen'
 C:  dueño remedio solo al dueño remedio
 
-M. fücha piken tati femuechi ngillatuken. 
+M: fücha piken tati femuechi ngillatuken. 
 C:  anciano digo pues, así ruego.
 
 nmlch-nmehs1_x_0351_nmlch_00: 
@@ -3099,7 +3099,7 @@ M: femuechi tripatuy ñi pamu
 C:  así salió su pasmo
 
 M: y fante antü mongetuy chi domo 
-C;  y como a esta hora del día se sano la mujer
+C:  y como a esta hora del día se sano la mujer
 
 M: rume mañumley, 
 C:  muy agradecida estaba 
@@ -3543,7 +3543,7 @@ nmlch-nmehs1_x_0437_nmehs_00:
 M: No.
 C:  No.
 
-nmlch-nmehs1_x_0438_nmlch_00
+nmlch-nmehs1_x_0438_nmlch_00:
 M: Nielay ka. 
 C:  No tiene pues.
 
@@ -3567,7 +3567,7 @@ nmlch-nmehs1_x_0443_nmehs_00:
 M: No.
 C:  No.
 
-nmlch-nmehs1_x_0444_nmlch_00
+nmlch-nmehs1_x_0444_nmlch_00:
 M: Feymu vakunangeki ka. 
 C:  Por eso lo vacunan también.
 

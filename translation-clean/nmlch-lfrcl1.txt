@@ -4,7 +4,7 @@
 ; Last changes made on 01/04/2003 
 ; Transcriber: Cristian C. Anton 
 ; Comments:  
-Traduce: Rosa Huenchumilla.
+;Traduce: Rosa Huenchumilla.
 
 nmlch-lfrcl1_1_0000_nmlch_00:
 M: Marimari ñuke.
@@ -921,7 +921,7 @@ M: operangey feyta operangey <!1operangi>
 C:  y lo operaron
 
 M: <*SPA>tenía.
-C : tenía...
+C: tenía...
 
 nmlch-lfrcl1_1_0070_nmlch_00: 
 M: Kakelu kom tüfamu müten.

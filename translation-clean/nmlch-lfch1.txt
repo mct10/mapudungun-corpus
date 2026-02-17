@@ -676,7 +676,8 @@ M: ta kuyfi anta felekerkefuy iñcheam.
 C: ante no estabamos así nosotros pues.
 
 nmlch-lfch1_x_0056_nmlch_00: 
-<%> <%> 
+<%>
+
 nmlch-lfch1_x_0057_lfch_00: 
 M: Kuyfi ta felelay pu
 C: Ante no esta así pues 
@@ -1080,7 +1081,7 @@ C: ................pues
 
 nmlch-lfch1_x_0097_nmlch_00:
 M: Ngelay kutran welu 
-C : No hay enfermedad, pero...
+C: No hay enfermedad, pero...
 
 nmlch-lfch1_x_0098_lfch_00: 
 M: Pineñi
@@ -1639,7 +1640,6 @@ C: todos tienen
 M: tañi trarin mandun
 C: su yunta de bueyes 
 
-<Noise> to aperao müli 
 M: Ta vewla 
 C: Pues ahora 
 

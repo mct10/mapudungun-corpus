@@ -596,7 +596,7 @@ C:  Qué les comenté acerca de enfermedad pues
 M: kurakutranche,
 C:  enfermedad de piedra,
 
-M kiñe kutranchengi, inan tati.
+M: kiñe kutranchengi, inan tati.
 C:  un enfermizo, el menor pues. 
 
 nmlch-nfjml1_x_0061_nmlch_00: 
@@ -1228,7 +1228,7 @@ C: por eso no tengo mejoría,
 M: doyelen, 
 C: más me agravé,
  
-M; ankümenew chi l'awen'
+M: ankümenew chi l'awen'
 C: me secó el remedio
   
 M: femngenu wula kidu ñi weyake l'awen' kintuyetufiñ. 
@@ -2219,7 +2219,7 @@ C: Todo entró,
 M: kom ñi kalül, kom n'amun', kom longko, 
 C: todo su cuerpo, todo pies, toda la cabeza 
 
-M; lipang', furi ngüllfungeki veymew.
+M: lipang', furi ngüllfungeki veymew.
 C: brazos y espalda se empapó con eso. 
 
 nmlch-nfjml1_x_0292_nmlch_00: 
@@ -2406,7 +2406,7 @@ C: no le hace nada  más  ese
 M: pekelay l'awen' <*SPA>pu',
 C: no encuentra remedio  pues,
 
-M vemuechi femki tati.
+M: vemuechi femki tati.
 C:  así pasa pues.
 
 nmlch-nfjml1_x_0320_nmlch_00: 
@@ -2917,7 +2917,7 @@ C: mapuche es más,
 M: doy ta kim l'awen'kayelanta wingkamu ürke,
 C:  sabe más  de remedios que el chileno,
 
-M wingka ta fente kimkalay l'awen' yenoam.
+M: wingka ta fente kimkalay l'awen' yenoam.
 C: el chileno no sabe tanto de remedios pues.
 
 nmlch-nfjml1_x_0402_nmlch_00: 

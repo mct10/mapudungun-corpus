@@ -193,7 +193,7 @@ C: los remedios para encontrar las enfermedades
 M:*kimniefiñ chi kuyfike dungu  
 C: conocemos los temas antiguos
 
-M*chumuechi iñ mongelen ñi kutran tachi pu che iñchiñmu wünepalu
+M: chumuechi iñ mongelen ñi kutran tachi pu che iñchiñmu wünepalu
 C: como sobreviven a las enfermedades nuestros antepasados.
 
 M: <*SPA>y wingka feula kiduengün tay kimün kiduengu müten
@@ -519,7 +519,7 @@ nmlch-lffhm2_x_0049_lffhm_00:
 M: feley <!1feli><*SPA>pufeley
 C: así pues, así es.
 
-M <!1feli><*SPA>pu *lamuen feley <!1feli>
+M: <!1feli><*SPA>pu *lamuen feley <!1feli>
 C: así hermano, así
 
 M: newengewelay mapu
@@ -882,7 +882,7 @@ C: acá no existían las postas,
 M: *chumuechi chi <Noise> püñeñeluukefuy ta che <Noise>
 C: cómo tenía sus hijos las personas?
 
-M.  mülekepefuy ta
+M:  mülekepefuy ta
 C:  exitiría la...
 
 nmlch-lffhm2_x_0087_lffhm_00: 
@@ -1052,8 +1052,9 @@ C:  cilantro, también se le daba manzanilla
 M: fey <!1vey>ta karü l'awen' *pütokolngi
 C: así se le hacía beber remedios verdes.
 
-nmlch-lffhm2_x_0103_nmlch_00: <%> 
-nmlch-lffhm2_x_0104_lffhm_00: <%> 
+nmlch-lffhm2_x_0103_nmlch_00:
+
+nmlch-lffhm2_x_0104_lffhm_00:
 
 nmlch-lffhm2_x_0105_nmlch_00:
 M: <*SPA>manzanilla ka <uh> fün kulantu 
@@ -2125,13 +2126,13 @@ nmlch-lffhm2_x_0195_lffhm_00:
 M: *notukangi *kintuñmangi 
 C: se los buscó,
 
-M :*müntungi medilngetuy ad tüfa yagel kutu medilngetuy 
+M:*müntungi medilngetuy ad tüfa yagel kutu medilngetuy 
 C:  se le quitó, se le midió, ahora hasta los alimentos se les miden.
 
 M: kiñe kilu fendelngetuy <*SPA>trigu 
 C: un kilo de trigo s ele vende.
 
-nmlch-lffhm2_x_0196_nmlch_00: <%> 
+nmlch-lffhm2_x_0196_nmlch_00:
 
 
 

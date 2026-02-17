@@ -78,8 +78,7 @@ M:  kechu <*SPA>mil  fali chi .<%>
 C:  Y ese vale cinco mil pesos.
 
 M:  Ah.
-C:  Ah
-.
+C:  Ah.
 nmlch-nfchñ2_x_0006_nfchñ_00:
 M:  Femuechi miawkefun
 C:  Así anduve
@@ -2972,6 +2971,5 @@ C:   también te van ayudar pues.
 
 
 
-1
 
 

@@ -234,7 +234,7 @@ M:  kümekunungey
 C:  si lo dejan bien hecho 
 
 M: fey felerpuy
-C :  eso sigue así 
+C:  eso sigue así 
 
 M:  ka femngechi amuley ta che 
 C:  también así siguen las personas 
@@ -421,7 +421,7 @@ M:  müna weyalimi nay
  C:  es muy grave hombre 
 
 M: chumalam fempeymi tati
-C.  para que hiciste eso pues
+C:  para que hiciste eso pues
 
 M:  wechuñ katrüfimi ta mamüll pifiñ
 C:  cortaste la punta de árbol
@@ -433,7 +433,7 @@ M:  ñochingetuy ñi tripan
 C:  es lenta su salida
 
 M:  lilmu ütrünarpay pingey,
-C.  se cayo a tierra dicen, 
+C:  se cayo a tierra dicen, 
 
 M:  lilmu ütrünarpay pütrake kura
 C:   de la quebrada caen grandes piedras
@@ -918,7 +918,7 @@ C: y después recién
 M:  kimwenulu tañi chumal engün 
 C:  cuando ya no sabían que hacer 
 
-M. fey wüla küparkey
+M: fey wüla küparkey
 C: de ahí recién vino
 
 M:  küpay fey entuymameafiñ
@@ -1350,7 +1350,7 @@ M:  lemu yafüwekelay
 C:  y el temu ya es tan duro.
 
 M:  müchay müten welngikey 
-.C:  y rápidamente la persona se safa.
+C:  y rápidamente la persona se safa.
 
 nmlch-pmdccB1_1_0096_nmlch_00: 
 M: ¿katrüfününkay pekeymi eymi? 
@@ -2564,7 +2564,7 @@ M: <*SPA>Médica.
 C: Médica.
 
 nmlch-pmdccB1_1_0261_pmdcc_00: 
-M. Fey <*SPA>ese <*SPA>sabe.
+M: Fey <*SPA>ese <*SPA>sabe.
 C:  Sí, ese sabe.
 
 nmlch-pmdccB1_1_0262_nmlch_00:
@@ -2632,7 +2632,7 @@ C:  No, nada, nada
 M:  iñche trengümün tañi pu fotüm 
 C:  yo hice crecer a mis hijos
 
-M kiñe rume ta konlay ta pitalmu.
+M: kiñe rume ta konlay ta pitalmu.
 C:   ninguno se controló en el hospital.
 
 nmlch-pmdccB1_1_0271_nmlch_00:
@@ -2855,7 +2855,7 @@ C:   ena enfermedad de la tierra
 M: tüfey domo <!1somo> tañi kutran.  
 C: es una enfermedad de la mujer.
 
-nmlch-pmdccB1_1_0302_pmdcc_00
+nmlch-pmdccB1_1_0302_pmdcc_00:
 M:  Fey, fey, fey, fey. 
 C:  Si, si, si.
 

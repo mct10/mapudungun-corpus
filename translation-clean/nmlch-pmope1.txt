@@ -11,7 +11,7 @@ nmlch-pmope1_x_0000_pmope_00: <%>
 M: Feymu ta doy doy chemküyin ka
 C: Por eso mas mas obserbamoss pues 
 
-m: doy kuñiwtunmukiyiñ
+M: doy kuñiwtunmukiyiñ
 C: mas sabemos 
 
 M: pobrengeyiñ <SPA>
@@ -58,7 +58,7 @@ nmlch-pmope1_x_0003_nmlch_00:
 M: Eymi tami tüfa
 C: Usted aquí 
 
-M Lonquimay pingi tami  waria ka ta pe
+M: Lonquimay pingi tami  waria ka ta pe
 C: Lonquimay se llama tu pueblo pues 
 
 nmlch-pmope1_x_0004_pmope_00:
@@ -192,7 +192,7 @@ C: Fermentamos en càntaros pues
 M: metawe fayümngi feyta fayümngi 
 C: en cántaro se fermenta éste se fermenta
 
-M fey< SPA>depue pütokoy 
+M: fey< SPA>depue pütokoy 
 C: y después bebe
 
 
@@ -202,7 +202,7 @@ C: de esa manera me mejoré
 M: ta kuyfi mülekelay ta <SPA>doctores
 C: antes no habían doctores
 
-M. chem <SPA>no rume tachi chi  pueblumu
+M: chem <SPA>no rume tachi chi  pueblumu
 C: nada siquiera en este pueblo.
 
 nmlch-pmope1_x_0019_nmlch_00: 
@@ -430,7 +430,7 @@ nmlch-pmope1_x_0038_pmope_00:
 M: Chi ta ka rakiduam nietuy
 C: Tienen una forma de pensar diferente ahora
 
-M. <Noise> fey felerki ta 
+M: <Noise> fey felerki ta 
 C: y así esta pues
 
 M: <Noise> kuyfi ta mülekefuy pütrakecheyem 
@@ -976,7 +976,7 @@ M: kam küpalkelay?
 C: o no trae?
  
 nmlch-pmope1_x_0079_pmope_00:
-M Kutran küpalkelay 
+M: Kutran küpalkelay 
 C: enfermedad no trae
 
 M: küpalki kiñekemu kutran
@@ -1522,7 +1522,7 @@ M: kiñekemu <SPA> no
 C: Algunas veces no
 
 M: feyta pire ta < %> kimün eymün ürke ka
-C esto es sabiduría de ustedes sobre la nieve pues.
+C: esto es sabiduría de ustedes sobre la nieve pues.
  
 nmlch-pmope1_x_0132_pmope_00: 
 M: Rume weda <uh>
@@ -1568,7 +1568,7 @@ M: pichi pengekaki ka tipüle
 C: Se encuentra poco por ahí
 
 M: pengekaki nielu tati chem ka longko <SPA>
-C-. Se encuentra ese que otra cabeza
+C: Se encuentra ese que otra cabeza
 
 M: presidente nielu feyta pengekaki <SPA>pero 
 C: el que tiene presidente este se encuentra..pero
@@ -2194,7 +2194,7 @@ C: busco con toda mi fuerza el remedio.
 
 nmlch-pmope1_x_0193_nmlch_00:
 M: ¿Welu fill kutranmu mülepi mapuche l'awen'? 
-C¿Pero para todas las enfermedades habrá remedio mapuche?
+C: ¿Pero para todas las enfermedades habrá remedio mapuche?
 
 nmlch-pmope1_x_0194_pmope_00: 
 M: ¿Ah?
@@ -2297,7 +2297,6 @@ M: ¿Tami pu füren ka?
 C: ¿Y tus parientes?
 
 nmlch-pmope1_x_0210_pmope_00:
- <SPA>
 
 M: ese we ta rüngül pilunki <*SPA>pu' <Noise> 
 C: eso nuevos les da dolor de oídos pues

@@ -585,7 +585,7 @@ M: ka <uh> tupalayaymün wedake dungu <!1sungu> ka
 C:  que tampoco van le va a suceder problema.
 
 nmlch-pmfrl2_1_0040_pmfrl_00: 
-M. Feley peñi.
+M: Feley peñi.
 C: Eso es hermano.
  
 nmlch-pmfrl2_1_0041_nmlch_00:
@@ -1872,7 +1872,7 @@ C: No lo conoce mucho.
 
 nmlch-pmfrl2_1_0186_pmfrl_00: 
 M: Kimnelafiñ may, kimnelafiñ fey.
-C. No lo conozco, a ese no lo conozco.
+C: No lo conozco, a ese no lo conozco.
  
 nmlch-pmfrl2_1_0187_nmlch_00: 
 M: <Cough> ¿Kiñe kutranka rume müley tiyüupüle 

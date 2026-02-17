@@ -300,7 +300,7 @@ C: aquí, antes había más ahora se a terminado hay
 M: müley kulliñ% amkümngey chi chakay 
 C: más animales sé a secado el chacay
 
-M. wülkefulu feychi <*SPA>jabón wentru chakay pingey 
+M: wülkefulu feychi <*SPA>jabón wentru chakay pingey 
 C: que proporcionaba ese jabón el chacay macho se llamaba
 
 M: welu, feychi wentru chakay nentuñmangey ñi pichike 
@@ -880,7 +880,7 @@ M: küpalmemukay taiñ kimünmu
 C: por nuestra desendencia por el conocimiento
 
 nmlch-pmemh2_1_0068_pmemh_00: 
-M. Iñchiñ taiñ kimünmu müley l'awen' pingekey fey 
+M: Iñchiñ taiñ kimünmu müley l'awen' pingekey fey 
 C: Nosotros nuestro saber hay remedio eso dicen pues
 
 M: iñchekay kimlan peñi, <*SPA>pero tüfamu müley 
@@ -1138,7 +1138,7 @@ M: Mapuchemu, mapuchemu niey l'awen'.
 C: En el mapuche, tiene remedio.
  
 nmlch-pmemh2_1_0097_nmlch_00: 
-M. Feyti mamüll tüfey ka.
+M: Feyti mamüll tüfey ka.
 C: Ese palo ese pues.
 
 nmlch-pmemh2_1_0098_pmemh_00: 
@@ -1632,7 +1632,7 @@ M: doy amumekeyiñ pitalmeu.
 C: más van al hospital. 
  
 nmlch-pmemh2_1_0147_nmlch_00: 
-M. Tañi papay tamu.
+M: Tañi papay tamu.
 C: Mi mamita aquí.
 
 nmlch-pmemh2_1_0148_pmemh_00: 

@@ -490,7 +490,7 @@ C:  piuchen visión sobrenatural
 M: peumamu peiñ acheuall che.
 C: en  el  sueño vemos pollos.
 
-nmdch-nflcm2_x_0035_nmdch_00: -
+nmdch-nflcm2_x_0035_nmdch_00:
 M: -/Feyti pewi/- piwchen feyta filu ka.
 C:   -/Ese lo vio/- piuchen es la culebra también.
 
@@ -911,7 +911,7 @@ M: fey fill mekeki pingiki.
 C:  ahí de todo hacía se dice.
 
 nmdch-nflcm2_x_0072_nflcm_00: 
-<hm>%  
+<hm>
 
 nmdch-nflcm2_x_0073_nmdch_00: 
 M: Feymuyem ngoymaki ti ngülamtun 
@@ -975,7 +975,7 @@ C:  los voquis hay harto y había mucho
 M: ka tüfa ka ankürupui.
 C:  y ahora se fue secando.
 
-m2_x_0077_nflcm_007_nmdch_00 <uhm>:
+m2_x_0077_nflcm_007_nmdch_00:
 M: ¿Chumelu ankürpui, chumelu? 
 C:  ¿Por qué se fue secando, por qué? 
 
@@ -1676,7 +1676,7 @@ C: y yo en el sueño,
 M: achawallngeketui ñi peuma achawall.
 C:  es mi sueño con pollo.
 
-nmdch-nflcm2_x_0132_nmdch_00: -
+nmdch-nflcm2_x_0132_nmdch_00:
 M: -/et/- Feula petu
 C:  .......Ahora aún
 
@@ -1849,7 +1849,7 @@ M: komungey;
 C:  predomina en lugar de aguas; 
 
 M: cheu ta müleiñ ta fentren ko 
-C. donde estamos nosotros hay harta agua, 
+C: donde estamos nosotros hay harta agua, 
 
 M: ankükelay ta ko,
 C: no se seca el agua,
@@ -1911,7 +1911,7 @@ M: ¿chem kutran rume fey -/la/-
 C: ¿cualquier enfermedad puede ser
 
 M: mapu l'awen'tukimi? 
-C. con remedio de la tierra te remedias?
+C: con remedio de la tierra te remedias?
 
 nmdch-nflcm2_x_0146_nflcm_00: 
 M: Mapu l'awen'tuken llemay 
@@ -2176,7 +2176,7 @@ nmdch-nflcm2_x_0163_nmdch_00:
 M: Fatepumeu. 
 C:  En la actualidad.
 
-nmdch-nflcm2_x_0164_nflcm_00: -
+nmdch-nflcm2_x_0164_nflcm_00:
 M: -/kimlaw/- Fatepumeu kiml'awen'layngün pu',
 C: -/No saben/- En la actualidad no saben de remedio pues,
 
@@ -2251,7 +2251,7 @@ M: feyta putoay tremoaymi, pikefiñ,
 C: esto beberás  te mejorarás, le digo
 
 M: fey putokeyngün 
-C y ahí beben
+C: y ahí beben
 
 M: ni feypini pichikeche feyentui 
 C: lo que les digo los niños creen
@@ -2450,7 +2450,5 @@ nmdch-nflcm2_x_0186_nmdch_00:
 M: Feley.
 C: Es así.
     
-Cañulef
-Huisca  
 
 

@@ -640,7 +640,7 @@ C: también se respetaba a los montes
 M: pingeki veyngeytati.
 C: es lo dicen, y es así pues.
 
-nmlch-lfjph2_x_0057_lfjph_00: Ah. pu <*SPA> 
+nmlch-lfjph2_x_0057_lfjph_00: 
 M: Claro
 C: Claro
 
@@ -1363,7 +1363,7 @@ C: Y por Tirúa.
 
 nmlch-lfjph2_x_0138_lfjph_00: 
 M: Tiruwa püle kay
-C. Y por Tirúa
+C: Y por Tirúa
 
 M: chumlichi may
 C: como sería
@@ -2151,7 +2151,7 @@ M:  ka ngenole iyagel ka
 C:  y también sí no hay comida
 
 M: puwültuy pu wentru
-C.  llevan los hombres
+C:  llevan los hombres
 
 M:  feula matukamekiyin
 C:   recién tomamos mate
@@ -2413,7 +2413,7 @@ M: ta chaw ngünechen
 M: veymu ta mongelen pu'.
 C:  por eso estoy viva pues.
 
-lfjph2_x_0275_lfjph_00ch_00
+lfjph2_x_0275_lfjph_00ch_00:
 M: ¡Ah!
 C:  ¡Ah!
 
@@ -2463,7 +2463,7 @@ C:  Quien sería que no le habrían dado.
 
 
 nmlch-lfjph2_x_0281_nmlch_00: 
-<hm> :
+<hm> 
 
 nmlch-lfjph2_x_0282_lfjph_00:
 M: Vemngechi mongekan 

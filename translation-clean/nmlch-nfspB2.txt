@@ -5,7 +5,7 @@
 ; Transcriber: Marcela Collio 
 ; Comments:  
 ; Traduce:
-Traduce: Juan Licanqueo.
+; Traduce: Juan Licanqueo.
 
 nmlch-nfspB2_x_0000_nfsp_00: 
 M:.Veychi kutran
@@ -732,7 +732,7 @@ C:.ese dice a los que estan enfermo
 M:.feymu ta mongekelay <Noise> 
 C:.por eso que no vive
 
-M.:koypuluwi ta che perdey <Noise> 
+M:koypuluwi ta che perdey <Noise> 
 C:.se revuelca la gente muere
 
 Lh-nfspB2_x_0098_nmlch_00: 
@@ -746,7 +746,7 @@ _0099_nfsp_00:
 M:.Muley yemay
 C:.Hay claro  			             
     		 
-nmlch-nfspB2_x	0100_  nf 
+nmlch-nfspB2_x0100: 
 M:.Datungey datungey ngillatuñmangi
 C:.Le sacan el mal le oran mucho
 

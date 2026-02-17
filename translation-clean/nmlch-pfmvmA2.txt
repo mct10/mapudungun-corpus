@@ -1372,7 +1372,7 @@ C: todo eso pasa.
 
 nmlch-pfmvmA2_x_0190_nmlch_00: 
 M: Kürüfkey.
-C : Hay viento fuerte.
+C: Hay viento fuerte.
 
 nmlch-pfmvmA2_x_0191_pfmvm_00:
 M: Kürüfkey <!1kürüfki> ka

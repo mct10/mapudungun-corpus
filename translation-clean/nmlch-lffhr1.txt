@@ -109,7 +109,7 @@ nmlch-lffhr1_x_0011_nmlch_00:
 M: Eymi kuyfi
 C:  Usted antes
 
-M : pichi somongelu 
+M: pichi somongelu 
 C: cuando era niña
 
 M:¿chem kutran
@@ -161,7 +161,7 @@ M: welu machituymukefun pu'.
 C: pero me trataba con Machí pues.
  
 nmlch-lffhr1_x_0013_nmlch_00:
-<uh> .
+<uh> 
 
 nmlch-lffhr1_x_0014_lffhr_00: 
 M: Machi ta mongelkefeneu 
@@ -530,7 +530,7 @@ C: mujer u hombre
 M: küme feytichi kutran
 C: bien esa enfermedad
 
-M : mongekelay pingi
+M: mongekelay pingi
 C: no mejora dicen
 
 M: tati pitalmu.
@@ -728,15 +728,15 @@ C: no es de preocuparse pues
 M: re kutran faluwkelu ..% pu'
 C: hace como que se enferma pues
 
-M :  wentru kiñeke ta female.
+M:  wentru kiñeke ta female.
 C: hombre, algunos si lo quieren hacer.
  
 hr1_x_0057_lffhr_00_nmlch_00:
 M: Feley llemaychi
-C : Así es como esta pues
+C: Así es como esta pues
 
-M : feyta <uh> wekeche inchin
-C : y nosotros los jovenes
+M: feyta <uh> wekeche inchin
+C: y nosotros los jovenes
 
 M: ta kimlafiyiñ
 C: no conocemos
@@ -800,7 +800,7 @@ C: que el Hospital no identifica
 M: müli ta trafentun müli
 C: existe el mal de ojo 
 
-M : ka mewlen tulelu
+M: ka mewlen tulelu
 C: y eso que toma el remolino 
 
 M: ka perimontun
@@ -902,7 +902,7 @@ M: kim ngütramkafuy
 C: sabía conversar
 
 M: feyta aflu engün may 
-C.  y cuando se exterminaron
+C:  y cuando se exterminaron
 
 M:chumay.
 C: que puede hacer.
@@ -1070,7 +1070,7 @@ nmlch-lffhr1_x_0079_nmlch_00:
 M: Müna wecha feyllemay 
 C: Hay quemalo no
 M: ta <uh> wesa sungu ta tüfey
-C :  que mala noticia  es eso
+C:  que mala noticia  es eso
 
 M: ta afküli ta sungu.
 C: que seesten terminanado esos  hechos.
@@ -1559,7 +1559,7 @@ M: Amukefuy
 C: Iba
 
 M: ta kom pu' lof <uh> machi engün
-C : con toda las machí de diferentes Comunidades
+C: con toda las machí de diferentes Comunidades
 
 M: ta llellipumeal tüfi ka.
 C: para ir hacer la rogativa.
@@ -1778,7 +1778,7 @@ M: pu' kuyfike dungu
 C: esas cosas antiguas
 
 M: ta femngechi iwalawelayafi 
-C : ya no sera igualado
+C: ya no sera igualado
 
 M: ta füchakeche chumül ..%.
 C: como de los antepasados.
@@ -1930,7 +1930,7 @@ M: tachi che
 C: estas personas
 
 M: feula che meu chi
-C : las personas de ahora
+C: las personas de ahora
 
 M: ta fente mülen ta
 C: y que hay tantas
@@ -1942,7 +1942,7 @@ M: prision pi ta winka
 C: presíon dicen los huincas
 
 M: kam chi 
-C : o tambien 
+C: o tambien 
 
 M: chew fente  elupefi 
 C: donde lo daba mas
@@ -1954,7 +1954,7 @@ M: fente mapuche piken
 C: tanto a los mapuche digo
 
 M: winka rume pu' 
-C : siquiera los huinca pues
+C: siquiera los huinca pues
 
 M:<*SPA>claro<*SPA> casi <*SPA>toda la<*SPA> gente
 C: claro casi toda la gente
@@ -1966,7 +1966,7 @@ M: kuyfi may
 C: antessi
 
 M: femngechi dungu ngekelafuy chaf.
-C : de ese tipo de cosa no habia.
+C: de ese tipo de cosa no habia.
 
 nmlch-lffhr1_x_0130_nmlch_00: 
 M: Ngekelafuy.
@@ -2500,9 +2500,9 @@ C: sí,limpia mucho su pelo.
  
 nmlch-lffhr1_x_0181_nmlch_00: 
 M: Feymu chi ta
-C : Capazque sea por eso
+C: Capazque sea por eso
 
-M : ligkelafuy tañi longo.
+M: ligkelafuy tañi longo.
 C: que no le salian canas en su cabeza.
  
 nmlch-lffhr1_x_0182_lffhr_00:
@@ -2622,7 +2622,7 @@ M: Femi femi.
 C:  Eso pasa, eso pasa.
  
 nmlch-lffhr1_x_0197_nmlch_00:
-<hm>.
+<hm>
 
 nmlch-lffhr1_x_0198_lffhr_00: 
 M: Femechi ta felekefuyin.
@@ -2868,7 +2868,7 @@ C: serabuenodelos remediosmapuche?.
  
 nmlch-lffhr1_x_0227_lffhr_00: 
 M: <uh> Mapuche l'awenmu
-C : En lamedicina mapouche
+C: En lamedicina mapouche
 
 M: mapuche l'awen' 
 C: remedio mapuche
@@ -2920,7 +2920,7 @@ C:  Este que se maneja
 M: inakintulu l'awen' feyta,
 C: quien estudia los remedio 
 
-M :  feyta asümipu'.
+M:  feyta asümipu'.
 C: ese sabe pues.
 
 nmlch-lffhr1_x_0234_nmlch_00: 
@@ -3298,7 +3298,7 @@ nmlch-lffhr1_x_0270_nmlch_00:
 M: Kutran le ñi lonko
 C: Cuando duele mi cabeza
 
-M : che ñüfkentu ürkelu.
+M: che ñüfkentu ürkelu.
 C: 
  
 nmlch-lffhr1_x_0271_lffhr_00: 
@@ -3312,9 +3312,9 @@ M: nentutuy
 C: vuelve a sacar
 
 M: chapadkaymangi l'awen' mu
-C : se le hace masaje con remedio
+C: se le hace masaje con remedio
 
-M : lonko mongeki tati.
+M: lonko mongeki tati.
 C: la cabeza se alivia pues.
  
 nmlch-lffhr1_x_0272_nmlch_00: 
@@ -3341,7 +3341,7 @@ C:
  
 nmlch-lffhr1_x_0276_nmlch_00: 
 M: Feyti kay papay 
-C : Y eso mamita
+C: Y eso mamita
 
 M: ta kiñe kutran müli
 C: tambien hay una enfermedad

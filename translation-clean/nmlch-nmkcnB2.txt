@@ -1928,7 +1928,7 @@ nmlch-nmkcnB2_x_0199_nmkcn_00:
 M: <Laugh> May.
 C: Si.
 
-m: ka nentunien pu' <Laugh>
+M: ka nentunien pu' <Laugh>
 C: tambien saco pues.
  
 nmlch-nmkcnB2_x_0200_nmlch_00: 

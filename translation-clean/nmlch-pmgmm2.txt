@@ -834,7 +834,7 @@ C:  no nada de  malo
 M: <*SPA>me <*SPA>dijo 
 C:  me dijo
 
-M. <*SPA>u'te <*SPA>so' wenu
+M: <*SPA>u'te <*SPA>so' wenu
 C:  usted es bueno
 
 M:  kutran piwkekechili
@@ -1664,7 +1664,7 @@ C:  yo lavo
 M:  <*SPA>solo <*SPA>pu'
 C:  solo pues
 
-M.  küchatulafun <*SPA>de <*SPA>ropa 
+M:  küchatulafun <*SPA>de <*SPA>ropa 
 C:  le lavaría la ropa
 
 M:<%> küchalafun 

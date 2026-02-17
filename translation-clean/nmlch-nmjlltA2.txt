@@ -190,7 +190,6 @@ C: también ese chillim,
 
 M: ¿chullüm kimfimi kay?
 C: ¿conoce el chillim?
-,
 nmlch-nmjlltA2_x_0009_nmjllt_00:
 M:  Famuechi mapumu amuamuki, 
 C: De este tipo de tierra va, 
@@ -1280,11 +1279,11 @@ M: ¡Ah!
 C: ¡Ah!
 
 nmlch-nmjlltA2_x_0149_nmjllt_00:
-M. Pero kompüle mülelay. 
+M: Pero kompüle mülelay. 
 C: Pero en todas partes no hay.
 
 nmlch-nmjlltA2_x_0150_nmlch_00:
- -/mu/- <%> 
+<%> 
 
 nmlch-nmjlltA2_x_0151_nmjllt_00: 
 M: Kiñekiñeiñ. 
@@ -1491,7 +1490,7 @@ M: ¿Chem pingi?
 C: ¿Cómo se llama?
 
 nmlch-nmjlltA2_x_0181_nmlch_00: 
-M. Kintral <*SPA>de make pingeki, 
+M: Kintral <*SPA>de make pingeki, 
 C: Quintral de maque le llaman, 
 
 M: wingka fey piki.
@@ -1499,7 +1498,7 @@ C: el huinca así dice.
 
 nmlch-nmjlltA2_x_0182_nmjllt_00: 
 M: ¿Kintral <*SPA>de make? 
-C. ¿Quitral de maque?
+C: ¿Quitral de maque?
 
 nmlch-nmjlltA2_x_0183_nmlch_00: 
 M: May.
@@ -3294,7 +3293,6 @@ C: Eso, eso, eso, eso.
 
 
 
-Cañulef
 
 
 

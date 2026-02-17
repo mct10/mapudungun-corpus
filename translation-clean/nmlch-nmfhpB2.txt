@@ -179,7 +179,7 @@ C: éste también la vá hacer también
 M: femkeyngün tati welu tutenolu kay pu'che
 C: lo hacen pues pero si no sastifacen a la gente 
  
-M <SPA>no feyta chi <*SPA>pu' che 
+M: <SPA>no feyta chi <*SPA>pu' che 
 C: no estas personas 
 
 M: <SPA>a feynga e'te l'awen'tukeynga. 

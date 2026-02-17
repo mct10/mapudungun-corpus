@@ -1014,7 +1014,7 @@ M:  l'awen' epe wün ngillayma l'awen'
 C: remedio, dos veces compre remedio 
 
 M: pütokoki tañi pu' kutran
-C. que beben mis enfermos
+C: que beben mis enfermos
 
 M: inche ngillatun l'awen'.
 C: yo compro remedio.

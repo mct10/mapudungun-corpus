@@ -1310,7 +1310,7 @@ C:
 
 nmlch-lflch1_x_0148_nmlch_00: 
 M: <*SPA>¿El pütrangelay?
-C : ¿No le sobaron el estómago?
+C: ¿No le sobaron el estómago?
 
 nmlch-lflch1_x_0149_lflch_00: 
 M: Elpütrangelay. 
@@ -1507,7 +1507,7 @@ M: May.
 C: Sí.
 
 M: *Fey may fel l'awen' tati. 
-C : Eso era remedio pues. 
+C: Eso era remedio pues. 
 
 nmlch-lflch1_x_0176_nmlch_00: 
 M: ¿Liñu engu fün kulantu?
@@ -2608,7 +2608,7 @@ C: a sus niños, para que nadie.
 
 flch1_x_0321_nmlch_00flch_00:
 M: <*SPA>No.
-N: No.
+C: No.
 
 M: Kichu ta asümkay müten chepu. 
 C: Sola aprendía la gente pues.
@@ -2960,7 +2960,7 @@ C: debe ser remedio caliente
 M: elungetuy *feyta wüñoalmi ta wüñoy <*SPA>pu'
 C: se le da, este al volver, vuelve pues 
 
-M amualu kay ta amuy <*SPA>pu'. 
+M: amualu kay ta amuy <*SPA>pu'. 
 C: el que se va ir, se va no más pues.
 
 nmlch-lflch1_x_0360_nmlch_00: 

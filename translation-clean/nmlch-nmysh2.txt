@@ -429,7 +429,7 @@ C: Antes no se conocía, no se conocía pues
 M:  ta <SPA>hepatiti pin ka wingka zungunmu. 
 C: la hepatitis dicen en babla huinca.
 
-nmlch-nmysh2_x_0056_nmlch_00
+nmlch-nmysh2_x_0056_nmlch_00:
 M: Chumuechi tañi <SPA>perden ta che l'antukuli 
 C: Como es que fallece la persona, fallecen no más
 
@@ -799,7 +799,7 @@ C: Esta diferente esta muy diferente, nuy diferente.
 
 
 nmlch-nmysh2_x_0100_nmysh_00: 
-M. Kali rume kali ta mongen feymu ta kümewetulay 
+M: Kali rume kali ta mongen feymu ta kümewetulay 
 C: Esta diferentepues la vida por eso que no esta bien
 
 M: feymu mülefuy ta <Cough> kuyfi mülefuy ta mültrün.
@@ -2087,7 +2087,7 @@ M: Müte, müte puliwen ñi witrnoal fey.
 C: No más, en la mañana para no levantarse.
 
 nmlch-nmysh2_x_0316_nmlch_00: 
-M. Yüfkürüftunoal ka.
+M: Yüfkürüftunoal ka.
 C: Para que no tome el viento pues.
  
 nmlch-nmysh2_x_0317_nmysh_00: 
@@ -2166,7 +2166,7 @@ M: ta ngünenuwkülelu ka.
 C: pues el que sabe también.
 
 nmlch-nmysh2_x_0331_nmysh_00: 
-M. Ka wingka dungunmu ta müle feypi tati kimlu ,
+M: Ka wingka dungunmu ta müle feypi tati kimlu ,
 C: también él habla de huinca habra alguien que sabe,
 
 M: kimlu mongen tüfachi kuyfi mongen kimlu 
@@ -3253,7 +3253,7 @@ M: famuechi nagpatuam rume kutrankefuy tañi luku.
 C: así cuando bajo me dolía mucho mi rodilla.
  
 nmlch-nmysh2_x_0489_nmlch_00: 
-M. !Ah¡
+M: !Ah¡
 C: ¡Ah!
 
 nmlch-nmysh2_x_0490_nmysh_00: 

@@ -23,7 +23,7 @@ M: ¿*amukimi ta<uh>... *amikimi ta opitalmu *fakunawal?
 C: ¿ Vas... vas al hospital a vacunarte?.
 
 nfmcp-nmacq2_x_0001_nmacq_00: 
-<uh> 
+M: <uh> 
 
 nfmcp-nmacq2_x_0002_nfmcp_00: 
 M: ¿Kam amukelaymün 
@@ -1311,7 +1311,7 @@ M: kanserkutran?
 C: la enfermedad de cancer?
 
 nfmcp-nmacq2_x_0053_nmacq_00: 
-<uhm>  
+M: <uhm>  
 
 nfmcp-nmacq2_x_0054_nfmcp_00:
 M: Chem dungumu pe -/tukuy/-+/*tuuki/+
@@ -1498,7 +1498,7 @@ M: kutranlay tami pu familia
 C: no se enferma tu familia,
 
 nfmcp-nmacq2_x_0062_nmacq_00: 
-<uh>
+M: <uh>
 
 nfmcp-nmacq2_x_0063_nfmcp_00:
 M: ¿tami pu yall? 
@@ -1563,7 +1563,7 @@ M: <*SPA>o medikamu chi
 C: o quizás donde la médica 
 
 nfmcp-nmacq2_x_0068_nmacq_00:
- <uh>
+M: <uh>
 
 nfmcp-nmacq2_x_0069_nfmcp_00:
 M: ¿*chumuechi kimualtum% chumlen tami <uh> kümelkalen 

@@ -5,7 +5,6 @@
 ; Transcriber: Cristian C. Anton. 
 ; Comments:  
 ; Traduce: Rosa  Huenchumilla.
-`
 nmlch-pfamm2_1_0000_pfamm_00:
 M: <*SPA>No <*SPA>allaba <*SPA>como
 C: No hallaba como
@@ -238,7 +237,7 @@ M: , entragalngekalayanka <*SPA>me <*SPA>dijo
 C: no creo que me lo entreguen pues dijo
 
 M:   <*SPA>esta <*SPA>grande
-C : esta grande  
+C: esta grande  
 
 M: <*SPA>bueno <*SPA>eso <*SPA>son <*SPA>cosa <*SPA>suya
 C:  bueno eso es cosa suya  
@@ -306,7 +305,7 @@ M: <*SPA>me <*SPA>anduvo <*SPA>calmando
 C: me anduvo calmando más
 
 M:  mayta tañi longko
-C : si mi cabeza 
+C: si mi cabeza 
 
 M: fey doy chemtun
 C: y así me sentí mejor
@@ -443,7 +442,7 @@ M: <*SPA>no <*SPA>na <*SPA>uno femngechi l'awen'mu
 C: no nada, uno por un remedio así
 
 M: chemüy fey trokikefiñ iñche
-C : le hizo bien eso me parece a mi
+C: le hizo bien eso me parece a mi
 
 M: <*SPA>por <*SPA>mi 
 C: por mi, 
@@ -489,7 +488,7 @@ M:  muy <*SPA>fuerte <*SPA>el <*SPA>remedio
 C: muy fuerte el remedio 
 
 M:  <*SPA>les <*SPA>dicia
-C. les decía
+C: les decía
 
 M:  <*SPA>no <*SPA>me <*SPA>decias 
 C: no me decía
@@ -872,7 +871,7 @@ C:  Un grito desesperante pues.
 
 nmlch-pfamm2_1_0085_nmlch_00: 
 M: Müna weda <!1wecha> <*SPA>no
-C. Que malo no
+C: Que malo no
 
 M:  ¿feyta fey mongean pimikay eperalu?
 C:  Y pensaste que ibas a vivir cundo se opero?

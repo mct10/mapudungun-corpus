@@ -586,7 +586,7 @@ M: feyngi tüfey
 C: es cierto entonce 
 
 nmlch-lmihr1_x_0073_lmihr_00:
-M : Veyngi <*SPA>pu' veyngi veyngi ta tüva 
+M: Veyngi <*SPA>pu' veyngi veyngi ta tüva 
 C: Así pues así, así este ahora 
 
 M: veyngi tati 
@@ -1329,7 +1329,7 @@ C: este Hermano este Padre
 
 nmlch-lmihr1_x_0192_lmihr_00: 
 M: feyta kiduengün pelotukevuy <*SPA>pu'
-C esta ellos mismo lo diagnostican pues 
+C: esta ellos mismo lo diagnostican pues 
 
 nmlch-lmihr1_x_0193_nmlch_00: 
 M: Ah. pelotun pingi 
@@ -1421,7 +1421,7 @@ M:  wülleñmu ka pelotukevuy
 C: con orina lo diagnostican 
 
 nmlch-lmihr1_x_0208_nmlch_00:
-M :  Ah. willeñmu ka fey 
+M:  Ah. willeñmu ka fey 
 C: A con orina tambien si
 
 nmlch-lmihr1_x_0209_lmihr_00:
@@ -2269,7 +2269,7 @@ M:  l'awen' <*SPA>pu', l'awen' <*SPA>pu'
 C: Remedio pues, remedio pues 
 
 nmlch-lmihr1_x_0347_nmlch_00:
-N: Ah. 
+M: Ah. 
 C: A
 
 nmlch-lmihr1_x_0348_lmihr_00: 
@@ -2371,11 +2371,11 @@ M: vey ka kimi kutran
 C: asi tambien supo la emfermedad
 
 M:  rülelu kay tüfa rülelu 
-C; pasado si está pasado
+C: pasado si está pasado
 
 nmlch-lmihr1_x_0365_lmihr_00:
 M:  veyta kintungekevuy virküke l'awen' <*SPA>pu' <Noise> 
-C; esta lo buscaban remedio suave pes 
+C: esta lo buscaban remedio suave pes 
 
 M: kintungekevuy pülapüla <Noise> <Noise> 
 C: buscaban al pülapüla
@@ -2564,7 +2564,7 @@ M: chew mülefuy mülechi foye
 C: donde Habra el canelo que hay 
 
 M: feyta mülefuy tüfa
-C; esta hay aqui 
+C: esta hay aqui 
 
 nmlch-lmihr1_x_0395_lmihr_00: 
 M: veyta vey, 
@@ -2764,11 +2764,11 @@ C: por eso se llama remdio de linasa
 
 nmlch-lmihr1_x_0426_nmlch_00: 
 M: Ah. wadkümngeki tey 
-C; A lo hacen hiervir
+C: A lo hacen hiervir
 
 nmlch-lmihr1_x_0427_lmihr_00: 
 M: <*SPA>no <Noise> wadkümngeki, 
-C; no lo hacen hiervir
+C: no lo hacen hiervir
 
 
 M: wadkümngeki, wadkümngeki, 

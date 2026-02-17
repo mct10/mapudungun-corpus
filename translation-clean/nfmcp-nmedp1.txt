@@ -61,7 +61,7 @@ C: ¿María Isabel?
  
 nfmcp-nmedp1_x_0012_nfmcp_00:
 M:  Koñoepan iñche
-C : Coñoepan soy yo 
+C: Coñoepan soy yo 
  
 M:  tamu fey tachi mapumeu <!1mapumu> llegün kawemu -/map/- mapu
 C:  aquí en esta tierra nací, tierra de Cahuemu
@@ -184,7 +184,7 @@ M: tremoleken <*SPA>siempre
 C: suelo estar sano siempre
   
 M: <*SPA>porque <P> liwen miauken
-C : porque ando temprano 
+C: porque ando temprano 
 
 M: ka pichiken l'awen'tuuküleken kidu +/l'a/+
 C:  también de a poco suelo hacerme remedio solo  
@@ -1077,7 +1077,7 @@ C: no es ni enfermizo siquiera
 M: fey küme llegi ñi... püñeñ ñi domo. 
 C: así nació bien mi... el hijo de mi mujer.
 
-nfmcp-nmedp1_x_0077_nfmcp:
+nfmcp-nmedp1_x_0077_nfmcp_00:
 M: ¿Feyta fey +/ka/+ kakelu fey yall nien ta eymi, 
 C: ¿Y ahora los otros hijos que tienes tú
 
@@ -1271,7 +1271,7 @@ M: fey +/kuydaunumun/+ kuydaulafuy mütewe
 C: por no cuidarse, no se había cuidado mucho
 
 M: feymu fey kutrankawürkey
-C. por eso entonces sufrió
+C: por eso entonces sufrió
 
 M: welu <*SPA>después <!1depue'> kuydawi
 C: pero  despues se cuidó 

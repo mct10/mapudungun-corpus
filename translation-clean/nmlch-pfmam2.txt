@@ -71,7 +71,6 @@ C: Pasto.
 nmlch-pfmam2_x_0005_nmlch_00: 
 M: Kachu l'awen'.
 C: Remedio de pasto.
-2 
 nmlch-pfmam2_x_0006_pfmam_00:
 M: Kachu re limpia plata pingi
 C: Pasto, sólo se llama limpia plata
@@ -169,7 +168,7 @@ C:  por golpe
 M:  ta newen ngelay ta l'awen'
 C:  ahora no existe muchos remedios
 
-2M:  paysanumu l'awen'
+M:  paysanumu l'awen'
 C:  remedios paisanos
 
 M:  veyta doy kümi 
@@ -322,7 +321,6 @@ C:  ¿Los hace enfermar
 
 M: kam l'awen' tuwkimün
 C: o lo usan como remedio 
-2
 M:  piremu eymün 
 C:  con el granizo ustedes
 
@@ -417,7 +415,7 @@ C:  no nos molestan en el invierno
 nmlch-pfmam2_x_0029_nmlch_00: 
 M: ¡Ah!
 C: ¡Ah!
-2
+
 M: Konkelay kake kutran.
 C:  No entra otra enfermedad.
  
@@ -500,7 +498,7 @@ C: el terremoto
 M:  blancomu fey
 C:  en el blanco
 
-M2:  veymu ta doy wesa kunueymu 
+M:  veymu ta doy wesa kunueymu 
 C:  ahí nos dejó más mal
 
 M: ta puken
@@ -784,7 +782,7 @@ M: chuchimu soy pengeki
 C:  donde se ve más
 
 M: perimontun tüfey.
-C : ese mal de ojo?
+C: ese mal de ojo?
 
 nmlch-pfmam2_x_0053_pfmam_00: 
 M: <uh> Inche tañi kimel 
@@ -1085,7 +1083,7 @@ M: Rayen rosa ka matiko pingi.
 C: Flor de rosa con matico dicen. 
 
 nmlch-pfmam2_x_0076_nmlch_00: 
-M2: Matiko.
+M: Matiko.
 C: Matico.
 
 nmlch-pfmam2_x_0077_pfmam_00: 
@@ -1109,7 +1107,7 @@ C: Sólo matico, eso se mezcla hermana.
 
 nmlch-pfmam2_x_0081_pfmam_00:
 M: Feyta fayüm ngey 
-C : Eso se fermenta
+C: Eso se fermenta
 
 M: fayümnengi
 C:  se tiene fermentado
@@ -1159,7 +1157,7 @@ nmlch-pfmam2_x_0087_pfmam_00:
 M: Femngechi notuafuy
 C:  Asì lo detendría
 
-8M: feychi l'awen
+M: feychi l'awen
 C:  ese remedio
 
 M: ' kimvinta
@@ -1527,12 +1525,12 @@ M:  vey ta wüla chemi
 C:  y ahora recién le pasó 
 
 M:  ka l'ay tati lamngen.
-C3:  también  murio pues hermana.
+C:  también  murio pues hermana.
 
 nmlch-pfmam2_x_0103_nmlch_00:
 M: ¡Ah!
 C: ¡Ah!
-2
+
 M: Fam wechu lay wüla.
 C: Asì terminó murio recièn.
 
@@ -2171,7 +2169,7 @@ M:  kam piwelay iyalu che.
 C: o las personsa no quieren comer mas.
 
 nmlch-pfmam2_x_0147_pfmam_00: 
-8M: <uh> Inche na nieken ta pu'
+M: <uh> Inche na nieken ta pu'
 C: Yo tengo mucho ahora pues
 
 M:  <uh> füchake chemu 
@@ -2190,4 +2188,4 @@ M:  inche feyta
 C: yo, esto
 
 M: newe kimwetulafin welu inche.
-c: no lo sé mucho, pero yo.
+C: no lo sé mucho, pero yo.

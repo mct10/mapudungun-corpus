@@ -683,7 +683,7 @@ M: Kuyfi kay ngekanofulu kay.
 C: Antes pues no había pues.
  
 nmlch-nfmmqA2_x_0053_nmlch_00: 
-M. Ngelafuy feychi dungu feychi.
+M: Ngelafuy feychi dungu feychi.
 C: No había esas cosas  esas.
  
 nmlch-nfmmqA2_x_0054_nfmmqA_00: 
@@ -756,7 +756,7 @@ C: Eso lo hizo pues hermano.
  
 nmlch-nfmmqA2_x_0061_nmlch_00: 
 M: Müli ta fentren kutran ta mongenmu 
-C Hay hartas enfermedades en la vida
+C: Hay hartas enfermedades en la vida
 
 M: ka tripa che ta <uh> kimlafi 
 C: que vienen de gente de fuera lo conoces
@@ -2282,7 +2282,7 @@ M: Chaw Diomew fey nga lasutuni nga
 C: en el padre Dios y el estaba con un laso
 
 M: kiñe filu famngelumu küllkaytukuni 
-C. una culebra así lo tenía en su cuello
+C: una culebra así lo tenía en su cuello
 
 M: kiñ pütra filu pienu.
 C: una culebra grande me dijo.

@@ -1047,7 +1047,7 @@ C: son las cuatros patas
 M: dos hijo... hija tengo  <*SPA>  no  
 C: dos hijos...hijas tengo no.
  
-n3_x_0161_nfrn_00utran 
+n3_x_0161_nfrn_00:
 M: Reke <%>.
 C: Como
  

@@ -314,7 +314,7 @@ M: feymu ta wefketuy angemu.
 C: por eso le aparece otra vez en la cara.
 
 M: feytamu chuchimu rume 
-C. en cualquier parte 
+C: en cualquier parte 
 
 
 M: feyta despue winka 
@@ -2950,7 +2950,7 @@ C: ahí le pregunté ahí dice.
 
 nmlch-nmjlltB1_x_0341_nmjllt_00: 
 M: Sí.
-C. Sí
+C: Sí
 
 M: Kiñe winka wenüy nien 
 C: Un amigo huinca tiene

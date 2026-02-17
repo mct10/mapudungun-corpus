@@ -4,7 +4,7 @@
 ; Last changes made on 12/11/2001 
 ; Transcriber: Cristian C. Anton 
 ; Comments: 
-Traduce: Gloria Melipil.
+;Traduce: Gloria Melipil.
 
 nmlch-lfsm1_x_0000_lfsm_00: 
 M: Chumngeavuy rume <*SPA>presentenme<*SPA> ami 
@@ -228,7 +228,7 @@ M:  venten che ta montulaymi pienew.
 C: va a salvar a mucha gente me dijo.
 
 nmlch-lfsm1_x_0021_nmlch_00: 
-,M: ¿Pelotupaymu tüfey? 
+M: ¿Pelotupaymu tüfey? 
 C: ¿Le vino hacer el diagnóstico?
 
 nmlch-lfsm1_x_0022_lfsm_00: 
@@ -1918,7 +1918,7 @@ C: No a ese también no le sé el nombre
 M:  re tapül müten kimvin ten
 C: a la pura hoja la conozco 
 
-M  re tapül tukevin tati 
+M:  re tapül tukevin tati 
 C: la pura hoja la escogó pues
 
 M: yerumeki ti folil nentuymangeki.

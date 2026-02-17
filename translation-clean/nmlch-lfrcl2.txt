@@ -4,7 +4,7 @@
 ; Last changes made on 01/06/2003 
 ; Transcriber: Cristian C. Anton 
 ; Comments:  
-Traduce: Celestina Carilao y Julio Marileo.
+;Traduce: Celestina Carilao y Julio Marileo.
 
 nmlch-lfrcl2_1_0000_lfrcl_00: 
 M: <*SPA>Ese ta newe wingkaukülelay tati 
@@ -449,7 +449,7 @@ M: amun tami kude <!1kuse>
 C: fui donde la anciana 
 
 M: awelitamu
-C;: donde la abuelita
+C: donde la abuelita
 
 M:  feymu amun
 C: por eso fui
@@ -554,7 +554,7 @@ M: tami wentru <*SPA>mejor pieneu
 C: mejor que sea tu esposo me dijo
 
 M: amuaymi ñawe
-C. vas a ir hija
+C: vas a ir hija
 
 M: perdepürayafuy tami füta pieneu
 C: si no vas a perder a tu marido
@@ -896,7 +896,7 @@ M: ¿Chumngelu chi kofikey <!1kofiki>?.
 C: ¿ Como se calienta?
 
 nmlch-lfrcl2_1_0070_lfrcl_00: 
-M. <*SPA>Es <*SPA>que tichi weda <!1wesa>
+M: <*SPA>Es <*SPA>que tichi weda <!1wesa>
 C: Esa que tiene la mala
 
 M: kutran nielu
@@ -1438,7 +1438,7 @@ M: Manuel <*SPA>Cariqueo mu tiemu.
 C: allá donde Manuel Cariqueo.
  
 nmlch-lfrcl2_1_0117_nmlch_00: 
-M. Ya.
+M: Ya.
 C: Ya.
  
 nmlch-lfrcl2_1_0118_lfrcl_00: 
@@ -1535,7 +1535,7 @@ M: Welu chaliukerkefuyu nga.
 C: Pero creo que nos hemos saludado.
  
 nmlch-lfrcl2_1_0134_lfrcl_00: 
-M. <*SPA>Si <*SPA>pues <!1pu'> 
+M: <*SPA>Si <*SPA>pues <!1pu'> 
 C: Sí, pues.
 
 M: Kimchepatuymi faupüle tati 
@@ -1552,7 +1552,7 @@ M: Feley papay.
 C: Así es mamita.
  
 nmlch-lfrcl2_1_0136_lfrcl_00: 
-M. <*SPA>Saludo <!1saludu> 
+M: <*SPA>Saludo <!1saludu> 
 C: Saludos
 
 M:*pianiayfimi 
@@ -1640,7 +1640,7 @@ M: ¡Ah!.
 C: ¡ Ah!.
 
 nmlch-lfrcl2_1_0146_lfrcl_00: 
-M. <*SPA>Reducción <!1reución> Liempi 
+M: <*SPA>Reducción <!1reución> Liempi 
 C: De la reduccion Liempi
 
 M: *comude.

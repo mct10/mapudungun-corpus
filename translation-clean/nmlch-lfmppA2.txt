@@ -423,7 +423,7 @@ M: rume trüfonlu
 C: que tiene mucha tos
 
 M: rupanolu tañi trüfon 
-C que no le calma la tos.
+C: que no le calma la tos.
 
 M: ¿chem chi kutran chi
 C: ¿Qué enfermedad tendrá? ,
@@ -3032,7 +3032,7 @@ M: allkükepelafimi chaw.
 C: lo haz oído padre.
  
 nmlch-lfmppA2_x_0293_nmlch_00: 
-<hm> jü
+<hm>
 
 nmlch-lfmppA2_x_0294_lfmpp_00: 
 M: <*SPA>Cerro partiw mapu

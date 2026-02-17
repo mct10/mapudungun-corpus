@@ -27,7 +27,7 @@ C: Antiguamente esa enfermedad
 M: mongelken pipimi nga fey. 
 C: lo hacia aliviar, dijiste.
 
-lfmim2_x_0004_nmlch_00mim_00: *
+lfmim2_x_0004_nmlch_00mim_00: 
 M: Feyta mongelkellefin may
 C: Pues hacían aliviar 
 
@@ -160,7 +160,7 @@ C: conversamos, es la cabeza
 M: rume sentineki chem kutran<%><%>
 C: le dolía mucho, que enfermedad
 
-nmlch-lfmmcB2 _x_0011_lfmim_00: <*SPA>
+nmlch-lfmmcB2 _x_0011_lfmim_00: 
 M: No. 
 C: No.
 
@@ -237,7 +237,7 @@ nmlch-lfmmcB2 _x_0016_nmlch_00:
 M: Femngechi kimfimi .
 C: Asi tu conoces.
 
-nmlch-lfmmcB2 _x_0017_lfmim_00: *
+nmlch-lfmmcB2 _x_0017_lfmim_00:
 M: ..Femngechi kimkefin.  
 C: Asi lo conozco.
 
@@ -332,7 +332,7 @@ C: el que posée un espiritu negativo
 M:..feyta puwlay ta pitalka kimlafi. 
 C:..ese no llega al Hospital, no lo conoce.
 
-nmlch-lfmmcB2 _x_0022_nmlch_00: <%>
+nmlch-lfmmcB2 _x_0022_nmlch_00: 
 M: ¿Nielu perimontun mongeafuy kay?.
 C: ¿El que posée el mal espiritu puede vivir?.
 
@@ -377,7 +377,7 @@ C: puede estar mucho tiempo en el hospital
 M: mongerkelayafuy. 
 C: no se puede mejorar.
 
-nmlch-lfmmcB2 _x_0025_lfmim_00: <*SPA>
+nmlch-lfmmcB2 _x_0025_lfmim_00: 
 M: No mongekelay 
 C: No, no se alivia
 
@@ -407,7 +407,7 @@ C: que no se alivia en el Hospital
 M: tüfichi che mewülentulu.
 C: esa persona que se volvio remolino.
  
-nmlch-lfmmcB2 _x_0029_lfmim_00: <*SPA>
+nmlch-lfmmcB2 _x_0029_lfmim_00: 
 M: No mongekelay kimnoluam 
 C: No vivío, como no sabia
 
@@ -506,7 +506,7 @@ C: ...
 M: ...feyta mongeki 
 C: pues se alivia
 
-nmlch-lfmmcB2 _x_0038_nmlch_00: ..%
+nmlch-lfmmcB2 _x_0038_nmlch_00: 
 M: Perimontun.
 C: La enfermedad de las visiones.
 
@@ -758,7 +758,7 @@ M: Ah.
 C: Ah.
 
 M: Müli may.
-C : Existe entonces.
+C: Existe entonces.
 
 nmlch-lfmmcB2 _x_0061_lfmim_00: 
 M: Müli tati.
@@ -990,7 +990,7 @@ nmlch-lfmmcB2 _x_0086_nmlch_00:
 M:  Fam nahi 
 C: Se bajo.
 
-nmlch-lfmmcB2 _x_0087_lfmim_00: *
+nmlch-lfmmcB2 _x_0087_lfmim_00: 
 M: ..Fam nagi koreki tati .
 C: ..Se bajo fluidamente pues.
 
@@ -1028,11 +1028,11 @@ C: ...ese se endurece pues
 
 M: ...feyta puw puwngi ta. 
 C: ...pues ese llega, le llega pues.
-nmlch-lfmmcB2 _x_0090_nmlch_00: <*SPA>
+nmlch-lfmmcB2 _x_0090_nmlch_00: 
 M: Vesicula.
 C: La Vesicula.
 
-nmlch-lfmmcB2 _x_0091_lfmim_00: <*SPA>
+nmlch-lfmmcB2 _x_0091_lfmim_00:
 M: Vesiculamu tati yelmu yel
 C: En la Vesicula, en la hiel, hiel
 
@@ -1191,12 +1191,12 @@ C: para...............................
 M: tañi <*SPA>celebru puche
 C: en el cerebro de las personas
  
-nmlch-lfmmcB2 _x_0107_nmlch_00: ..%
+nmlch-lfmmcB2 _x_0107_nmlch_00: 
 M: 
 C:
 
-nmlch-lfmmcB2 _x_0108_lfmim_00: <*SPA
-M: >Celebru <*SPA>celebrumu *
+nmlch-lfmmcB2 _x_0108_lfmim_00: 
+M: <*SPA>Celebru <*SPA>celebrumu *
 C: En el Cerebro, en el Cerebro
 
 M:..feyta amuki chi mollvün tati *
@@ -1226,7 +1226,7 @@ C: en el cerebro hay...pues
 M: ..fillantü..% .
 C: ..todos los dias
 
-nmlch-lfmmcB2 _x_0109_nmlch_00: ..% 
+nmlch-lfmmcB2 _x_0109_nmlch_00: 
 M: Fey ka .
 C:  Eso También.
 
@@ -1238,7 +1238,7 @@ nmlch-lfmmcB2 _x_0111_nmlch_00:
 M: <hm><Throat> ../- 
 C:
 
-nmlch-lfmmcB2 _x_0112_lfmim_00: *
+nmlch-lfmmcB2 _x_0112_lfmim_00: 
 M: ...Fey may mañumafiyu tati eymi
 C: ...Pues te le agradeceria mucho a usted
 
@@ -1327,7 +1327,7 @@ C:  Así es pues
 M: fentrekeli kutran. 
 C: hay tantas enfermedades.
 
-nmlch-lfmmcB2 _x_0120_lfmim_00: *
+nmlch-lfmmcB2 _x_0120_lfmim_00:
 M: ..Fey ta *..feymu *
 C: Pues por eso
 
@@ -1912,7 +1912,7 @@ M: ..fiskü nagi tati
 C: se refresca al bajar
 
 M: tripatuy tachi atreg refria
-C sale lo frio del resfriado
+C: sale lo frio del resfriado
 
 M: arelen pütokoki 
 C:  se toma caliente

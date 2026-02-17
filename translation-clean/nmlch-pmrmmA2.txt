@@ -2087,7 +2087,7 @@ C: en ese mismo año
 M: porque <*SPA>ante  <*SPA> no
 C: porque antes no 
 
-M. <*SPA>habia <*SPA>esa ley pu' 
+M: <*SPA>habia <*SPA>esa ley pu' 
 C: habia esa ley pues
 
 M: <*SPA>entonce <*SPA>en <*SPA>
@@ -2142,7 +2142,7 @@ C: porque mi
 M: viejo <*SPA>mi <*SPA>papa 
 C: viejo, mi papa
 
-M :<*SPA>anduvo <*SPA>en<*SPA>
+M:<*SPA>anduvo <*SPA>en<*SPA>
 C:  anduvo en 
 
 M: la <*SPA>argentina<*SPA>
@@ -2430,7 +2430,7 @@ M: mülekefuy piam
 C: creo que habia
 
 M: tati ñidol lonko piam
-C la cabeza que estaba guiando
+C: la cabeza que estaba guiando
 
 M:  mülekevuy tati lonkimay pingi 
 C: estaba en Lonquimay dicen

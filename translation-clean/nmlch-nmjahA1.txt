@@ -3474,11 +3474,11 @@ M: tukun chumlepuaiñ
 C: cómo iremos estar 
 
 M: ta doy rupale ta tripantu 
-C; cuando pase mas el años 
+C: cuando pase mas el años 
 
 
 M: chumlepuaiñ tüva vantemu 
-Como estariamos ahora en éste momentos 
+C:Como estariamos ahora en éste momentos 
 
 M: veyta müli ta kiñe llellipulu ta machimu.
 C: éste hay una que hace rogativa por la machi.

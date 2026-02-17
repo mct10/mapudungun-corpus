@@ -1842,7 +1842,7 @@ M: Femlay.
 C: No hizo eso.
 
 nmlch-lfch2_x_0158_lfch_00: 
-N: <SPA>No pu.
+M: <SPA>No pu.
 C: No pues.
 
 nmlch-lfch2_x_0159_nmlch_00: 
@@ -1949,7 +1949,7 @@ C: no lo indagaba
 M: ñi ramtualfiel tati 
 C: para preguntárselo pues
  
-M füchache tañi machingepevuy 
+M: füchache tañi machingepevuy 
 C: persona anciana que era machi 
 
 M: tañi ñuke 
@@ -2461,7 +2461,7 @@ M: feyta ka femi
 C: entonces de esa manera...
 
 M: puwingün 
-C. se dicen 
+C: se dicen 
 
 M: powi tiychi llampaw machi 
 C: se dice esa machi blanda 
@@ -3307,5 +3307,5 @@ M: feyta lladküyngün pi
 C: entonces se enojaron dijo 
 
 nmlch-lfch2_x_0317_nmlch_00: 
-<uhm> ..
+<uhm>
 

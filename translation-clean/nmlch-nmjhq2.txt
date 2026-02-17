@@ -2161,7 +2161,7 @@ M: feymuta debilitatuy mollfün
 C: es por eso que se debilita la sangre 
 
 M: kuyfi antiko ta 
-C. ante los antiguo pues
+C: ante los antiguo pues
 
 M: newe küme ropatulelay 
 C: no se abrigaba muy bien 
@@ -2223,7 +2223,6 @@ M: kochi iyal tulu che.
 C: comida dulce si come la gente.
 
 nmlch-nmjhq2_x_0147_mnlch_00: 
-mmm 
 
 M: Kaletuy mongen in kom.
 C: Está distinta nuestra vida todo
@@ -2337,7 +2336,7 @@ M: kümewelay ta rakiduanmu
 C: No es bueno ya el pensamiento 
 
 M: el mismo kürüf pi 
-C; el mismo viento dijo 
+C: el mismo viento dijo 
 
 M: koni kuerpumu 
 C: entra en el cuerpo 

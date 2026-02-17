@@ -121,7 +121,7 @@ M: Feymu iñche pemekefiñ rukameuengün
 C: Por eso yo los visito en sus casas.
 
 nmlch-pfmvmB2_1_0024_pfmvm_00: 
-<uhm> <Noise> 
+<uhm>
 
 nmlch-pfmvmB2_1_0025_nmlch_00: 
 M: <uh> ngütramkamekefiñengün 
@@ -1158,7 +1158,7 @@ M: welu iñche chedunguken müten chempilerume kakelu
 C: pero yo hablo en mapuche no más no importandome lo que digan los demás.
 
 nmlch-pfmvmB2_1_0164_nmlch_00: 
-<Noise> <uhm> 
+<Noise> 
 
 nmlch-pfmvmB2_1_0165_pfmvm_00: 
 M: ramtungeken fey tañi cheu tañi küpan 

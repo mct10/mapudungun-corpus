@@ -7,89 +7,89 @@
 ; Traduce: Maria Soledad Catrilaf
 
 nmlch-nffh1_x_0000_nmlch_00:
-M : Mari, mari lamuen 
-C  : Buenos dias hermana .
+M: Mari, mari lamuen 
+C: Buenos dias hermana .
 
 nmlch-nffh1_x_0001_nffh_00:
-M : Mari, mari lamuen
-C : Buenos dias hermano .
+M: Mari, mari lamuen
+C: Buenos dias hermano .
 
 nmlch-nffh1_x_0002_nmlch_00: 
-M : ¿chumlimi eymi?
-C : ¿Como estás tú?.
+M: ¿chumlimi eymi?
+C: ¿Como estás tú?.
 
 nmlch-nffh1_x_0003_nffh_00:
-M : kümelkalen 
-C : Estoy bién .
+M: kümelkalen 
+C: Estoy bién .
 
 nmlch-nffh1_x_0004_nmlch_00:
-M : kümelkalimi
-C : Estas bién.
+M: kümelkalimi
+C: Estas bién.
 
 nmlch-nffh1_x_0005_nffh_00:
-M : may 
+M: may 
 C: Sí .
 
 nmlch-nffh1_x_0006_nmlch_00: <uh>
-M :  chem dungu 
-C :  Que se cuenta .
+M:  chem dungu 
+C:  Que se cuenta .
 
-M : rume ngelay tami lofmew
-C : Alguna noticia en su lugar . 
+M: rume ngelay tami lofmew
+C: Alguna noticia en su lugar . 
 
 nmlch-nffh1_x_0007_nffh_00: <uh> <SPA>
-M :No ngelay
-C : No, no hay. 
+M:No ngelay
+C: No, no hay. 
 
 nmlch-nffh1_x_0008_nmlch_00:
-M : Ngelay
-C : No hay. 
+M: Ngelay
+C: No hay. 
 
 nmlch-nffh1_x_0009_nffh_00:
-M : Ngelay
-C : No hay.
+M: Ngelay
+C: No hay.
 
 nmlch-nffh1_x_0010_nmlch_00:
-M : ¿ini pingimi eymi?
-C : ¿Como te llama?. 
+M: ¿ini pingimi eymi?
+C: ¿Como te llama?. 
 
 nmlch-nffh1_x_0011_nffh_00:
-M : Inche Fabiola Huentel pingen
-C : Yo me llamo Fabiola Huentel. 
+M: Inche Fabiola Huentel pingen
+C: Yo me llamo Fabiola Huentel. 
 
 nmlch-nffh1_x_0012_nmlch_00: 
-M :Fey 
-C : sí
+M:Fey 
+C: sí
 
-M : ¿ini pingi tami lof ?
-C : ¿Como se llama su lugar? .
+M: ¿ini pingi tami lof ?
+C: ¿Como se llama su lugar? .
 
 nmlch-nffh1_x_0013_nffh_00:
-M : Pajal pingi ñi lof
-C : Pajal se llama mi lugar. 
+M: Pajal pingi ñi lof
+C: Pajal se llama mi lugar. 
 
 nmlch-nffh1_x_0014_nmlch_00:
 M: feley lamuen Pajal pingi
-C : Así es hermana, Pajal se llama. 
+C: Así es hermana, Pajal se llama. 
 
 nmlch-nffh1_x_0015_nffh_00: 
-M :May feli 
-C : Sí , así es .
+M:May feli 
+C: Sí , así es .
 
 nmlch-nffh1_x_0016_nmlch_00:
-M :Feli lamuen 
-C : Así es hermana
+M:Feli lamuen 
+C: Así es hermana
 
-M :inche tüfa ramtuan
-C : yo, voy a preguntarle
+M:inche tüfa ramtuan
+C: yo, voy a preguntarle
 
-M : ñi lamuen pipen 
+M: ñi lamuen pipen 
 C: a mi hermana
 
 M:fey rakiduamün
 C:por eso pensé
 
-M : nieyu tami kimün eymi 
+M: nieyu tami kimün eymi 
 C: tienes tú conocimiento
 
 M: feymu ramtupeyu fey tüfi 
@@ -105,8 +105,8 @@ M: ka chumuechi tañi müleken mongenmu
 C: y como se tiene buena vida.
 
 nmlch-nffh1_x_0017_nffh_00: 
-M : feley <Noise>
-C : Así es.  
+M: feley <Noise>
+C: Así es.  
 
 nmlch-nffh1_x_0018_nmlch_00: 
 M:¿eymi lamuen tami mongenmu
@@ -127,16 +127,16 @@ M: ¿kutranchengelaymi/
 C:¿ Y usted no se a enfermado ?.
 
 nmlch-nffh1_x_0021_nffh_00:
-M : <SPA>no 
-C : No.
+M: <SPA>no 
+C: No.
  
 nmlch-nffh1_x_0022_nmlch_00:
 M: tami ñuke, chaw 
-C : Su mamá  o papá.
+C: Su mamá  o papá.
 
 nmlch-nffh1_x_0023_nffh_00: 
 M: Tañi ñuke kutranchengi <uh>
-C : Mi madre está enferma 
+C: Mi madre está enferma 
  
 M: itrofill kutrannieki kom <uh>
 C: tenía variadas enfermedades.
@@ -234,10 +234,10 @@ C:¿ no ha visto  en  machi?.
 
 nmlch-nffh1_x_0044_nffh_00:
 M: Pitalmu miawki <Noise>
-C :Al  hospital voy ..
+C:Al  hospital voy ..
 
-M: ka<uh> uyu <uh> machi l'awen'tuki ka <uh
-  remedio de machi estoy tomando 
+M: ka<uh> uyu <uh> machi l'awen'tuki ka <uh>
+C:  remedio de machi estoy tomando 
 
 M: ka femngechi ka 
 C: así, de esta manera
@@ -283,11 +283,11 @@ M: Fey
 C: Ah  sí.
 
 nmlch-nffh1_x_0052_nffh_00:
-M. fey e'te <uhm>
+M: fey e'te <uhm>
 C: Yó
 
 M: dewma fütra kuyfi
-C. ase mucho  tiempo 
+C: ase mucho  tiempo 
 
 M: ñi pütokolena mapuche l'awen'
 C: estoy tomando  remedio mapuche 
@@ -316,7 +316,7 @@ M: kimlan ke fey feypikelayu weda kutranki müten <SPA>
 C: No se como me contagié  esta enfermedad 
 
 M:pero kimlay chum kimlay chumuechi tufel chi kutran kimlay <uh>
-C. pero no sé  donde me contagié la enfermedad.
+C: pero no sé  donde me contagié la enfermedad.
     
 nmlch-nffh1_x_0055_nmlch_00:
 M: chew ñi tufiel
@@ -389,11 +389,11 @@ C: de repente  me duele todo el cuerpo
 M: inyección tukungeki vey  pichi
 C: me pusieron una inyección  y nada más .
 
-ffh1_x_0067_nffh_00o 
+ffh1_x_0067_nffh_00: 
 M: ka  n tukungeki vey  pichi<SPA>
 C: También me pusieron  un poquito
 
-M: pastilla elungeki <SPA >
+M: pastilla elungeki <SPA>
 C:  me  dieron pastillas
 
 M: de <SPA><SPA><SPA>rep00:
@@ -431,9 +431,9 @@ C: conoces que remedio  estoy tomando .
 
 nmlch-nffh1_x_0071_nffh_00:
 M: fey ke ta kimlan 
-C : Esó no lo sé  
+C: Esó no lo sé  
 
-M : elungeki müten kidu tañi chaw  ta <uh>
+M: elungeki müten kidu tañi chaw  ta <uh>
 C:  sé lo da  solamente su papá.
  
 nmlch-nffh1_x_0072_nmlch_00:
@@ -478,7 +478,7 @@ C: ella no va a ver  a una machí.
  
 nmlch-nffh1_x_0079_nffh_00:
 M: femkelay, femkelay, femkelay pütokokimüten l'awen'
-C :No lo hecho , no lo hecho , no lo hecho tomo remedio no más 
+C:No lo hecho , no lo hecho , no lo hecho tomo remedio no más 
 
 M: <SPA>pero <uh> newe kimlay tañi chem nien 
 C: pero no sabe  mucho lo  tiene  
@@ -539,7 +539,7 @@ C: así  es  la enfermedad
 M:welu ka rume amukoni
 C: pero cuando avanza realmente   
 
-M_: ka tutewekelay pingi feyngepi tüfi ka
+M: ka tutewekelay pingi feyngepi tüfi ka
 C:  ya no es bueno  le dijeron así es eso.   
  
 nmlch-nffh1_x_0085_nffh_00:
@@ -654,7 +654,7 @@ M:kimlafimi chi padmu
 C: No conoces  el pasmo.
  
 nmlch-nffh1_x_0103_nffh_00:
-m: kimlafiñ, kimlafiñ tañi chaw ke ta <Cough> 
+M: kimlafiñ, kimlafiñ tañi chaw ke ta <Cough> 
 C:No conozco , no conzco ....
 
 M:<uh> kuyfi pamuy <uh>
@@ -1642,7 +1642,7 @@ C: dicen que las personas no se mejoran en el hospital
  M: feychi kutranmu ta che welu mapuche l'awen'
 C: que con la medicina mapuche se puede curar esta enfermedad
 
-M : müna müley müli tati müli 
+M: müna müley müli tati müli 
 C: dicen que hay muchos, muchos
 
 M: <uh> inche ta kimlan ñi chem ñi pingen feychi l'awen' 
@@ -1852,7 +1852,7 @@ C: No sabían
 M: <SPA>porque veytichi kutran pekelay ta wingka, 
 C: porque de esa enfermedad no sabían los wingkas
 
-M.wingka ta kimlay feytichi kutran 
+M:wingka ta kimlay feytichi kutran 
 C: los wingkas no saben de esa enfermedad
 
 M:chem rume ngelay pingi ta che
@@ -1867,7 +1867,7 @@ C: estan enfermos y también sienten su enfermedad
 M: <SPA>pero pengelay, pengelay kiñe <SPA>doctor 
 C: pero un doctor no lo encuentra
 
-M.chem <SPA>doctor rume ta pelayafuy feychi kutran 
+M:chem <SPA>doctor rume ta pelayafuy feychi kutran 
 C: ningun doctor veía esta enfermedad
 
 nmlch-nffh1_x_0251_nmlch_00: 
@@ -1904,7 +1904,7 @@ M: mongelafuy
 C: Se sanaría
 
 nmlch-nffh1_x_0254_nffh_00:
-M. mongelafuy feyti feychi kutran <Noise> 
+M: mongelafuy feyti feychi kutran <Noise> 
 C: Se  sanaría de esa enfermedad?
 
 nmlch-nffh1_x_0255_nmlch_00: 
@@ -2054,14 +2054,14 @@ C: mi mamá también
 M: welu ta kidu ta fellentukelay fellentukelay tañi chaw 
 C: pero no esta solo mi papá
 
-M.tañi chaw ta ni ñuke machi niy 
+M:tañi chaw ta ni ñuke machi niy 
 C: mi papá y mi mamá van a ver una machi
 
 M: ta ñuke fey amuke
 C: mi mamá va
 
 M: amuaymi pingefuy 
-C. vas a ir me decían
+C: vas a ir me decían
 
 M:y kidu ta maulay ta amulay 
 C: y solo no iba
@@ -2075,7 +2075,7 @@ C: saben muchos de remedios
 M: pewütualu ta che kom kimni pu
 C: si la persona se va a mejorar lo saben todo
 
-M. <uh> ka famngechi feypingi ta che
+M: <uh> ka famngechi feypingi ta che
 C: así dicen la gente
 
 M: ta chem kutran ta ni ka femngechi pelontuwun

@@ -35,7 +35,7 @@ M: Tamu kansafe ngelu.
 C: En esto si tienen cansancio. 
 
 nmlch-pmjctB2 _x_0005_pmjct_00: 
-M. Kansafe ngelu.
+M: Kansafe ngelu.
 C: Se tiene cansancio.
 nmlch-pmjctB2 _x_0006_nmlch_00: 
 M: Nielu asma. 

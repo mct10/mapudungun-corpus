@@ -394,7 +394,7 @@ M: mamüll l'awen' kam kachu l'awen'
 C: de palo o de pasto 
 
 nmlch-nffhpA1_x_0043_nffhp_00:
-m: <*SPA>no kachu l'awen' 
+M: <*SPA>no kachu l'awen' 
 C: no es pasto el remedio 
 
 nmlch-nffhpA1_x_0044_nmlch_00: 
@@ -654,7 +654,7 @@ C: me hizo bien más
 M: kümekünutenew tañi mapuche l'awen'.
 C: me hizo major el remedio de mapuche.
 
-nmlch-nffhpA1_x_0082_nmlch_00
+nmlch-nffhpA1_x_0082_nmlch_00:
 M: fey inche  ta machi 
 C:  Así yo soy machi
  
@@ -698,7 +698,7 @@ M: chem kutran tañi
 C: que enferemedad
 
 M: chem kutran tañi nien, 
-C :que enfermedad lo que tiene, 
+C:que enfermedad lo que tiene, 
 
 M: chem -/kut/- chem l'awen'mu tañi kümelkaal.
 C: con que remedio se puede mejorar.
@@ -709,7 +709,7 @@ C: Así, así, así.
 
 nmlch-nffhpA1_x_0085_nffhp_00: 
 M: femngechi ta kimkey machi nam.
-C; Así lo va a saber la machi.
+C: Así lo va a saber la machi.
 
 nmlch-nffhpA1_x_0086_nmlch_00: 
 M: ¡Ah.! 
@@ -804,7 +804,7 @@ C: le dieron ese mismo remedio
 M: ngelümngeavulu 
 C: que iba ser soltado 
 
-M; Llangkañmalevuy
+M: Llangkañmalevuy
 C: @@@@@@@@@@@@
 
 M: ta tüva pienuew tañi -/ma/-
@@ -814,7 +814,7 @@ M: tañi ñuke ta küymilu fey,
 C: mi mama estuvo en trance si
 
 M: fey feypingelu am inche, 
-C : así cuando me digeron ami, 
+C: así cuando me digeron ami, 
 
 M: welu ini rume duamlay
 C: pero a nadie le intereso
@@ -970,7 +970,7 @@ C: mas me enferme mas
 
 M: doy kutranün incha 
 C: mas me enferme yo, 
-M; ta müñetupevun tañi doy kümelkaal,
+M: ta müñetupevun tañi doy kümelkaal,
 C: eso que me fui a bañarme para estar mejor
 
 M: welu may ta doy ta kutrankülen ta, 
@@ -1630,8 +1630,8 @@ nmlch-nffhpA1_x_0147_nffhp_00:
 M: Welu kay mayta, 
 C: Pero si  estos, 
 
-inche kay ta fenteñmapan 
-yo a la vez estoy de hace mucho tiempo 
+M: inche kay ta fenteñmapan 
+C: yo a la vez estoy de hace mucho tiempo 
 
 M: pichidomongen,
 C: cuando era una niña
@@ -1737,7 +1737,7 @@ M: vey amuleki ta kiñefuta rewe tati.
 C: así se ve que anda un rewe grande entonce. 
 
 nmlch-nffhpA1_x_0156_nmlch_00: 
-M !Ah.¡ 
+M: !Ah.¡ 
 C: Ah. 
 
 nmlch-nffhpA1_x_0157_nffhp_00:
@@ -2674,7 +2674,7 @@ C: se recupero de su enfermedad.
 
 hpA1_x_0259_nmlch_00_nffhp_00: 
 M: Mongeki <*SPA>pu'. 
-C :  Se recupera pues. 
+C:  Se recupera pues. 
 
 nmlch-nffhpA1_x_0260_nmlch_00: 
 M: ¡Ah.! 
@@ -2740,7 +2740,7 @@ C: eso le conversare pues.
 
 nmlch-nffhpA1_x_0266_nmlch_00:
 M:  Feley <*SPA>pu' tüfa ka. 
-C; Así es pues esto entonce .
+C: Así es pues esto entonce .
 
 nmlch-nffhpA1_x_0267_nffhp_00: 
 M: -/amulea/- amuleay tayu, 
@@ -2781,13 +2781,13 @@ M: fey wingka am pelotuchekelu
 C: si los huinca diagnostican a la gente 
 
 M: ka mapuche ka pelotuchekerki 
-C; tambien los mapuche tambien diagnostican a la gente 
+C: tambien los mapuche tambien diagnostican a la gente 
 
 M: fey wingka ta kimkelafuy 
 C: si  los huinca entonce no sabian 
 
 M: ta mapuche tañi pelotuchekefel tati.
-que los mapuche  diagnostican a las gente pues.  
+C: que los mapuche  diagnostican a las gente pues.  
 
 nmlch-nffhpA1_x_0269_nffhp_00:
 M: <*SPA>no mapuche kafey pelotucheki, 
@@ -2936,7 +2936,7 @@ nmlch-nffhpA1_x_0285_nffhp_00:
 M:  ¡Ah! 
 C: Ah.
 
-¿feychi datungelu inche?
+M: ¿feychi datungelu inche?
 C: esa vez cuando me hicieron machitun. 
 
 nmlch-nffhpA1_x_0286_nmlch_00:
@@ -3035,7 +3035,7 @@ M:  feymu nütraman pipelu vewla ta veypiayu,
 C: por eso queria contarte ahora te dire 
 
 
-M; veymu feypienu kiñe füta che. 
+M: veymu feypienu kiñe füta che. 
 C: ahi me dijo un vijo anciano. 
 
 nmlch-nffhpA1_x_0298_nmlch_00:

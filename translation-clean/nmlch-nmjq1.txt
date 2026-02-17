@@ -572,7 +572,6 @@ C: Tu pewutu ¿cómo hiciste trafentu te dicen?
 
 nmlch-nmjq1_x_0078_nmjq_00: 
 M: Feypikanu müten 
-<*SPA>parece asi femechi 
 C: No me dicen no más 
 
 M: trafentulimi pienu müten
@@ -987,9 +986,9 @@ nmlch-nmjq1_x_0145_nmjq_00:
 M: <*SPA> Asi femechi femechi feypienu 
 C: Así debe ser me dice
 
-nmlch-nmjq1_x_0146_nmlch_00
+nmlch-nmjq1_x_0146_nmlch_00:
 M: May, may, may feyti ta inaymu tami ¿chumuechi tami tuken? 
-C : Sí, sí, sí  y te siguieron ¿cómo tu alcansaste?
+C: Sí, sí, sí  y te siguieron ¿cómo tu alcansaste?
 
 nmlch-nmjq1_x_0147_nmjq_00: 
 M: Kom tati fey kom femekeaymu 
@@ -1105,7 +1104,7 @@ C: una mamita trafentu hiciste así papito
 
 nmlch-nmjq1_x_0161_nmjq_00: 
 M: ¡A! <*SPA>ya 
-C : ¡A! ya
+C: ¡A! ya
 
 nmlch-nmjq1_x_0162_nmlch_00: 
 M: wüyüngeki, wüyüwüyüngeki longko 
@@ -2027,7 +2026,7 @@ C: salmuera se llama
 
 nmlch-nmjq1_x_0322_nmjq_00: 
 M: Salmuera llemay, salmuera chadi 
-C : Salmuera, salmuera sal
+C: Salmuera, salmuera sal
 
 nmlch-nmjq1_x_0323_nmlch_00: 
 M: Fewla doy kaletuy <*SPA>no 

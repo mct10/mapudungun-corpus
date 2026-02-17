@@ -113,7 +113,7 @@ M: Kiñ itrofill kutran niyingün.
 C:  cualquier enfermedad tienen.
 
 nmlch-nfspA1_x_0020_nmlch_00:
-N:  Ah.
+M:  Ah.
 C: Ah.
 
 M: Itrofill kutran niyngün. 
@@ -1426,7 +1426,7 @@ C: es un niñita pues
 M: vente <SPA>tenía 
 C: tanto tenía 
 
-M <SPA>como mari epu tripantu mari meli
+M: <SPA>como mari epu tripantu mari meli
 C: como diez años o catorce años 
 
 M: chumngechi amuli ñi tremkülen 

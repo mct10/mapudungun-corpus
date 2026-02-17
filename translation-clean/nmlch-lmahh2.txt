@@ -286,7 +286,7 @@ nmlch-llmahh2_x_0042_nmlch_00:
 M: May. 
 C: Sí. 
 
-M.<SPA>sí  vey ka vey
+M:<SPA>sí  vey ka vey
 C: Sí ese también 
 
 M: l'awen' müli ti  pu peñi 
@@ -1086,7 +1086,7 @@ M: pu kimlu l'awen'
 C: los que saben remedio
 
 M: ini amulay papeltualu <uh>
-C. nadien fue para estudiar 
+C: nadien fue para estudiar 
 
 M: chilkatulayngün
 C: no estudiarón 
@@ -1804,7 +1804,7 @@ M: <SPA>ojála
 C:  ojala
 
 M: <SPA>que ñi welngi 
-C. de que 
+C: de que 
 
 M: ñi arreglatual <SPA>altiro ñi
 C: de arreglarlo de inmediato
@@ -1937,7 +1937,7 @@ M:  ñi würkülkelavi che.
 C: no manda a la gente.
 
 nmlch-lmahh2_x_0222_lmahh_00:
-M. <SPA>No <SPA>sé travonmu
+M: <SPA>No <SPA>sé travonmu
 C: No se para cuando se quebra
 
 M: <SPA>no <SPA>sé peñi
@@ -2202,7 +2202,7 @@ nmlch-lmahh2_x_0248_lmahh_00:
 M: Fey kidukünuavuiñ tañi ruka
 C: Dejaria sola mi casa
 
-M. vill pu peñi vey mülelu
+M: vill pu peñi vey mülelu
 C: como hay distintos hermanos 
 
 M: veymu  ta amulay pu peñi 

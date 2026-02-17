@@ -787,7 +787,7 @@ C: En el lugar donde nació su mama
 M: vemuechi moypürkimi
 C: de esa forma 
 
-N: ñuke pienu 
+M: ñuke pienu 
 C: tu madre me dijo
 
 M: femuechi dungu pi.
@@ -4898,7 +4898,7 @@ nmlch-nfoh2_x_0521_nmlch_00:
 M:  ¿Niepelay mongen?
 C: ¿No debe tener sanación?
 
-nmlch-nfoh2_x_0522_nfoh_00
+nmlch-nfoh2_x_0522_nfoh_00:
 M: Nielay l'awen' 
 C: No tiene remedio
 

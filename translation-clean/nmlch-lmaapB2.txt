@@ -81,13 +81,13 @@ M: famngechi kimtripan y
 C: así salió y
 
 M:  <*SPA>despue<*SPA> otra<*SPA> familia
-C. después otra familia
+C: después otra familia
 
 M: <*SPA> bis <*SPA>nieto llego aser me 
 C: bis nieto llego hacerme
 
 M: que era mucho malo 
-C. que era muy malo
+C: que era muy malo
 
 M: a otro le salio asi.
 C: a otro le salió así.
@@ -714,14 +714,14 @@ M:  fey alün ta ngütramkayin tati peñi
 C: de esto arto hemos conversado hermano
 
 M: alün antü tati inche 
-C. arto tiempo pues yo
+C: arto tiempo pues yo
 
 M: ta <uh> kamapulen tati.
 C:  yo soy de muy lejos .
 
 maapB2_x_0106_nmlch_00maap_00:
 M:  May. 
-C. ¿Sí?
+C: ¿Sí?
 
 nmlch-lmaapB2_x_0107_nmlch_00: 
 M: Wiñoletuan tañi rukamu 
@@ -734,10 +734,10 @@ M:  <uh> mañum niyu tami ngütram
 C: le agradezco su conversación
 
 M: eymi fenten ta nimi ta <uh> ngütram ka
-C. usted tiene mucha sabiduría también
+C: usted tiene mucha sabiduría también
 
 M:  sew alün dewma mo1ngen nimi 
-C. tiene muchos años de vida
+C: tiene muchos años de vida
 
 M: feymu peno.
 C: debe ser por eso.
@@ -763,7 +763,7 @@ C: así estoy pues hermano
 M:  venten tañi asümfiel ta veypipeyu tati
 C: todo lo que sé se lo dije pues
 M:  veypipen veyta chumalan
-C. lo dije 
+C: lo dije 
 
 M:  vente kimün piavun chunten tañi kimün,
 C: mucho conocimiento habría dicho todo mi conicimiento,
@@ -788,10 +788,10 @@ C: Todos los día deja conocimiento.
 
 nmlch-lmaapB2_x_0114_lmaap_00: 
 M: Rupali antü 
-C. Pasa los días
+C: Pasa los días
 
 M: chumngechi rupali antü
-C. así como pasan los dìas
+C: así como pasan los dìas
 
 M:  ka vemngechi amuli kimün 
 C: también así van los conocimiento
@@ -809,10 +809,10 @@ M:  itrokom ta müleki pensan rakiduam ta ka,
 C: en toda hay que pensar,el pensamiento también,
 
 M:  re rakiduam mu ta tremkelay ta che y
-C. de puro pensamiento no crece la gente y
+C: de puro pensamiento no crece la gente y
 
 M:  vemngechi ta velepual 
-C. así como va a estar más adelante
+C: así como va a estar más adelante
 
 M: ka amulilnipelafuy tati vey peñi. 
 C: también 
@@ -828,7 +828,7 @@ M: feymu miawün ka kiman pinoli
 C:por eso ando, también voy a saber si no dijera
 
 M:  ka elfali piavun rume 
-C. también lo voy a dejar diría siquiera
+C: también lo voy a dejar diría siquiera
 
 M: kulli ta pepelayafuyu tati.
 C: animales no habríamos encontrado puss.
@@ -887,7 +887,7 @@ C: Suerte en el mapuche Colicoy le voy a preguntar.
 
 nmlch-lmaapB2_x_0126_nmlch_00: 
 M: ¿Ramtuavimi ?
-C. ¿Vas a preguntar?
+C: ¿Vas a preguntar?
 
 nmlch-lmaapB2_x_0127_lmaap_00:
 M: Vey chem pin. 

@@ -2651,7 +2651,7 @@ M: Taiñ küpalmemu.
 C:  Mis decendientes. 
 
 nmlch-nmjq2_x_0477_nmjq_00: 
-M :<*SPA>Quensa como sera pu'
+M:<*SPA>Quensa como sera pu'
 C: Quizás como será pues.
 
 nmlch-nmjq2_x_0478_nmlch_00:
@@ -2660,7 +2660,6 @@ C: Los antiguos hasta cien años vivían
 
 M: fewla kutran chengekelafuy che ka pingi. 
 C: ahora son enfermisos la gente dicen.
-de cualquier forma comia la gente.
 
 nmlch-nmjq2_x_0479_nmjq_00: 
 M: Kuyfi fütake che kutran che 
@@ -2954,12 +2953,12 @@ M: Famuechi ngüfüngülfüngi.
 C: .
 
 nmlch-nmjq2_x_0523_nmjq_00: 
-M :<*SPA>Claro femi llemay. 
+M:<*SPA>Claro femi llemay. 
 C: Claro así es.
 
 nmlch-nmjq2_x_0524_nmlch_00: 
 M: ¿Eymi kiñe ina rume palikelu 
-C. ¿Tú no jugaste mucho palin 
+C: ¿Tú no jugaste mucho palin 
 
 M: eymi kuyfi pelotatukelu trafolaymi?.
 C: tu antes no jugabas a la pelota no te safaste?.
@@ -3091,7 +3090,7 @@ M: Müleputulu Santiawmu.
 C: Estan entran de Santiago.
 
 nmlch-nmjq2_x_0546_nmlch_00: 
-M :<*SPA>Mal de ojo ngefuy. 
+M:<*SPA>Mal de ojo ngefuy. 
 C: Mal de ojo sería.
 
 nmlch-nmjq2_x_0547_nmjq_00: 
@@ -3288,7 +3287,7 @@ M: Rüf tañi kuerpu müten.
 C: Sincero mi cuerpo no más.
 
 nmlch-nmjq2_x_0582_nmlch_00:
-M : Kalül. 
+M: Kalül. 
 C: Cuerpo.
 
 nmlch-nmjq2_x_0583_nmjq_00: 
@@ -3359,7 +3358,7 @@ M: Kiñe rume inawtulay welu.
 C: Una sola no pero siguío. 
 
 nmlch-nmjq2_x_0595_nmjq_00: 
-M :<*SPA>No, no 
+M:<*SPA>No, no 
 C: No, no.
 
 M: kiñe, kiñe inawtuy <*SPA>pu' kiñe epu l'ayeli. 
@@ -3487,7 +3486,7 @@ M: alüken küyen kutranlay.
 C: hartos meses no e enferma.
 
 nmlch-nmjq2_x_0617_nmjq_00: 
-M :<*SPA>No
+M:<*SPA>No
 C: No,
 
 M:  femlay pichin, chintu müten. 
@@ -3703,7 +3702,7 @@ M: Chedki piki <*SPA>parece pu mapuche
 C: Abuelo dice parece los mapuche. 
 
 nmlch-nmjq2_x_0660_nmlch_00: 
-M :<%> wentru chuchu piki ta. 
+M:<%> wentru chuchu piki ta. 
 C: Hombre chuchu dice. 
 
 nmlch-nmjq2_x_0661_nmjq_00: 

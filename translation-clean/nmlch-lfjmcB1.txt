@@ -6,7 +6,7 @@
 ; Comments:  
 ; Traduce: Celestina Carilao.
 
-nmlch-lfjmcB1_x_0000_lfjmc_00: <%> 
+nmlch-lfjmcB1_x_0000_lfjmc_00:
 M: <*SPA>sesenta 
 C: Sesenta
 
@@ -180,7 +180,7 @@ C: ¿Ya tenia cuarenta y seis años?
 M: niewefuymi deuma <uhm> 
 C: ya lo tenia
 
-nmlch-lfjmcB1_x_0025_lfjmc_00: <uhm> 
+nmlch-lfjmcB1_x_0025_lfjmc_00:
 M: <*SPA>entonce feymu 
 C: Entonces por eso
 
@@ -243,7 +243,7 @@ nmlch-lfjmcB1_x_0030_nmlch_00:
 M: ¿postameu <!1postamu>?
 C: ¿En la posta?
 
-nmlch-lfjmcB1_x_0031_lfjmc_00: <hm> 
+nmlch-lfjmcB1_x_0031_lfjmc_00:
 M:  nie püñeñ
 C: Tuve a mi hijo
 
@@ -608,7 +608,7 @@ C: antes cuando usted era chica
 M: chem l'awen' putukefuymün?
 C: que remedios tomaban?
 
-nmlch-lfjmcB1_x_0073_lfjmc_00: <uh> 
+nmlch-lfjmcB1_x_0073_lfjmc_00: 
 M: ñi chawem ta fey elukefeneu <!1elukefenu>
 C: Mi finado padre me daba 
 
@@ -633,7 +633,7 @@ nmlch-lfjmcB1_x_0076_nmlch_00:
 M:  ¿Pinpinela?
 C: ¿Pinpinela?
 
-nmlch-lfjmcB1_x_0077_
+nmlch-lfjmcB1_x_0077_00:
 
 nmlch-lfjmcB1_x_0078_nmlch_00: 
 M: fey elungekefuymi
@@ -668,7 +668,7 @@ C: No lo conozco
 M: ¿cheu müley <!1müli>?
 C: ¿donde hay?
 
-nmlch-lfjmcB1_x_0081_lfjmc_00: <uh> 
+nmlch-lfjmcB1_x_0081_lfjmc_00: 
 M: leufümeu <!1leufümu> müley tati <!1müli>
 C: En los rios hay pues 
 
@@ -728,7 +728,7 @@ nmlch-lfjmcB1_x_0086_nmlch_00:
 M: fey kümey <!1kümi> rapinmu
 C: Eso es bueno para vomitar
 
-nmlch-lfjmcB1_x_0087_lfjmc_00: <hm>  
+nmlch-lfjmcB1_x_0087_lfjmc_00: 
 M: ka müley <!1müli> <*SPA>pulgante wingka 
 C: Y tambien hay pulgante huinca
 
@@ -748,7 +748,7 @@ nmlch-lfjmcB1_x_0088_nmlch_00:
 M: ¿chumngechianta <!1chumuechianta> <%> <*SPA>pulgante?
 C: ¿de que se trata el pulgante?
 
-nmlch-lfjmcB1_x_0089_lfjmc_00: <uh>
+nmlch-lfjmcB1_x_0089_lfjmc_00: 
 M:  mapuche <*SPA>pulgante 
 C: El pulgante mapuche 
 
@@ -774,7 +774,7 @@ C: Se juntan
 M: ta willngo egu <Noise>
 C: con ...................
  
-nmlch-lfjmcB1_x_0094_nmlch_00: <Noise>
+nmlch-lfjmcB1_x_0094_nmlch_00: 
 M:  ¡Aa!
 C: ¡Ah!
 
@@ -848,7 +848,7 @@ nmlch-lfjmcB1_x_0104_nmlch_00:
 M: ¿wenkü?
 C: ¿Weñku?
 
-nmlch-lfjmcB1_x_0105_lfjmc_00: <hm> 
+nmlch-lfjmcB1_x_0105_lfjmc_00:
 M:  ngagtual <uh> wülwe <Noise> wülwe kimimi?
 C: conoce el .............................?
 
@@ -1011,7 +1011,7 @@ nmlch-lfjmcB1_x_0126_nmlch_00:
 M: ¿re pichike t'apül'ngey <!1t'apül'ngi>?
 C: ¿Tiene solamente hojas pequeñas?
 
-nmlch-lfjmcB1_x_0127_lfjmc_00: <hm> 
+nmlch-lfjmcB1_x_0127_lfjmc_00:
 M: fey deuma fütra rumey <!1rumi> 
 C: Pues eso es muy grueso
 
@@ -1106,7 +1106,7 @@ C: entra el pulgante
 M:  chi wülwe <uh> willngo ka <hm>  
 C: el wülwe y willgo
 
-nmlch-lfjmcB1_x_0135_lfjmc_00: <uh> 
+nmlch-lfjmcB1_x_0135_lfjmc_00: 
 M: <*SPA>éste <!1e'ste> ta 
 C: Tambien pues 
 
@@ -1134,7 +1134,7 @@ nmlch-lfjmcB1_x_0138_nmlch_00:
 M: müley <!1müli> tati 
 C: Hay pues
 
-nmlch-lfjmcB1_x_0139_lfjmc_00: <hm> 
+nmlch-lfjmcB1_x_0139_lfjmc_00:
 M:  müley <!1müli> kallekalle willngo
 C: Hay.........................................
 
@@ -1283,7 +1283,6 @@ nmlch-lfjmcB1_x_0158_lfjmc_00:
 M: mayu femngey <!1femngi> epe 
 C: Se parece un poco al mayo
 nmlch-lfjmcB1_x_0159_nmlch_00: 
-ma<%> 
 
 nmlch-lfjmcB1_x_0160_lfjmc_00: 
 
@@ -1529,7 +1528,7 @@ C: se le echa mucho
 M:  chi ütriu engu 
 C: con el ..................
 
-M. küyaka afülngekey <!1afülngeki>
+M: küyaka afülngekey <!1afülngeki>
 C: se le cuese........................
 
 M: ka fiskümkünungetukey <!1viskümküngetuki> 
@@ -1795,7 +1794,7 @@ nmlch-lfjmcB1_x_0219_nmlch_00:
 M: are kutran 
 C: Para las enfermedades calurosas 
 
-nmlch-lfjmcB1_x_0220_lfjmc_00: <hm> 
+nmlch-lfjmcB1_x_0220_lfjmc_00: 
 M:  are kutranmu <*SPA>ese firkümuwal
 C: Para las enfermedades calurosas eso lo refresca
 
@@ -1835,7 +1834,7 @@ nmlch-lfjmcB1_x_0223_nmlch_00:
 M: ¿feymu rume kimfuymi l'awen'? 
 C: ¿Ahí conocio hartos remedios?
 
-nmlch-lfjmcB1_x_0224_lfjmc_00: <hm> 
+nmlch-lfjmcB1_x_0224_lfjmc_00: 
 M:  feymu kimfun llañkañngekel 
 C: Ahí conoci, cuando danzaba
 
@@ -2160,14 +2159,14 @@ C: hay pues
 M:  kelü pülli<%> <Noise> 
 C: en tierra coloradas
 
-nmlch-lfjmcB1_x_0268_nmlch_00: <Noise> 
+nmlch-lfjmcB1_x_0268_nmlch_00:
 M:  ¡Aa! 
 C: ¡Ah!
 
 M: ¿küllegmeu <!1küllegmu>?
 C: ¿en las laderas?
 
-nmlch-lfjmcB1_x_0269_lfjmc_00: <hm> 
+nmlch-lfjmcB1_x_0269_lfjmc_00: 
 M:  ñamku l'awen' wüñopedken 
 C: el remedio ñamco wüñopedquen
 
@@ -2196,7 +2195,7 @@ C: ya, eso es bueno
 M: femngechi <!1femuechi> 
 C: asi 
 
-nmlch-lfjmcB1_x_0271_lfjmc_00: <uh> 
+nmlch-lfjmcB1_x_0271_lfjmc_00: 
 M: <*SPA>sí 
 C: Si
 
@@ -2257,7 +2256,7 @@ nmlch-lfjmcB1_x_0274_nmlch_00:
 M: <uh>¿Küllegmeu <!1küllegmu>?
 C: ¿En la ladera?
 
-nmlch-lfjmcB1_x_0275_lfjmc_00: <hm>  
+nmlch-lfjmcB1_x_0275_lfjmc_00: 
 M: feymeu <!1feymu> mülekefuy 
 C: Ahí había
 
@@ -2285,7 +2284,7 @@ C: ¿Para la hemorragia nasal
 M: chem l'awen' chi kümefuy?
 C: que remedio será bueno?
 
-nmlch-lfjmcB1_x_0279_lfjmc_00: <uh> 
+nmlch-lfjmcB1_x_0279_lfjmc_00:
 M: feyllemay foyel'awen' <Noise> 
 C: Para eso la lechuguilla
 
@@ -2660,7 +2659,7 @@ nmlch-lfjmcB1_x_0300_nmlch_00:
 M: ¿küme troküymi?
 C: ¿Se sintio bien?
 
-nmlch-lfjmcB1_x_0301_lfjmc_00: <hm>
+nmlch-lfjmcB1_x_0301_lfjmc_00: 
 M:  <*SPA>porque pantalontun <*SPA>no 
 C: Con el pantalon no
 
@@ -2689,7 +2688,7 @@ C: ¡Ah!
 M: femngechimay <!1femuechimay> 
 C: asi es pues
 
-nmlch-lfjmcB1_x_0303_lfjmc_00: <hm>  
+nmlch-lfjmcB1_x_0303_lfjmc_00: 
 M: wingkanta ngünenkaniekellelay
 C: El huinca asi engaña
  
@@ -2736,7 +2735,7 @@ C: Y tambien hay una enfermedad ahora
 M: rüngül pilun pingey ¿kimfimi?
 C: se llama dolor de oido ¿lo conoces?
 
-nmlch-lfjmcB1_x_0311_lfjmc_00: <uh> 
+nmlch-lfjmcB1_x_0311_lfjmc_00: 
 M: rüngülenmu pilun <Noise> 
 C: Dolor de oido 
 
@@ -3244,7 +3243,7 @@ nmlch-lfjmcB1_x_0348_nmlch_00:
 M: ¿pürüm?
 C: ¿el nudo?
 
-nmlch-lfjmcB1_x_0349_lfjmc_00: <hm> 
+nmlch-lfjmcB1_x_0349_lfjmc_00:
 M:  <*SPA>pero opitalmeu <!1opitalmu> femkelay
 C: Pero en el hospital no es asi 
 
@@ -3379,7 +3378,8 @@ C: tenia eso
 M: <*SPA>era <*SPA>paico niefel 
 C: era paico, lo tenia
 
-nmlch-lfjmcB1_x_0362_nmlch_00: <%> 
+nmlch-lfjmcB1_x_0362_nmlch_00: 
+
 nmlch-lfjmcB1_x_0363_lfjmc_00: 
 
 M: <*SPA>no

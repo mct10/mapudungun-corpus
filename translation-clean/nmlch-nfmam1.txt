@@ -814,7 +814,7 @@ C:  hace poco, recién jodí, antes era solo mi espalda
 M: frimuten jodenekefenew.
 C:  me tenia jodido solamente la espalda.
 
-nmlch-nfmam1_x_0089_nmlch_00
+nmlch-nfmam1_x_0089_nmlch_00:
 M: Re furimunten.
 C:  Solamente la espalda.
 
@@ -1214,7 +1214,7 @@ nmlch-nfmam1_x_0133_nmlch_00:
 M: Ah.
 C:  Ah.
 
-nmlch-nfmam1_x_0134_nfmam_:
+nmlch-nfmam1_x_0134_nfmam_00:
 M: Chemu chaw konun pitalmuka
 C: Por eso, padre, entre al hospital, pues
 
@@ -2209,8 +2209,7 @@ M: Ñepüd ñepüd pingi tüfi.
 C:  Pega pega se llama eso.
 
 
-nmlch-nfmam1_x_0260_nf
-mam_00:
+nmlch-nfmam1_x_0260_nfmam_00:
 M: Ñepüd ñepüd pingi fey mew fey ngütamenew. 
 C:  Pega pega se llama y con eso me compuso la zafadura.
 
@@ -2426,7 +2425,7 @@ C: Si le había dado la cortadura de carne.
 
 nmlch-nfmam1_x_0283_nmlch_00:
 M: Ka katrüfünfuy 
-C. También le dio la cortadura de carne.
+C: También le dio la cortadura de carne.
 
 nmlch-nfmam1_x_0284_nfmam_00: 
 M: May.

@@ -4,9 +4,9 @@
 ; Last changes made on 10/09/2002 
 ; Transcriber: Cristian C. Anton . 
 ; Comments:  Al final no tiene grabaciones.
-Traduce: Julio Marileo.
+;Traduce: Julio Marileo.
 
-; nmlch-lffhr2_x_0000_lffhr_00: 
+nmlch-lffhr2_x_0000_lffhr_00: 
 M: Taiñ mongeleteu 
 C: El que me hizo vivir
 
@@ -106,7 +106,7 @@ C: ahora pues
 M: pewül kunuwi che
 C: la persona solo lo ve
 
-M : ta küpayiwelay
+M: ta küpayiwelay
 C: ya no quiere comer
 
 M:  mürke rume ka pu'.
@@ -312,7 +312,7 @@ M: ¿Chem yagel?.
 C: ¿Que alimentos?.
 
 nmlch-lffhr2_x_0035_lffhr_00:
-..%.
+
 
 nmlch-lffhr2_x_0036_nmlch_00: 
 M: Ah. 
@@ -343,7 +343,7 @@ M: ta ka anümka anümkaken kay pu'
 C: ahora también siembro, siembro también pues
 
 M: tofia pu' nieken 
-C : todavía tengo
+C: todavía tengo
 
 M: kosechaken trapi tati .
 C: cosecho ají pues.
@@ -353,10 +353,10 @@ M: Ah.
 C: Ah.
 
 M: Kutran ta inawültukiyu che 
-C : La enfermedad sigue a las personas
+C: La enfermedad sigue a las personas
 
-M : tati papay.
-C : pues mamita.
+M: tati papay.
+C: pues mamita.
 
 nmlch-lffhr2_x_0041_lffhr_00:
 M: Feyta tachi femtulay pu' .
@@ -367,20 +367,20 @@ M: Eymi llemay
 C: Usted pues
 
 M:  tata <uh> kutran ta tunimu
-C. tiene la enfermedad de............
+C: tiene la enfermedad de............
 
 M:  feymu ta <uh> doy pichi 
-C : por eso, un poco menos
+C: por eso, un poco menos
 
 M: wesachelimi welu felenoafel tati .
 C: estas como una mala persona, no debería ser.
 
 nmlch-lffhr2_x_0043_lffhr_00:
-M : Si pu' .
-C : Si pues.
+M: Si pu' .
+C: Si pues.
 
 nmlch-lffhr2_x_0044_nmlch_00:
-M : Eymi ta <uh> kimkülimi küme ka
+M: Eymi ta <uh> kimkülimi küme ka
 C: Usted conoce muy bien pues
 
 M:  pichi kimneymi tami chem
@@ -393,27 +393,27 @@ M: feyta <uh> pital ta newe küme
 C: en el Hospital no muy bien
 
 M: kunurkelaymu ka.
-C : lo dejan pues.
+C: lo dejan pues.
  
 nmlch-lffhr2_x_0045_lffhr_00: 
 M: No femlanew
 C: No, no me hizo nada
 
-M : amuaymi pitalmu pingen 
-C : anda al Hospital me dijeron
+M: amuaymi pitalmu pingen 
+C: anda al Hospital me dijeron
 
 M: operayaymi ka pingen
-C : te vas a operar me dijeron
+C: te vas a operar me dijeron
 
 M:  feyta eluwkelan operayal pu' 
-C : pero no dejo que me operen pues
+C: pero no dejo que me operen pues
 
-M : eluwkelan.
-C : no me dejo.
+M: eluwkelan.
+C: no me dejo.
 
 nmlch-lffhr2_x_0046_nmlch_00: 
 M: ¿Eymi tami küpalme
-C : ¿Sus ascendientes
+C: ¿Sus ascendientes
 
 M: machingefuy am kay?.
 C:  eran Machi también?
@@ -475,9 +475,9 @@ C: pues rogaban juntas con mucho entusiasmo.
 
 nmlch-lffhr2_x_0054_nmlch_00:
 M: Feychi newen chi ta 
-C : Tal vez esa fuerza 
+C: Tal vez esa fuerza 
 
-M : inanetuymu papay.
+M: inanetuymu papay.
 C: te sigue mamita.
  
 nmlch-lffhr2_x_0055_lffhr_00:
@@ -602,19 +602,19 @@ C: ¿No le ha dado pasmo mamita?
 
 nmlch-lffhr2_x_0075_lffhr_00: 
 M: Pasmun tachi ka chaw rume ta
-C. Me dio Pasmo y también al papa este
+C: Me dio Pasmo y también al papa este
 
 M: tripantu ka tripantu
 C: año, el año pasado
 
 M:  dewma tripantu doy nien ñi pasmun
-C. mas de un año estuvo con Pasmo
+C: mas de un año estuvo con Pasmo
 
 M:  wüchürfuy ñi wün tata
 C: se le desfiguro la cara a mi papa
 
 M:  fachipüle nietufun wun fau
-C. por acá tenia la boca
+C: por acá tenia la boca
 
 M:  putra wüchürün
 C: una gran desfiguracion
@@ -632,7 +632,7 @@ M:  tañi pafmu femneteu
 C: el Pasmo lo tenía así
 
 M:  rume awüngen pafmun señor 
-C. me .............me dio Pasmo señor
+C: me .............me dio Pasmo señor
 
 M:  feyta lonkotukeneu ka fey pu'.
 C: ese me agarra de la cabeza pues.
@@ -746,7 +746,7 @@ M: Putufin ka lapantukulelngen faw ..%
 C: Me lo serví y también me colocaron un parche
 
 M: ümpüllmangen lonko
-C. me taparon la cabeza
+C: me taparon la cabeza
 
 M:  küchaymangen lonko kütu
 C: me lavaron la cabeza con.....
@@ -788,17 +788,17 @@ C: Pues cree bastante.
  
 nmlch-lffhr2_x_0099_lffhr_00:
 M:  <*SPA>Si feyentunieken mapu l'awen' 
-C : Si creo en los remedios que salen en la tierra
+C: Si creo en los remedios que salen en la tierra
 
-M : feymu ta mongeymuken pu'.
-C : por eso me alivio pues.
+M: feymu ta mongeymuken pu'.
+C: por eso me alivio pues.
  
 nmlch-lffhr2_x_0100_nmlch_00: 
 M: Feymu mayta mongelekimi kay
 C: Por eso que esta viva pues
 
 M: rumel feyentuleymukeaymi müten papay
-C. siempre tiene que creer mamita
+C: siempre tiene que creer mamita
 
 M:  eymi ta <uh> rume nieymi ta kimün 
 C: usted tiene muchos conocimientos
@@ -823,7 +823,7 @@ M: Feymu ta mongeymuymi
 C: Por eso sobrevivio
 
 M: pafmu ta wesa kutran tati .
-C : el Pasmo es una muy mala enfermedad pues.
+C: el Pasmo es una muy mala enfermedad pues.
 
 nmlch-lffhr2_x_0103_lffhr_00: 
 M: Weda kutran pu' .
@@ -852,21 +852,21 @@ M: Kimnen
 C: Lo se
 
 M: feyta chi kimlu llemay ta l'awen'
-C : pues el que conoce los remedios
+C: pues el que conoce los remedios
 
-M :  no feyta trapümelenew l'awen'
-C : no, me juntaron los remedios
+M:  no feyta trapümelenew l'awen'
+C: no, me juntaron los remedios
 
-M :  feyta, feyta chemelenew pu'
-C : pues, pues me hizo pues
+M:  feyta, feyta chemelenew pu'
+C: pues, pues me hizo pues
 
-M : kücha lonkoneu ka
-C : también me lavo el pelo
+M: kücha lonkoneu ka
+C: también me lavo el pelo
 
-M :  lapantukumekeleneu fau
-C : me coloco un parche aquí
+M:  lapantukumekeleneu fau
+C: me coloco un parche aquí
 M:  feymu anta nortulay
-C : por eso se enderezo
+C: por eso se enderezo
  
 M:  tañi nge moñkoll.
 C: mis ojos..........
@@ -928,10 +928,10 @@ C: No.
 
 nmlch-lffhr2_x_0119_nmlch_00: 
 M: Re feychi kutran müten
-C : Solo esa enfermedad
+C: Solo esa enfermedad
 
-M : tunieymu .
-C : tiene.
+M: tunieymu .
+C: tiene.
 
 nmlch-lffhr2_x_0120_lffhr_00: 
 M: Feychi kutran feychi kutran .
@@ -1060,7 +1060,7 @@ M:  patilla pingen
 C: Pastilla me dijeron
 
 M:  fey kutran lonkoy
-C. cuando me duele la cabeza 
+C: cuando me duele la cabeza 
 
 M:  ..% fey mongetuken .
 C: pues me alivio.
@@ -1101,11 +1101,11 @@ M:eymi konnolu pitalmu ka.
 C: usted no fue al Hospital.
  
 nmlch-lffhr2_x_0138_lffhr_00: 
-M. Konlan inche pu'
+M: Konlan inche pu'
 C: Yo no fui pues
 
 M: konkelafun pitalmu .
-C : no iba al Hospital.
+C: no iba al Hospital.
 
 nmlch-lffhr2_x_0139_nmlch_00:
 M: Rume alün papel
@@ -1360,7 +1360,7 @@ C: El empacho lo conozco pues.
 
 nmlch-lffhr2_x_0175_nmlch_00: 
 M: ¿Chumngeluchi
-C. ¿Como sera
+C: ¿Como sera
 
 M:empachuki che pikimi ?.
 C: se empacha la persona decía ?
@@ -1468,7 +1468,7 @@ C: Solo así
 
 nmlch-lffhr2_x_0190_lffhr_00:
 M:  Coreki tati 
-C : se elimina pues
+C: se elimina pues
 
 M: coreki ta empachu.
 C: se elimina el empacho.
@@ -1556,10 +1556,10 @@ C: Así sucede, así es pues.
 
 nmlch-lffhr2_x_0205_nmlch_00: 
 M: Feli tati papay
-C. Asi es mamita
+C: Asi es mamita
 
 M: inche ta pepapeyu 
-C. yo te vine a ver
+C: yo te vine a ver
 
 M: kimkelafeyu <uh>
 C: no la conocía
@@ -1574,16 +1574,16 @@ M:  mapu tripapan tati
 C: lugar salí pues
 
 M: feymu ta ramtumean tañi papay
-C. por eso le iré a preguntar a mi mamita 
+C: por eso le iré a preguntar a mi mamita 
 
 M: wüne trekaleluam 
 C: como ella va primero
 
 M: chumngechi chi fey
-C. como pues se
+C: como pues se
 
 M: mongen tiyiupüle pipen tati
-C. alivian por allá dije
+C: alivian por allá dije
 
 M: feymu pepapiyu tati .
 C: por eso la vine a ver.
@@ -1612,36 +1612,36 @@ C: Pues esta pasando el día.
 
 nmlch-lffhr2_x_0211_lffhr_00: 
 M: Femi pu' femi.
-C : Así es pues, así es 
+C: Así es pues, así es 
  
 nmlch-lffhr2_x_0212_nmlch_00: 
 M: Kintuney muaymi l'awen' .
-C :Estaras buscando remedios.
+C:Estaras buscando remedios.
 
 nmlch-lffhr2_x_0213_lffhr_00: 
 M: Feyta eymi llemay tati 
-C : Pues usted también
+C: Pues usted también
 
 M: adümnepefuymi kay
-C : sabe mucho pues
+C: sabe mucho pues
 
 M: ta mapu l'awen' tati .
-C : acerca de los remedios naturales.
+C: acerca de los remedios naturales.
 
 nmlch-lffhr2_x_0214_nmlch_00: 
 M: Ka fey llemay .
-C : Así es pues.
+C: Así es pues.
 
 nmlch-lffhr2_x_0215_lffhr_00:
 M: Ka fey machi ñuke
-C : Como también una mama Machi
+C: Como también una mama Machi
 
 M:  ngerkelu ta eymi.
-C : tenia usted.
+C: tenia usted.
  
 nmlch-lffhr2_x_0216_nmlch_00: 
 M: May .
-C : Sí.
+C: Sí.
 
 nmlch-lffhr2_x_0217_lffhr_00: 
 M: Machila am tami ñuke .
@@ -1649,7 +1649,7 @@ C: Su madre ...............
 
 nmlch-lffhr2_x_0218_nmlch_00:
 M: Petu no.
-C : Todavía no.
+C: Todavía no.
 
 nmlch-lffhr2_x_0219_lffhr_00:
 M: Petuno.
@@ -1657,22 +1657,22 @@ C: Todavia no.
  
 nmlch-lffhr2_x_0220_nmlch_00:
 M: Feyta <uh> sungu
-C : Esa cosa
+C: Esa cosa
 
 M:  tuniaymi l'awen'
-C : por mientras busque remedios
+C: por mientras busque remedios
 
 M:  feyta pitalmu penolmi
-C : cuando en el hospital no encuentres
+C: cuando en el hospital no encuentres
 
 M:  nentuneymuafuymi tami l'awen'
-C. ya tendra sus remedios
+C: ya tendra sus remedios
 
 M:  chemu tati mapu,
-C : de la tierra,
+C: de la tierra,
 
-M : fentepuay ngütram fey .
-C : hasta aqui llegara la conversación.
+M: fentepuay ngütram fey .
+C: hasta aqui llegara la conversación.
 
 nmlch-lffhr2_x_0221_lffhr_00:
 M: Fentepuay fentepuay .
@@ -1768,8 +1768,8 @@ C: usted
 M: regle mariepu tripantunefuymi dewma 
 C: de hecho ya tiene setenta y dos años
 
-M : feyta fentreken sungumu 
-C : pues por tantas cosas
+M: feyta fentreken sungumu 
+C: pues por tantas cosas
 
 M:ta rupay ta mongen mu.
 C: se pasa en la vida pues.
@@ -1837,7 +1837,7 @@ C: de la naturaleza.
 
 nmlch-lffhr2_x_0246_lffhr_00: 
 M: Mapu l'awen' kay l'awen' tati .
-C : Es un remedio natural, remedio pues.
+C: Es un remedio natural, remedio pues.
 
 nmlch-lffhr2_x_0247_nmlch_00: 
 M: Fey pewmangelmi
@@ -1857,7 +1857,7 @@ C: muchas gracias.
 
 nmlch-lffhr2_x_0248_lffhr_00:
 M: Mucha gracia Peña fiel
-C. Muchas gracias por haberla visto
+C: Muchas gracias por haberla visto
 
 M: kimpelafeyu
 C: no te conocía
@@ -1865,7 +1865,7 @@ C: no te conocía
 M:  welu feula kimeyu tati 
 C: pero ahora lo conocí pues
 
-M : amuli pitalmu kimkunian.  .
+M: amuli pitalmu kimkunian.  .
 C: cuando vaya al hospital me conocerás.
  
 

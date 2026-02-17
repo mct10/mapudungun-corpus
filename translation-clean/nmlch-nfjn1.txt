@@ -11,7 +11,7 @@ C: Buenos días  hermana
 
 nmlch-nfjn1_x_0001_nfjn_00:
 M: Mari, mari lamngen 
-C : Buenos días hermano (a)
+C: Buenos días hermano (a)
 
 nmlch-nfjn1_x_0002_nmlch_00:
 M: Chumlian tami lof 
@@ -41,7 +41,7 @@ C: para saber las gentes como vive señor
 
 nmlch-nfjn1_x_0004_nmlch_00: 
 M: Feley llemay chi papay
-C : Asi es señora 
+C: Asi es señora 
 
 M: feyta inche pepapeveyu tüfa <uh>
 C: es por eso que  vengo  a visitarte   
@@ -90,7 +90,7 @@ C: Aquí mi comunidad se llama  Rukamanke señor
 
 nmlch-nfjn1_x_0008_nmlch_00:
 M: Rukamanke 
-C : Rukamanke
+C: Rukamanke
 
 nmlch-nfjn1_x_0009_nfjn_00: 
 M: May Rukamanke pingi tañi mülemum
@@ -101,15 +101,15 @@ C: mi comunidad
 
 nmlch-nfjn1_x_0010_nmlch_00:
 M: May, may, may, may, may 
-C :  Si,      si,      si,     si ,    si 
+C:  Si,      si,      si,     si ,    si 
 
 nmlch-nfjn1_x_0011_nfjn_00:
-M : Vey 
-C  :  Así es 
+M: Vey 
+C:  Así es 
 
 nmlch-nfjn1_x_0012_nmlch_00: 
 M: ¿Tami üy kay?
-C : ¿Y su nombre?
+C: ¿Y su nombre?
 
 nmlch-nfjn1_x_0013_nfjn_00:
 M: Inche ta Kasinta pingen 
@@ -161,7 +161,7 @@ M: feleyllemay chi papay
 C: asi es señora 
 
 M: feyta femuechi ta ngelay ta wedake dungu 
-C : asi también no existe cosa mala 
+C: asi también no existe cosa mala 
 
 M: fey ka kümekechi ta rupalefuy antü<Noise> 
 C: asi también existen días bueno
@@ -319,7 +319,7 @@ C: entonces me protegió el anciano
 M: Wentruürke rekañmanu ñi elaweni
 C: Era  hombre me protegió mi pequeño niño 
 
-M Fey chumngechinga rekañmakeyunga ñi chawnga che 
+M: Fey chumngechinga rekañmakeyunga ñi chawnga che 
 C: Entonces como protege un padre la gente 
 
 M: Kidu femtuenu tati ella pichi wentru
@@ -328,7 +328,7 @@ C: El lo hizo el joven hombre
 M: Tañi femiawün tati fillmew 
 C: Asi anda por varia cosa
 
-nmlch-nfjn1_x_0025_nfjn_i 
+nmlch-nfjn1_x_0025_nfjn_00: 
 M: Felenmew tüfa wül afemngen pichin 
 C: Asi entonces ahora estoy bien un poco 
 
@@ -405,7 +405,7 @@ C: así también
 
 nmlch-nfjn1_x_0028_nmlch_00:
 M: küme treka rupatuafuyürke  tati papay 
-C. Puede caminar bien usted señora 
+C: Puede caminar bien usted señora 
 
 nmlch-nfjn1_x_0029_nfjn_00: 
 M: femlleanmay chi chaw <Cough>  
@@ -524,7 +524,7 @@ M: May doy kimuwfaluwi doy pewfaluwi ñi kutran
 C:  Si, más se dio a conocer, más apareció mi enfermedad 
 
 M: kom l'awen' kom pewmakevun <Noise>
-C. todo remedio todo lo soñaba 
+C: todo remedio todo lo soñaba 
 
 M: fey amulelu ñi kutran 
 C: entonces avanzaba mi enfermedad 
@@ -871,7 +871,7 @@ C: no creo que  hubiese  sufrido tanto
 
 nmlch-nfjn1_x_0065_nmlch_00: 
 M: ¡Ah! 
-C : ¡Ah! 
+C: ¡Ah! 
 
 M: ¿ epu perimontun niymi? tüfi 
 C: ¿dos visión sobre natural tiene? Mira
@@ -890,7 +890,7 @@ C: Cuatro
 
 nmlch-nfjn1_x_0070_nmlch_00:
 M: Dew tüfi pefilu tachi alka eymi 
-C. Cuando ya vio  el gallo usted
+C: Cuando ya vio  el gallo usted
 
 C: ¿Ka chem peymi tüfi ?
 C: ¿y  que vio eso ?
@@ -999,7 +999,7 @@ C:    no
 
 nmlch-nfjn1_x_0080_nmlch_00:
 M: Dew tripalu tüfichi perimontun 
-C.  Ya salí este visión sobre natural 
+C:  Ya salí este visión sobre natural 
 
 M: füfi achawall pipiminga 
 C: ese gallina dijiste 
@@ -1084,7 +1084,7 @@ C: ese pero todo su visión sobre natural
 M: kuyfi tüfimi tüfi ka
 C: ante lo recibiste este 
 
-Ô.°_nfjn1_x_0089_nmlch_000
+Ô.°_nfjn1_x_0089_nmlch_000:
 M: Kuyfi tunmay pichidmongen pu 
 C: Ante  recibí si  niña chica era
 
@@ -1114,7 +1114,7 @@ M: pichikeche pingi
 C: chico niño dicen 
 
 nmlch-nfjn1_x_0091_nmlch_00:
-M. Feyngepefuy tüfi kuyfi tüfikay 
+M: Feyngepefuy tüfi kuyfi tüfikay 
 C: Eso  era ante, era eso  
 
 nmlch-nfjn1_x_0092_nfjn_00:
@@ -1285,7 +1285,7 @@ C: pero Dios  lo eligen me dicen
 
 nmlch-nfjn1_x_0108_nmlch_00:
 M: Feymu ta feleki 
-C.: Por eso esta 
+C:: Por eso esta 
 
 M: ta felerpuki ta mongen pingi papay 
 C: y así sigue la vida dicen  señora 
@@ -1346,7 +1346,7 @@ C: y como esta la cosa
 
 nmlch-nfjn1_x_0112_nmlch_00: 
 M: Ta mongenmew 
-C.: En la vida 
+C:: En la vida 
 
 nmlch-nfjn1_x_0113_nfjn_00:
 M: Feyta, feyta püllü ta feypillemay tati 
@@ -1416,7 +1416,7 @@ C: nos levantamos amaneciendo
 
 nmlch-nfjn1_x_0116_nfjn_00:
 M: Witraiñ taiñ rewemu
-C. Nos paramos en nuestros rewe 
+C: Nos paramos en nuestros rewe 
 
 M: tain fücha chaw taiñ kelluaven 
 C: para gran padre que nos ayude 
@@ -1663,7 +1663,7 @@ C: otros  remedios pues
 M: newe ngewelay ta lelfunmu ka 
 C: no tiene fuerza  en la pampa  pues
 
-nmlch-nfjn1_x_0134_nmlch_00
+nmlch-nfjn1_x_0134_nmlch_00:
 M: Afi tati
 C: Termino pues 
 
@@ -1715,7 +1715,7 @@ C: respetaba el monte  se decía
 M: feyngepefuy tüfi ta taiñ mongenmu 
 C: eso era  en nuestra vida pues 
 
-nmlch-nfjn1_x_0138_nfjn_00
+nmlch-nfjn1_x_0138_nfjn_00:
 M: Rume llamngekevuy may ta mapu 
 C: Harto se respetaba  si la tierra 
 
@@ -1947,7 +1947,7 @@ C: lo wingka  le dicen
 M: kom feliengün ka
 C: todos están asi pues 
 
-nmlch-nfjn1_x_0158_nmlch_00
+nmlch-nfjn1_x_0158_nmlch_00:
 M: Kom fellentuli
 C: Todos hace caso
 
@@ -2132,7 +2132,7 @@ C: eso donde hay remedio
 
 nmlch-nfjn1_x_0171_nfjn_00:
 M: Ta l'awen' pingi feyta adümkay tati 
-C. Es remedio  dicen ese lo va entender 
+C: Es remedio  dicen ese lo va entender 
 
 fjn1_x_0173_nfjn_00_nmlch_00:
 M: Feyllemay chi <uh> papay 
@@ -2158,7 +2158,7 @@ M: Femllimay chi chaw
 C: Asi es padre 
 
 M: kümi llemay tami küpan 
-C. que bueno que vienes 
+C: que bueno que vienes 
 
 M: feyta chem piafeyuam feyta 
 C: entonces que te puedo decir 
@@ -2189,7 +2189,7 @@ C: en su vida pues
 
 nmlch-nfjn1_x_0179_nfjn_00:
 M:  Inche datukutrankelan chaw
-C. Yo no visito enfermo padre
+C: Yo no visito enfermo padre
 
 nmlch-nfjn1_x_0180_nmlch_00: 
 M: ¡Ah! 
@@ -2573,7 +2573,7 @@ C: Más grave
 
 nmlch-nfjn1_x_0221_nfjn_00: 
 M: Doyeluwi ta tüfi <Noise>
-C. Más grave  se pone 
+C: Más grave  se pone 
 
 M: ka wüñontukungetuy machimew 
 C: y  de- nuevo lo llevan a la machi pues
@@ -2633,7 +2633,7 @@ C: ¡Ah!
 
 nmlch-nfjn1_x_0228_nfjn_00:
 M: Müngelkangelu 
-C................................
+C:...............................
 
 M: feyta kontungi müngelkangenolu 
 C: entonces lo van haber..................
@@ -2696,8 +2696,8 @@ M: Uli chakay faw müli <Noise>
 C: dio  anciano  hay esta
 
 nmlch-nfjn1_x_0239_nmlch_00: 
-M. <uh> mamaüll
-C : 
+M: <uh> mamaüll
+C: 
 
 nmlch-nfjn1_x_0240_nfjn_00:
 M: kiñekelekay 
@@ -2709,7 +2709,7 @@ C: Leña remedio
 
 nmlch-nfjn1_x_0242_nfjn_00: 
 M:  Mamüll l'awen' ka ngewelay ka 
-C. Leña remedio y no queda (...)
+C: Leña remedio y no queda (...)
 
 nmlch-nfjn1_x_0243_nmlch_00: 
 M: ¡Ah!
@@ -2758,7 +2758,7 @@ C: el enfermo que  deja .. no dejan pues
 
 nmlch-nfjn1_x_0249_nmlch_00:
 M: Apompe rume ta 
-C. Que termines no más
+C: Que termines no más
 
 nmlch-nfjn1_x_0250_nfjn_00: 
 M: May femuechi afi l'awen' 
@@ -2835,7 +2835,7 @@ M: <Noise>  ko rume ta ngewelay menoko
 C:    agua siquiera no queda; pantano de agua
 
 M: ta kom afi pipeyelanama 
-C. el agua termino no dije 
+C: el agua termino no dije 
 
 M: fey <SPA>pinu llemay 
 C: esos  pino pues 
@@ -3038,7 +3038,7 @@ M: falintungekelay no
 C: no se valora no 
 
 M: +/vey/+ +/vey/+
-C. + / eso/+.+/ eso/
+C: + / eso/+.+/ eso/
 
 M: veychi dungu piavel 
 C: esa  situación puede ser

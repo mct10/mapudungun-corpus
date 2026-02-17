@@ -30,7 +30,7 @@ M: <uh> Femngechi <!1femuechi>?.
 C: De esa manera
 
 nmlch-lftccA2_1_0002_lftcc_00:
-<hm>.
+<hm>
   
 nmlch-lftccA2_1_0003_nmlch_00:
 M: ¡Ah! <hm>   <Noise>.
@@ -246,7 +246,7 @@ M: ¿Eymi?.
 C: ¿Usted?
 
 nmlch-lftccA2_1_0024_lftcc_00:
-<hm>.
+<hm>
   
 nmlch-lftccA2_1_0025_nmlch_00: 
 M: ¿Eymianta ngütamchefe?.
@@ -346,7 +346,7 @@ M: Mulul.
 C: zarzaparrilla.
 
 nmlch-lftccA2_1_0044_lftcc_00: 
-<hm>.
+<hm>
   
 nmlch-lftccA2_1_0045_nmlch_00: 
 M: <P> ¿Cheu pengeafuy tüfey <!1tüfi>?.
@@ -397,7 +397,7 @@ M: ¿Re fey?.
 C: ¿Eso no mas?. 
  
 nmlch-lftccA2_1_0054_lftcc_00: 
-<hm>.
+<hm>
  
 nmlch-lftccA2_1_0055_nmlch_00: 
 M: ¿Ka chem pütokokey <!1pütokoki>?.
@@ -727,7 +727,7 @@ C: Ese ..................anciano espiritu pues
 M:  <*SPA>antiguamente kudepülli
 C: antiguamente el anciano espiritu
 
-M. feyta widükelu 
+M: feyta widükelu 
 C: ese que..............
 
 M: <*SPA>ese deumay itrokom chem deumay.
@@ -876,7 +876,7 @@ C: se le coloca
 M:  re funa willeñ <uh> 
 C: solo orina podrida
 
-M. feyta pachügi pu mullulongko.
+M: feyta pachügi pu mullulongko.
 C: pues........dentro de la cabeza.
  
 nmlch-lftccA2_1_0111_nmlch_00: 
@@ -1198,7 +1198,7 @@ M: ¿motrikelafuy che kuyfi?.
 C: ¿la gente no engordaba antes?.
  
 nmlch-lftccA2_1_0156_lftcc_00: 
-M. <*SPA>Porque <*SPA>el mapuche 
+M: <*SPA>Porque <*SPA>el mapuche 
 C: Porque el mapuche
 
 M: ilay wingka yagel <*SPA>
@@ -1387,7 +1387,7 @@ M: ¿Chem?.
 C: ¿Qué?
 
 nmlch-lftccA2_1_0169_lftcc_00: 
-M. Küla.
+M: Küla.
 C: Quila
 
 nmlch-lftccA2_1_0170_nmlch_00: 
@@ -1435,7 +1435,7 @@ M: Folil küla.-
 C: La raiz de la quila.
  
 nmlch-lftccA2_1_0179_lftcc_00: 
-<hm> .
+<hm> 
 
 nmlch-lftccA2_1_0180_nmlch_00: 
 M: <*SPA>¿Limón ko engu?.
@@ -1769,7 +1769,7 @@ M: Rume küme l'awen' tüfey <!1tüfi>.
 C: Eso es un muy buen remedio.
 
 nmlch-lftccA2_1_0217_lftcc_00:
-<hm>  <Noise>.
+<hm>  
 
 nmlch-lftccA2_1_0218_nmlch_00: 
 M: <Noise> Mapumeu <!1mapumu> tripa chi yagel

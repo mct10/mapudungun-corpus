@@ -275,7 +275,7 @@ nmlch-lfth1_x_0019_lfth_00:
 M: Ka vey ta feypalaviñ
 C: Y esto no lo conosi 
 
-M tachi trünkü ruka tati
+M: tachi trünkü ruka tati
 C: esta casa pues 
 
 M: trülaf rukakerkevuyngün
@@ -1285,7 +1285,7 @@ M: puruy ta che tuy ta che
 C: subia la gente lapersona
 
 M: tuy tañi foye maychivi ta mawün
-C el canelo hizo machi la lluvia
+C: el canelo hizo machi la lluvia
 
 M: tripapape ta mawün pipimngi ta pu che
 C: que salga el agua dicen las gentes 
@@ -1417,7 +1417,7 @@ M: llegllegmu <Noise>
 C: 
 
 M: lewfümu nagi yemealu kom
-C : al río vajó para buscar todo
+C: al río vajó para buscar todo
 
 M: yemealu veyti kümelün
 C: para ir  a buscar esa buenanza
@@ -1484,9 +1484,9 @@ M: inche duamtuken mülevuy
 C: yo nesecito  y habia 
 
 M: ta weda kutrangelu
-C; quien tiene mala enfermedad
+C: quien tiene mala enfermedad
 
-M. ta taven traven, küla t'apül'
+M: ta taven traven, küla t'apül'
 C: 
 
 M: chavo l'awen' <uh>
@@ -1717,7 +1717,7 @@ M: kuyfi pichikedomoem
 C: antes cuando era niña chica 
 
 M: wedwed müna tukevuy may chi
-C : el loco tocaba mucho
+C: el loco tocaba mucho
 M: tachi chem trup-pa trupa
 C: de que 
 
@@ -2718,7 +2718,7 @@ C: se afirma la persona
 
 M: trürelkelay che
 C: no se junta la persona
-M. trürelkelay che
+M: trürelkelay che
 C: no se junta la persona
 
 M: pikefuy tañi mamayem <Noise>. 

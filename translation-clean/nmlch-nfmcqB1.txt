@@ -58,7 +58,7 @@ M: fey müten *duamtuaviel ta **müli kiñe
 C: uno tiene que creer en el no más 
 
 M: feychi dungumeu elunieymu mongen 
-C. por esas razones nos da la vida 
+C: por esas razones nos da la vida 
 
 M: eluneymu pelon l'awen' 
 C: no da en la vista remedio 
@@ -1008,7 +1008,7 @@ C: Va con fuerza el remedio.
 
 nmlch-nfmcqB1_x_0140_nmlch_00: 
 M: *Feli  <*SPA>pu'. 
-C. Así es pues. 
+C: Así es pues. 
 
 nmlch-nfmcqB1_x_0141_nfmcq_00:
 M: <*SPA>No <*SPA>puede <*SPA>la <*SPA>familia 
@@ -2680,7 +2680,7 @@ C: Va probar con este remedio
 M:  <*SPA>te <*SPA>'oy <*SPA>a <*SPA>dar 
 C: te voy a dar 
 
-M <*SPA>do <*SPA>copa <*SPA>noma <*SPA>le <*SPA>dijeron. 
+M: <*SPA>do <*SPA>copa <*SPA>noma <*SPA>le <*SPA>dijeron. 
 C: dos copa no más le dijeron. 
 
 nmlch-nfmcqB1_x_0396_nmlch_00: 

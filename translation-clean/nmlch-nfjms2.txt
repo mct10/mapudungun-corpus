@@ -741,7 +741,7 @@ M: Mapu kutranmu
 C: enfermedad de la tierra
 
 nmlch-nfjms2_x_0053_nmlch_00: 
-<%> <%> 
+<%>  
 
 nmlch-nfjms2_x_0054_nfjms_00: 
 M: Fey konkelu 
@@ -1195,7 +1195,7 @@ C: tengo tengo sesenta y dos años
 
 nmlch-nfjms2_x_0117_nmlch_00: 
 M: Kayu mari epu 
-C. Sesenta y dos años
+C: Sesenta y dos años
 
 nmlch-nfjms2_x_0118_nfjms_00: 
 M: Fey re fürkükomu müten
@@ -1273,7 +1273,7 @@ C: caldo de locro, caldo de locro
 M: müllokiñ müli ta kuyfi
 C: albondiga de cereals habia antes
  
-M. müllokiñ ta müli tükün korüengu ingi tati 
+M: müllokiñ ta müli tükün korüengu ingi tati 
 C: albondigas de cereals habia con caldo se servia
 
 M: feyta <SPA>poroto 

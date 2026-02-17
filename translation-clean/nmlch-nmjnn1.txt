@@ -19,7 +19,7 @@ M: Chumuechi anta nag.
 C:  Como ha bajado,
  
 M: rupalefuy tami antü tüfa.
-C   ha pasado este día.
+C:   ha pasado este día.
 
 nmlch-nmjnn1_x_0003_nmjnn_00:
 M: kümelkalein tati peñi. 
@@ -465,7 +465,7 @@ M: femeyefuymi may.
 C:  eso te harían.
 
 nmlch-nmjnn1_x_0051_nmjnn_00:
-M. Ta machi pilletueno. 
+M: Ta machi pilletueno. 
 C:  Y la machi le llegó el espíritu.
 
 M: Kom datungen feymu kom tripay. 
@@ -500,7 +500,7 @@ M: Chuchi kutral pin
 C:  Que enfermedad dije
  
 nmlch-nmjnn1_x_0056_nmlch_00: 
-M. ¿Eymi kimnolu kay tüfey?
+M: ¿Eymi kimnolu kay tüfey?
 C:  Tú no sabes tampoco. 
  
 nmlch-nmjnn1_x_0057_nmjnn_00:
@@ -2085,7 +2085,7 @@ C:  Ah.
 
 nmlch-nmjnn1_x_0232_nmjnn_00:
 M: Trafkomuy  kom tüfey 
-C. todos necesitan estar al orilla el agua. 
+C: todos necesitan estar al orilla el agua. 
 
 M: y ta putokoy ta che.
 C:  y toma también la gente.  

@@ -440,7 +440,7 @@ C: Ah. Puro canelo.
 
 nmlch-lmihr2_x_0084_lmihr_00:
 M:  Re voye müten.
-C; Solamente canelo no mas.
+C: Solamente canelo no mas.
 
 nmlch-lmihr2_x_0085_nmlch_00:
 M:  Trawa tapül kam folil.
@@ -471,7 +471,7 @@ C: Esos era bueno, bueno pues ese remedio.
 
 nmlch-lmihr2_x_0091_nmlch_00:
 M:  Ah. <uhm> feyta newentutuy 
-C : Ah. Esta agarro fuerza 
+C: Ah. Esta agarro fuerza 
 
 M: ano tüfapüle <%> allfüle furi 
 C: derrepente poraca se lastima la espalda 
@@ -717,7 +717,7 @@ C: Se enferma entonce.
 
 nmlch-lmihr2_x_0141_nmlch_00: 
 M: Fey kimnoluam che fey. 
-C; Eso no lo sabe la gente si. 
+C: Eso no lo sabe la gente si. 
 
 nmlch-lmihr2_x_0142_lmihr_00: 
 M: Kimnoay, kimnoay neweengün <*SPA>pu'.
@@ -1273,7 +1273,7 @@ C: mas lo hace mal entonce.
 
 nmlch-lmihr2_x_0236_lmihr_00: 
 M: Wecha künuki <*SPA>pu'. 
-C; Lo hace mal pues. 
+C: Lo hace mal pues. 
 
 nmlch-lmihr2_x_0237_nmlch_00:
 M:  Pepi trekawekelay wentru
@@ -1971,7 +1971,7 @@ C: esta lo cuidaban si cuidaba.
 
 
 nmlch-lmihr2_x_0357_nmlch_00: 
-M; Ah. 
+M: Ah. 
 C: Ah. 
 
 nmlch-lmihr2_x_0358_lmihr_00: 

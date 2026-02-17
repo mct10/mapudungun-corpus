@@ -111,11 +111,11 @@ nmlch-nmacm1_x_0014_nmacm_00:
 M: Ti ngütamchekeyu, pi 
 C: Y arreglamos hueso, dijo , 
 
-fey malüpaeyu 
-ese lo vino a examinar
+M: fey malüpaeyu 
+C: ese lo vino a examinar
 
-fey kuwü müten fey ka malüpafi
-en la mano nomás y otra ves lo vino a examinar
+M: fey kuwü müten fey ka malüpafi
+C: en la mano nomás y otra ves lo vino a examinar
 
 M: -/tuku/- sofay pila mapuche 
 C: /pone/  sobar no es que  dice el mapuche
@@ -170,8 +170,8 @@ C: Canelo suele haber gente jóvenes
 M: wecheke che 
 C: jóvenes gentes 
 
-ta tüfey küme ngülamkünungi
-a estos muy bien se le deja aconsejado
+M: ta tüfey küme ngülamkünungi
+C: a estos muy bien se le deja aconsejado
 
 M: ka tumeal ta l'awen' ti ngülamkünungeki 
 C: y para ir  a tomar remedio y los dejan aconsejados
@@ -402,8 +402,8 @@ C: bueno es saber ahora también
 M: ka, ka pian 
 C: y también eso diré 
 
-fey wingka 
-el wingka  
+M: fey wingka 
+C: el wingka  
 
 M: ta feyngi tañi wedake dungu 
 C: y asi es sus malos hábitos
@@ -824,8 +824,7 @@ M: Kuyfi <%> feyta Lalu pingefuy fey  nga
 C: Hace tiempo también Lalo le decían ese era
  
 M: feymu ta chedkuy-yepafiñ
-C: por eso lo vine a hacer suegro
-miercoles
+C: por eso lo vine a hacer suegro miercoles
 nmlch-nmacm1_x_0111_nmlch_00: 
 M: Ah
 C: Ah
@@ -1209,8 +1208,8 @@ C: entonces ahí había pues una mujer
 M: adümuwchi domo 
 C: que practicaba la mujer 
 
-fey feychi kuche püllü 
-es esa  anciana
+M: fey feychi kuche püllü 
+C: es esa  anciana
 
 M: fey ta kellukefilu 
 C: la que ayudaba 
@@ -1298,8 +1297,8 @@ C: conversando llegare si, vomitará
 M: chi señora konlu fey, 
 C: la señor cuando entro eso.
 
-welu felelafuy tañi rakiduam
-pero no estaba asi mi pensamiento
+M: welu felelafuy tañi rakiduam
+C: pero no estaba asi mi pensamiento
 
 nmlch-nmacm1_x_0172_nmlch_00: 
 M: Fey
@@ -1522,7 +1521,6 @@ C: que era que decía no tiene remedio
 nmlch-nmacm1_x_0196_nmlch_00: 
 M: ka wüñonualu?
 C: y no va a volver
-lunes
 
 nmlch-nmacm1_x_0197_nmacm_00: 
 M: <*SPA>no, <*SPA>nose <*SPA>tenia <*SPA>una <*SPA>palabra chi füta wentru
@@ -1663,7 +1661,6 @@ C: masajista es pues no se como lo aprendio
 
 M: kiñe rupa tati niekefun malle <*SPA>pu'  peñi mülekefuy 
 C: una vez pue yo tenía tío pues  hermano había 
-Miercoles 
 
 M: fey inchiñ, inche ñi rukamu tremi 
 C: entonces nosotros, en mi casa creció  enfermedad creía

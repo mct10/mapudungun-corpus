@@ -649,7 +649,7 @@ C: saben la machi lo bueno.
  
 nmlch-nmlmc1_x_0080_nmlch_00: 
 M: Feymlli maychi l'aku feyta inchiñ am mapuche 
-C. Así es la machi nieta y nosotros somos mapuches 
+C: Así es la machi nieta y nosotros somos mapuches 
 
 M: tüfa elngerkelu tüfa mapu feyta 
 C: este lo dejaron en esta tierra 
@@ -1768,7 +1768,7 @@ M: ta fey femwelanu, femwelanu.
 C: y ya no me hace mas, no me hace más.
  
 nmlch-nmlmc1_x_0224_nmlch_00: 
- <hm> <Throat>
+ <hm>
 
 nmlch-nmlmc1_x_0225_nmlmc_00: 
 M: Femuechi femken fey feychi mediku 
@@ -2063,7 +2063,7 @@ M: Femlli maychi.
 C: Es así pues.
  
 nmlch-nmlmc1_x_0269_nmlmc_00: 
-M. Tata ngewetulay ta l'aku kom ñami 
+M: Tata ngewetulay ta l'aku kom ñami 
 C: Y ahora no hay mas nieta todo se perdió 
 
 M: tati fey ti dios kom elfuy tañi achawall ta 
@@ -2198,7 +2198,7 @@ C: Así esta dicho eso.
  
 nmlch-nmlmc1_x_0286_nmlch_00: 
 M: Femuechi kuyfike tripantumu ta elürke 
-C. así en los tiempos de antes fue que dejo
+C: así en los tiempos de antes fue que dejo
 
 M: femechi kimün ta ka.
 C: esos conocimientos también.
@@ -2668,7 +2668,7 @@ M: Inchiñ ta l'awen'tukelafuiñ may.
 C: Nosotros no, nos hacíamos remedio pues.
  
 nmlch-nmlmc1_x_0365_nmlmc_00:
- <hm> <%> 
+ <%> 
 nmlch-nmlmc1_x_0366_nmlch_00: 
 M: Lelikünukefiñ feyta.
 C: Lo observaba esta.

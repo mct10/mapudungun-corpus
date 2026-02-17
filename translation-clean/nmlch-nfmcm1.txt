@@ -100,10 +100,10 @@ C: ¿y cuando ya fue pasando el tiempo te enfermaste?
  
 nmlch-nfmcm1_x_0015_nfmcm_00:
 M: May.
-C : Sí.
+C: Sí.
 
 M: Depue' de <*SPA> eda' deu pu tremlu wüla.
-C : Después de grande. 
+C: Después de grande. 
 
 nmlch-nfmcm1_x_0016_nmlch_00:
 M: ¿Pu tremlu eymi fey wüla kutranimi? 
@@ -111,14 +111,14 @@ C: ¿Cuándo fuiste grande entonces te enfermaste?
 
 nmlch-nfmcm1_x_0017_nfmcm_00: 
 M: Fey wüla kutranün. 
-C : Ahí me enfermé. 
+C: Ahí me enfermé. 
 
 nmlch-nfmcm1_x_0018_nmlch_00:
 M: ¡Ah!
 C:¡Ah!
 
 M: ¿ chem kutrantuymi papay? 
-C : ¿de qué se enfermó mamita?
+C: ¿de qué se enfermó mamita?
 
 nmlch-nfmcm1_x_0019_nfmcm_00: 
 M: Trekayaulu inche,
@@ -142,109 +142,109 @@ M: <*SPA>Como <*SPA>que trüpüni,
 C: Como que se me acalambraron,
 
 M: <*SPA>pero kidutu witray,
-C : pero solos se pararon,
+C: pero solos se pararon,
 
-M :<*SPA>no <*SPA>quiere <*SPA>andar, 
-C  :   como que no quieren andar, 
+M:<*SPA>no <*SPA>quiere <*SPA>andar, 
+C:   como que no quieren andar, 
 
 M: küpatrekawelay.
 C: no quiso caminar.
 
 nmlch-nfmcm1_x_0022_nmlch_00: 
 M: Küpatrekawelay müte.
-C : No quiso caminar.
+C: No quiso caminar.
 
 M: !Ah¡ 
-C : ¡Ah¡
+C: ¡Ah¡
 
 M: ¿Feyta rume kutrankakimu tüfey chi kutran ka?
-C : ¿ Esa enfermedad es la que le tenia muy enferma?
+C: ¿ Esa enfermedad es la que le tenia muy enferma?
 
 nmlch-nfmcm1_x_0023_nfmcm_00:
 M: Feychi kutran,
-C : Esa enfermedad,                                 
+C: Esa enfermedad,                                 
 
 M: feychi enfermedad soy kumelkatueneu feula,
-C : ahora estoy un poco mejor.
+C: ahora estoy un poco mejor.
 
 M: <*SPA>Pu'  gitanamu konün 
-C : fui donde las  gitanas
+C: fui donde las  gitanas
 
 M: l'awen'eluenu fey kümelkaenu. 
-C : me dieron un remedio y eso me mejoró.  
+C: me dieron un remedio y eso me mejoró.  
 
 1_x_0024_nfmcm_0024_nmlch_00:
 M: ¡Ah!
-C : ¡Ah!
+C: ¡Ah!
 
 M: ¿Pelotufaluwimi? 
-C : ¿Te fuiste a ver?
+C: ¿Te fuiste a ver?
  
 nmlch-nfmcm1_x_0025_nfmcm_00:
 M: Pelotufaluwün, 
-C :  Me fui a ver, 
+C:  Me fui a ver, 
 
 M: lengenu adümelngimi,
 C: con remedio,
 
 M: feymu kidu ayüngefuymi, 
-C : ahí solo le gusto,
+C: ahí solo le gusto,
 
 M: tami filu reke, 
-C : como su culebra,
+C: como su culebra,
 
 M:tami wimolkeawal 
-C : para que se moviera,
+C: para que se moviera,
 
 M: feymu kidu witrakimi.
-C : ahí solo se paro.
+C: ahí solo se paro.
 
 nmlch-nfmcm1_x_0026_nmlch_00:
 M: ¿Uñfitungeperkefuymi may tüfey? 
-C : ¿Te hicieron un mal entonces ?
+C: ¿Te hicieron un mal entonces ?
 
 nmlch-nfmcm1_x_0027_nfmcm_00: 
 M: Uñfitungen <*SPA>pu'.
-C : Me hicieron un mal pues.
-       	xxxxxxxxxxxxxxxxxxxxxxxxxxx
+C: Me hicieron un mal pues.
+       
 nmlch-nfmcm1_x_0028_nmlch_00:
 M: Uñfitungefuymi may. 
-C : Te hicieron un mal 
+C: Te hicieron un mal 
 
 nmlch-nfmcm1_x_0029_nfmcm_00:
 M: <*SPA>foto   tay ta nieñmangen, 
-C : Me tienen una foto,
+C: Me tienen una foto,
 
 M: rügalniengi sementeriomu pi,
-C : la enterrada una fotografía en el cementerio.  
+C: la enterrada una fotografía en el cementerio.  
 
 nmlch-nfmcm1_x_0030_nmlch_00:
 M: ¡Ah! 
-C : ¡Ah!
+C: ¡Ah!
 
 M:tüfichi <*SPA>foto   
-C :¿Una fotografía?. 
+C:¿Una fotografía?. 
 
 nmlch-nfmcm1_x_0031_nfmcm_00:
 M: <Cough> May. 
-C : Sí.
+C: Sí.
 
 nmlch-nfmcm1_x_0032_nmlch_00:
 M: ¿kimlafimi chumngechi tami tuñmaetew 
-C :  ¿No sabes como te sacaron,
+C:  ¿No sabes como te sacaron,
 
 M: tüfichi <*SPA>foto?
-C : esa fotografia?.
+C: esa fotografia?.
 
 M: ¿Chumuelu tami tuñmaetew?
-C :  ¿Por que te la sacaron?
+C:  ¿Por que te la sacaron?
 
 nmlch-nfmcm1_x_0033_nfmcm_00:
 M: Kimün. 
-C : Se.
+C: Se.
 
 M: Weñeñmaenu kiñe pichiche 
-C :  Me la robaron unos niños chicos  
+C:  Me la robaron unos niños chicos  
 
 M: Weñepay
 C:  La robaron, 
@@ -259,15 +259,15 @@ M: tañi ñadu,
 C:  Mi cuñada,
 
 M: fey weñengi,
-C : ella me lo robo.
+C: ella me lo robo.
 
 nmlch-nfmcm1_x_0034_nmlch_00: 
 M: ¿Weñngey?
-C : ¿Le robaron?
+C: ¿Le robaron?
 
 nmlch-nfmcm1_x_0035_nfmcm_00:
 M: <hm> ¿Feychi fotomu?
-C : Esa fotografía. 
+C: Esa fotografía. 
 
 nmlch-nfmcm1_x_0036_nmlch_00: 
 M: ¿Weda rakiduamaymu tüfey?
@@ -275,35 +275,35 @@ C:  ¿Mal pensamiento tiene?.
 
 nmlch-nfmcm1_x_0037_nfmcm_00: 
 M: May. 
-C : Sí.
+C: Sí.
 
 nmlch-nfmcm1_x_0038_nmlch_00:
 M: <hm> Llegi tañi pin tüfichi domo
-C : Yo digo que esa mujer lo llevo 
+C: Yo digo que esa mujer lo llevo 
 M: ¿Feyta pepikaleymu tüfey?
-C : ¿Ella hizo eso? 
+C: ¿Ella hizo eso? 
 
 nmlch-nfmcm1_x_0039_nfmcm_00:
 M: -/lleg/- llegngen <*SPA>pu'  
-C : Se lo llevo pues. 
+C: Se lo llevo pues. 
 
 M: <Noise> ñami chi <*SPA>foto   fey llegngi,
-C : Se perdió la fotografía, ella se la llevo 
+C: Se perdió la fotografía, ella se la llevo 
 
 nmlch-nfmcm1_x_0040_nmlch_00: 
 M: ¡Ah! 
-C : ¡Ah!
+C: ¡Ah!
 
 M: ¿Rume kutranki fill antü kam kiñekemu tüfi?
-C : ¿Estaba enferma todo el tiempo o a veces no mas?
+C: ¿Estaba enferma todo el tiempo o a veces no mas?
 
 nmlch-nfmcm1_x_0041_nfmcm_00:
 M: -/Ñamom/- tañi n'amun'.
-C : Perdi, mi pies. 
+C: Perdi, mi pies. 
 
 nmlch-nfmcm1_x_0042_nmlch_00: 
 M: ¿May? 
-C :  ¿Sí?
+C:  ¿Sí?
 
 nmlch-nfmcm1_x_0043_nfmcm_00: 
 M: Fill antü fünfünküli lüf reke kemawra reke,
@@ -315,14 +315,14 @@ C: como que estuviera quemado.
  
 nmlch-nfmcm1_x_0045_nfmcm_00: 
 M: ¿May?
-C : ¿Sí? 
+C: ¿Sí? 
 
 nmlch-nfmcm1_x_0046_nmlch_00:
 M: ¿Pepi trekalaymi tüfi? 
-C : ¿No puedes caminar?
+C: ¿No puedes caminar?
 nmlch-nfmcm1_x_0047_nfmcm_00: 
 M: Pepi trekalan <*SPA>pu'.
-C : No puedo caminar bien pues.
+C: No puedo caminar bien pues.
  
 nmlch-nfmcm1_x_0048_nmlch_00:
 M: ¿Lawen'tukefuymi kay?
@@ -330,87 +330,87 @@ C: ¿ Pero te habías hecho remedio?.
 
 nmlch-nfmcm1_x_0049_nfmcm_00:
 M: Fill l'awen' tukulelkefuiñ  
-C : Me he puesto artos remedios. 
+C: Me he puesto artos remedios. 
 
 M: Fey kümey pingen tukulelkefuiñ,
-C : Me dicen es remedio es bueno y yo lo uso. 
+C: Me dicen es remedio es bueno y yo lo uso. 
 
 M: <*SPA>Avece'  queda trankilu 
-C : A veces se queda tranquilo
+C: A veces se queda tranquilo
 
 nmlch-nfmcm1_x_0050_nmlch_00:
 M: ¡Ah!
-C : ¡Ah!
+C: ¡Ah!
 
 M: ¿Fey tuteki kiñekemu ke?
 C:  ¿Ahí es cuando aveces se siente bien?
  
 nmlch-nfmcm1_x_0051_nfmcm_00:
 M: kiñekemu tuteki, 
-C : Aveces,
+C: Aveces,
 
 M: depue' tutewe tripakelay ,
-C : otras veces no 
+C: otras veces no 
 
 nmlch-nfmcm1_x_0052_nmlch_00:
 M: <hm> ¿Chumül doy kutranki tüfey ti?
-C : ¿Cundo le duele mas?
+C: ¿Cundo le duele mas?
 
 nmlch-nfmcm1_x_0053_nfmcm_00:
 M: Ta kutranküli fill antü kutrani
-C : Todo el tiempo me duele 
+C: Todo el tiempo me duele 
  
 nmlch-nfmcm1_x_0054_nmlch_00:
 M: ¿ Fill antü ? 
-C : ¿Todo el tiempo?
+C: ¿Todo el tiempo?
 
 nmlch-nfmcm1_x_0055_nfmcm_00: 
 M: <%> Kidu witran petu tañi trekayawal <Noise>
-C : Sola me paro para caminar  
+C: Sola me paro para caminar  
  
 nmlch-nfmcm1_x_0056_nmlch_00:
 M: ¡Ah! 
-C : ¡Ah! 
+C: ¡Ah! 
 
 nmlch-nfmcm1_x_0057_nfmcm_00:
 M: ¿Feypeno chem depue' doyelenu?<Noise> 
-C : ¿Será por eso que me duele más?
+C: ¿Será por eso que me duele más?
 
 nmlch-nfmcm1_x_0058_nmlch_00:
 M: ¡Ah! 
-C : ¡Ah!
+C: ¡Ah!
 
 nmlch-nfmcm1_x_0059_nfmcm_00:
 M: Kurüweli tañi n'amun'
-C : Esta negro mi pies
+C: Esta negro mi pies
  
 nmlch-nfmcm1_x_0060_nmlch_00:
 M: Kurüweli may no,
-C : Se pone negro, 
+C: Se pone negro, 
 
 M: rume wedalkay tüfi.
-C : que malo, no.
+C: que malo, no.
  
 nmlch-nfmcm1_x_0061_nfmcm_00:
 M: <*SPA>Si <*SPA>pu'.  
-C : Sí, pues. 
+C: Sí, pues. 
 
 nmlch-nfmcm1_x_0062_nmlch_00:
 M: ¿ Chem l'awen' tukulelkefuymi ti, papay,?
-C : ¿ Que remedios le pones mamita?
+C: ¿ Que remedios le pones mamita?
  
 nmlch-nfmcm1_x_0063_nfmcm_00: 
 M: Foye wadküm foye con matiko
-C : Echo a herbir canelo con matico, 
+C: Echo a herbir canelo con matico, 
 
 M: fey llanten 
-C : y llantén,
+C: y llantén,
 
 M:<*SPA>ese <*SPA>no <*SPA>ma' <*SPA>pu',
-C : eso no más,  pues. 
+C: eso no más,  pues. 
 
 M: Fey müten <*SPA>pu'  
-C : Eso no más pues.
+C: Eso no más pues.
 
 nmlch-nfmcm1_x_0064_nmlch_00:
 M:¿ Foye...?
@@ -418,81 +418,81 @@ C: ¿ Canelo?
 
 nmlch-nfmcm1_x_0065_nfmcm_00: 
 M: ¿Llanten?
-C : ¿ Llantén?
+C: ¿ Llantén?
 
 nmlch-nfmcm1_x_0066_nmlch_00: 
 M: ¿Llanten <P> matiko?
-C : ¿Llantén, Matico?
+C: ¿Llantén, Matico?
  
 nmlch-nfmcm1_x_0067_nfmcm_00:
 M: <hm> Fey. 
-C :  Sí.
+C:  Sí.
 
 nmlch-nfmcm1_x_0068_nmlch_00: 
 M: ¿Lapomkefimi tüfey kam ...?
-C : ¿Lo quemas eso o...?
+C: ¿Lo quemas eso o...?
 
 nmlch-nfmcm1_x_0069_nfmcm_00: 
 M: ¿Wadküm? 
-C : ¿Hervido? 
+C: ¿Hervido? 
 
 nmlch-nfmcm1_x_0070_nmlch_00:
 M: Wadküm.
-C : Hervido
+C: Hervido
 
 nmlch-nfmcm1_x_0071_nfmcm_00:
 M: Wünetumu doyel-lu inche lapomtukufiñ,
-C : Primero cuando me agrave más, lo toste
+C: Primero cuando me agrave más, lo toste
 
 M: <*SPA>asi <*SPA>se <*SPA>hace <*SPA>pu'  
-C : Así se hace pues, 
+C: Así se hace pues, 
 
 M: Angkükonu n'amun'mu,
-C : Cuando se me seco el pies. 
+C: Cuando se me seco el pies. 
 
 nmlch-nfmcm1_x_0072_nmlch_00:
 M: ¿Angkükoni pey kutran tüfi ka,?
-C : ¿Cuando se le seco hay si que le dolió?  
+C: ¿Cuando se le seco hay si que le dolió?  
  
 nmlch-nfmcm1_x_0073_nfmcm_00:
 M: femi <*SPA>pu'  femi <*SPA>pu' 
-C : Si pues, si pues
+C: Si pues, si pues
   
 nmlch-nfmcm1_x_0074_nmlch_00:
 M: ¿Doy tukulel-lafimi chem
-C : ¿Despues no le hecho
+C: ¿Despues no le hecho
 
 M: <*SPA>no rume depue'? 
-C :  nada mas?. 
+C:  nada mas?. 
 
 nmlch-nfmcm1_x_0075_nfmcm_00:
 M: Doy tukulel-lafiñ <*SPA>pu'  <Noise>
-C : No, nada mas pues.  
+C: No, nada mas pues.  
 
 nmlch-nfmcm1_x_0076_nmlch_00:
 M: <hm> ¿Pitalmu chempingekimi?
-C : ¿En el hospital que le dijeron?
+C: ¿En el hospital que le dijeron?
 
 nmlch-nfmcm1_x_0077_nfmcm_00:
 M: Afkentu indeccion tukufun
-C : Me pusieron hartas inyecciones 
+C: Me pusieron hartas inyecciones 
 
 M: <*SPA>igual <*SPA>no <*SPA>ma' felen 
-C : Igual no mas segui,
+C: Igual no mas segui,
 
 M: müten tutelay ,
-C : no me hizo bien.   
+C: no me hizo bien.   
 
 nmlch-nfmcm1_x_0078_nmlch_00: 
 M:<hm> ¿Kimlavimi ka chumngechi tami tufiel chi kutran?
-C : ¿No sabe que mas le dieron para su enfermedad
+C: ¿No sabe que mas le dieron para su enfermedad
 
 M: ¿tüfi kimlafimi?
-C : ¿No sabe que mas?
+C: ¿No sabe que mas?
  
 nmlch-nfmcm1_x_0079_nfmcm_00: 
 M: Pajonalmu we rupay chi vilu, 
-C :  En la vega paso una culebra,
+C:  En la vega paso una culebra,
 
 M: fey pünokonimi pingen,
 C:  y la pase a pisar,
@@ -502,11 +502,11 @@ C: ahí  por eso ahora estoy viva.
 
 nmlch-nfmcm1_x_0080_nmlch_00:
 M: ¿Mekomu rumerki chi vilu? 
-C : ¿En el agua detenida la culebra paso? 
+C: ¿En el agua detenida la culebra paso? 
 
 nmlch-nfmcm1_x_0081_nfmcm_00:
 M:<*SPA>¿no müte kuyfi fam pichikalu jovenngelu inche,
-C : No hace mucho, cuando era niña-joven yo. 
+C: No hace mucho, cuando era niña-joven yo. 
 
 M: ¿Jovenkülen pipiminga? 
 C: ¿Cuándo era joven,dice usted?
@@ -517,39 +517,39 @@ C: ¿Cuando era joven?
 
 nmlch-nfmcm1_x_0083_nfmcm_00: 
 M: May fey,
-C : Si,
+C: Si,
 
 M: kuydayawlu sanchu,
-C : cuando cuidaba chancho, 
+C: cuando cuidaba chancho, 
 
 M: Inche fey lefkülen nifniffi,
-C : Yo iba corriendo y sonaba 
+C: Yo iba corriendo y sonaba 
 
 M:<*SPA>pero <*SPA>no <*SPA>se <*SPA>que
 C: Pero no se que es,
 
 M:  :<*SPA>lo <*SPA>que <*SPA>e' chemngefel,
-C : lo que era, 
+C: lo que era, 
 
 M: <%><*SPA>no uamlafiñ 
 C: no me percate,
 
 M:-/aho/- fewla machimu  feypingen, 
-C : ahora en la machi me dijeron, 
+C: ahora en la machi me dijeron, 
 
 nmlch-nfmcm1_x_0084_nmlch_00: 
 <hm> 
 
 nmlch-nfmcm1_x_0085_nfmcm_00: 
 M: n'amun'tuyawlu inche
-C : Andava a pies pelado yo
+C: Andava a pies pelado yo
 
 M:sapatutulelan rume <*SPA>pu'  
-C :andaba sin zapato pues  
+C:andaba sin zapato pues  
 
 nmlch-nfmcm1_x_0086_nmlch_00: 
 M: ¿Fey <P> kimlafimi femuechi tami tufiel?
-C : ¿no sabe como le hicieron eso?  
+C: ¿no sabe como le hicieron eso?  
 
 M: ¿Tüfey machimu pelotufilu fey ta feypingimi tami ...?
 C: ¿Entonces cuando se fue a ver a la machi le dijeron que ...?
@@ -557,32 +557,32 @@ C: ¿Entonces cuando se fue a ver a la machi le dijeron que ...?
 
 nmlch-nfmcm1_x_0087_nfmcm_00:
 M: May.
-C : Sí.
+C: Sí.
 
 nmlch-nfmcm1_x_0088_nmlch_00:
 M: ¡Femuechi turken tami kutran ka!
-C : ¡Cómo se enfermo ah!
+C: ¡Cómo se enfermo ah!
  
 nmlch-nfmcm1_x_0089_nfmcm_00: 
 M: Femuechi tun. 
-C : Sí, así es. 
+C: Sí, así es. 
 
 nmlch-nfmcm1_x_0090_nmlch_00:
 M: ¡Awem kay, awem kay! weda dungu tüfey.
-C :  ¡Oh!,¡ oh! que mala noticia. 
+C:  ¡Oh!,¡ oh! que mala noticia. 
 
 M: Weda dungu tüfey kimnon tüfi ta, 
-C : Que mala noticia,
+C: Que mala noticia,
 
 M: müleperkeafuy l'awen' 
-C : habria remedio
+C: habria remedio
 
 M: pitalmu tüfey tami kutranmuka? 
-C : para su enfermedad?  
+C: para su enfermedad?  
 
 nmlch-nfmcm1_x_0091_nfmcm_00:
 M: Ngelay, 
-C : No hay,
+C: No hay,
 
 M:<*SPA>pu'  ngelay,
 C:  no pues 
@@ -667,7 +667,7 @@ M: ¿Chem machi pifiñ ta chi domo,?
 C: ¿Qué medica es esta mujer? 
 
 M:  <*SPA>y <*SPA>me <*SPA>dijo 
-C : Y me dijo
+C: Y me dijo
 
 M:<*SPA>que  puway chumül müten puway
 C:  que llegaría cualquier día
@@ -710,10 +710,10 @@ C: No, primero no había le dijeron
   
 nmlch-nfmcm1_x_0114_nmlch_00:
 M: Feyti chi che pelotuetew 
-C : Esa persona que la vio
+C: Esa persona que la vio
 
 M:eymi chi gitana fey kimürkefimi ürke tüfika 
-C : a usted 
+C: a usted 
 
 nmlch-nfmcm1_x_0115_nfmcm_00: 
 M: Kimafimi puwle rukamu pienu 
@@ -725,13 +725,13 @@ C: ¡Ah!
 
 nmlch-nfmcm1_x_0117_nfmcm_00: 
 M: Fey.
-C : Si. 
+C: Si. 
 
 M:-/kim/- eperaniefiñ akual,
-C : espere que llegara,
+C: espere que llegara,
 
 M: chumül müten puway pienu 
-C : cualquier dia va a llegar me dijo
+C: cualquier dia va a llegar me dijo
 
 nmlch-nfmcm1_x_0118_nmlch_00: 
 M: ¡Ah!
@@ -743,7 +743,7 @@ C: Llego pues.
 
 nmlch-nfmcm1_x_0120_nmlch_00:
 M: Akuy tüfamew. 
-C : Llego aquí. 
+C: Llego aquí. 
 
 nmlch-nfmcm1_x_0121_nfmcm_00:
 M: Akuy<*SPA>ma' <*SPA>te <*SPA>va <*SPA>llevar 
@@ -819,19 +819,19 @@ nmlch-nfmcm1_x_0137_nfmcm_00:
 M: Pelotuenu kiñe ñaduem pilafun gitanu llükakefiñ.
 C: Me vió una cuñada no quería, a la gitana le tenía miedo.
 
-nmlch-nfmcm1_x_0138_nmlch_00
+nmlch-nfmcm1_x_0138_nmlch_00:
 M: ¡Ah! 
 C: ¡Ah!
 
-nmlch-nfmcm1_x_0139_nfmcm_00
+nmlch-nfmcm1_x_0139_nfmcm_00:
 M: Llükaken chi kitanu <%> parte del diaulu pikingün koy...
 C:  Les tengo miedo a las gitanas, son parte del diablo.
 
-nmlch-nfmcm1_x_0140_nmlch_00: .
+nmlch-nfmcm1_x_0140_nmlch_00: 
 M:..Koyla, welu ka, koyla welu ka petu pi, ka,ka%. 
 C:  Mentira, pero, mentira dice, también, también.. 
 
-nmlch-nfmcm1_x_0141_nfmcm_00: <hm>
+nmlch-nfmcm1_x_0141_nfmcm_00: 
 M: Fey llükakefiñ nielan plata pifiñ tañi ñaduem.
 C:  Si, les tengo miedo, no tengo plata, mi cuñada.
 
@@ -1102,7 +1102,7 @@ C:  es gente de otra parte, viven al orilla del camino.
 
 nmlch-nfmcm1_x_0191_nfmcm_00:
 M: ¡Ah! ,<*SPA>
-C : ¡Ah!.
+C: ¡Ah!.
 
 M:No fachi Foyeko rüpü müli
 C: No por aquí hay un camino que se llama agua de canelo
@@ -1116,21 +1116,21 @@ C: No le dijo lo que le paso, mamita
 
 nmlch-nfmcm1_x_0193_nfmcm_00: 
 M: Feypilafiñ, ñadufel <*SPA>pu'  
-C : No, no le dije es  mi cuñada pues
+C: No, no le dije es  mi cuñada pues
 
 nmlch-nfmcm1_x_0194_nmlch_00:
-M : ¿Ñadufel amfe?
-C : ¿Es su cuñada entonces?
+M: ¿Ñadufel amfe?
+C: ¿Es su cuñada entonces?
 
 nmlch-nfmcm1_x_0195_nfmcm_00:
-M : May.
+M: May.
 C: Sí.
 
 M: Che kure tañi lamngen <*SPA>por <*SPA>parte magre   
-C : es la esposa de mi hermano  
+C: es la esposa de mi hermano  
 nmlch-nfmcm1_x_0196_nmlch_00: 
 M: ¿Eymi tañi ñuke?
-C : ¿Es tu mamá?
+C: ¿Es tu mamá?
  
 nmlch-nfmcm1_x_0197_nfmcm_00: 
 M: Ñukemu may ñuke lamngen 
@@ -1138,7 +1138,7 @@ C:  Mi mamá y mamá de mi hermano
 
 nmlch-nfmcm1_x_0198_nmlch_00:
 M:  <hm> ¿Chumuelu chi ütrirfeymu  
-C : ¿Por que se habra molestado 
+C: ¿Por que se habra molestado 
 
 M:tüfi chumuelu chi yafkafimi 
 C: por que te enjaste con ella
@@ -1162,13 +1162,13 @@ M: May, may.
 C:  Sí, sí.
 
 M:  Tripantu müli,estuvo
-C :  Un año 
+C:  Un año 
 
 M:  pilafuy tripayalu feymu
 C: no quría salir de ahí
 
 M: <*SPA>no illkükunuw 
-C.  no, se enojo.
+C:  no, se enojo.
 
 i. nmlch-nfmcm1_x_0202_nmlch_00: 
 M: ¿Piwetulafuy elutuatew tami?
@@ -1201,10 +1201,10 @@ C: podria hacerlo mejor.
 
 nmlch-nfmcm1_x_0207_nfmcm_00:
 M: Kümekünuafun 
-C : Puedo hacerlo mejor
+C: Puedo hacerlo mejor
 
 M:<*SPA>pu'  wün pifili wünkelafiñ müten 
-C : yo no hablo mal de ella 
+C: yo no hablo mal de ella 
 
 nmlch-nfmcm1_x_0208_nmlch_00:
 M: ¿Akuki kiñekemu tüfa ka?
@@ -1212,7 +1212,7 @@ C: ¿Llega algunas veces aquí?
 
 nmlch-nfmcm1_x_0209_nfmcm_00:
 M: <*SPA>No küpakelay. 
-C : No, no viene. 
+C: No, no viene. 
 
 nmlch-nfmcm1_x_0210_nmlch_00:
 M: ¿Kimni kidu ka ñi kulpalen?
@@ -1228,16 +1228,16 @@ C: ¡Ah!
 
 nmlch-nfmcm1_x_0213_nfmcm_00: 
 M: Kiñe nag trafyefiñ ñi lamngen
-C : Una tarde la encontre con su hermana
+C: Una tarde la encontre con su hermana
 
 M: fey pangkokaenu 
-C : y ahí me abraso 
+C: y ahí me abraso 
 
 M: hermanita pienu kidu rupakünufemkünuy 
-C : hermanita me dijo y sola paso rapido 
+C: hermanita me dijo y sola paso rapido 
 
 M:<%> <*SPA>no <*SPA>habló <*SPA>nada ma'dungula. 
-C : no dijo nada. 
+C: no dijo nada. 
 
 nmlch-nfmcm1_x_0214_nmlch_00: 
 M: ¿Kimnierki ñi yafkalen tüfi?
@@ -1249,25 +1249,25 @@ C: Sabe, ella lo demuestra.
 
 nmlch-nfmcm1_x_0216_nmlch_00:
 M: <P> Müna wedano, müna wedano 
-C : Que malo no, que malo
+C: Que malo no, que malo
 
 nmlch-nfmcm1_x_0217_nfmcm_00:
 M: <*SPA>Sí <*SPA>pu'  feychi nütram ta 
-C : Sí pues, esa conversación
+C: Sí pues, esa conversación
 
 M: -/elu/- machimu nütramtupan chi l'awen'
-C :  la medica sobre los remedios
+C:  la medica sobre los remedios
 
 M: chumafenu chi kayno.
-C : que puedo hacer.  
+C: que puedo hacer.  
 
 1_x_0219_nfmcm_0016_nmlch_00:
 M: ¿Chempingimi machimu tüfey kay? 
-C : ¿Que fue lo que le dijo la medica a usted? 
+C: ¿Que fue lo que le dijo la medica a usted? 
 
 nmlch-nfmcm1_x_0220_nfmcm_00: 
 M: Machimu ta nütramdungun 
-C : La medica converso 
+C: La medica converso 
 
 M:ta trewa nga rapiki nga feychi kachumu.
 C:  que los perros vomitaban en el pasto. 
@@ -1280,10 +1280,10 @@ nmlch-nfmcm1_x_0222_nfmcm_00:
 M: Fey pirki feymu mongeafun foye l'awen'
 C: Me dijo que podría vivir con remedio de canelo  
 M: Fey filu l'awen' ka chemama,
-C : Ese remedio que parese culebra
+C: Ese remedio que parese culebra
 
 M: ese enreakinga. 
-C : algo así como una enredadera. 
+C: algo así como una enredadera. 
 
 nmlch-nfmcm1_x_0223_nmlch_00:
 M: ¿küñke?
@@ -1291,7 +1291,7 @@ C:
 
 nmlch-nfmcm1_x_0224_nfmcm_00:
 M: <*SPA>No.
-C : No.
+C: No.
 
 
 M: Chodi ngati 
@@ -1301,7 +1301,7 @@ M: müna küme trochentuleki
 C: esta muy bién  amarillento
 
 M: kampumu müleki nga,
-C : en el campo estaba 
+C: en el campo estaba 
 
 M:  trapimu tripaki <*SPA>avece'  nga.
  C: en el ají sale a veces pues.
@@ -1326,13 +1326,13 @@ C: donde se enfuerta la horina parece.
  
 nmlch-nfmcm1_x_0227_nmlch_00: 
 M: Femuechi pewman l'awen'
-C : Asi me soñe con los remedios
+C: Asi me soñe con los remedios
 
 M: rume kümeke l'awen' pingeki,
-C : remedios bien buenos dicen,
+C: remedios bien buenos dicen,
 
 M: tüfa feytachi küdawmu inche niawün 
-C : por este trabajo es que yo ando  
+C: por este trabajo es que yo ando  
 
 M: ta fey feypingeken pewman l'awen'
 C: antes las medicas solo soñaban los remdios 
@@ -1341,7 +1341,7 @@ M: Ngünechen tañi wülün kimün
 C: Dios les entregaba el conocimiento,
 
 M: pingeki machi piam kuyfi tüfa 
-C : decian las medicas antes
+C: decian las medicas antes
 
 M:re pewmakefuy l'awen' fey ta mongelkerkefuy che. 
 C: solo se soñaban con los remedios y asi vivian las personas.
@@ -1351,7 +1351,7 @@ M: Pewmalu l'awen' che mongeki pu'
 C: Soñaban con el remedio que tenían que tomar y así vivían  
 
 M: ellakamu doy kutrankülelu 
-C : los que se ivan enfermando de apoco
+C: los que se ivan enfermando de apoco
 
 M: inche pewmafun famngechi nelngen chi l'awen' 
 C:  cuando yo estaba enferma soñé lo que tenia que tomar  
@@ -1368,18 +1368,18 @@ C: ¿ Cardo negro?
 
 nmlch-nfmcm1_x_0230_nfmcm_00: 
 M: May. 
-C : Sí. 
+C: Sí. 
 
 nmlch-nfmcm1_x_0231_nmlch_00:
 M: ¡Ah!
-C : ¡Ah!
+C: ¡Ah!
 
 M: Pewmafimi tüfi 
-C : Lo soñó
+C: Lo soñó
  
 nmlch-nfmcm1_x_0232_nfmcm_00: 
 M: May.
-C : Sí.
+C: Sí.
 
 M: ka kiñe kachu azul rayengneki nga 
 C: algo así como un pasto azul en el medio 
@@ -1396,7 +1396,7 @@ M: Kimlafiñ fey motralngen pewmamu cuando
 C: No lo conocí cuando se lo mostraron en el sueño
 
 M: <*SPA>'taba <*SPA>mal kutrankülelu 
-C : estava muy mal
+C: estava muy mal
 
 nmlch-nfmcm1_x_0235_nmlch_00:
 M: ¡Ah¡
@@ -1568,7 +1568,7 @@ M: Chem ajenko tüfi chi ...?
 C: Que ajenjo será ese?
 
 nmlch-nfmcm1_x_0268_nfmcm_00:
-M ...ajenko ese fürelu 
+M: ...ajenko ese fürelu 
 C: ... ese  ajenjo picante 
 
 nmlch-nfmcm1_x_0269_nmlch_00: 
@@ -1619,7 +1619,7 @@ C: es bueno entonces?
  
 nmlch-nfmcm1_x_0280_nfmcm_00:
 M: ..kümefuy <*SPA>pu' 
-es bueno pues,
+C: es bueno pues,
 
 M: femwetulan <*SPA>pu'  kidu mekekelu inche kay 
 C: pero yo no lo hice mas como estoy sola 
@@ -1640,10 +1640,10 @@ C: Sí.
 
 nmlch-nfmcm1_x_0283_nmlch_00: 
 M: Müleki nga 
-C : Hay una
+C: Hay una
 
 M:tüfichi rume 
-C :  
+C:  
 
 M:kutrankawküli 
 C:
@@ -1673,7 +1673,7 @@ C: no,
 M: <*SPA>sarza <*SPA>parrilla 
 C:
 
-<uh> chepika <*SPA>blanca 
+M: <uh> chepika <*SPA>blanca 
 C:   zarza parrilla, chipica blanca   
 
 M:<*SPA>me <*SPA>dijo <*SPA>ese.
@@ -1708,7 +1708,7 @@ C: Ya
 
 nmlch-nfmcm1_x_0290_nfmcm_00:
 M: <*SPA>y <*SPA>uña <*SPA>de gatu <*SPA>dijo
-C : y uña de gato me dijo 
+C: y uña de gato me dijo 
 
 nmlch-nfmcm1_x_0291_nmlch_00: 
 M: Zarzaparrilla, chepika blanku, uña de gatu 
@@ -1868,7 +1868,7 @@ C: estaba mirando su cosa
 
 nmlch-nfmcm1_x_0326_nfmcm_00: 
 M: ñi santu <Noise> niy ta imagen
-C su santo, una imagen
+C: su santo, una imagen
 
 nmlch-nfmcm1_x_0327_nmlch_00:
 M: ¡aaa! 
@@ -1953,7 +1953,7 @@ C: ¡Ah!
 
 nmlch-nfmcm1_x_0342_nfmcm_00: 
 M: naturi'ta 
-C : naturista 
+C: naturista 
 
 nmlch-nfmcm1_x_0343_nmlch_00: 
 M: al'ün che mongelkefi pingi 
@@ -2228,7 +2228,7 @@ C: Los niños lo toman?
 
 nmlch-nfmcm1_x_0391_nfmcm_00: 
 M:<*SPA>si , pütokoy 
-C. Sí, lo toman 
+C: Sí, lo toman 
 
 nmlch-nfmcm1_x_0392_nmlch_00:
 M: ¡aaa! , pütokoy may no,

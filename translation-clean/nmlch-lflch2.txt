@@ -602,7 +602,7 @@ nmlch-lflch2_x_0075_lflch_00:
 M: *Fey llemay. 
 C: Así es.
 
-nmlch-lflch2_x_0076_nmì¥Á Y 
+nmlch-lflch2_x_0076_nmì¥Á Y _00:
 
 
 ; CDR: 00.00 

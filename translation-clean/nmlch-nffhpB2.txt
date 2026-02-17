@@ -364,7 +364,7 @@ M: Perimontunngerkeymi tati, nanay piviñ,
 C: Usted tiene visiones pues, niñita le dije,
 
 
-M vey dungulay <*SPA>pu', 
+M: vey dungulay <*SPA>pu', 
 C: entonces no habló pues, 
 M: dungulay,
 C: no habló,
@@ -1743,7 +1743,7 @@ C: ¿No le dio la recaída?.
 
 nmlch-nffhpB2_x_0207_nffhp_00: 
 M: Wüñotulayu.
-N: No le dio la recaída. 
+C: No le dio la recaída. 
 
 nmlch-nffhpB2_x_0208_nmlch_00: 
 M: <P> Kümekünueyuka. 
@@ -2199,7 +2199,7 @@ C: Sí.
 
 nmlch-nffhpB2_x_0268_nffhp_00: 
 M: Müte tutekakelay pingelama. 
-N: No es muy efectiva como se dice.
+C: No es muy efectiva como se dice.
 
 nmlch-nffhpB2_x_0269_nmlch_00:
 M: <Noise>  ¡Aaa!. 
@@ -2660,4 +2660,3 @@ nmlch-nffhpB2_x_0312_nmlch_00:
 M: Fentepuy, chaltu.
 C: Hasta aquí llega, gracias.
 
-Cañulef

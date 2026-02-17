@@ -791,7 +791,7 @@ M: ini ngünekefimi ta mapu sungun.
 C: quien maneja el idioma mapuche.
  
 nfmcp-nfemm1_x_0153_nfemm_00: 
-M : <*SPA>No femkelafin
+M: <*SPA>No femkelafin
 C: No es así
 
 M: <*SPA>porque <*SPA>siempre
@@ -850,7 +850,7 @@ C: En nuestra tierra no esta muy bien
 M:  fali mapudungun 
 C: pero tiene  valor el mapuzugun
 
-M. <*SPA>es <*SPA>que <*SPA>no <*SPA>se 
+M: <*SPA>es <*SPA>que <*SPA>no <*SPA>se 
 C: es que, no se
 
 M: <*SPA>porque chumngelu chemay ta fenken ta.
@@ -1122,7 +1122,7 @@ nfmcp-nfemm1_x_0205_nfemm_00:
 M: Kom kay wingkaulu che.
 C: Como todo se han ahuincado.
  
-nfmcp-nfemm1_x_0206_nfmcp_00: ¨
+nfmcp-nfemm1_x_0206_nfmcp_00:
 M: <*SPA>Si.
 C: Si.
 
@@ -1138,7 +1138,7 @@ M: <*SPA>Santiago amuyngün
 C: Fueron a Santiago
 
 M: ka mapusunguwetukelaymün ka.
-C : tampoco hablaron en idioma mapuche, pues.
+C: tampoco hablaron en idioma mapuche, pues.
   
 nfmcp-nfemm1_x_0209_nfmcp_00: 
 M: Fey kay ka iñchiñ fey.
@@ -1255,7 +1255,7 @@ nfmcp-nfemm1_x_0236_nfmcp_00:
 M: Fey wenuntuni tañi sungu engün
 C: Por eso se esta levantando ese saber a traves de ellos
 
-M. y falilngetuafel mapuche.
+M: y falilngetuafel mapuche.
 C: y hacer valer lo que es ser mapuche.
  
 nfmcp-nfemm1_x_0237_nfemm_00: 
@@ -1311,7 +1311,7 @@ nfmcp-nfemm1_x_0247_nfmcp_00:
 M: Fey kom kintungin foula feyengün.
 C: Ahora estan todos buscandolo ellos.
  
-nfmcp-nfemm1_x_0248_nfemm_00: ¨
+nfmcp-nfemm1_x_0248_nfemm_00:
 M: Püla femi.
 C: 
  
@@ -1701,7 +1701,7 @@ nfmcp-nfemm1_x_0334_nfmcp_00:
 M: Püllay, püllay kangelu.
 C: La enredadera, enredadera es otra.
  
-nfmcp-nfemm1_x_0335_nfemm_00
+nfmcp-nfemm1_x_0335_nfemm_00:
 M: May.
 C: Sí.
   
@@ -2163,7 +2163,7 @@ M: Piruchi nga
 C: Los gusanos pues
 
 M: <*SPA>que <*SPA>sale 
-C. que salen
+C: que salen
 
 M: <*SPA>en <*SPA>el <*SPA>cuerpo tripaki 
 C: en el cuerpo sale
@@ -2676,7 +2676,7 @@ M: <uh> ¿kutrankelayngün?
 C: ¿no se enferman?
 
 nfmcp-nfemm1_x_0523_nfmcp_00: 
-P: Kom tremuengingün pikimi.
+M: Kom tremuengingün pikimi.
 C: Todos crecimos dicen.
 
 nfmcp-nfemm1_x_0524_nfemm_00: 
@@ -3447,7 +3447,7 @@ C: Asi salio ya hacen cuatro años.
  
 nfmcp-nfemm1_x_0662_nfemm_00: 
 M: Fey.
-C : Ese.
+C: Ese.
 
 nfmcp-nfemm1_x_0663_nfemm_00: 
 M: Külfün tripay <*SPA>pu'.

@@ -91,7 +91,7 @@ C: Rukamanke hermano.
 
 nmlh-nmfnn1_x_0008_nmlch_00: 
 M: ¡Ah! 
-C. ¡Ah!
+C: ¡Ah!
 
 M: kuyfi ta rüf pütake rupalu antümew.
 C: ante verdad grande pasaron en el día.

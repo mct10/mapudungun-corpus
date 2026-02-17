@@ -1,4 +1,4 @@
-CDR: 00.00 
+; CDR: 00.00 
 ; TRV: 00.00 
 ; File: nmlch-nfmmqA1 
 ; Last changes made on 12/06/2001 

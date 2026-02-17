@@ -3425,7 +3425,7 @@ C: no supe nada pues.
 
 nmlch-nmpsa1_x_0469_nmlch_00: 
 M: Kimwetulaymi may 
-N: No supo nada más.
+C: No supo nada más.
 
 nmlch-nmpsa1_x_0470_nmpsa_00: 
 M: Kimlan chumuechi chi tañi wikürngen, 

@@ -2045,7 +2045,7 @@ M:  kidu <%> famngechi
 C:   sólo así
 
 M: ¡oooy! <*SPA>pero
-c.   ¡oooy! pero
+C:   ¡oooy! pero
 
 M:  müna weda duamün reke
 C:   me sentí como muy mal
@@ -2351,7 +2351,7 @@ M: tami operangealu eymi
 C: que te iban a operar
 
 M: ¿ chumngimi wüne
-C.   ¿ qué te hicieron primero
+C:   ¿ qué te hicieron primero
 
 M:  tukulelngimi indision wüne
 C:    te colocaron iyección primero
@@ -2554,7 +2554,7 @@ nmlch-nmfsh1_x_0211_nmlch_00:
 M: Epuli may, üngümküli.
 C:  Habían dos, como apretadas.
  
-nmlch-nmfsh1_x_0212_nmfsh_00
+nmlch-nmfsh1_x_0212_nmfsh_00:
 M: Üngümküli epu <Smack> ñaña
 C:  Como apretadas dos hermanas
 
@@ -2599,7 +2599,7 @@ C:   ...Más fue por encima.
 
 nmlch-nmfsh1_x_0216_nmfsh_00:
 M: Inawtun pifiñ,
-C.  Desgracia le dije,
+C:  Desgracia le dije,
 
 M:  tüfachi pitalmu l'apay pifiñ,
 C:  vino  a morir en este hospital, le dije
@@ -2710,7 +2710,7 @@ M: May.
 C:  Sí. 
 
 M: Kidulelaymi pienu
-C.  No estás sola, me dijo
+C:  No estás sola, me dijo
 
 M:  kom kuydatuniewaiñ faw.
 C:   todos nos cuidaremos acá.

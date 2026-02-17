@@ -451,7 +451,7 @@ M: feyta wentru püñeñ ngeketuy feymu.
 C: y esta tiene hijo hombre por eso.
 
 nmlch-nmjlltA1_x_0028_nmlch_00: 
-M. ¡Ah!
+M: ¡Ah!
 C: ¡Ah!
 
 M: Fey rume küme l'awen'erke tüfey. 
@@ -1166,7 +1166,7 @@ C: ¡Ah!
 
 nmlch-nmjlltA1_x_0135_nmjllt_00:
 M:  ¿Ka feyti l'afken kachu? 
-C. ¿También ese lafquen pasto?.
+C: ¿También ese lafquen pasto?.
 
 nmlch-nmjlltA1_x_0136_nmlch_00: 
 M: ¿Chem am, chem kutranmu 
@@ -3512,5 +3512,4 @@ nmlch-nmjlltA1_x_0476_nmlch_00:
 M: ¡Ah!  Üluami.
 C: ¡Ah! Se va a sobar.
 
-Cañulef
 

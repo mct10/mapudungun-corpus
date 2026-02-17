@@ -39,7 +39,6 @@ nmlch-nfmcqA2_x_0005_nfmcq_00:
 M: Fawpüle ngelay. 
 C: Por esta parte no existe. 
 
-ngelay tati l'awen' tati 
 M: ¿Chem pingi? 
 C: ¿Cómo se llama? 
 
@@ -85,7 +84,7 @@ nmlch-nfmcqA2_x_0011_nfmcq_00:
 M: May. 
 C: Sí.
 
-M. Kanin pingi tañi üy tati l'awen'.
+M: Kanin pingi tañi üy tati l'awen'.
 C: Jote se llama su nombre pues el remedio.
 
 nmlch-nfmcqA2_x_0012_nmlch_00: 
@@ -596,7 +595,7 @@ C: coligue se parece pues
 M: famentukawün 
 C: había salido alado 
 
-M. feymu müñetun anay <SPA>
+M: feymu müñetun anay <SPA>
 C: hay me bañe pues 
 
 M: laguna komu pi  <SPA>lago <%>

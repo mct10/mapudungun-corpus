@@ -1471,8 +1471,7 @@ M: ta lay pilafi ka mongeay müten pinefi
 C: ella va morir no decía, solo le decía que hiba a vivir.
 
 nmlch-pfmvmA1_1_0165_nmlch_00: 
-¡Aa!
-¡Ah!
+
 
 nmlch-pfmvmA1_1_0166_pfmvm_00: 
 M: Miaukiyiñ
@@ -1868,7 +1867,7 @@ M: <*SPA>despues fey <*SPA>pues <!1pu'>
 C: despues eso pues 
 
 M: ayekaulepaketuy
-C : estaba acá muy risueña
+C: estaba acá muy risueña
 
 M: fey pichike mochüta
 C: y todo los pildoritas 

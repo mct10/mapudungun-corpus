@@ -40,16 +40,16 @@ M:  ka mületuy ta pendiciti
 C: también esta la apendicitis
 
 M:  <uh> müli ta ka cancer pingi
-C. hay también cáncer que le llaman
+C: hay también cáncer que le llaman
 
 M:  ka müli ventreli ta
 C: también hay muchas más
 
 M:  weke kutran estres ppiki 
-C. nueva enfermedad estrés que le llaman
+C: nueva enfermedad estrés que le llaman
 
 M: ta katripache,
-C. que también salió,
+C: que también salió,
 
 M: welu <uh> kuyvi ngelavuy veychi kutran pingeki 
 C: pero antes no había esa enfermedad se dice
@@ -65,7 +65,7 @@ M: inche am müte pütra kuyviche no chaw
 C:  yo no soy gente muy antigua padre
 
 M:  füchake kuyviche 
-C.  gente mayor, antigua
+C:  gente mayor, antigua
 
 M: ta soy kimnevuy tati.
 C: este más debe saber pues.
@@ -364,14 +364,14 @@ M:  welu kimngenonmu may
 C: pero cuando no se conoce pues
 
 M:  valiltungekeperkelay.
-C. no se le da valor.
+C: no se le da valor.
 
 nmlch-lfrll2_x_0045_lfrll_00:
 M:  Kimngenonmu 
 C: Cuando no se le conoce
 
 M: valiltungekeperkelay tati chaw
-C. no se le da valor pues padre
+C: no se le da valor pues padre
 
 M:  kimnengewelay doy valikiavuy pu'.
 C: si  se le conociera, más se valoraría pues.
@@ -450,7 +450,7 @@ C: ahí luego se parte
 
 M:  vey mollfün ngeki piki.
 C:  este tiene sangre dice.
-2
+
 nmlch-lfrll2_x_0056_nmlch_00: 
 M: Ah.
 C: Ah.
@@ -517,7 +517,7 @@ M: tichi yiwiñ küpay chi <*SPA>aceite
 C: esa grasa que viene en el aceite
 
 M:  küpay chi <*SPA>mayonesa 
-C. viene en la mayonesa
+C: viene en la mayonesa
 
 M: küpaychi <*SPA>mantekilla
 C: viene en la mantequilla
@@ -751,10 +751,10 @@ C: ¿Así  es también pues?
  
 nmlch-lfrll2_x_0092_lfrll_00: 
 M: Pu señora pütrükelechi
-C. Hay muchas señoras
+C: Hay muchas señoras
 
 M:  motrin kisu engün am 
-C. que engordan sola
+C: que engordan sola
 
 M: ikelu re yiwiñ.
 C:  que comen solamente grasa.
@@ -896,7 +896,7 @@ M:  ta mapuche tañi mongen
 C: la vida del mapuche
 
 M: ta chumleken
-C. de cómo esta
+C: de cómo esta
 
 M:  feymu inche ramtupiyu tati tüfey
 C: por eso yo le pregunte esto
@@ -925,7 +925,7 @@ nmlch-lfrll2_x_0116_nmlch_00:
 M: ¿ Ka mapuche vill mapumu
 C: ¿También el mapuche en otras tierras
 
-M. vemngechi mongen mülelay ka?
+M: vemngechi mongen mülelay ka?
 C: este tipo de vida no hay tampoco?.
 
 nmlch-lfrll2_x_0117_lfrll_00: 
@@ -940,7 +940,7 @@ M: vaw püle ta kaleki iyagel ka,
 C: por acá es distinta la comida también,
 
 M:¿Welu mapuche ta kom
-C.  ¿Pero todo los mapuches
+C:  ¿Pero todo los mapuches
 
 M: tañi iyagel?
 C: su comida?
@@ -1000,10 +1000,10 @@ M:  Ka müleki adümüwlu
 C: También había el qu sabía
 
 M:  santiwangeki.
-C. santiguar.
+C: santiguar.
 
 nmlch-lfrll2_x_0128_nmlch_00:
-M.  ¿Cheman tachi pichun?.
+M:  ¿Cheman tachi pichun?.
 C: ¿Qué es el pichun?
 
 nmlch-lfrll2_x_0129_lfrll_00:
@@ -1034,7 +1034,7 @@ C: El que sabe pues..
 
 nmlch-lfrll2_x_0134_nmlch_00:
 M:  ¿Vemngechi?. 
-C. ¿Así?
+C: ¿Así?
 
 nmlch-lfrll2_x_0135_lfrll_00:
 M:  May. 

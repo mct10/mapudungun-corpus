@@ -1190,7 +1190,7 @@ C: usted eso pues mamita
 M: ¿ta kuyfi eymi kutranchengefuymi kay?. 
 C: ¿ante usted era persona enferma  pues?.
 
-nmlch-lfchl1_x_0086_lfchl_00:<*SPA> 
+nmlch-lfchl1_x_0086_lfchl_00:
 M: No. 
 C: . 
 
@@ -1803,7 +1803,7 @@ C: La machi no salen caminado inmediatamente
 M: machingen.
 C: me hicieron machi.
 
-nmlch-lfchl1_x_0136_lfchl_00:<*SPA> 
+nmlch-lfchl1_x_0136_lfchl_00:
 M: No pu.
 C: No pues.
 
@@ -3273,7 +3273,7 @@ nmlch-lfchl1_x_0005_lfchl_00:
 M: Mülekapellevuy 
 C: Claro que hay  
 
-M may ta l'awen' ta adümnenmu 
+M: may ta l'awen' ta adümnenmu 
 C: pues remedio es bueno saberlo 
 
 M: adümnonmu 

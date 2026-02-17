@@ -347,7 +347,7 @@ M: Femechi ta femniefuliyiñ
 C: Si lo hiciéramos de esa manera
 
 M: ta mülefule ta  kiñe ta medika
-C. que hubiera una médica
+C: que hubiera una médica
 
 M: machi claro küdawi ta l'awen'nün ka küdawngellimay,
 C: claro, la machi cuando hace los remedios es trabajo, 
@@ -1062,7 +1062,7 @@ C: Ah.
 
 nmlch-nfjcm2_x_0127_nfjcm_00: 
 M: Faw pütrüli kafey l'awen',
-C. Aquí hay harto de ese remedio,
+C: Aquí hay harto de ese remedio,
 
 M: ta cada kutran ta niy pütrüniefuy ta l'awen'. 
 C: cada enfermedad tiene mucho remedio.
@@ -1150,7 +1150,7 @@ C: yo no creía,
 M: w<%>elu ngelay l'awen' pingeki pitalmu, 
 C: pero no hay remedio en el hospital dicen, 
 
-M; ngelay, 
+M: ngelay, 
 C: no hay, 
 
 M: ngelay. 
@@ -2289,7 +2289,7 @@ M: Kuyfi taiñ küpalmemu
 C: Antiguamente nuestros antepasados
 
 M: ngekelafuy feychi kutran. 
-N: no tenían estas enfermedades.
+C: no tenían estas enfermedades.
 
 nmlch-nfjcm2_x_0314_nfjcm_00:
 M: Ngekelafuy  

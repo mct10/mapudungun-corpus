@@ -1535,7 +1535,7 @@ M: ¡Ah!<Noise>
 C: ¡Ah!
 
 nmlch-nfmcB2_x_0207_nfmc_00:
-  <%> <Noise> 
+<Noise> 
 
 nmlch-nfmcB2_x_0208_nmlch_00:
 M: Wünen *tüfi welu.
@@ -1840,7 +1840,7 @@ M: <SPA>Ya <SPA>ya <SPA>ya <SPA>ya.
 C: ya, ya, ya, ya.
 nmlch-nfmcB2_x_0242_nfmc_00: 
 M: *Femuechi. 
-C. Así es.
+C: Así es.
 
 nmlch-nfmcB2_x_0243_nmlch_00: 
 M: Feymu fey 

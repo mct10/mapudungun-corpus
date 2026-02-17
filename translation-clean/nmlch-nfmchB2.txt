@@ -23,7 +23,7 @@ M:  pepi willitulan ñuke piki
 C:  no puedo orinar mamá, dice
 
 M:  fey llemay chi domo
-C.   y entonces la mujer
+C:   y entonces la mujer
 
 M:  fey kintuki kiñe mediko
 C:   así busca un medico
@@ -2756,8 +2756,7 @@ M:  ka mongekelay pingeki,
 C: tampoco se mejora
 
 M:  ka llemay kiñe ngütram 
-C: también claro una conversación
-.
+C: también claro una conversación.
 M: ka itromyem ta che 
 C:
 
@@ -2798,7 +2797,7 @@ C: tampoco se sana
 M: ospitalmu laki müten 
 C: en el hospital muere no más
 
-M. femngechi <uh>, kürüf tuyen llemay 
+M: femngechi <uh>, kürüf tuyen llemay 
 C: así, cuando toma viento claro
 
 M: ka yangiantü müleyem che 

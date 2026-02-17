@@ -1,4 +1,4 @@
-CDR: 00.00 
+; CDR: 00.00 
 ; TRV: 00.00 
 ; File: nmlch-nfjn2 
 ; Last changes made on 10/26/2001 
@@ -239,11 +239,11 @@ C:  Todos ..........
 
 nmlch-nfjn2_x_0022_nmlch_00: 
 M:  Lafnagi 
-C. .............
+C: .............
 
 nmlch-nfjn2_x_0023_nfjn_00: 
 M: Lavnagi tañi <SPA>cuerpu kom 
-C. .................    Cuerpo todos 
+C: .................    Cuerpo todos 
 
 M: feyta feyta kümelkaletun tati  <SPA>
 C: estoy, estoy  bien  pues 
@@ -298,8 +298,7 @@ M: tañi doy tañi tremun
 C: para que más crece 
 
 nmlch-nfjn2_x_0028_nmlch_00: 
-M: ¿Chumuechi poy poyukefuy tami n'amun' feyti re -/in/- fey
-chemkefuy? 
+M: ¿Chumuechi poy poyukefuy tami n'amun' feyti re -/in/- fey chemkefuy? 
 C: ¿Cómo se hinchó, hinchó  su pies,  puro  eso 
 
 nmlch-nfjn2_x_0029_nfjn_00: 
@@ -574,7 +573,7 @@ C: lukunmawe  es un buen remedio
 M: tüfi welu pekan ka ngelay
 C: eso pero  no en cualquier parte no hay 
 
-M. tüfichi lukuñmawe
+M: tüfichi lukuñmawe
 C: ese lukuñmawe 
 
 M: kiñekenpüle mülealu müli pengealu pengi ka 
@@ -811,7 +810,7 @@ M: Feyllemay chi lamuen
 C: Así es  si hermana 
 
 M: feyta pe kümeke chi ta fachantü 
-C. ................................................
+C: ................................................
 
 M: ta doy kümelkaletuymi eymi ka 
 C: más  mejor  esta  usted
@@ -929,7 +928,7 @@ M: Firkülongkolumu
 C: Enfriamiento  de cabeza 
 
 nmlch-nfjn2_x_0105_nfjn_00: 
-<Uhm> 
+<uhm> 
 
 nmlch-nfjn2_x_0106_nmlch_00: 
 M: Feyti kofi longkolumukay 
@@ -940,7 +939,7 @@ M: kofi longkolumu
 C: Fiebre en la cabeza 
 
 M: veyta ka fey müli l'awen' 
-C. entonces para  eso  existe remedio  
+C: entonces para  eso  existe remedio  
 
 M: ka müli ta tüfichi <SPA>torongil <SPA>
 C: y hay  ese  ... torongil  (...)
@@ -1088,7 +1087,7 @@ nmlch-nfjn2_x_0135_nfjn_00:
 
 nmlch-nfjn2_x_0136_nmlch_00:  
 M: Feyti ta fente küme pütra kimün tati lamuen 
-C.  Es muy buen y grande  conocimiento pues hermana 
+C:  Es muy buen y grande  conocimiento pues hermana 
 
 M: ta fey 
 C: es así 
@@ -1185,7 +1184,7 @@ C: En  conversación  "comida  mala" se  llama
 
 nmlch-nfjn2_x_0146_nfjn_00: 
 M: May 
-C. Sí
+C: Sí
 
 M: nütram weda ingi ta tüfa pingeki 
 C: conversan  " comida mala  " Este se llama 
@@ -1633,7 +1632,7 @@ C: eso  y........................... remedio  ustedes  esos
 
 nmlch-nfjn2_x_0211_nfjn_00: <SPA>
 M: no  chew ngullingeafuy ngullingekelay pu 
-C.  No donde ...............................................
+C:  No donde ...............................................
 
 M: veyta wüni <Noise> 
 C: entonces  al amanecer 
@@ -1938,7 +1937,7 @@ M: lamuen a'lün' <uh>
 C: hermana  harto (...)
 
 M: kake iyagel kimpaymi ta kuyfi 
-C. otras comida vino ha conocer  ante 
+C: otras comida vino ha conocer  ante 
 
 M: fentre kümeke iyagel mülekefuy pingi 
 C: harta  buena comida  había  dicen 
@@ -2155,7 +2154,7 @@ C: muday de  kingua  tenia  y  hacia
 
 nmlch-nfjn2_x_0268_nmlch_00: 
 M: ¡Ah !
-C. ¡Ah!
+C: ¡Ah!
 
 nmlch-nfjn2_x_0269_nfjn_00: 
 M: Veyta kom kimpan tati 
@@ -2273,7 +2272,7 @@ M: feytichi iyagel ta kulantu
 C: esa comida de cilantro 
 
 M: ka kaek rupal ta tukun ta mülelu 
-C.: y.............. ................................
+C:: y.............. ................................
 
 M: Kimlafi ta tunten antü tani nentunengen ta mapumu ka
 C: no sabe  a que ahora  lo sacaron  en la tierra 
@@ -2311,7 +2310,7 @@ M: feymu llemay ta küme yagel
 C: por eso es que buena comida ...
 
 M: ta dewmakevuy ta che kuyfi
-C. hacían  las gentes  ante
+C: hacían  las gentes  ante
 
 nmlch-nfjn2_x_0289_nmlch_00: 
 M: Feyta doy kümeke mongen niekefuy che ka
@@ -2409,7 +2408,7 @@ M: Weke kutra ta tutuy tati
 C: Nueva enfermedad es eso pues 
 
 M: adümvalwetulay kutranürke
-C. no lo pueden controlar la enfermedad
+C: no lo pueden controlar la enfermedad
 
 nmlch-nfjn2_x_0304_nmlch_00:
 M: ¿Iyagelmu kutu konkepi tüfi ta kutran ka lamuen?
@@ -2474,7 +2473,7 @@ M: puliwen ta <Cough>
 C: en la mañana
 
 M: witray kudeke papay korüy müten 
-C : se levanta la señora anciana hacen sopa no más 
+C: se levanta la señora anciana hacen sopa no más 
 
 M: ka tikün korü 
 C: y,  comida de locro 

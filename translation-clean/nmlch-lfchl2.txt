@@ -36,7 +36,7 @@ C: hoy en día ya no llegan
 M: yagel mu ka fey.
 C: por la comida también eso.
 
-nmlch-lfchl2_x_0003_lfchl_00:<*SPA>
+nmlch-lfchl2_x_0003_lfchl_00:
 M: No<*SPA> pu'  
 C: No pues 
 
@@ -142,7 +142,7 @@ C: ¿Y esos mamita
 
 M: ta wawyufengelu kimlafimi l'awen'?.
 C: para la hemorragia no conoce remedio?.
-nmlch-lfchl2_x_0017_lfchl_00:<*SPA> 
+nmlch-lfchl2_x_0017_lfchl_00:
 M: No müley tachi l'awen'  <*SPA>
 C: No, hay ese remedio 
 

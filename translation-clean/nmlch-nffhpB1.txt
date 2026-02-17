@@ -4,7 +4,7 @@
 ; Last changes made on 05/30/2001 
 ; Transcriber: Flor Caniupil H. 
 ; Comments:  
-Traduce: Rosendo Huisca.
+; Traduce: Rosendo Huisca.
 
 nmlch-nffhpB1_x_0000_nmlch_00: 
 M: Mari% mari% lamngen%
@@ -2999,4 +2999,4 @@ C: le hizo muchas veces lavativa  ¿no ves que era muy  chica?.
 nmlch-nffhpB1_x_0413_nmlch_00:
 M:  Feley <Noise>. 
 C: Asi es.
-Cañulef
+

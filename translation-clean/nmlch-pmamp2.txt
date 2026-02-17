@@ -428,8 +428,7 @@ C: todos los días las cosas pues que dijimos
 M: ka <SPA>mucha <SPA>vece 
 C: y muchas veces 
 
-M: <SPA>pensamiento <SPA>en <SPA>hora <SPA>distinta 
-<SPA>manera 
+M: <SPA>pensamiento <SPA>en <SPA>hora <SPA>distinta <SPA>manera 
 C: pensamiento en hora distintas maneras 
 
 M: <SPA>uno <uh> <SPA>portamo <SPA>mal pu 
@@ -597,7 +596,7 @@ C: en sueño le va ir dando
 M: ta eluneyin ta chem dungu rume 
 C: así vamos entregando cualquier cosas 
 
-N: küpale Chaw Ngünechen eliyiñmu 
+M: küpale Chaw Ngünechen eliyiñmu 
 C: cuando venga el padre ngünechen que nos dejaron 
 
 M: <SPA>no <SPA>toda <SPA>la <SPA>gente 
@@ -669,7 +668,7 @@ C: y le hacemos rogativa pues a la enfermedad
 M: a tukulpakeviñ tati 
 C: lo recordamos pues 
 
-N: chuchi kutrankülelu 
+M: chuchi kutrankülelu 
 C: cualquiera que este enfermo 
 
 M: fey tañi wüñovemetual 
@@ -935,8 +934,7 @@ C: No saben pues
 M: <SPA>nada <SPA>sino <SPA>que <SPA>tiene <SPA>que 
 C: sino que tiene que 
 
-M: <SPA>ser <SPA>mediarse <SPA>como <SPA>pueda <SPA>no 
-<SPA>ma. 
+M: <SPA>ser <SPA>mediarse <SPA>como <SPA>pueda <SPA>no <SPA>ma. 
 C: remediarse como puedan no más.
 
 p2_x_0062_pmamp_004_nmlch_00: 

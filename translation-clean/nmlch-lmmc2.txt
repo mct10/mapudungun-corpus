@@ -2,7 +2,7 @@
 ; TRV: 00.00 
 ; File: nmlch-lmmc2 
 ; Last changes made on 01/05/2002 ; 
-Transcriber: Marcela Collio 
+; Transcriber: Marcela Collio 
 ; Comments:  
 ; Traduce: Pascual Pichun y Julio Marileo.
 
@@ -133,7 +133,7 @@ M: <SPA>No pu peñi dewman
 C: No pues hermano hice.
 
 M:  <SPA>no ngelay witra tripalu müten.
-C : no, existe el que no se levanta.
+C: no, existe el que no se levanta.
 
 nmlch-lmmc2_x_0018_nmlch_00: 
 M: Witratripalu müten.
@@ -415,7 +415,7 @@ C: Capitan dice los jefes
 M:  rume fey  <SPA>no:
 C: no son mucho.
 
-M.  inche may femngen dew kimelungeli nga
+M:  inche may femngen dew kimelungeli nga
 C: yo ya conozco de  ese tratamiento
 
 M:  ñi chuchilen kutran
@@ -498,7 +498,7 @@ M: <SPA>pero uyupüle
 C: pero por alla
 
 M: kañpüle feyti ti llow dungu.
-C. por otro lado el que recibe la noticia.
+C: por otro lado el que recibe la noticia.
 
 nmlch-lmmc2_x_0049_nmlch_00:
 M: Llow.
@@ -599,7 +599,7 @@ C: de esta forma se daba a conocer hermano.
 
 nmlch-lmmc2_x_0061_nmlch_00:
 M:  Femuechi kimeltungekevuy.
-C : De esta forma se daba a conocer.
+C: De esta forma se daba a conocer.
  
 nmlch-lmmc2_x_0062_lmmc_00: 
 M: <SPA>Entonce feyta tripalu

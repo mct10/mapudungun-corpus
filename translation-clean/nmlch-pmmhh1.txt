@@ -845,7 +845,7 @@ M: wüne kompuy kidu ñi
 C: primero entra solo para
 
 M: afkünual kom dungumu <%> 
-Cpara dejar ordenado todos los asuntos
+C: para dejar ordenado todos los asuntos
 
 M: femechi adümal komu fey <%> 
 C: de esa manera ser capaz
@@ -1095,7 +1095,7 @@ C: si se pregunta nadie sabría
 M: ñi pin chunte müte mangelu küme
 C:  su dicho cuanto se agradece bien
 
-M. Olvün un kom che küpaentu <%> 
+M: Olvün un kom che küpaentu <%> 
 C: 
 
 M: ngewetulay inche kom akordafiñ

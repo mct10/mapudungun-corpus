@@ -1548,7 +1548,7 @@ nmlch-nmimp1_x_0111_nmimp_00:
 M: Taiñ fütakecheyem ta 
 C: Nuestro anciono eran pues  
 
-M feypikefuy ka 
+M: feypikefuy ka 
 C: decían pues 
 
 M: ka antü katripache nga 
@@ -2032,7 +2032,7 @@ M: kimlay ta wingka l'awen'tuchefe ka.
 C: no saben lo huinca que hacen remedio ala gente pues 
 
 nmlch-nmimp1_x_0136_nmlch_00: 
-m: Fey, fey, fey.
+M: Fey, fey, fey.
 C: Así es, así es, así es. 
 
 nmlch-nmimp1_x_0137_nmimp_00: 
@@ -2545,7 +2545,7 @@ M: ta re kuyfi ta pital
 C: ante puro hospital 
 
 M: pikelafuiyiñka.
-C. no decíamos pues hermano.
+C: no decíamos pues hermano.
 
 nmlch-nmimp1_x_0176_nmlch_00: 
 M: Femllefuy may chi.
@@ -2863,7 +2863,7 @@ M: ta <uh> papay,
 C: la papay, 
 
 M: peñi wüñomey 
-C; hermano vuelven 
+C: hermano vuelven 
 
 M: pelay l'awen' kuñilfali 
 C: no encuentran remedio

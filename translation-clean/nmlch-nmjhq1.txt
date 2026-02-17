@@ -66,7 +66,7 @@ M: feyta elu askapiyu ngati
 C: es por eso que te di  buena cara 
 
 M: elu askapiyu 
-C. te di la cara 
+C: te di la cara 
 
 M: kimuwiyin ya peñi piyu
 C: ya nos conocemos ya hermanos dijimos 
@@ -648,7 +648,6 @@ M: fey <%> chankeyawan .
 C: ese ..........................pues. 
 
 nmlch-nmjhq1_x_0043_nmlch_00: 
-mmmm
 
 nmlch-nmjhq1_x_0044_nmjhq_00: 
 M: Yfemken pu hermano 
@@ -658,7 +657,7 @@ M: feyta
 C: entonces 
 
 M: fey segiken pütokoal pütokoleken.
-C. es que sigo bebiendo estaba tomando.
+C: es que sigo bebiendo estaba tomando.
 
 nmlch-nmjhq1_x_0045_nmlch_00: 
 M: ¿Rumel rumel pütokolekimi?.
@@ -3080,7 +3079,7 @@ nmlch- nmjhq1_x_0195_ nmlch_00:
 M: Ngafüllchi 
 C: Puede ser energía lenta. 
 
-nmlch-nmjhq1_x_0196_nmjhq_00 
+nmlch-nmjhq1_x_0196_nmjhq_00:
 M: Yafülkefin 
 C: Le doy energía 
 

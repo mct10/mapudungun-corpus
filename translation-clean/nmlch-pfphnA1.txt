@@ -4,7 +4,7 @@
 ; Transcriber: Flor Caniupil H. 
 ; Comments:  
 ; T; CDR: 00.00 
-Traduce: Cristian Anton.
+;Traduce: Cristian Anton.
 
 nmlch-pfphnA1_x_0000_nmlch_00: 
 M: Mari mari papay.
@@ -931,8 +931,7 @@ M: Ya.
 C: Bueno.
 
 nmlch-pfphnA1_x_0102_pfphn_00: 
-M: <*SPA>Cuando  -/lleg/- <*SPA>cuando 
- <*SPA>yo <*SPA>llegué 
+M: <*SPA>Cuando  -/lleg/- <*SPA>cuando  <*SPA>yo <*SPA>llegué 
 C: Cuando, cuando yo llegué
 
 M: <*SPA>tuvi <Noise> asi<*SPA>la guagua 
@@ -975,7 +974,7 @@ M: chem chem kichi ñi mapumu
 C: que que esta en su misma tierra 
 
 M: müleyngün kay.
-C : estan si. 
+C: estan si. 
 
 nmlch-pfphnA1_x_0103_nmlch_00: 
 M: Chem presidente müley feychi?
@@ -1126,7 +1125,7 @@ C: Pero en television todo estaba saliendo dicen.
 
 nmlch-pfphnA1_x_0127_nmlch_00:
 M:  May. 
-C; Sí.
+C: Sí.
 
 M: Fey petuken fewla wüla 
 C: Eso lo ha visto recien ahora 
@@ -1432,7 +1431,7 @@ M: Metu elunienu puwün metu
 C: Todavia me cuando llego todavia 
 
 M: elunienu ñi ngülam tañi ñuke 
-C; me da consejo mi madre
+C: me da consejo mi madre
 
 M: veychekelayaymi pingen 
 C: 
@@ -1589,7 +1588,7 @@ C: un padre no más.
 
 nmlch-pfphnA1_x_0148_nmlch_00: 
 M: Kiñe chaw müli, 
-C; Un solo padre hay,
+C: Un solo padre hay,
 
 M: eymün ta niymün tamün ngünen 
 C: usteden tienen su poderes
@@ -1643,7 +1642,7 @@ C: No lo hizo por lo que crecio la gente ahora.
 
 nmlch-pfphnA1_x_0154_nmlch_00: 
 M: Feli tati lamuen feley, 
-C; Así es hermana así
+C: Así es hermana así
 
 M: eymi tüfa lamuen <uh> 
 C: usted ahora hermana
@@ -1654,7 +1653,7 @@ C: Pedregoso se llama su tierra
 M: tami tripapamum feyat 
 C: ha donde salio sera que  
 
-M; ¿Petu mongeli tami chaw?
+M: ¿Petu mongeli tami chaw?
 C: ¿Todavia esta esta vivo su padre?
  
 M: ¿ka petu mongeli tami nuke?.
@@ -1669,17 +1668,17 @@ C: todavia esta vivo mi mamá.
 
 nmlch-pfphnA1_x_0156_nmlch_00: <uh>
 M:  Eymi kuyfi ta duam 
-C; Usted anta entonce 
+C: Usted anta entonce 
 
 M: akordapelaymi tüfa chem kutran
-C; acordará usted ahora cualquier enfermedad
+C: acordará usted ahora cualquier enfermedad
  
 M: ¿doy mülekefuy kuyfi tami lofmeu tüfi?
 C:  ¿habia mas ante se comunidad eso?.
 
 fphnA1_x_0158_nmlch_00fphn_00: 
 M: <uh> Müleki allveñ kutran
-C; Habia enfermdad de herida
+C: Habia enfermdad de herida
  
 M: fukuñ pingi operangi
 C: era un peloton y lo operaron 

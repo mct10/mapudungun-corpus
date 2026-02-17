@@ -830,7 +830,7 @@ C: por eso me levanto a media noche.
 
 nmlch-lfjmcA2_x_0081_nmlch_00: 
 M: ¡Ah!
-C. ¡Ah!
+C: ¡Ah!
  
 nmlch-lfjmcA2_x_0082_lfjmc_00: 
 M: <*SPA>Sino *yengeafun meki 
@@ -1533,7 +1533,7 @@ C: así pues lo hacían
 M: ta zoritu korü pingi 
 C: sopa de zorrito le dicen 
 
-M. ngürü korü pingi ta. 
+M: ngürü korü pingi ta. 
 C: sopa de zorro se llama.
 
 nmlch-lfjmcA2_x_0132_nmlch_00: 

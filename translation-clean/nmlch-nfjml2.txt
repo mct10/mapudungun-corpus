@@ -2341,7 +2341,7 @@ M: femwekalay <Noise>.
 C: ya no le sucede eso.
 
 nmlch-nfjml2_x_0314_nmlch_00: 
-<uhm> <Laugh> 
+<uhm>
 
 nmlch-nfjml2_x_0315_nfjml_00:
 M: Kiñe, wünen pichi elaweni, 
@@ -2732,7 +2732,6 @@ nmlch-nfjml2_x_0360_nmlch_00:
 M: Fey, fey <Noise>. 
 C: Sí, sí.
 
-Cañulef
 
 
 

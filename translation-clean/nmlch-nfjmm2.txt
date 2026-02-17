@@ -1234,7 +1234,7 @@ M: Feymu llemay feymu welu, kümey tati
 C: Por eso claro, por eso, pero, esta bién.
 
 nmlch-nfjmm2_x_0205_nmlch_00:
-<:<Throat> <hm> 
+<Throat>
 
 nmlch-nfjmm2_x_0206_nfjmm2_00:
 M: Kümey grasia tati kümey grasia 
@@ -1508,7 +1508,7 @@ nmlch-nfjmm2_x_0263_nfjmm2_00:
 M: Feychi ngiño may% 
 C: Ese niño  si
 
-nmlch-nfjmm2_x_0264_nmlch_00
+nmlch-nfjmm2_x_0264_nmlch_00:
 M: Ah 
 C: Ah
 
@@ -2239,7 +2239,7 @@ C:  Comemos grasa también, también pués.
 M: Y
 C:  Y
 
-nmlch-nfjmm2_x_0395_nfjmm2_00
+nmlch-nfjmm2_x_0395_nfjmm2_00:
 M: Kuifi ta matelutay ta che...
 C:  Antes no tomaban mate las personas...
  

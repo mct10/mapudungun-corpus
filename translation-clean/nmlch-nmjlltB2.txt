@@ -36,7 +36,7 @@ M: <*SPA> asi  ke rume kümi pingi
 C: así que muy bien dice 
 
 M: <*SPA> no <*SPA> se pu' femichi femlaychi 
-C. no sé pues así será o no será así
+C: no sé pues así será o no será así
 
 M: chemkelan inche 
 C: yo no lo hago 
@@ -802,7 +802,7 @@ C: Pues no pues no hay pues.
 
 nmlch-nmjlltB2_x_0083_nmjllt_00:
 M: ¡Ah!
-C. ¡Ah!
+C: ¡Ah!
 
 M: ka kisu mongeltukefuy pu Mapuche.
 C: también ellos solos se mejoraban los mapuches.
@@ -3069,7 +3069,7 @@ C: ahí cuando lo estaba sentando yo
 M:  fey lay pu' ka ñi füta laku kafey
 C: ahí murió pues, mi otro padre
 
-M  kangelu fey ñi peñi ka ñi chaw ñi malle
+M:  kangelu fey ñi peñi ka ñi chaw ñi malle
 C: el otro mi hermano el padre de mi tío
 
 M:  müleki lanchamu ka

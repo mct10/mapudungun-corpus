@@ -624,7 +624,7 @@ M: welu, may ta  kimlan ta inche
 C: pero, si no supe yo 
 
 M: tañi epuchelerkevel tati. 
-C;  pues estaba embarazada.
+C:  pues estaba embarazada.
 
 nmlch-nffhpA2_x_0068_nmlch_00:
 M:  Ah. 
@@ -1108,7 +1108,7 @@ C: solamente un remedio no pues.
  
 nmlch-nffhpA2_x_0133_nmlch_00:
 
-M :  fey, fey, fey. 
+M:  fey, fey, fey. 
 C: Si, si, si. 
 
 
@@ -1329,7 +1329,7 @@ C: Hizo una rogativa
 M: y tüva ta pütokoaymi l'awen' eymi 
 C: y esto entonce va a tomar remedio usted 
 
-M : tami l'awen' eymi tami elel tati Chaw 
+M: tami l'awen' eymi tami elel tati Chaw 
 C: su remedio usted lo dejo entonce Padre 
 
 M: chuchimu nga niy ñi kutran 
@@ -1376,7 +1376,7 @@ C: si le sastifacimo los huinca ahora.
 
 nmlch-nffhpA2_x_0162_nffhp_00: 
 M: femay<*SPA>pu', femay, 
-C; De esa forma lo hará pues, de esa forma lo hará
+C: De esa forma lo hará pues, de esa forma lo hará
 
 M: inche llemay 
 C:  yo pues
@@ -1817,7 +1817,7 @@ nmlch-nffhpA2_x_0213_nffhp_00:
 M:  re -/can/- re kutran 
 C: solamente la enfermedad 
 
-ti chi <*SPA>presión pingi.
+M: ti chi <*SPA>presión pingi.
 C: eso presion  dijeron.
 
 nmlch-nffhpA2_x_0214_nmlch_00:
@@ -1887,7 +1887,7 @@ C: le subio el frio entonce es presion.
 
 nmlch-nffhpA2_x_0223_nffhp_00: 
 M: püra virkü, may 
-C : le subio el frio, si 
+C: le subio el frio, si 
 
 M: chi <*SPA>presi: >>ón <*SPA>me <*SPA>dijo,
 C: el presión me dijo
@@ -1991,7 +1991,7 @@ M: vemün vey küpaltuvin chi <uhm>
 C:  lo hice si lo traji a eso 
 
 M: nütramlelenew ka che ajenko pingey pi
-C; me converso otra gente ajenjo le decian dijo 
+C: me converso otra gente ajenjo le decian dijo 
 
 M:  inche kiñe füta vasu pütokovin chi ajenko .
 C: yo tome un vaso grande eso ajenjo. 
@@ -2828,7 +2828,7 @@ C: y se componer a la gente tambien.
 
 nmlch-nffhpA2_x_0369_nmlch_00: 
 M: fey. 
-C; Si. 
+C: Si. 
 
 nmlch-nffhpA2_x_0370_nffhp_00: 
 M: ngütamcheve inche llenuam. 

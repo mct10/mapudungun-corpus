@@ -4,7 +4,7 @@
 ; Last changes made on 01/26/2002 
 ; Transcriber: Cristian C. Anton 
 ; Comments:  
-Traduce: Graciela Cabral.
+; Traduce: Graciela Cabral.
 
 nmlch-pmjctA2_x_0000_pmjct_00: 
 M: Feymu kimngepuy ngütram ka peñi 
@@ -1440,7 +1440,7 @@ M: itrokom mu yagelmu reke serfi tati
 C: para toda las comida sirve pues 
 
 M: ngülliw ngülliw.
-C. piñones, piñones.
+C: piñones, piñones.
 
 nmlch-pmjctA2_x_0127_nmlch_00: 
 M: ¡Ah!.

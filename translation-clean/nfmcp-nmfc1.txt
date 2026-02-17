@@ -677,10 +677,10 @@ C: Yo tengo seis hijas,
  
 nfmcp-nmfc1_x_0036_nfmcp_00:
 M: kayu ñawe 
-seís hijas tengo.
+C: seís hijas tengo.
 
 nfmcp-nmfc1_x_0037_nmfc_00:
-Kayu nawe nien.
+M: Kayu nawe nien.
 C: 
 
 nfmcp-nmfc1_x_0038_nfmcp_00: 
@@ -933,7 +933,7 @@ M: fey *lafketukeyngün <!1llaftukingün>
 C: pero se alivian
 
 M: ka femngechi feley <!1feli> ta che rupalen ta tripantu, lamngen.
-C. también esta así la gente al pasar los años, hermana.
+C: también esta así la gente al pasar los años, hermana.
 
 nfmcp-nmfc1_x_0060_nfmcp_00: 
 M: <*SPA>Ya <uh>

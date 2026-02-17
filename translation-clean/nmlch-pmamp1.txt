@@ -963,7 +963,7 @@ C: la tierra lo mejor
 M: <SPA>venia violavi mapuche iñ mapu 
 C: venían y violaban a la tierra de los mapuche 
 
-M :<SPA>título merce nielu 
+M:<SPA>título merce nielu 
 C: tenían título de merced 
 
 M: pichilnevi platayen 

@@ -438,7 +438,7 @@ M: wingka trawünmu tipüle
 C: wingka reunion
 
 M: congreso nacional pingi miawken 
-C : congreso nacional se llama viajo constante
+C: congreso nacional se llama viajo constante
 
 M: afkentun miawün 
 C: muchísimo tiempo viaje
@@ -1232,7 +1232,7 @@ M: mülenolu kompüle
 C: no existe en todo lugar
 
 M: müli wingkulmew
-C. hay wingka tiene
+C: hay wingka tiene
 
 M: mawidamew menokomu müli l'awen'
 C: montaña en el vertiente hay remedio

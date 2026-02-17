@@ -83,7 +83,7 @@ M: Feula amulelu.
 C: Aquélla que recién comienza.
 
 nfmcp-nmfc2_x_0004_nfmcp_00: 
-<uhm>
+M: <uhm>
 
 nfmcp-nmfc2_x_0005_nmfc_00: 
 M: Feula amulelu feula

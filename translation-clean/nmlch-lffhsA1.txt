@@ -1138,7 +1138,7 @@ M: vey ka antü wünmew petu ñi kürüf non
 C: al otro día en la mañana antes del viento
 
 M: petu ñi kürüf non vey witrakevuy pichi 
-C. antes del viento ahí se levantaba un poco 
+C: antes del viento ahí se levantaba un poco 
 
 M: ali wün witrakevuy ñi chaw ka ñuke 
 C: bien temprano se levantaba mi padre y mi madre
@@ -1668,7 +1668,7 @@ M: küpa wotrintumekevuyin <uh>
 C: teníamos ganas de tirarnos
 
 M: wütrintuwekelavin welu tüva küpa 
-C. pero no le tirábamos este tenía gana 
+C: pero no le tirábamos este tenía gana 
 
 M: wütrintukevin ñi velen ñi velekan nga 
 C: de tirarle de cómo estaba de cómo estaba
@@ -1721,7 +1721,7 @@ C: Feihuiñ colrado.
  
 nmlch-lffhsA1_x_0201_nmlch_00: 
 M: Veli vey welu machi 
-C. Es así pero la machi
+C: Es así pero la machi
 
 M: dewmangelu pipeymi nga.
 C: cuando le hacen dijo usted.
@@ -1865,7 +1865,7 @@ C: Sí.
  
 nmlch-lffhsA1_x_0218_lffhs_00: 
 M: Dewchi machi nietuki kimün vey nawtupakeyu 
-C. Cuando se hace la machi tiene conocimiento ahí se
+C: Cuando se hace la machi tiene conocimiento ahí se
 
 M: ta wenu mapu' wenu mapu ta küpaki 
 C: encomienda hacía arriaba, en la tierra de arriba biene  
@@ -1876,11 +1876,11 @@ C: el mensajero acompaña la machi
 M: witraymapuve ta l'awen' ngelu pipiengeki 
 C: acompáñala con el que tiene remedio se le dice 
 
-M :vemngechi ta tranan nentupaki ta dungu 
+M:vemngechi ta tranan nentupaki ta dungu 
 C: así se saca bien la conversación
  
 M: ta wenu werkenan chaw vemngechi 
-C. el que vino de arriba padre así
+C: el que vino de arriba padre así
 
 M: tranan netupaki ñi dungu engün 
 C: sacan bien su conversación ellos
@@ -1892,7 +1892,7 @@ M: veyta chi machi dew chi ramtupeluam
 C: esta la machi ya a preguntado 
 
 M: eymi chumngechi dewken machi 
-C. tú como se hace la machi
+C: tú como se hace la machi
 
 M: chumngechi doy kim cheken vey chi
 C: como en conocen las personas

@@ -626,8 +626,9 @@ C:   Sí,
 M:  Pichiki
 C:   Poco
  
-nmlch-nmjab2_x_0085_nmlch_00: ¿welu rümentumu müleki?
-Pero crece en los cunquillares?
+nmlch-nmjab2_x_0085_nmlch_00: 
+M: ¿welu rümentumu müleki?
+C: Pero crece en los cunquillares?
 nmlch-nmjab2_x_0086_nmjab_00:
 M:   Rümentumu müleki, rümentumu müli
 C:    Hay en los cunquillares
@@ -1653,7 +1654,7 @@ M:   feyta kafe reke elungi ta chi che matetulngi
 C:    con esto se le da como café en el mate
  
 nmlch-nmjab2_x_0230_nmlch_00:
- <hm> <Laugh> 
+ <hm>  
 
 nmlch-nmjab2_x_0231_nmjab_00: 
 M:   Feymu feyta, feyta -/ka/- katrüy ta chi chem tati kutran
@@ -2442,7 +2443,6 @@ C:     de esas ahora no hay tanto se han perdido las cosas,
 
 M:    ka inangelay doy ka müli chi pital tie 
 C:     no las siguien también está el hospital
-2
 M:    feyta, feymu doy kontuuy che 
 C:     ahí va  más la gente  
 
@@ -3179,6 +3179,5 @@ C:    y si sueñas más vas a andar...
 
 
 
-1
 
 

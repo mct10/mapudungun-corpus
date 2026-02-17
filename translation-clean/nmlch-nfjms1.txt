@@ -2072,7 +2072,7 @@ nmlch-nfjms1_x_0227_nmlch_00:
 M: Dewmakünungi 
 C: Lo tenían preparado
 
-nmlch-nfjms1_x_0228_nfjms_00
+nmlch-nfjms1_x_0228_nfjms_00:
 M: May ngemeken trawüken
 C: Sí yo voy a reunirme
 
@@ -2324,7 +2324,7 @@ M: trawülay ta che <SPA>le <SPA>dije
 C: no se juntó gente le dije
 
 M: kidu müten müliñ pifiñ
-C.  sólo no más estabamos le dije
+C:  sólo no más estabamos le dije
 
 M: feymu müte rupatun pifiñ
 C: entonces no má he pasado le dije
@@ -2555,7 +2555,7 @@ M: ta <Noise> pewütuwimu Imperial
 C: si fui a verme Imperial
 
 nmlch-nfjms1_x_0272_nfjms_00:
-v cM: May 
+M: May 
 C: Sí
 
 nmlch-nfjms1_x_0273_nmlch_00:

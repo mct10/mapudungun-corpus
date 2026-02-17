@@ -20,10 +20,10 @@ C: ¿Cómo amanecen  por aquí?.
 
 nmlch-pmfrl1_x_0003_pmfrl_00:  
 M: küme wünmaliyiñ tüfa peñi 
-C : Amanecemos bien ahora hermano.
+C: Amanecemos bien ahora hermano.
 
 M: taiñ felenmu ta kom ta kümeliyiñ
-C : porque estamos todos estamos bien 
+C: porque estamos todos estamos bien 
 
 M: küme wünmaliyiñ fachi puliwen,
 C:  amanecimos bien esta mañana, 

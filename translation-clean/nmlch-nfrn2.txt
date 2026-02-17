@@ -862,7 +862,7 @@ M: <*SPA>no puedo <*SPA>adtinguir.
 C: no puedo distinguir.
 
 nmlch-nfrn2_x_0138_nmlch_00: 
-.....................
+
 nmlch-nfrn2_x_0139_nfrn_00: 
 M: Pegllen. 
 C:  Verruga.
@@ -1276,7 +1276,7 @@ C: Se planta el canelo tal como este aquí.
 
 nmlch-nfrn2_x_0208_nmlch_00: 
 M: May.
-C Sí.
+C: Sí.
  
 nmlch-nfrn2_x_0209_nfrn_00: 
 M: Anümngeay tati epu gancho de foye 
@@ -2261,7 +2261,7 @@ M: Diabeti pingeki nga.
 C: Diabetes se dice pues.
  
 nmlch-nfrn2_x_0349_nfrn_00: 
-<%> <*SPA>
+<%>
 
 nmlch-nfrn2_x_0350_nmlch_00: 
 M: Tüfapüle kutranki kiñekemu, 
@@ -3861,6 +3861,5 @@ M: ¿tüfamu chem chi kümefuy kiñekemu?
 C: ¿para esto qué será bueno algunas veces?.
 
 
-Cañulef
 
 

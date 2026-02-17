@@ -57,7 +57,7 @@ M: ¿Tunten tripantu niymi deuma tüfa?
 C: ¿cuántos años tiene hasta el momento?
 
 nmlch-lffhm1_x_0011_lffhm_00:
- <uhm>.
+ <uhm>
 
 nmlch-lffhm1_x_0012_nmlch_00:
 M: Kayu mari epe
@@ -765,8 +765,7 @@ C:  no vas a servirte habas me dijo.
 M: ilayan pifiñ küpatun iñche
 C:  yo me vine, no voy a comer le dije.
 
-M: wemüel reke *femuechi   matuka amutunge pingelu 
-Trokiwün küpatun.
+M: wemüel reke *femuechi   matuka amutunge pingelu Trokiwün küpatun.
 C:  ya que no quieres servirte te puedes ir parece que me dijo. 
  
 
@@ -1023,7 +1022,7 @@ C: mi padre vino hasta con una machi.
 M: *küpalngi iñchefel chi  ñankañ cheu rume miawi kutran *ngillatunmu 
 C: donde sea anda la enfermedad
 
-nmlch-lffhm1_x_0118_lffhm_00: <%> 
+nmlch-lffhm1_x_0118_lffhm_00:
 M:*Tuenu tachi machi longko fey kutraneleneu
 C:  Me tomó la cabeza esta machi y por eso me enfermé 
 
@@ -1379,8 +1378,7 @@ M: *femuechi kutrnagechi rupan anay chau
 C:  de esa forma pase con mi enfermedad hijo.
 
 nmlch-lffhm1_x_0156_nmlch_00: 
-M:  Müna weda lamngen weda dungu tati fill 
-*mongenmu *müleki <uh> kimün ka 
+M:  Müna weda lamngen weda dungu tati fill *mongenmu *müleki <uh> kimün ka 
 C:  Que malo hermano pensar que uno en la vida pasa de todo.
 
 M: *müleki kutrankawün welu tati <uh> 
@@ -1407,8 +1405,7 @@ C:  Las personas no vivimos así no más tenemos tantas c osas que decir.
 M: nütram ta *nieki -/nge/- nelay ta ini  ramtuatu chumle, chumle
 C:  que conversar, muchas veces nadie nos pregunta esto.
 
-M: *chumuechi tañi tremün ngelay ta ini tañi  
-*yafülteatu chem ramtungeam chem *dungumu ñi rupan 
+M: *chumuechi tañi tremün ngelay ta ini tañi  *yafülteatu chem ramtungeam chem *dungumu ñi rupan 
 C:  no tengo nadie que me pregunte como pase mi vida.
 
 M: *feymu ta kiñe kimduamngelay
@@ -1426,15 +1423,14 @@ nmlch-lffhm1_x_0162_nmlch_00:
 M: Eymi tami *rakiduammu eymi a'lün' tripantu deuma niymi tüfa.
 C: Usted con sus años tiene mucho conocimientos.
  
-M: <uh> lamngen welu rü<Noise> rüf *rakiduamnmu machi 
-welu eli Ngünechen <*SPA>no kam Ngünechen el-lay 
+M: <uh> lamngen welu rü<Noise> rüf *rakiduamnmu machi welu eli Ngünechen <*SPA>no kam Ngünechen el-lay 
 C:  Dios dejo con mucho conocimiento a las machi o no dejo esto Dios.
 
 M: kimi tami rakiduamün ka chem *pikimi tüfa
 C:  conocen los pensamiento y que más dice usted. 
 
 nmlch-lffhm1_x_0163_lffhm_00: 
-M:<*SPA>No <*SPA>para <*SPA>ser <*SPA>sincera 
+M: <*SPA>No <*SPA>para <*SPA>ser <*SPA>sincera 
 C:  No para ser sincera.
 
 M:<*SPA>bien <uh> machi eli chau Dio ka eli machi 

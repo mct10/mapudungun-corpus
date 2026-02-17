@@ -1943,7 +1943,7 @@ C: No podemos hacer esos nosotros
 M: feymuürke feypipen
 C: por eso es que he dicho esto 
 
-M <SPA>aquí faltavuy kiñe...
+M: <SPA>aquí faltavuy kiñe...
 C: aquí falta un...
 
 M: ngümalu che weche pin 
@@ -2271,7 +2271,7 @@ M: Feychi ajenkomu.
 C: Con ese ajenco. 
 
 nmlch-pmfmñA2_x_0221_pmfmñ_00: 
-<SPA>Sí.
+M: <SPA>Sí.
 C: Sí.
 
 M: Feyti fürey.
@@ -2324,7 +2324,7 @@ M: kutrani iñ longko
 C: cuando nos duela la cabeza 
 
 M: ajenko <SPA>eso <SPA>tomaba <SPA>yo.
-C. ajenco eso tomaba yo.
+C: ajenco eso tomaba yo.
 
 nmlch-pmfmñA2_x_0228_nmlch_00: 
 M: ¿Firkükomukam eñüm ko?.

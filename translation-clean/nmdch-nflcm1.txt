@@ -1966,7 +1966,7 @@ M: fey ñi pichikeche,
 C: a sus niños chicos,
 
 M: kuydautukuki fey, 
-C  los cuida, 
+C:  los cuida, 
 M: konlayaymi pi fey,
 C: no entrarás le dice,
 
@@ -2314,5 +2314,3 @@ M: Feychi kullin kay ñiyim.
 C:  Ese animal también al tener
 
 
-Cañulef
-Huisca

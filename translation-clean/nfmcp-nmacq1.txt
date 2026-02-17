@@ -76,7 +76,7 @@ C: estoy aqui ahora,
 M: welu iñche ñi mapu  
 C: pero mi tierra 
 
-M : fey üyüu müli  Kawemu, wapi
+M: fey üyüu müli  Kawemu, wapi
 C:  está allá en Cahuemu, isla
 
 M: wap= Wapiche iñche.
@@ -1796,7 +1796,4 @@ C: eso bebo.
 nfmcp-nmacq1_x_0054_nfmcp_00: 
 M: YA <uh> 
 C: Ya.
-
-
-Cañulef
 

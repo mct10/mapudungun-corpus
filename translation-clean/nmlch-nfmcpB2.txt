@@ -443,7 +443,7 @@ M: Pitalmu ta -/ye/- kiñe, kiñe indesion ngemey müten.
 C: En el hospital una, una inyección le llevaron no más.
 
 nmlch-nfmcpB2_x_0069_nmlch_00: 
-<uhm> <%> 
+<uhm> 
 
 nmlch-nfmcpB2_x_0070_nfmcp_00: 
 M: May.
@@ -2619,7 +2619,7 @@ nmlch-nfmcpB2_x_0003_nmlch_00:
 M: ¡aaa!
 C: Ah.
 
-nmlch-nfmcpB2_x_0004_nfmcp_00
+nmlch-nfmcpB2_x_0004_nfmcp_00:
 M:  <%> ....Feypilay ....apokelay l'awen'ka 
 C: No dijo .... No llena el remedio
 

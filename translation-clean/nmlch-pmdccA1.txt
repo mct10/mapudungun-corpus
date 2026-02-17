@@ -714,7 +714,7 @@ M: ka fey pieneu  <!1pienu>.
 C: también ella me dijo.
  
 nmlch-pmdccA1_1_0119_nmlch_00: 
-<hm> <Noise> 
+
 nmlch-pmdccA1_1_0120_pmdcc_00: 
 M: Pichiken legkafuy ka <*SPA>pero 
 C: Un poco había pues pero
@@ -1018,7 +1018,8 @@ M: Amuafuymi ka, ka.
 C: Habría ido pues.
 
 nmlch-pmdccA1_1_0148_pmdcc_00: 
-<%> <%> <Noise> 
+
+
 nmlch-pmdccA1_1_0149_nmlch_00: 
 M: Amuafuymi.
 C: Habría ido.
@@ -2160,7 +2161,7 @@ M: chumimi, chumngechi <!1chumuechi>
 C: que hizo pues
 
 M: elungeymi <!1elungimi>?
-C. si le dieran.
+C: si le dieran.
 
 nmlch-pmdccA1_1_0328_pmdcc_00: 
 M: Tameu <!1tamu> iñche newe küdaukelan anay 
@@ -2221,7 +2222,7 @@ M: ngaungawi tañi kowün ngaungaukefi ñi kowün ta.
 C: me cayo la saliba mi pues eso psao.
 
 nmlch-pmdccA1_1_0329_nmlch_00: 
-<%> <uh> 
+
 nmlch-pmdccA1_1_0330_pmdcc_00: 
 M: Fey kiman ka kimlan tañi chumal fey 
 C: Y sabre pues no sé que boy hacer ahi
@@ -2408,4 +2409,3 @@ M: pipefuymi chem l'awen' nielmi tripaafuy pürüm?
 C: que remedio dijo tuine sale enseguida.
 
 nmlch-pmdccA1_1_0350_pmdcc_00: 
-<%> <Laugh> .

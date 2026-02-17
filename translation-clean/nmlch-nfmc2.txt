@@ -495,7 +495,7 @@ M: kümelkatun
 C: me sentí mejor 
 
 M: fey doy amuwetulan <*SPA>pu'
-C. entonces no fui más pues 
+C: entonces no fui más pues 
 
 nmlch-nfmc1_x_0044_nmlch_00:
 M: Welu, tüfi ¿kimlafimi chumechi tukefiñ kimlafimi?
@@ -640,7 +640,7 @@ M: amuwelan doy
 C: no fui más 
 
 nmlch-nfmc1_x_0058_nmlch_00: 
-M. Welu, kam tüfey pütokolelfulmi 
+M: Welu, kam tüfey pütokolelfulmi 
 C: Pero si eso estaba bebiéndolo 
 M: kiñekemu feychi l'awen' <Noise> <uhm> 
 C: alguna veces ese remedio 
@@ -1702,7 +1702,7 @@ nmlch-nfmc2_x_0154_nmlch_00:
 M: ¡Ah!.
 C: ¡Ah!.
 
-nmlch-nfmc2_x_0155_nfmc_00
+nmlch-nfmc2_x_0155_nfmc_00:
 M: Femechi may fey 
 C: Así es pues 
 
@@ -1876,7 +1876,7 @@ nmlch-nfmc2_x_0173_nmlch_00:
 M: ¡Ah!<Laugh>
 C: ¡Ah!.
 
-nmlch-nfmc2_x_0174_nfmc_00
+nmlch-nfmc2_x_0174_nfmc_00:
 M: Fey, fey feypipanu unetu ka 
 C: Eso es lo que me vino a decir la primera ves 
 
@@ -2206,7 +2206,7 @@ C: eso dijo eso
 nmlch-nfmc2_x_0208_nmlch_00:
 M: ¡Ah!.
 C: ¡Ah!.
-nmlch-nfmc2_x_0209_nfmc_00
+nmlch-nfmc2_x_0209_nfmc_00:
 M: Fey machimu am feypingen 
 C: Eso en la machi me lo dijeron 
 
@@ -2316,7 +2316,6 @@ M: feychi kimafuiñ <Noise>
 C: esa ves lo conoceríamos 
 
 nmlch-nfmc2_x_0224_nfmc_00: 
-<%> <Noise> <%> 
 M: Si. 
 C: Sí.
 
@@ -2831,7 +2830,7 @@ M: müna kutranken pifiñ
 C: me enfermo mucho le dije 
 
 M: tañi wenüy Mario pingi.
-C. mi amigo Mario se llama.
+C: mi amigo Mario se llama.
 
 nmlch-nfmc2_x_0281_nmlch_00: 
 M: ¡Ah!.

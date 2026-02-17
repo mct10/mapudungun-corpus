@@ -8,10 +8,10 @@
 
 nmlch-lfmim1_x_0000_nmlch_00: 
 M: <uh> Feyti amüleay tüfa ngütram
-C : Que siga esta conversacion
+C: Que siga esta conversacion
 
 M: petu feyta inche ka
-C : yo, todavia
+C: yo, todavia
 
 M: küdawken ta wellinmeu
 C: trabajo en el vacio??
@@ -87,23 +87,23 @@ C: pues
 M:  ta l'awen' mangi tati 
 C: le echan remedios pues
 
-M : *..feyta inche ta rume
-C : hasta yo
+M: *..feyta inche ta rume
+C: hasta yo
 
-M : ta moltukefin tati 
-C :  lo he salvado pues
+M: ta moltukefin tati 
+C:  lo he salvado pues
 
-M : momtulkelayan pilayan
-C : no me digas que no lo he evitado
+M: momtulkelayan pilayan
+C: no me digas que no lo he evitado
 
-M : akuyeki vemngechi 
-C : han llegado asi
+M: akuyeki vemngechi 
+C: han llegado asi
 
-M : *..felelu rume apurawkülelu
-C : aunque estan asi, graves
+M: *..felelu rume apurawkülelu
+C: aunque estan asi, graves
 
 M:  *..feymu l'awen' makevin
-C : por eso les doy remedios
+C: por eso les doy remedios
 
 M:  müli l'awen tati.
 C: hay remedios pues.
@@ -131,17 +131,17 @@ C: ...................helado
 M:  ka müli tachi refriau 
 C: tambien esta el resfrío
 
-M : chi refriau ta doy
-C : el resfrío es mas
+M: chi refriau ta doy
+C: el resfrío es mas
 
-M :  *..facil küli tati
-C : es mucho mas facil
+M:  *..facil küli tati
+C: es mucho mas facil
 
-M :  elungi ta re eñum ke l'awen' 
-C : le dan remedios tibios
+M:  elungi ta re eñum ke l'awen' 
+C: le dan remedios tibios
 
-M : ka chaytuakangi ka 
-C : 
+M: ka chaytuakangi ka 
+C: 
 
 M: *..fütrotungey kom l'awen' mu
 C: ............con todos los remedios
@@ -220,11 +220,11 @@ C: cuando no se
 M:  kuydawenolu ta pu' domo
 C: cuidan mucho, las mujeres
 
-M :  *..feyta koni ta winka chillemeu
-C : ahí, entran los huincas, ellos pues
+M:  *..feyta koni ta winka chillemeu
+C: ahí, entran los huincas, ellos pues
 
-M :  *..fey tüva kuyfi 
-C : pues antes
+M:  *..fey tüva kuyfi 
+C: pues antes
 
 M: antiwükuydangi 
 C: en la antiguedad
@@ -243,11 +243,11 @@ C: cuando sale
 
 M:  kotutuy ta pu domo
 C: se mojan las mujeres
-M :  *..feymu ta tu kutrankelafuy 
-C. asi, no se enfermaba
+M:  *..feymu ta tu kutrankelafuy 
+C: asi, no se enfermaba
 
-M : *..fey tüfa epu antü
-C :ahora, en los dos dias
+M: *..fey tüfa epu antü
+C:ahora, en los dos dias
 
 M:  küla antü niengi
 C: lo tienen tres dias
@@ -268,7 +268,7 @@ C: se moja la cabeza
 M: *..feyta amuli tati
 C: pues va avanzando
 
-M :  <*SPA>ese <*SPA>el <*SPA>refriaw, 
+M:  <*SPA>ese <*SPA>el <*SPA>refriaw, 
 C: ese resfrío
 
 M: refriaw tuy tati
@@ -300,13 +300,13 @@ C: como molido
 M:  kom eñum l'awen' meu
 C: todo el remedio tibio pues
 
-M :  kom trürümtulngeay ñi l'awen'
-C : todos los remedios hay que ordenarlos
+M:  kom trürümtulngeay ñi l'awen'
+C: todos los remedios hay que ordenarlos
 
-M :  *..feyta *..füchonamngeki 
-C : para molerlos
+M:  *..feyta *..füchonamngeki 
+C: para molerlos
 
-M : *..famngetuy *..fey li ligü tripatuy ka.
+M: *..famngetuy *..fey li ligü tripatuy ka.
 C: asi lo hacen ...............sale pues
  
 nmlch-lfmim1_x_0014_nmlch_00: 
@@ -334,13 +334,13 @@ C: avanza
 M:  rakingi chi l'awen' 
 C: se cuentan los remedios
 
-M : mari epu' l'awen' ka
-C : pues con veinte remedios
+M: mari epu' l'awen' ka
+C: pues con veinte remedios
 
 M:  *..femngi
-C : así es
+C: así es
 
-M : *..feyta aylla antü
+M: *..feyta aylla antü
 C: y en el noveno dia
 
 M: l'awen'mangeki.
@@ -378,7 +378,7 @@ C: Ese remedio se utiliza pues
 M: cheu müli ta tüfa 
 C: donde esta ahora
 
-M : chuchi <*SPA>parte.
+M: chuchi <*SPA>parte.
 C: en que parte.
  
 nmlch-lfmim1_x_0023_lfmim_00:
@@ -386,16 +386,16 @@ M: <uh> Tüfa ta itrofill püle
 C: Ahora por todas partes
 
 M: leju lefuy pu' leju li'
-C : esta lejos, esta lejos
+C: esta lejos, esta lejos
 
-M :  *..feyta kiñe 
-C : pues el 
+M:  *..feyta kiñe 
+C: pues el 
 
-M : *..feytichi refriau tulu
-C : ese se resfria con
+M: *..feytichi refriau tulu
+C: ese se resfria con
 
-M :  <*SPA>sobre partu 
-C : sobre parto
+M:  <*SPA>sobre partu 
+C: sobre parto
 
 M: simüllka pingi ta l'awen' .
 C: Simulka se llama el remedio.
@@ -419,38 +419,38 @@ C: Eso esta en la montaña
 M:  simullka ta amuki
 C: se va por la Simulka
 
-M :  *..fey ka tukulelngi ta itrofill eñum
-C : se le echa todo todo tipo de calor
+M:  *..fey ka tukulelngi ta itrofill eñum
+C: se le echa todo todo tipo de calor
 
-M :  tukulelngi ta ñollkiñ
-C : se le echa..............
+M:  tukulelngi ta ñollkiñ
+C: se le echa..............
 
-M :  pütokolngi ka feymu
-C : ahí se le da de beber
+M:  pütokolngi ka feymu
+C: ahí se le da de beber
 
-M :  ñollkin meu ka 
-C :
+M:  ñollkin meu ka 
+C:
 
-M : *..füchongi orvatungi 
-C :
+M: *..füchongi orvatungi 
+C:
 
-M : *..feyta l'awen' nollkiñ tati
-C :el remedio .............pues
+M: *..feyta l'awen' nollkiñ tati
+C:el remedio .............pues
 
-M :  elangechi l'awen'
-C : se dejó el remedio
+M:  elangechi l'awen'
+C: se dejó el remedio
 
-M :  ti takulelngi triwe
-C : le taparon con Laurel
+M:  ti takulelngi triwe
+C: le taparon con Laurel
 
-M : <uh> itrovill wengan triwe pingi 
-C : con diversos Laureles nuevos se dice
+M: <uh> itrovill wengan triwe pingi 
+C: con diversos Laureles nuevos se dice
 
-M : tati kiñe muna küme eñumi tachi 
-C : hay uno que es muy bueno y muy calido
+M: tati kiñe muna küme eñumi tachi 
+C: hay uno que es muy bueno y muy calido
 
-M : *..feyta muna kümi tati 
-C : ese si que es bueno
+M: *..feyta muna kümi tati 
+C: ese si que es bueno
 
 M: *..feychi kutran.
 C: esa enfermedad.
@@ -479,37 +479,37 @@ C: Uno con sal
 M: *..fenten rapangi tati 
 C: asi se raspa pues
 
-M : nentungi chi verde
-C : se le saca lo verde
+M: nentungi chi verde
+C: se le saca lo verde
 
-M :  *..fey rapangi kiñe
-C : asi se raspa uno
+M:  *..fey rapangi kiñe
+C: asi se raspa uno
 
-M :  *..fenten wütruymangi
-C : asi se le vierte
+M:  *..fenten wütruymangi
+C: asi se le vierte
 
-M :  epe wasküchi ko 
-C : casi agua hirviendo
+M:  epe wasküchi ko 
+C: casi agua hirviendo
 
-M : *..fey kotüngi chi chadi
-C :y asi se le echa la sal
+M: *..fey kotüngi chi chadi
+C:y asi se le echa la sal
 
-M :  kotün chadi kotüngi
-C : se le echa sal
+M:  kotün chadi kotüngi
+C: se le echa sal
 
-M :  kiñe ralimu
-C : en un plato
+M:  kiñe ralimu
+C: en un plato
 
-M :  küme kotungi
-C : se le echa bien
+M:  küme kotungi
+C: se le echa bien
 
-M :  *..feyta kurü nagkülewi chadi
-C : cuando la sal queda enegrecida
+M:  *..feyta kurü nagkülewi chadi
+C: cuando la sal queda enegrecida
 
-M :  *..fey pütokongi 
-C : ahí se bebe
+M:  *..fey pütokongi 
+C: ahí se bebe
 
-M : *..fey müñatuki tati.
+M: *..fey müñatuki tati.
 C:...................
 
 nmlch-lfmim1_x_0032_nmlch_00: 
@@ -533,9 +533,9 @@ M:  antü ngüfwillenlumu
 C: por el sol se detiene la orina
 
 M:  feyta müli ta kiñepchi vichu tati
-C : pues hay un bichito
+C: pues hay un bichito
 
-M :  pichike vichu machi pingi.
+M:  pichike vichu machi pingi.
 C: pequeños bichos dice la Machi.
 
 nmlch-lfmim1_x_0034_nmlch_00: 
@@ -664,7 +664,7 @@ C: sobre parto dice el huinca.
 
 nmlch-lfmim1_x_0053_lfmim_00:
 M: *..Afese müli l'awen' pu' 
-C : A veces existe remedios, pues. 
+C: A veces existe remedios, pues. 
 
 nmlch-lfmim1_x_0054_nmlch_00: 
 M: ¿Chem chumngechi anta
@@ -686,17 +686,17 @@ C: con agua fria se baña
 M: *..feyta ñi ta 
 C: pues la
 
-M : kütrünguwi tañi mollfün tati
-C : la sangre se derrama pues
+M: kütrünguwi tañi mollfün tati
+C: la sangre se derrama pues
 
-M :  we choyuiley 
-C : recien esta como brotando
+M:  we choyuiley 
+C: recien esta como brotando
 
-M : petu puwülnolu kuyen
-C : cuando todavia no llega el mes
+M: petu puwülnolu kuyen
+C: cuando todavia no llega el mes
 
-M :  ante müñetutulu ti 
-C : la que se baña antes
+M:  ante müñetutulu ti 
+C: la que se baña antes
 
 M: *..feyta pütrari tüfi 
 C: pues le afecta
@@ -736,12 +736,12 @@ M:  *..eyta refentay chi epu kuram
 C: con la enfermedad se rompe
 
 M: *..feyta chewi tati 
-C : y eso se transforma
+C: y eso se transforma
 
-M : *..feli ta sungu ni ta kuram 
-C : asi estan las cosas, tiene ovulos
+M: *..feli ta sungu ni ta kuram 
+C: asi estan las cosas, tiene ovulos
 
-M : *..femngechi *..feli tati.
+M: *..femngechi *..feli tati.
 C: asi, asi esta.
  
 nmlch-lfmim1_x_0057_nmlch_00: 
@@ -773,51 +773,51 @@ C: cuando esta grita, cuando esta gritando
 M: choyalu mekeki choyalu
 C: brotar, esta a punto de brotar
 
-M : meketuki tüfi ta tripay
-C : asi sale este
+M: meketuki tüfi ta tripay
+C: asi sale este
 
-M :  ta püñeñ 
-C : este hijo
+M:  ta püñeñ 
+C: este hijo
 
-M : *..femngelu chem tripatuy
-C : asi sale
+M: *..femngelu chem tripatuy
+C: asi sale
 
-M :  *..feychi korelelu
-C : cuando fluye 
+M:  *..feychi korelelu
+C: cuando fluye 
 
-M :  *..feyta montuy
-C : pues se salvo
+M:  *..feyta montuy
+C: pues se salvo
 
-M :  *..fey tüfi tachi yiwüdulu 
-C : el que se envolvio
+M:  *..fey tüfi tachi yiwüdulu 
+C: el que se envolvio
 
-M : *..feytichi chemu pitike tela meu 
-C : en esa pequeña tela
+M: *..feytichi chemu pitike tela meu 
+C: en esa pequeña tela
 
-M : yiwüdulu
-C : el que se envolvio
+M: yiwüdulu
+C: el que se envolvio
 
-M : *..feyta kumi l'awen'
-C :  para eso es bueno el remedio
+M: *..feyta kumi l'awen'
+C:  para eso es bueno el remedio
 
-M : rupa rupangi 
-C : calma y tranquiliza
+M: rupa rupangi 
+C: calma y tranquiliza
 
-M : rupa rupangeki.
+M: rupa rupangeki.
 C: calma y tranquiliza.
 
 nmlch-lfmim1_x_0059_lfmim_00: 
 M: *..Feyta chipiu ta amuli 
-C : ................... va avanzando
+C: ................... va avanzando
 
-M : ..feyta perdealu.... anken  nga 
-C : para perderlo seco
+M: ..feyta perdealu.... anken  nga 
+C: para perderlo seco
 
-M : perdekellelay ta 
-C : no lo pierde
+M: perdekellelay ta 
+C: no lo pierde
 
-M : <*SPA>sobre partu ngelu
-C : el que tiene sobre parto
+M: <*SPA>sobre partu ngelu
+C: el que tiene sobre parto
 
 M:  anken perdey
 C: pierde lo seco
@@ -848,11 +848,11 @@ C: Se cambio, se transformo
 M:  *..femngelu amuki tati
 C: asi va avanzando pues
 
-M :  <*SPA>ese <*SPA>el <*SPA>sobre parto
-C : ese sobre parto
+M:  <*SPA>ese <*SPA>el <*SPA>sobre parto
+C: ese sobre parto
 
-M :  atreg chi we choyilu 
-C : cuando se enfria la matriz
+M:  atreg chi we choyilu 
+C: cuando se enfria la matriz
 
 M: *..feyta küchawi
 C: cuando se lava
@@ -884,10 +884,10 @@ M: <*SPA>rapaje pillela anta
 C: se dice raspaje
 
 M: <*SPA>rapaje ngi welu tüfi ta
-C : se le hace raspaje, pero
+C: se le hace raspaje, pero
 
-M :  *..fey tripalay pu' 
-C : no sale pues
+M:  *..fey tripalay pu' 
+C: no sale pues
 
 M: avañaymangi tañi <*SPA>cuerpo
 C: ...............su cuerpo
@@ -956,7 +956,7 @@ C: le vine a buscar un ........
 M:  pingi ta kiñe l'awen'
 C: un remedio le dijeron
 
-M :  *..fey elufiñ 
+M:  *..fey elufiñ 
 C: pues le di
 
 M:  mutrun engu elufiñ tachi machi tati.
@@ -978,35 +978,35 @@ C: durmio muy bien
 
 M: *..feychi pun sentiwlay
 C: esa noche no sintio
-M :  rume putra kuchuni ñi <*SPA>sabana
-C : pues mojo mucho las sabanas
+M:  rume putra kuchuni ñi <*SPA>sabana
+C: pues mojo mucho las sabanas
 
-M : ka antü ka llaskütukamengi 
-C : al otro dia lo fueron a retar
+M: ka antü ka llaskütukamengi 
+C: al otro dia lo fueron a retar
 
-M : ¿chumimiam ? pingi 
-C : ¿que te paso? le dijeron
+M: ¿chumimiam ? pingi 
+C: ¿que te paso? le dijeron
 
-M : sentiwlan pi
-C : no me senti  dijo
+M: sentiwlan pi
+C: no me senti  dijo
 
-M :  <*SPA>pero ta ventekenmu
-C : pero a esa altura
+M:  <*SPA>pero ta ventekenmu
+C: pero a esa altura
 
-M :  nentuy tufi <*SPA>vinagrey nga 
-C : saco todo lo vinagre
+M:  nentuy tufi <*SPA>vinagrey nga 
+C: saco todo lo vinagre
 
-M : chem rume vinagrey
-C : todo se a vinagro
+M: chem rume vinagrey
+C: todo se a vinagro
 
-M :  nentukinga chakay enoel
-C : 
+M:  nentukinga chakay enoel
+C: 
 
-M :  tongül tunki merun küleki 
-C :
+M:  tongül tunki merun küleki 
+C:
 
-M : *..femleki *..feyti mongey pu'
-C : asi esta ese vivir pues
+M: *..femleki *..feyti mongey pu'
+C: asi esta ese vivir pues
 
 M:  *..feyta re pitalmu
 C: solo en el Hospital
@@ -1077,14 +1077,14 @@ C:
 M: *..fanteki chodki ti
 C: 
 
-M : *..fenteki ñi rayen 
-C : es de ese porte su flor
+M: *..fenteki ñi rayen 
+C: es de ese porte su flor
 
-M : *..feychi mutrun 
-C : ese Mutrun 
+M: *..feychi mutrun 
+C: ese Mutrun 
 
-M : *..fey yerba sanjuan tüvi
-C : esa Yerba de san Juan
+M: *..fey yerba sanjuan tüvi
+C: esa Yerba de san Juan
 
 M:  ñiñichi püray ka
 C: ........ subio pues
@@ -1152,7 +1152,7 @@ M: Eymi feyti <%>machi
 C: Usted como Machi
 
 M: feytichi machi ta afüm ngeki 
-C : esa Machi lo cuese
+C: esa Machi lo cuese
 
 M: fewla elueyu ti.
 C: pero recien le dio eso.
@@ -1166,7 +1166,7 @@ C: De ahí, recien lo toman.
 
 nmlch-lfmim1_x_0082_nmlch_00: 
 M: Wüne afümngeki chi machi.
-C : Primero la Machi lo cuese.
+C: Primero la Machi lo cuese.
  
 nmlch-lfmim1_x_0083_lfmim_00: 
 M: May.
@@ -1229,7 +1229,7 @@ C: a la pobre mujer pues
 M: relikura che petu mongeli
 C: la persona de Relicura todavia vivé
 
-M : tachi domo.
+M: tachi domo.
 C: la mujer.
  
 nmlch-lfmim1_x_0090_nmlch_00:
@@ -1351,8 +1351,8 @@ C: De todo ............................
 M: muli ta ikankangeal 
 C: hay para comer a costa de otro
 
-M : adümkangi itrofill meu 
-C : se prepara de todo
+M: adümkangi itrofill meu 
+C: se prepara de todo
 
 M: *..feyta *..feymu
 C: pues por eso
@@ -1363,7 +1363,7 @@ C: recien va a dar pues
 M: ngellu ta amuki 
 C: apenas sigue
 
-M : alün tripantu nielu
+M: alün tripantu nielu
 C: el que tiene hartos años
 
 M:  ngellu amulki.
@@ -1499,19 +1499,19 @@ C: diferentes plantas que sembro
 M:  ta vücha chau
 C:  gran Padre 
 
-M :  *..fente wenu welu kelluagen
-C : tu que estas en las alturas ayudame
+M:  *..fente wenu welu kelluagen
+C: tu que estas en las alturas ayudame
 
-M :  tüfa ta l'awen' 
-C : este remedio
+M:  tüfa ta l'awen' 
+C: este remedio
 
-M : konalu ta newen pingi 
-C : me dara fuerza dice
+M: konalu ta newen pingi 
+C: me dara fuerza dice
 
-M : *..femngechi ta 
-C : de esta forma
+M: *..femngechi ta 
+C: de esta forma
 
-M : ngillatuymangeki tati.
+M: ngillatuymangeki tati.
 C: se le pedia pues.
 
 nmlch-lfmim1_x_0114_nmlch_00:
@@ -1563,20 +1563,20 @@ C: porque ya no sigue
 M:  ta mapu dungun müte 
 C: el idioma  del mapuche
 
-M : *..fücha ngellipun
-C : en esa gran rogativa
+M: *..fücha ngellipun
+C: en esa gran rogativa
 
-M :  tutefalafuy machi 
-C : no le agradaba la Machi
+M:  tutefalafuy machi 
+C: no le agradaba la Machi
 
-M : kuyfi tutefalafuy
-C : antiguamente no le agradaba
+M: kuyfi tutefalafuy
+C: antiguamente no le agradaba
 
-M :  müchay müten llasküy machi
-C : luego no mas se enojaba la Machi
+M:  müchay müten llasküy machi
+C: luego no mas se enojaba la Machi
 
-M :  feyta wüñopay tachi 
-C : pues se devolvieron 
+M:  feyta wüñopay tachi 
+C: pues se devolvieron 
 
 M: pu <*SPA>capitan tati.
 C: los capitanes pues.
@@ -1714,32 +1714,32 @@ C: aunque sea una vertiente
 M:  kiñepchi ken ta
 C: aunque sea pequeña
 
-M :  witruy kom müli ta
-C :  se vierte todo, existe
+M:  witruy kom müli ta
+C:  se vierte todo, existe
 
-M :  *..feypüle ta ngünen tati
-C : por ahi, el que manda
+M:  *..feypüle ta ngünen tati
+C: por ahi, el que manda
 
-M :  ni ta ngünen
-C : el primero
+M:  ni ta ngünen
+C: el primero
 
-M :  chuchi pichi ko rume
-C : aun que sea cualquier aguita
+M:  chuchi pichi ko rume
+C: aun que sea cualquier aguita
 
-M :  ilantungelay ta kiñepchi ko
-C : no se llega y se cruza por mas pequeño que sea el agua
+M:  ilantungelay ta kiñepchi ko
+C: no se llega y se cruza por mas pequeño que sea el agua
 
-M :  kiñepchi komu 
-C : el charco de agua
+M:  kiñepchi komu 
+C: el charco de agua
 
-M : <*SPA>quebramu ta
-C : en la quebrada
+M: <*SPA>quebramu ta
+C: en la quebrada
 
-M :  *..famngechi pütokoale müli tañi 
-C : para tomar agua existe un lugar
+M:  *..famngechi pütokoale müli tañi 
+C: para tomar agua existe un lugar
 
-M : <*SPA>permiso pial
-C :  para pedir permiso
+M: <*SPA>permiso pial
+C:  para pedir permiso
 
 M:  pütokofemngelay.
 C: no se llega y se bebe el agua.
@@ -1755,22 +1755,22 @@ C: No, todo tipo de enfermedad
 M:  ta wenuntuki ta
 C: se levanta
 
-M : *..femiawi ta pu' kuñifall
-C : andan asi los desamparados
+M: *..femiawi ta pu' kuñifall
+C: andan asi los desamparados
 
-M :  itrofill müli ta wesa kutran,
-C : hay todo tipo de malas enfermedades
+M:  itrofill müli ta wesa kutran,
+C: hay todo tipo de malas enfermedades
 
-M : müli ta küme kutran 
-C :  hay buena enfermedades
+M: müli ta küme kutran 
+C:  hay buena enfermedades
 
-M :  pülümken kume kutran 
-C : .................... buenas enfermedades
+M:  pülümken kume kutran 
+C: .................... buenas enfermedades
 
-M : ta kulmetuy ta witranpürami
-C : se arreglo y se levanto
+M: ta kulmetuy ta witranpürami
+C: se arreglo y se levanto
 
-M :  *..feyta kulmetuy ta wenu tati.
+M:  *..feyta kulmetuy ta wenu tati.
 C: asi se arreglo por las alturas pues.
  
 nmlch-lfmim1_x_0130_nmlch_00:
@@ -1793,10 +1793,10 @@ C: me habia sucedido.
 
 nmlch-lfmim1_x_0133_lfmim_00: 
 M: ¿Pütokofemkefuymi ko pu'?
-C : ¿Llegaba y tomaba el agua pues ?
+C: ¿Llegaba y tomaba el agua pues ?
 
-M :  *.. feymu *.. feymu tati.
-C : por eso, por eso pues.
+M:  *.. feymu *.. feymu tati.
+C: por eso, por eso pues.
 
 nmlch-lfmim1_x_0134_nmlch_00: 
 M: Tamu tripakefuy.
@@ -1833,7 +1833,7 @@ M: Müñaltueymu.
 C:
 
 nmlch-lfmim1_x_0138_nmlch_00: 
-M. Fill tripantu feletuki tamu.
+M: Fill tripantu feletuki tamu.
 C: Todos los años asi esta, aquí.
  
 nmlch-lfmim1_x_0139_lfmim_00: 
@@ -1871,10 +1871,10 @@ C: No no habia,
 M:  ngekelay ngekelay tati 
 C: no habia, no habia pues
 
-M. *..femngechi kulmetulu 
+M: *..femngechi kulmetulu 
 C: cuando asi se alivió
 
-M. <*SPA>no chunte tukungeafuy
+M: <*SPA>no chunte tukungeafuy
 C: cuantos remedios le aplicaria
 
 M:  feyta chunte rume ta l'awen'
@@ -1976,36 +1976,36 @@ M: Inche kiñe pichi wentru pen tati
 C: Yo vi a un pequeño hombre
 
 M: tachi pu' tami *..füren ka
-C : 
+C: 
 
-M :  *..fey pu' ti 
-C : esos pues
+M:  *..fey pu' ti 
+C: esos pues
 
-M : Segundo Isidoro ñi ngillan
-C : mi cuñado Segundo Isidoro
+M: Segundo Isidoro ñi ngillan
+C: mi cuñado Segundo Isidoro
 
-M :  kulme tuli chi pichi wentru 
-C : esta bien el pequeño hombre
+M:  kulme tuli chi pichi wentru 
+C: esta bien el pequeño hombre
 
-M : kulmetuli ka kiñe 
-C : esta bien uno
+M: kulmetuli ka kiñe 
+C: esta bien uno
 
-M : *..fey tüfichi wüni
-C : ese primero
+M: *..fey tüfichi wüni
+C: ese primero
 
-M :  pingiama ta ka,
-C : asi parece que se llama, tambien
+M:  pingiama ta ka,
+C: asi parece que se llama, tambien
 
 M:  *..fey tüfapüle mülepay
 C: esta por aca 
 
 M:  ñi kiñe seya 
-C : una de su hermana
+C: una de su hermana
 
 M: tichi oko 
-C :
+C:
 
-M : Painen ñi pu ngillan.
+M: Painen ñi pu ngillan.
 C: Los cuñado de los Painen.
 
 nmlch-lfmim1_x_0152_nmlch_00:
@@ -2078,8 +2078,8 @@ C: por eso
 M:  *..feypifin kimafin 
 C: le dije, lo conoci
 
-M : *..fey tüfa may chuchilen
-C : pues ahora estoy así
+M: *..fey tüfa may chuchilen
+C: pues ahora estoy así
 
 M: tüfachi, müna sungulkakeneu
 C: estos, me hablaba mucho
@@ -2142,28 +2142,28 @@ M: hoyy ta ta pütrem küli pafmu
 C: ahora esta creciendo cada vez mas el .......
 
 M: feychi <%>litri chi pafmun
-C :  esa vez  abundo el ...........
+C:  esa vez  abundo el ...........
 
-M :  tukufi pafmun
-C : coloco ...........
+M:  tukufi pafmun
+C: coloco ...........
 
-M :  tukufi *..feymu 
-C : ahí lo coloca.... por eso
+M:  tukufi *..feymu 
+C: ahí lo coloca.... por eso
 
-M : *..feypifin kintuaymi
-C : le dije busca 
+M: *..feypifin kintuaymi
+C: le dije busca 
 
-M :  nielu pitike wawa
-C : el que tiene pequeñas guagua
+M:  nielu pitike wawa
+C: el que tiene pequeñas guagua
 
-M :  lichingechi domo 
-C : la mujer que tenga leche
+M:  lichingechi domo 
+C: la mujer que tenga leche
 
-M : kintuaymi 
-C : busca
+M: kintuaymi 
+C: busca
 
-M : kotaymi chadi y notunolmi
-C : tuesta la sal y si no te hace efecto
+M: kotaymi chadi y notunolmi
+C: tuesta la sal y si no te hace efecto
 
 M: *..feymu kintuaymi 
 C: ahí buscaras
@@ -2176,26 +2176,26 @@ C: pues se alivio, se alivio.
  
 nmlch-lfmim1_x_0168_lfmim_00: 
 M: *..Feyta anüna kümelngetun
-C : Pues me dejaron bien 
+C: Pues me dejaron bien 
 
-M :  kiñepchi <*SPA>doble pu'
-C : un pequeño doble pues
+M:  kiñepchi <*SPA>doble pu'
+C: un pequeño doble pues
 
-M :  pütokotufiñ<Laugh>mongelfin 
-C : lo hice beber y lo hice vivír
+M:  pütokotufiñ<Laugh>mongelfin 
+C: lo hice beber y lo hice vivír
 
-M : re <*SPA>recetamu müten
-C : con pura recetas no mas
+M: re <*SPA>recetamu müten
+C: con pura recetas no mas
 
-M :  <*SPA>receta müten elufin tati.
+M:  <*SPA>receta müten elufin tati.
 C: le di solo recetas pues.
 
 nmlch-lfmim1_x_0169_nmlch_00:
 M: Fey llemay ta mapuche tati
-C : Así pues los mapuche
+C: Así pues los mapuche
 
-M :  <%>kimünmu tati.
-C : conocen pues.
+M:  <%>kimünmu tati.
+C: conocen pues.
 
 nmlch-lfmim1_x_0170_lfmim_00: 
 M: Mapuche llemay
@@ -2303,8 +2303,8 @@ C: saca tu naríz,
 M:  manuel  pifi ;
 C: Manuel, le dijo ;
 
-M :  chi pichike winka
-C : a los pequeños huincas
+M:  chi pichike winka
+C: a los pequeños huincas
 
 M:  saca tu nari 
 C: saca tu nariz
@@ -2325,7 +2325,7 @@ M:¿chumal anta sungupimi
 C: ¿para que hablaste
 
 M:  <*SPA>mama?
-C. mamá?
+C: mamá?
 
 M:  kümelkalaymi rume 
 C: no hablaste bien 
@@ -2381,9 +2381,9 @@ M:  inche tañi pichi domo
 C: mi pequeña hija
 
 M:  ta ta fey tüfa mayta, 
-C : pues ahorá,
+C: pues ahorá,
 
-M : mapudunguki doy chi.
+M: mapudunguki doy chi.
 C: habla un poco más, el idioma mapuche.
  
 nmlch-lfmim1_x_0179_nmlch_00: 
@@ -2447,18 +2447,18 @@ M: feyta fey rume
 C: ese igual
 
 M:  küme sungu ta ayiniy
-C : se alegra de las buenas cosas
+C: se alegra de las buenas cosas
 
-M :  <%>tachi pichi malen 
-C : su pequeña niña
+M:  <%>tachi pichi malen 
+C: su pequeña niña
 
-M : ta fentren che ta
-C : que toda esta gente
+M: ta fentren che ta
+C: que toda esta gente
 
-M :  mongelepe pingeki 
-C : este viva se dice
+M:  mongelepe pingeki 
+C: este viva se dice
 
-M : ka niyngün<%>....
+M: ka niyngün<%>....
 C: y tambien tienen......
 
 nmlch-lfmim1_x_0186_lfmim_00:
@@ -2595,8 +2595,8 @@ C: pues me enegreci le decía
 M:  ta kuruwün tati 
 C: me enegrecí pues
 
-M : Erasmo Huenchuman pingi 
-C : Erasmo Huenchuman se llama
+M: Erasmo Huenchuman pingi 
+C: Erasmo Huenchuman se llama
 
 M: tachi wentru 
 C: el hombre
@@ -2690,7 +2690,7 @@ M: May.
 C: Sí.
 
 M: Ngillatumen tati
-C. Fui a rogar pues
+C: Fui a rogar pues
 M:  ngütrümtufin
 C: lo fui a llamar
 
@@ -2742,7 +2742,7 @@ M:  feyta mawelmekelu engün
 C: cuando fuimos a lasear
 
 M: feytachi pichi weche
-C. pues el pequeño joven
+C: pues el pequeño joven
 
 M:  feyta amuletuay tañi ngütram tati
 C: pues avanzara mi conversacion
@@ -2775,35 +2775,35 @@ C: Ese que parece dueño
 M: *..feyta *..feymu ta 
 C: pues por eso
 
-M : *..feymu,
-C :por eso,
+M: *..feymu,
+C:por eso,
 
-M :  *..fey tur ngerki tachi pichi weche
-C :  así lo contagiaron al pequeño joven
+M:  *..fey tur ngerki tachi pichi weche
+C:  así lo contagiaron al pequeño joven
 
-M :  kuyitungeaymi pingefuy
-C : .........................le dijeron
+M:  kuyitungeaymi pingefuy
+C: .........................le dijeron
 
-M :  pirkelay kuyitungelayan pi 
-C : no quiso..................... dijo
+M:  pirkelay kuyitungelayan pi 
+C: no quiso..................... dijo
 
-M : fey amuyngün 
-C : pues fueron
+M: fey amuyngün 
+C: pues fueron
 
-M : feyta dewkelu
-C : donde se hace
+M: feyta dewkelu
+C: donde se hace
 
-M :  dewma seu ngellipungeyngün 
-C :  hacen esa rogativa
+M:  dewma seu ngellipungeyngün 
+C:  hacen esa rogativa
 
-M : entukomingün 
-C : fueron a sacar agua
+M: entukomingün 
+C: fueron a sacar agua
 
-M : fey rangiñ patulu
-C : cuando llego a la mitad
+M: fey rangiñ patulu
+C: cuando llego a la mitad
 
-M :  feyta rupa duamürki 
-C : se le paso el sentido
+M:  feyta rupa duamürki 
+C: se le paso el sentido
 
 M: rupa duami
 C: se le paso el sentido
@@ -2872,19 +2872,19 @@ C: esa lo anda trayendo
 M: *..feymu ta tu kutrani 
 C: por eso se enfermo
 
-M : *..feyta wüne mongelamtufin
-C : por eso primero no lo alivie
+M: *..feyta wüne mongelamtufin
+C: por eso primero no lo alivie
 
-M :  ñuke fey <*SPA>despue kisu ta feyta
-C : esa Madre, ella pues 
+M:  ñuke fey <*SPA>despue kisu ta feyta
+C: esa Madre, ella pues 
 
-M :  ngillatuymametuyen ka
-C : le fue a rogar pues
+M:  ngillatuymametuyen ka
+C: le fue a rogar pues
 
-M :  ngillatumetufi <*SPA>septiembre mew
-C : le fue a rogar en el mes de Septiembre
+M:  ngillatumetufi <*SPA>septiembre mew
+C: le fue a rogar en el mes de Septiembre
 
-M :  ayar küli tranngliñ welu inche ta.
+M:  ayar küli tranngliñ welu inche ta.
 C:  habia escarcha, pero yo.
  
 nmlch-lfmim1_x_0199_lfmim_00:
@@ -2939,11 +2939,11 @@ C: todos tienen un tiesto pues
 M:  kom ta ni charutuwe
 C: todos tienen tiesto
 
-M :  tachi mawelfe
-C : el que lo enrolla
+M:  tachi mawelfe
+C: el que lo enrolla
 
-M :  *..fey tañi challa külko
-C : esa olla de canasto
+M:  *..fey tañi challa külko
+C: esa olla de canasto
 
 M:  itrofill felewekafuy
 C: de todo quedaron asi
@@ -2986,7 +2986,7 @@ C: a ese le agrade, vendra a levantar
 M: feyta witrapaki tachi 
 C: pues viene a levantar
 
-M : kuse machi akuki.
+M: kuse machi akuki.
 C: la anciana Machi llega.
  
 nmlch-lfmim1_x_0206_nmlch_00: 
@@ -3064,10 +3064,10 @@ C:Ellos..............
  
 nmlch-lfmim1_x_0213_lfmim_00: 
 M: Kisu ta karku pi
-C : Ella dijo el espiritu negativo
+C: Ella dijo el espiritu negativo
 
-M :  nome pialu karku pi.
-C : en vez de decir al otro lado, dijo espiritu negativo
+M:  nome pialu karku pi.
+C: en vez de decir al otro lado, dijo espiritu negativo
 
 nmlch-lfmim1_x_0214_nmlch_00:
 M: Lafken che machi.
@@ -3095,16 +3095,16 @@ C: o eso es distinto sobrino
 M:  kali tachi pu' ngüneluwun
 C: son distintos pues, los primeros
 
-M :  kiñelay ta ngüneluwün
-C : no son uno los primeros
+M:  kiñelay ta ngüneluwün
+C: no son uno los primeros
 
-M : *..femngechi 
-C :asi
+M: *..femngechi 
+C:asi
 
-M : *..feyta tutemefin ta 
-C : pues le agrade
+M: *..feyta tutemefin ta 
+C: pues le agrade
 
-M : <%>fey engu tati.
+M: <%>fey engu tati.
 C: con ese pues.
  
 nmlch-lfmim1_x_0216_nmlch_00: 
@@ -3138,10 +3138,10 @@ C: hay Machi mujer
 M: epu li <%>tayau
 C: hay dos tipos de machi
 
-M :  üyag üyagmu ta newen 
+M:  üyag üyagmu ta newen 
 C:.........................la fuerza
 
-M : mawidamu tati.
+M: mawidamu tati.
 C: en la Montaña pues
 
 nmlch-lfmim1_x_0220_nmlch_00: 
@@ -3167,6 +3167,5 @@ C: Enrollado.......
 
 
 
-1
 
 

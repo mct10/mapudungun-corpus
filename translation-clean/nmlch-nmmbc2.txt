@@ -600,7 +600,7 @@ C: porque nosotros
 M: kidu kimniyiñ
 C: solo sabemos 
 
-M tañi chuchi tuchimu tañi nien 
+M: tañi chuchi tuchimu tañi nien 
 C: de cómo  como tenemos 
  
 M:<SPA>porque pewmayiñ 
@@ -1048,7 +1048,7 @@ C:  Salío salío
 M: chem chafo
 C: que refriado
 
-M. trelüngtuy longko
+M: trelüngtuy longko
 C:  esta dura la cabeza 
 
 M: fey femngen tati
@@ -1126,7 +1126,7 @@ C:  creer creer
 M: <SPA>entonce fey weküfü
 C: entonces asi el wekufe
  
-M. kontulay ini rume
+M: kontulay ini rume
 C:  no le entra a nadie 
 
 M: fey ñi lesulkangeal
@@ -1518,14 +1518,14 @@ M: feychi epu soltau witrali pu'.
 C: así dos soldado estaban parado.
 
 nmlch-nmmbc2_x_0084_nmlch_00:
-M. <uhm> 
+M: <uhm> 
 C:
 
 nmlch-nmmbc2_x_0085_nmmbc_00:
 M: Eymi anchi pi
 C: Es usted dijo
 
-M. inche tati papay pin
+M: inche tati papay pin
 C: yo soy abuela dije 
 
 M: chem dunguam niyimi
@@ -1865,7 +1865,7 @@ M: Mongekelay.
 C:  No vive.
 
 nmlch-nmmbc2_x_0107_nmmbc_00:
-M Mongekelay
+M: Mongekelay
 C: No vive
 
 M: inche nien rakiduam

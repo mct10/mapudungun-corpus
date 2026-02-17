@@ -415,7 +415,6 @@ M: nii meli tripantu fütra kutrani
 C: cuando tenía cuatro años se enfermo arto
 
 nmlch-nfdqqA2_x_0051_nmlch_00: 
-aaa
 
 nmlch-nfdqqA2_x_0052_nfdqq_00: 
 M: fey mülekafuy machi <Noise> 
@@ -558,7 +557,7 @@ M: sin grasa piengefun tati
 C:  sin grasa le decían
  
 nmlch-nfdqqA2_x_0072_nmlch_00:
-M. pitalmu tami pipiengefel
+M: pitalmu tami pipiengefel
 C:  en  el hospital le dicen
  
 nmlch-nfdqqA2_x_0073_nfdqq_00:
@@ -575,7 +574,6 @@ M: chem rume ta provingelan tati
 C:  de todo me prohibieron 
 
 nmlch-nfdqqA2_x_0074_nmlch_00: 
-aaa
 
 nmlch-nfdqqA2_x_0075_nfdqq_00:
 M:  <*SPA>nada, nada matra
@@ -842,7 +840,6 @@ M:  lo que dicen dijo pienu
 C:  lo que dicen me dijo
 
 nmlch-nfdqqA2_x_0104_nmlch_00: 
-aaa
 
 nmlch-nfdqqA2_x_0105_nfdqq_00: 
 M: <*SPA>así que no tenia visikula
@@ -899,7 +896,6 @@ M: echameno tukefi
 C: lo hecho mucho de meno
 
 nmlch-nfdqqA2_x_0112_nmlch_00: 
-aaa
 
 nmlch-nfdqqA2_x_0113_nfdqq_00: 
 M: feymu kontrolawtukefun 
@@ -909,7 +905,6 @@ M: femechi refriawün feymu amutukefun
 C:  cuando me refrie por eso hiba 
 
 nmlch-nfdqqA2_x_0114_nmlch_00: 
-aaa
 
 nmlch-nfdqqA2_x_0115_nfdqq_00: 
 M: <*SPA>ta gueno eso me dijo
@@ -1018,7 +1013,6 @@ M:  pichin l'awen' mten mongeaymi pienu
 C:  con poco remedio numa va a vivir me dijo
 
 nmlch-nfdqqA2_x_0128_nmlch_00: 
-aaa
 
 nmlch-nfdqqA2_x_0129_nfdqq_00: 
 M: ielmutuaymi fill <*SPA>

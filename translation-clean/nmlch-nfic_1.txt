@@ -4,7 +4,7 @@
 ; Last changes made on 06/18/2001 
 ; Transcriber: Flor Caniupil H. 
 ; Comments:  
-traduce wishka
+; traduce wishka
 ; 
 nmlch-nficñ1_x_0000_nmlch_00: 
 M: <%> Mari mari ñuke. 
@@ -790,7 +790,7 @@ C: Eso se transforma en piedra.
 
 nmlch-nficñ1_x_0094_nmlch_00: 
 M: Kurakünuwki.
-V: Se convierte en piedra.
+C: Se convierte en piedra.
 
 nmlch-nficñ1_x_0095_nficñ_00:
 M: May. 
@@ -1096,7 +1096,7 @@ M: Pürüm grafanmu,
 C:  Rápidamente si se graba, 
 
 M: müna kümefuy <*SPA>pu'.  
-C : muy bueno sería  pues.
+C: muy bueno sería  pues.
 
 nmlch-nficñ1_x_0128_nmlch_00: 
 M: Mülerkefulu ta katrütukelu ta kutran 
@@ -1568,7 +1568,7 @@ M:wingkaürke ta feypi ta -/ma/- machi ka.
 C: son los huinca Así  dijo el machi pues.
 
 nmlch-nficñ1_x_0180_nmlch_00: 
-¡M: Ah. 
+M: Ah. 
 C: Ah.
 
 nmlch-nficñ1_x_0181_nficñ_00: 
@@ -2964,7 +2964,7 @@ C: era totalmente  mudo.
 
 nmlch-nficñ1_x_0337_nmlch_00: 
 M: ¿Feyta ka <uh> kimkelafuyka, ka...?. 
-C : ¿Y tampopco tenia conocimiento, también...?.
+C: ¿Y tampopco tenia conocimiento, también...?.
 
 nmlch-nficñ1_x_0338_nficñ_00: 
 M: Kimkelafuy turpu. 
@@ -3710,5 +3710,3 @@ nmlch-nficñ1_x_0438_nficñ_00:
 M: Femuechi amutuy tañi pu punen tati.
 C: Así se fueron mis hijos pues.
 
-Wishka
-Cañulef

@@ -433,7 +433,7 @@ C: había una botella sentada, al entrar al orto lado
 M:  rüpütufimu fey mankükütufin. 
 C: estaba en el camino, ahí lo patiamos.
 
-nmlch-nfmlq2_x_0039_nmlch_00
+nmlch-nfmlq2_x_0039_nmlch_00:
 M: ¿Kiñe l'a dewi nierki?
 C:  ¿Un ratón muerto tenia? 
 
@@ -1193,7 +1193,7 @@ C:  también me hicieron mal les vas a decir.
 
 nmlch-nfmlq2_x_0117_nfmlq_00: 
 M: Feymu mongeaymi 
-C. Con eso vas ha vivir
+C: Con eso vas ha vivir
 
 M: <*SPA>si no mongelaymi fey eypin.
 C: si no no vas ha vivir  se dice.
@@ -1242,7 +1242,7 @@ C: Ah.
 
 nmlch-nfmlq2_x_0125_nfmlq_00:
 M: Chod <*SPA>polvo. 
-C. Polvo amarillo.
+C: Polvo amarillo.
 
 nmlch-nfmlq2_x_0126_nmlch_00: 
 M: Ah.
@@ -1537,7 +1537,7 @@ M: Femli ta kümeafuy ta
 C: Si hago eso sería bueno
 
 M: re vangeliku müli
-C; hay puro evangélico
+C: hay puro evangélico
 
 M: dawpipingepelafun piken
 C: no me vendrían hacer trabajo digo
@@ -1713,7 +1713,7 @@ C: Pero, no es igual.
 
 nmlch-nfmlq2_x_0177_nfmlq_00: 
 M: Trürlay ngeypilay turpu. 
-C. No es igual, no puede nada.
+C: No es igual, no puede nada.
 
 nmlch-nfmlq2_x_0178_nmlch_00: 
 M: Ah. 
@@ -1968,7 +1968,7 @@ nmlch-nfmlq2_x_0210_nmlch_00:
 M: ¿Chalintutuukefimi? 
 C:  ¿Le encomiendas?
 
-nmlch-nfmlq2_x_0211_nfmlq_00
+nmlch-nfmlq2_x_0211_nfmlq_00:
 M: Chalintutukukefinengün ka. 
 C: Los encomiendo también.
 
@@ -2480,7 +2480,7 @@ C: Sí.
 M: rume newen ni <*SPA>pu' 
 C:  tiene mucha fuerza pues
 
-M. kümey ka karül,
+M: kümey ka karül,
 C: es bueno verde ,
 
 M: karül peleyngün anchi.
@@ -2685,7 +2685,7 @@ C: Lo planté también
 M:  fey müna küme epifenu anfe 
 C:  eso si que es bueno, a lo mejor me habría dicho
 
-M. feyta ramtulafin como prewkupawlan ka.
+M: feyta ramtulafin como prewkupawlan ka.
 C: eso no le pregunte como no me preocupe .
 
 nmlch-nfmlq2_x_0336_nmlch_00: 
@@ -2878,7 +2878,7 @@ M: May
 C: Sí
 
 M:  utero pingi 
-C. útero se llama
+C: útero se llama
 
 
 M: wentru müte kümelay putukolen 

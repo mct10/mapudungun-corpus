@@ -1503,7 +1503,7 @@ C: también por el mapuche, donde sus propios mapuche
 
 M: fey ka *müli tachi wingka
 C: también el huinca debe 
-M. ñi falilngetual tüfachi medika 
+M: ñi falilngetual tüfachi medika 
 C: valorar  esta médica 
 
 M: machi pinnga ti tayi 

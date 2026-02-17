@@ -1208,7 +1208,7 @@ M:  May.
 C: Sí.
 
 M:  Fey chi l'awen' mu.
-C. Con ese remedio.
+C: Con ese remedio.
 
 nmlch-nfdqqB1_x_0116_nmlch_00: 
 M: Ka notukefuy tüfi. 
@@ -1431,7 +1431,7 @@ M:  fill kutran mu konpelu
 C: si entra en tantas enfermedades
 
 M:  natrüng llemoam,
-C; no es natri acaso 
+C: no es natri acaso 
 
 
 M:  pel kutran mew 

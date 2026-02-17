@@ -56,8 +56,7 @@ nmlch-nfmm2_x_0007_nfmm_00:
 M: Fay willeñmu fayümngi chemu 
 C: La orina se fermenta en 
 
-M: pichike metawe mülekefuy kuyfi ta 
-<Noise> küllaytutuy
+M: pichike metawe mülekefuy kuyfi ta <Noise> küllaytutuy
 C: pequeños cantaros antes habían 
 
 M: ta ngewelay ta metawe <uh> 

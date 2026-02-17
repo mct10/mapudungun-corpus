@@ -388,7 +388,7 @@ M: fey femuechi l'awen'tun müten
 C: etonces así no mas me hice remedio 
 
 nmlch-nfmc1_x_0043_nmlch_00: 
-<uhm> <%> 
+<uhm>  
 
 M: Tami welu, pewütalaymün 
 C: Su, pero no lo diagnostico 
@@ -1327,7 +1327,7 @@ C: entonces al otro día llore
 M: ka eluenu l'awen' 
 C: también me dio remedio 
 
-M. fey nentuen tami orin pienu 
+M: fey nentuen tami orin pienu 
 C: entonces tiene que sacar su orina me dijo 
 
 M: ka nentuenu orin.
@@ -1376,7 +1376,7 @@ C: tres gente esta recibía su orina
 M: ka tüfi linternatuli pienu l
 C: también ese esta con linterna me dijo 
 
-M. iternatuli infitungekimi tati pienu 
+M: iternatuli infitungekimi tati pienu 
 C: esta con linterna, te hicieron mal pues me dijo 
 
 M: infitungeymi pienu 
@@ -1872,7 +1872,7 @@ M: Pitay may tüfa pi
 C: Es grande ahora dijo
 
 M: tañi wentru 
-C. mi hombre 
+C: mi hombre 
 
 M: fey, fey <%> fey elmetunpu, 
 C: es, ese , es lo fui a dejar 

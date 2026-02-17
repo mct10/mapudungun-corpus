@@ -723,7 +723,7 @@ M: chemki ama <uh>
 C: que le ocurre
 
 M: wedakünueyu yagel 
-C al hacerle mal la comida
+C: al hacerle mal la comida
 
 M: fayi ñi yagel chem tukukimün
 C: al fermentar la comida que le colocan
@@ -1936,6 +1936,5 @@ C: buscaba comida.
 
 
 
-1
 
 

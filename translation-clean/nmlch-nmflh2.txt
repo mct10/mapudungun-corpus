@@ -501,7 +501,7 @@ nmlch-nmflh2_x_0067_nmflh2_00:
 M: feyta feymew kimki ka pu welu
 C: entonce por eso sabe también 
 
- Ngünechen ta kepelay ka feyta 
+M: Ngünechen ta kepelay ka feyta 
 C: Dios el ayuda entonce 
 
 nmlch-nmflh2_x_0068_nmlch_00:
@@ -542,7 +542,7 @@ C: Alguno <uhm> <uhm>
 M: rukamu müleymün?
 C: en la casa lo tuvieron ? 
 
-nmlch-nmflh2_x_0075_nmflh2_00
+nmlch-nmflh2_x_0075_nmflh2_00:
 M: May kom <%> 
 C: Sí todo <%>
 
@@ -594,7 +594,7 @@ M:  mülekefui kiñe papay welu ta amutui dewma
 C:  Habia una abuelita pero ya se fue 
 
 nmlch-nmflh2_x_0084_nmlch_00:
-M_:  ka mapungetui 
+M:  ka mapungetui 
 C: Es de otra tierra 
 
 nmlch-nmflh2_x_0085_nmflh2_00:
@@ -745,7 +745,7 @@ M:  küme mongel niafel?
 C: buena salud?
 
 nmlch-nmflh2_x_0107_nmflh2_00: 
-<uhm> <hm> 
+<uhm>
 
 nmlch-nmflh2_x_0108_nmlch_00: 
 M: Elukefeyu penu l'awen' tüfichi 
@@ -1156,7 +1156,7 @@ nmlch-nmflh2_x_0172_nmlch_00:
 M:  Kutrankefui tüfey
 C: Se enfermaba ese 
 
-nmlch-nmflh2_x_0173_nmflh2_00
+nmlch-nmflh2_x_0173_nmflh2_00:
 M: May
 C: Sí. 
 
@@ -1287,7 +1287,7 @@ C: avece en el calor la gente cuando hay chicha dulce
 M:  feyta femechi ta elungi feymew
 C: Así les dieron entonce 
 
-nmlch-nmflh2_x_0192_nmlch_00
+nmlch-nmflh2_x_0192_nmlch_00:
 M: Ka ruka tamu 
 C: En otra casa 
 

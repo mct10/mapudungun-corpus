@@ -1880,7 +1880,7 @@ C: y cómo le mostrarán los remediosa  la machi, hermano,
 M: kimlaymi tüfi eymi?.
 C: no conoces eso tú?.
 
-nmlch-nmpll1_x_0156_nmpll_00
+nmlch-nmpll1_x_0156_nmpll_00:
 M:<*SPA>No fey,<*SPA>no feyta...
 C: Eso no, esto no...
 
@@ -2224,7 +2224,7 @@ M: vesinu müten llemay ta meki.
 C: vecino pues lo hizo.
 
 nmlch-nmpll1_x_0192_nmlch_00: 
-M. Ah.  
+M: Ah.  
 C: Ah.
 
 nmlch-nmpll1_x_0193_nmpll_00:
@@ -3421,4 +3421,3 @@ M: Feymu may ta wüwelay ta ya...
 C: Por eso es que ya no da ...
 
 
-Cañulef

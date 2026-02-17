@@ -2260,7 +2260,7 @@ C: Todos dolor de muela,
 M: kutran kangelu 
 C: otras enfermedades,
 
-rüle kutran ka 
+M: rüle kutran ka 
 C: resfrios pues
 
 M: feyti nagnag kutran

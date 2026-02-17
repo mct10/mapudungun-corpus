@@ -115,7 +115,7 @@ M: feyta femuen
 C: esto apenas
 
 M: <SPA>y ini rume nga
-C.  y nadie
+C:  y nadie
 
 M: vemngen adümrumelay peñi
 C:  no puede saber así hermano
@@ -596,7 +596,7 @@ C:  mis hijas son de otras partes
 M: mülevuy ta tüfafey
 C:  ahora esta ella
 
-M. ta kiñe kiñe miawi wariapüle
+M: ta kiñe kiñe miawi wariapüle
 C:  una anda cerca de la ciudad
 
 M: fütangi ka vey feyta kangelu müli fawpüle 
@@ -939,7 +939,7 @@ M:  müli nga weda dungu anay
 C:  hay un asunto malo hombre
 
 M: <SPA>pariente <SPA>y mandagenu tami llalla
-C.  pariente  y me mandaron donde tu suegra
+C:  pariente  y me mandaron donde tu suegra
 
 M:  <SPA>suegra chumavun anve
 C:  suegra, que le puedo hacer pues
@@ -2181,7 +2181,7 @@ M: ta dewmalu kure
 C: quien va hacer la casa
 
 M: dewmavali tati kiñe machi yengemi
-C. lo mando hacer a una machi, lo fueron a buscar
+C: lo mando hacer a una machi, lo fueron a buscar
 
 M: kuyfiam feypi anta <SPA>
 C: como lo dijo antes
@@ -2241,7 +2241,7 @@ C: y así
 
 nmlch-lmmc1_x_0123_lmmc_00: 
 M: Dewmavali
-C. Lo mandó hacer
+C: Lo mandó hacer
 
 M: tachi kintu llemay tati
 C: para esto calro que tuvo que buscar
@@ -2564,7 +2564,7 @@ M: Küme wentru
 C: Un buen hombre
 
 M: ka wülallaymi dungu 
-C. y también no daras las cosas
+C: y también no daras las cosas
 
 M: cheñmuaymi
 C: lo haras de tu cuidado
@@ -3163,7 +3163,7 @@ C: Sí.
  
 nmlch-lmmc1_x_0194_lmmc_00: 
 M: <SPA>Sí.
-C : Sí.
+C: Sí.
 
 M: <SPA>pu <SPA>verdad <SPA>ese
 C: pues la verdad, ese 

@@ -1494,7 +1494,7 @@ C: ¿Hermana, no te ha encontrado con espíritu maligno?
 
 nmlch-pfamm1_1_0143_pfamm_00: 
 M: <*SPA>No trafentukelan.
-C. No me ha encontrado con espíritu malo
+C: No me ha encontrado con espíritu malo
  
 nmlch-pfamm1_1_0144_nmlch_00: 
 M: Trafentukelaymi.
@@ -1683,7 +1683,7 @@ C: que todo el cuerpo me vieron, por medio de una
 M: <*SPA>radiografia chemu furimu kom malükangen chumül
 C: radiográfia me vieron la espalda y todo, el otro día 
 
-M.  <*SPA>no <*SPA>esta <*SPA>sana <*SPA>me 
+M:  <*SPA>no <*SPA>esta <*SPA>sana <*SPA>me 
 C: no esta sana me
 
 M: <*SPA>dijo <*SPA>presión <*SPA>no <*SPA>tiene <*SPA>que 
@@ -1773,7 +1773,7 @@ M: <*SPA>Ese <*SPA>era, <*SPA>no <*SPA>ante
 C: Ese era, no ante..
 
 M: <*SPA>no <*SPA>había pitalpu fey tüfa may müley.
-C. no había hospital pues, que ahora hay  
+C: no había hospital pues, que ahora hay  
 
 nmlch-pfamm1_1_0175_nmlch_00: 
 M: Feula müley pital.
@@ -1802,7 +1802,7 @@ M: <uh> ileluwün trafentun  feytichi kutran
 C: cómo hacer el mal, como encontrarse con el espíritu malo de esa enfermedad 
 
 M: ta mongekelay pitalmu pingey.
-C. que no se mejora en el hospital dicen.
+C: que no se mejora en el hospital dicen.
  
 nmlch-pfamm1_1_0180_pfamm_00: 
 M: <*SPA>Si <*SPA>así feypingekey chi feypingekey.
@@ -1926,7 +1926,7 @@ C: que vino a dar de todo araucaría todo el árbol.
    
 nmlch-pfamm1_1_0195_nmlch_00: 
 M: Ko.
-C. Agua.
+C: Agua.
  
 nmlch-pfamm1_1_0196_pfamm_00:
 M: Itrofill elürpay fey chemkakefun ka pichiken 
@@ -2358,7 +2358,7 @@ M:  fey entuymangi tañi fotilla chuyku
 C: se le dieron en botella lo de la chuica
 
 M: <*SPA>vino ütrüfentukunumefiñ <Noise>.
-C. el vino lo fui a votar.
+C: el vino lo fui a votar.
 
 
   

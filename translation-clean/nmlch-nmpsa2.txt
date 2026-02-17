@@ -291,7 +291,7 @@ M: Fey <*SPA>depue'  <Cough>
 C: así después
 
 M: rupalu antü tüfi 
-C al pasar los días
+C: al pasar los días
 
 M: ka amuymi tami pewfaluwmial 
 C: ¿fue dnuevo para que lo revisaran?.
@@ -505,7 +505,6 @@ M: welu no kümelkalan
 C: pero no lo hago bién.
 
 nmlch-nmpsa2_x_0078_nmlch_00: 
-mmm 
 
 nmlch-nmpsa2_x_0079_nmpsa_00: 
 M: Pitiken müten in, 
@@ -588,7 +587,7 @@ C: en estos tiempos, me canso.
 
 nmlch-nmpsa2_x_0092_nmlch_00: 
 M: Ah.
-C. Ah.
+C: Ah.
  
 nmlch-nmpsa2_x_0093_nmpsa_00: 
 M: Tüfey tati eltunpüle pichi, 
@@ -781,7 +780,7 @@ C: ha sido el primero en este lugar
 M: fey Ngünechen ta dullikeyu ürke ta che 
 C: pues Ngünechen elige a las personas
 
-M : feyta <uh> pürümkechi ta kimki tañi pial 
+M: feyta <uh> pürümkechi ta kimki tañi pial 
 C: así muy pronto saben lo que tienen que decir
 
 M: ta nieki ta <uh> dungu tati peñi 
@@ -1312,7 +1311,7 @@ M: yewengni tüfika,
 C: da vergüenza eso,
 
 M: rume al'üley che 
-C; hay mucha gente
+C: hay mucha gente
 
 M: fey kiñe <uh> anüli 
 C: ............................
@@ -1351,7 +1350,7 @@ M: kiñekemu müten wawüyuken
 C: algunas veces no mas....
 
 nmlch-nmpsa2_x_0211_nmlch_00: 
-M : Chem pingi  pipimiama chi pichi üñüm?
+M: Chem pingi  pipimiama chi pichi üñüm?
 C: Cómo se llama este pequeño pájaro?
 
 nmlch-nmpsa2_x_0212_nmpsa_00: 
@@ -1965,7 +1964,7 @@ M: ta kom tañi miawülel,
 C: todo lo que está,
 
 M: welu fukuñ, 
-C. pero el fukuñ,
+C: pero el fukuñ,
 
 M: fukuñkünuwi feyta  punwi konika
 C: se presentó como fukuñ por eso entró.
@@ -2491,7 +2490,7 @@ M: Ah.
 C: Ah.
  
 nmlch-nmpsa2_x_0409_nmpsa_00: 
-<%> <*SPA>
+<%>
 
 nmlch-nmpsa2_x_0410_nmlch_00: 
 M: Naselu guagua, pichiche...

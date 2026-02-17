@@ -440,7 +440,7 @@ nmlch-nmjab1_x_0038_nmjab_00:
 M:   Müli feytichi l'awen' kolantu l'awen' pingi 
 C:    Existe ese remedio el colan le dicen 
 
-M   fey elungi feyta fütake koyammu tripay 
+M:   fey elungi feyta fütake koyammu tripay 
 C:   ese le dieron, esto sale de los grandes pajonales
 
 M:   <uh> kuyfitu chi koyamentumu 
@@ -707,7 +707,7 @@ M:   ka müli ñi kimafiel ta chi kutran,
 C:    tiene que conocer la enfermedad
 
 M:   ka adümafiel feymu ta müli ta machi,
-C     y para eso está la machi,  
+C:     y para eso está la machi,  
 
 nmlch-nmjab1_x_0067_nmjab_00:
 M:   ka femuechi adkünueyu ta Ngünechenka
@@ -2247,6 +2247,5 @@ C:   Hoja.
 
 
 
-1
 
 

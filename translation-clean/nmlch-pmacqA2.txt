@@ -1161,7 +1161,7 @@ M: Mongelay may müna wedano.
 C: No se mejora pues que malo no.
   
 nmlch-pmacqA2_1_0133_pmacq_00: 
-<%> <%> <Noise> 
+<%> 
  
 nmlch-pmacqA2_1_0134_nmlch_00: 
 M: ¿Indiciongekeymikay <!1indiciongekimikay>?

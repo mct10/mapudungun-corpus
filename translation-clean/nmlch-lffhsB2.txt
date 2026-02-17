@@ -170,7 +170,7 @@ nmlch-lffhsB2_x_0018_nmlch_00:
 M: Münalechi kay 
 C: Y que grandioso
 
-M vill ta mongenmu müli ngüneluwün ka.
+M: vill ta mongenmu müli ngüneluwün ka.
 C: durante toda la vida existen dominios pues.
  
 nmlch-lffhsB2_x_0019_lffhs_00: 

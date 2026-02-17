@@ -1,7 +1,7 @@
 ; CDR: 00.00 
 ; TRV: 00.00 
 ; File: nmlch-nmjahB1 ; 
-Last changes made on 02/18/2002 
+; Last changes made on 02/18/2002 
 ; Transcriber: María Elena 
 ; Comments:  
 ;Traduce: Graciela Cabral.
@@ -980,7 +980,7 @@ M: pichi ta malotungi
 C: un poco ..................
 
 M: tachi kutran 
-C. esta enfermedad 
+C: esta enfermedad 
 
 M: veyta ka vüreniengi 
 C: entonces también le ayudaron 

@@ -951,7 +951,7 @@ M: lig kuram achawall müna ülungi may feymu llemay
 C: con huevo blanco de gallina le daban mucho pues por eso pues 
 
 M: ngütamfi kontuki ta foro welu, tripalu kiñepüle 
-C. lo componía le colocaba el hueso pero, cuando salía 
+C: lo componía le colocaba el hueso pero, cuando salía 
 
 M: well foro tati chi akuki pichiken.
 C: solo el hueso este llega poco a poco.
@@ -2118,7 +2118,7 @@ M: Ah.
 C: Ah.
 
 nmlch-nmlmc2_x_0365_nmlmc_00: 
-<Laugh>, <Laugh>
+<Laugh>
 
 nmlch-nmlmc2_x_0366_nmlch_00: 
 M: Weda dungu chi ngefullun ka.

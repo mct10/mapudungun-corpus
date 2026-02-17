@@ -450,7 +450,7 @@ M:   <%> ñi koningen fey ngemeken <*SPA>
 C:    porque es mi sobrino por eso voy,
 
 M:   pu'  rume üdepenu <*SPA>ese  
-C.    pues me odia mucho,  
+C:    pues me odia mucho,  
 
 M:   <*SPA>pu'  müna kümekafuiñ <%> 
 C:    pues le hizo harto bien

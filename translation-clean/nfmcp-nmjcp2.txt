@@ -133,7 +133,7 @@ C: así es como anda
 M:  feyti kutran
 C: esa enfermedad
 
-M  chemüten
+M:  chemüten
 C: en las personas no más
 
 M:  fey fachantü kümelkaleafuy che
@@ -420,7 +420,7 @@ M: femuechi <Noise> feli
 C: así está 
  
 nfmcp-nmjcp2_x_0015_nfmcp_00:
-M  <Noise> <uh> Ka piam ka ramtuayu ta
+M:  <Noise> <uh> Ka piam ka ramtuayu ta
 C: Otra ves le voy a preguntar 
 
 M:  <uh> ¿eymi tami <*SPA>familia
@@ -956,7 +956,7 @@ M:  kuyfi ta deuma fey pe
 C: antes hace tiempo ya 
 
 M:  peymu ta mediku 
-C. me vió un médico 
+C: me vió un médico 
 
 nfmcp-nmjcp2_x_0051_nmjcp_00:
 M: <*SPA> de kuyfi püta kuyfi
@@ -1294,7 +1294,7 @@ C: me atiende.
 
 nfmcp-nmjcp2_x_0077_nfmcp_00: 
 M: atendekeymu <*SPA>ya
-C. te atiende ya
+C: te atiende ya
 
 nfmcp-nmjcp2_x_0078_nmjcp_00:
 M:  feymu, fey tüfamu fey müleluam 

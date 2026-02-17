@@ -1026,7 +1026,7 @@ M: Ñamku engu.
 C:  Con ñamku.
 
 nmlch-lftccB2_1_0141_lftcc_00:
- <hm>  <Noise>  
+ <hm>    
 
 nmlch-lftccB2_1_0142_nmlch_00: 
 M: ¡Aa! 

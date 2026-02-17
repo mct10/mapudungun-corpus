@@ -1442,8 +1442,8 @@ M: ka trarikünungen, pikelan am.
 C:  además me amarraron, digo pues.
 
 nmlch-nficñ2_x_0140_nmlch_00: 
-Ah. 
-Ah.
+M: Ah. 
+C: Ah.
 
 nmlch-nficñ2_x_0141_nficñ_00: 
 M: Doy kutrankangeki ta che, 
@@ -3990,7 +3990,7 @@ C: existían en grandes cantidades en las montañas,
 M: <*SPA>ahora ngelay 
 C: ahora no hay, 
 
-M; pütra kampu  müli,
+M: pütra kampu  müli,
 C: está a  mucha distancia donde hay,
 
 M: üyiw Nülpi müli.
@@ -4541,4 +4541,3 @@ C:  hasta la vista, tía.
 M: Chaltu may, chaltu.
 C: Muchas gracias, gracias.
 
-Cañulef

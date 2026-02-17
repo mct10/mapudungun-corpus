@@ -1840,7 +1840,7 @@ C: este se coloca este pulgante.
 
 nmlch-nfmchA1_x_0241_nmlch_00: 
 M: aaa.
-C Ah.
+C: Ah.
 
 M: Ka chem l'awen' konki pulgantemu lamngen. 
 C: Y que remedio dentra en los pulgante hermana. 

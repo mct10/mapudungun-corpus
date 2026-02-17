@@ -465,7 +465,7 @@ M: Llododon
 C: ..................
 
 M: rume ta kutran,
-C : mucho tiempo enfermé,
+C: mucho tiempo enfermé,
 
 M: epu tripantu may ta felepen,
 C: dos años estuve así,
@@ -3254,7 +3254,7 @@ C: cuando todavía no era su tiempo de morir;
 M: ka <uh> presion pingi 
 C: también presión se le llama 
 
-M; feytichi mollfüñ ka püralelu
+M: feytichi mollfüñ ka püralelu
 C: a la sangre que sube
 
 M: fey eluniengi patilla,
@@ -3488,7 +3488,7 @@ M: kintungelayafuy medika,
 C: no buscarían médica,
 
 M: kintungelayafuy machi,
-N: no buscarían machi,
+C: no buscarían machi,
 
 M: kintungelaafuy <*SPA>doctor  
 C: no buscarían doctor
@@ -3546,4 +3546,3 @@ M: küme llellipun%
 C: buena rogativa.
   
 
- Cañulef

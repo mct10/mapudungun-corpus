@@ -1986,7 +1986,7 @@ M: feyta palngiñmu
 C: entonces en palqui 
 
 M: ta -/kül/ kütrorfi 
-C. la refregaron 
+C: la refregaron 
 
 M: tukulkunufi tañi wünmu 
 C: le colocaron en la boca 
@@ -2091,7 +2091,7 @@ M: Fotramu ka peñi,
 C: En barro pues hermano, 
 
 M: fotramu ta <uh> we lüflu ta che ta 
-C. con barro cuando se quema recién la gente pues 
+C: con barro cuando se quema recién la gente pues 
 
 M: -/pürul/- pürüm ta witralmengey ta fotra 
 C: inmediatamente le van a buscar barro 
@@ -2100,7 +2100,7 @@ M: trarintukungey ta fotra
 C: se amarra el barro 
 
 M: feymu ta mongeki ta che ka
-C. ahí se mejora la gente pues 
+C: ahí se mejora la gente pues 
 
 nmlch-nmimp2_x_0175_nmlch_00: 
 M: ¡Ah!.
@@ -2178,7 +2178,7 @@ M: Tami lofmew müli ta
 C: En su comunidad hay esto 
 
 M: wingka ñi pepiluwpemum kay peñi, 
-C. el que maneja lo huinca hermano 
+C: el que maneja lo huinca hermano 
 
 M: tüfachi posta pingeki 
 C: este  posta se dice 

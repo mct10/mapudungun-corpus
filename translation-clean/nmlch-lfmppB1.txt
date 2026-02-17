@@ -507,7 +507,7 @@ M: Ngewelay kimün <SPA>no <%>
 C: Ya no hay sabiduría no.
 
 nmlch-lfmppB1_x_0062_nmlch_00: 
-<uh> <Cough>  
+<uh> 
 
 nmlch-lfmppB1_x_0063_lfmpp_00: 
 M: Velen dungu tati.
@@ -1897,7 +1897,7 @@ C: De dar de comer a sus hijos no saben.
 
 nmlch-lfmppB1_x_0233_nmlch_00: 
 M: ¿Rume newen yagel peno feyti? 
-C. ¿Serán comidas muy fuertes esas?
+C: ¿Serán comidas muy fuertes esas?
 
 nmlch-lfmppB1_x_0234_lfmpp_00:  
 M: Müna küme yagel ti müna küme yagel tati. 
@@ -2065,7 +2065,7 @@ M: dewmakevuy <SPA>pu
 C: que hacía pues
 
 M: veyta vüchakeche mapuche ta dewmay ta -/ku/- ta <SPA>prenda
-C;: ahí los mapuches hicieron las prendas
+C: ahí los mapuches hicieron las prendas
 
 M:  <SPA>medalla müli trapel akucha 
 C: hay medallas, prendedores 
@@ -3354,10 +3354,10 @@ C: pero no se enfermó mucho
 M: welu ka tami kutranmew 
 C: pero por su enfermedad 
 
-M: ¿ka kutran kutranchengingün kay?.
+M: ¿ka kutran kutranchengingün kay?
 C: ¿por otra enfermedad son enfermizos también?
 
-nmlch-lfmppB1_x_0426_lfmpp_00
+nmlch-lfmppB1_x_0426_lfmpp_00:
 M: Kutranchengelayngün ka.
 C: No son enfermizos también.
 

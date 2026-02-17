@@ -1012,19 +1012,19 @@ M:  vey visküy liglay tüva
 C: con esto se refreca y no se pone blanco este
 
 M: mari tripantu
-C. diez años
+C: diez años
 
 M:  mari kechu tripantu müten ni che 
 C: trece años tiene no más la gente
 
 M: dewma ligüy lonko
-C.  ya tienen blanco el pelo
+C:  ya tienen blanco el pelo
 
 M:  chew ta küchafi ta katripache, 
 C: las personas de antes
 
 M: katripache ñi asümüwünmu 
-C. la sabiduría de gente antigua
+C: la sabiduría de gente antigua
 
 M: veymu küchafi y 
 C: por eso se lavaban y
@@ -1755,7 +1755,7 @@ C: No.
 M: Fey trafen trafen.
 C: El trafen trafen.
 nmlch-lfrll1_x_0227_lfrll_00:
-M : Ah.
+M: Ah.
 C: Ah.
 
 M: ¿Trafen trafen?
@@ -1858,7 +1858,7 @@ M:  katripachemu mongepüdalay
 C:  en otras gente no habría vivido
 
 M: ta trafentulan.
-C. el que esta poseido por fuerzas negativas.
+C: el que esta poseido por fuerzas negativas.
 
 nmlch-lfrll1_x_0244_nmlch_00:
 M: Ah.
@@ -2360,7 +2360,7 @@ M:  ñi inanial müten
 C: de seguir no más
 
 M:  küme küdaw ñi ütrir chenual rume 
-C. buen trabajo para no envidiar
+C: buen trabajo para no envidiar
 
 M: chuchi che kümelkalele 
 C: a la gente que este bien
@@ -2369,7 +2369,7 @@ M: inche kay küdawli
 C: yo si trabajo
 
 M: ka felean pikiaymi 
-C. también voy a estar así vas a decir
+C: también voy a estar así vas a decir
 
 M: pikefenew tañi ñukeyem.
 C: me decía mi madre.
@@ -2624,7 +2624,7 @@ M: veymu vey vemngechi
 C: por eso esto así
 
 M: vey vengechi 
-C. esto así
+C: esto así
 
 M: vey felekevuy che pu'.
 C: así estaba la gente pues.

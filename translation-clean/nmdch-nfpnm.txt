@@ -1932,7 +1932,7 @@ C: que me venga a hacer rogativa"
 M: pikenewengün  inche
 C: me dicen a mí 
 
-M fey<*SPA>y <uhm>  amukey 
+M: fey<*SPA>y <uhm>  amukey 
 C: y  van,
 
 M: fey feremekefin, 
@@ -2213,7 +2213,7 @@ C: que no se manejan mucho
 M: mapuchedungunengün, 
 C: en la lengua mapuche,
 
-M; ka newe niewelain ta feyentun mapumew,
+M: ka newe niewelain ta feyentun mapumew,
 C: ya no tienen obediencia en la tierra,
 
 M: mapuche ayekan 

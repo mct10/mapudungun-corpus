@@ -729,7 +729,7 @@ M: <*SPA>despue ti pichidomo
 C: después esa niña
 
 M: veypipulu ñi ñukemew
-C : al decirle su mamá
+C: al decirle su mamá
 
 M: nalenew pirki
 C: 
@@ -1957,7 +1957,7 @@ C: pero no
 M: <*SPA>me <*SPA>dijeron <*SPA>que
 C: me dijeron que
 
-M <*SPA>esta <*SPA>remedio <%> 
+M: <*SPA>esta <*SPA>remedio <%> 
 C:  estó era remedio.
 nmlch-pmrmmB2_x_0083_pmrmm_00: 
 M: Amulu
@@ -2158,7 +2158,6 @@ C: igual como
 
 M: <*SPA>carton reke may
 C: carton parece si,
-xxxxxxxxxxxxxxxxxx
 M: upan müñafilu 
 C: después de agradecer
 

@@ -313,7 +313,6 @@ M: ¿Feyti ta eymün
 C: ¿Ustedes a esto 
 
 M: rüpütukünulngeymünürke  <!1rüpütukünulngimünürke> 
-ka?.
 C: lo llevo a un buen camino pues?.
 
 nmlch-pfmvmB1_x_0039_pfmvm_00: 
@@ -521,7 +520,7 @@ M:  ¡Aa!.
 C: ¡Ah!.
 
 M: ¿Wefkülepatuy?
-C  ¿Está apareciendo?
+C:  ¿Está apareciendo?
 
 nmlch-pfmvmB1_x_0063_pfmvm_00:
 M: May 
@@ -2119,11 +2118,11 @@ C: Se opera.
 
 nmlch-pfmvmB1_x_0254_nmlch_00: 
 M: ¿Welu faupüle ngelay müte feychi dungu?.
-C :¿Pero por aca no hay esa enfermedad?.
+C:¿Pero por aca no hay esa enfermedad?.
 
 nmlch-pfmvmB1_x_0255_pfmvm_00: 
 M: <*SPA>No mülelay .  
-C : No, no hay.
+C: No, no hay.
 
 nmlch-pfmvmB1_x_0256_nmlch_00:
 M:  Feylle ta.
@@ -2211,7 +2210,7 @@ C: Por eso pues que... nace dicen.
 
 nmlch-pfmvmB1_x_0268_nmlch_00: 
 M: May, may, may.
-C :S i, si, si.
+C:S i, si, si.
 
  nmlch-pfmvmB1_x_0269_pfmvm_00:
 M:  Ka kiñeke ta pu siñura kimlu kuram 

@@ -456,7 +456,7 @@ M: <Cough> feyta <%> feychi wedake <*SPA>veneno <!1venenu>
 C:  eso, esos venenos maléficos
 
 M:  komeu <!1komu> 
-C.  en el agua
+C:  en el agua
 
 M: pünokoni feymu 
 C: ella piso en ella
@@ -870,7 +870,7 @@ M: <*SPA>Sí<*SPA>pues <*SPA>hijo.
 C:  Sí pues hijo.
  
 nmlch-lftccA1_1_0094_nmlch_00:
-M. Feyti fey 
+M: Feyti fey 
 C:  Y esos
 
 M: feytichi niefulu adümuuwün may
@@ -1294,7 +1294,7 @@ M: <*SPA>mas <!1ma> <*SPA>creo
 C:  más  creo
 
 M:  <*SPA>el feyti wedake weküfü wedake kürüf 
-C :  en esos  vientos  maléficos
+C:  en esos  vientos  maléficos
 
 M: <*SPA>ese<*SPA>se <*SPA>presenta
 C:  ese  que  se presenta
@@ -1311,7 +1311,7 @@ C:  a ésta altura hay eso
 M: machi mületuy 
 C:  ahora hay machi
 
-M. weke machi pin müley 
+M: weke machi pin müley 
 C:  machis nuevas
 
 M: fey feyti wedake kürüf
@@ -1642,9 +1642,9 @@ C:  Ya no existen esas cosas.
 
 nmlch-lftccA1_1_0172_nmlch_00: 
 M: Rume tutekefuy pingey <!1pingi> ta mapuche 
-C.  Dicen que los  mapuches cumplían muy bien
+C:  Dicen que los  mapuches cumplían muy bien
 
-M. kuyfi Ngünechenmeu.
+M: kuyfi Ngünechenmeu.
 C:  antes, ante su Dios.
 
 nmlch-lftccA1_1_0173_lftcc_00: 
@@ -1666,7 +1666,7 @@ C:   Ahora
 M:  weda amuley <!1amuli> ta tripantu 
 C:   cuando el año va mal
 
-M   tüfa <uh> müna mauküley 
+M:   tüfa <uh> müna mauküley 
 C:   ahora llueve demasiado
 
 M:  ngelayay küme tukun peno
@@ -2265,7 +2265,7 @@ C:  Sí.
 M:  Femngechi <!1femuechi> müten kimi.
 C:   Asi no más sabe.
 
-nmlch-lftccA1_1_0252_nmlch_00
+nmlch-lftccA1_1_0252_nmlch_00:
 M:  Münalechikay <*SPA>no 
 C:   Es complicado no
 
@@ -2516,11 +2516,11 @@ C:  Ya  no se acuerda
 M: chau <*SPA>nada 
 C:  padre, nada
 
-M. feyta fantenmu ta felen tripantu 
+M: feyta fantenmu ta felen tripantu 
 C:  a esta altura , es, como estan los  años
 
 M: amuley <!1amuli> tripantu
-C.  los  años  avanzan
+C:  los  años  avanzan
 
 M:  cheuam allküayiñ ta
 C:  donde vamos a escuchar ahora

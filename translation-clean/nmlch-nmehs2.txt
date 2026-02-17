@@ -312,7 +312,7 @@ M: kiñe küla trapimu fey rupaki chi ojo kulliñ
 C: con unos tres ajíes y sale la ojera en el animal
 
 M: femuechi lüpom trapi farfarülngi rupaki, 
-,C: así se le pasa un ají quemado,
+C: así se le pasa un ají quemado,
 
 M: femuechi lefki ta ojo llenuam. 
 C: así se arranca la ojera pues.

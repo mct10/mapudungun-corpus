@@ -447,7 +447,6 @@ C: en el cuerpo, hermano.
 
 nmlch-nmfhp1_x_0032_nmlch_00: 
 <uhm>
-uhm
 
 nmlch-nmfhp1_x_0033_nmfhp_00: 
 M: May.
@@ -1831,7 +1830,7 @@ nmlch-nmfhp1_x_0168_nmfhp_00:
 M: Femngechi dungungekey 
 C: Así se le habla  
 
-M <*SPA>pu' peñi,
+M: <*SPA>pu' peñi,
 C: pues hermano,
 
 M: re pekanka trekan tungelay ta machi 
@@ -3184,7 +3183,6 @@ C: así es cómo
 
 M: kimkefi chi l'awen' ka.
 C:  aprende de los remedios, pues.
-xxxxxxxxxxxxxxxxxxxxx
 
 nmlch-nmfhp1_x_0302_nmfhp_00: 
 M: May. 
@@ -3702,4 +3700,3 @@ C: la que les da a las mujeres,
 M: mülepey ka kutran femngechi. 
 C: habrá también ese tipo de enfermedad.
 
-Cañulef

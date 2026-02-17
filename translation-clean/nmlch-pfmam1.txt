@@ -6,6 +6,7 @@
 ; Comments:  
 ; Traduce: Rosita Huenchumilla.
 
+nmlch-pfmam1_x_000x_pfmam_00:
 M:¿ kom  ta mi pu che kumeli tufa?
 C: ¿ y  toda tu gente se encuentra bien ahora?
 
@@ -75,7 +76,7 @@ M:  Paisano mew
 C:  En paisano
 
 M:  pangkulltu pingi
-C;  Pangkultu se llama
+C:  Pangkultu se llama
 
 M:  feyta winkamew 
 C:  y esto en el huinca

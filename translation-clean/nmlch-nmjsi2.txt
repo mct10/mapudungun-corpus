@@ -1141,7 +1141,7 @@ C: como se tratarían éstas.
 
 nmlch-nmjsi2_x_0173_nmlch_00:
 M: ¡Ah!
-C; ¡Ah!
+C: ¡Ah!
 
 nmlch-nmjsi2_x_0174_nmjsi_00:
 M: Leliniekenolu 
@@ -1167,7 +1167,7 @@ C: para que no suban los niños y ahora se tiene.
 
 nmlch-nmjsi2_x_0175_nmlch_00:
 M: ¡Ah!
-C; ¡Ah!
+C: ¡Ah!
 
 nmlch-nmjsi2_x_0176_nmjsi_00:
 M: <%> Ñi pu domo feyta nentuy tañi familia.
@@ -1190,7 +1190,7 @@ C: Iré bien donde mi familia nomás.
 
 nmlch-nmjsi2_x_0181_nmlch_00:
 M: ¡Ah!
-C; ¡Ah!
+C: ¡Ah!
 
 nmlch-nmjsi2_x_0182_nmjsi_00:
 M: Feypikelay nga tachi pu püñeñkelu.
@@ -1336,7 +1336,7 @@ C: después tuve una sobrina pues.
 
 nmlch-nmjsi2_x_0201_nmlch_00:
 M: ¡Ah!
-C; ¡Ah!
+C: ¡Ah!
 
 nmlch-nmjsi2_x_0202_nmjsi_00: 
 M: <Cough> Felisinda pinga Antonio Paine tañi kure. 
@@ -1400,7 +1400,7 @@ C: A veces son mudos
 M:well, <*SPA>defectau de una mano de una pierna
 C: A veces tienen defectos de una mano o de una pierna
 
-M. petu felekerki <*SPA>pu'.
+M: petu felekerki <*SPA>pu'.
 C: aún está así pues
 
 nmlch-nmjsi2_x_0211_nmlch_00:
@@ -1452,7 +1452,7 @@ M: feychi ka tripachemu
 C: esa vez también cuando salen las personas
 
 M:ta <uhm> mülerki ta ngüneluwün pe mayta 
-C. esa vez también había sabiduría y ahora 
+C: esa vez también había sabiduría y ahora 
 
 M:katrütual ta pichikeche tüfa.
 C: impedir a los niños, ahora. 
@@ -1572,7 +1572,7 @@ nmlch-nmjsi2_x_0239_nmlch_00:
 M: Femperkengeafuy llemay malle
 C: Seguramente eso era pues tío
 
-M. femperkengeafuy may.
+M: femperkengeafuy may.
 C: eso pasaría pues tío.
 
 nmlch-nmjsi2_x_0240_nmjsi_00:
@@ -1881,7 +1881,7 @@ C: Van a tierras lejanas.
 
 nmlch-nmjsi2_x_0281_nmlch_00:
 M: Kamapu amuyngün
-C. Van a tierras lejanas
+C: Van a tierras lejanas
 
 M: ta kamapu chengetuyngün ka.
 C: se hacen gente de tierras lejanas pues.
@@ -2029,7 +2029,7 @@ M: alli trufurkülewen tati
 C: queda como polvo pues
 
 M: fey fam tukulelngi trapikanua anfe rume fürey. 
-C : eso le colocan, es como ají, es muy picante.
+C: eso le colocan, es como ají, es muy picante.
  
 jsi2_x_0310_nmjsi_00nmlch_00:
 M: Kunumu ta füreperki. 
@@ -2962,7 +2962,7 @@ C:  y, puta que es leso el hombre
 M: lesomaki ojay pi 
 C: leso es, se ojó dijo
 
-M.ojalmanu feypienu pifiñ.
+M: ojalmanu feypienu pifiñ.
 C: me lo ojó me dijo, le dije.
 
 nmlch-nmjsi2_x_0454_nmlch_00:

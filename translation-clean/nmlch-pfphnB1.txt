@@ -460,7 +460,7 @@ M: vey niy l'awen'
 C: que tienen remedio
 
 M: nelu l'awen' pewmakeviñ
-C : el tiene remedio lo sueño
+C: el tiene remedio lo sueño
 
 M: nenolu l'awen' kay
 C: si no tiene remedio pues

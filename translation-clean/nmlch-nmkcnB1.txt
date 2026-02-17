@@ -2403,7 +2403,7 @@ M:  fey inche ta wünmapan
 C:  y yo amanecí 
 
 M:  kiñe trafia wünmapan 
-C.  una noche aloje 
+C:  una noche aloje 
 
 M: ta tüfeychi inche anümka tati 
 C: esa planta pues.
@@ -2424,10 +2424,10 @@ M:  feyta tañi duam ta müli
 C:  en mi necesidad esta
 
 M: ta ruka pepinelmu ta chaw ngünechen
-C.  la casa me dice Padre Ngünechen
+C:  la casa me dice Padre Ngünechen
 
 M:  koyam ta mülewi ta tüfa 
-C. Roble queda acá
+C: Roble queda acá
 
 M: aftuy ta koyam may 
 C: se acabo el roble pues,

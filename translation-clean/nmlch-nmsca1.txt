@@ -17,7 +17,7 @@ M: Mari, mari peñi
 C:   Saludo hermano
 
 nmlch-nmsca1_x_0002_nmlch_00: 
-C. ¿chumuechi anta wünmalefuymi tüfa?
+C: ¿chumuechi anta wünmalefuymi tüfa?
 M:  Como ha amanecido aqui
 
 nmlch-nmsca1_x_0003_nmsca_00: 
@@ -602,7 +602,6 @@ C: mucho digo su amigo sentado esta
 
 nmlch-nmsca1_x_0095_nmlch_00: 
 M: ¿Feyti ngülamn eymi tüfimi pütakeche ñi küpalmemu
-fey ñi vemuechi ñi femnoal?  
 C: Ese consejo su ese anciano su el siempre m hacen 
 
 M: kümelay rangiantü nagal ti 
@@ -923,11 +922,7 @@ M: Ah
 C: Ah 
 
 nmlch-nmsca1_x_0142_nmsca_00: 
-M: Pital <SPA>del <SPA>cáncer <uh> longkofi 
-<SPA>no <SPA>sé <SPA>cómo <SPA>se <SPA>llama <SPA>eso 
-<SPA>hay <SPA>al <SPA>frente San José mongemen
- pital  <SPA>del <SPA>cáncer
-C: 
+
 
 nmlch-nmsca1_x_0143_nmlch_00: 
 M: ¿Chewmu müli tüfichi ka tripa che ñi l'awen'tuchefe ti chuchi wariamu?
@@ -1945,7 +1940,7 @@ nmlch-nmsca1_x_0324_nmsca_00: <uhm>
 
 nmlch-nmsca1_x_0325_nmlch_00: 
 M: <SPA>Ya 
-C. Ya
+C: Ya
 
 nmlch-nmsca1_x_0326_nmsca_00: 
 M: Veychi kutran müten püta püta <SPA>grande rupan 
@@ -2434,5 +2429,4 @@ C: Esta donde yo observe asi antes yo raro me sentia
 
 M: vey vemuechi kangentunekevuin pichi küme rupal <Noise> 
 C: si asi es raro me sentia un poco al pasar
-nmlch-nmsca1-1.doc  /Autor: Rosendo Huisca Melinao/ Fecha de impresión 18-11-01 08:25 P.M.
 

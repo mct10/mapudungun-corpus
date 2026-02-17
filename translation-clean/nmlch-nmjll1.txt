@@ -374,7 +374,7 @@ nmlch-nmjll1_x_0017_nmlch_00:
 M: Felellen may chi peñi 
 C: Así será pues hermano 
 
-N: iñchiñam tüfa mülelu tüfachi mapumu 
+M: iñchiñam tüfa mülelu tüfachi mapumu 
 C: nosotros ahora habitamos en esta tierra 
 
 M: re mlerkelaiñ tüfa tañi mongenmu
@@ -831,7 +831,7 @@ M: chumngentu <Noise> pewman
 C: cómo en los sueños
 
 M:  ngüneduammeken 
-C : lo tengo en mi conocimiento 
+C: lo tengo en mi conocimiento 
 
 M: kom tunewken pewmamu
 C: todo atravéz del sueño lo entiendo
@@ -1977,7 +1977,7 @@ C: sólo pues en palabras por último también.
 
 nmlch-nmjll1_x_0171_nmlch_00: 
 M: ¿Rume a'lün' kimün petu petu ñami ta tüfa 
-C : ¿Mucha ideas esta esta perdiendo  entoncess ahora 
+C: ¿Mucha ideas esta esta perdiendo  entoncess ahora 
 
 M: tachi amule chi tripantumu perke ka?.
 C: por el transcurso del año sería también?. 
@@ -2744,7 +2744,7 @@ M: tütulay wekeche, pichikedomo trüftulay
 C: no son iguales la juventud, las niñitas no son iguales
 
 M: adümlavi feychi l'awen' fey 
-C; no lo saben hacer ése remedio si 
+C: no lo saben hacer ése remedio si 
 
 M: fey ñamrupuale ñamürpuay 
 C: si se vá perder se vá perder 

@@ -652,7 +652,7 @@ M:  Kutrankawkellimay
 C:   Sufre pues.
  
 nmlch-nfipp2_x_0093_nmlch_00: 
-m: Ah 
+M: Ah 
 C: Ah.
  
 nmlch-nfipp2_x_0094_nfipp_00: 
@@ -2267,7 +2267,7 @@ C: estan bien nuestros hijos todo nosotros.
  
 nmlch-nfipp2_x_0315_nmlch_00: 
 M: <hm> 
-C.
+C:
   
 
 nmlch-nfipp2_x_0316_nfipp_00: 

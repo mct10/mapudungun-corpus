@@ -610,7 +610,7 @@ C: el Piuchen de todo pues.
 
 nmlch-lfmmcA2_x_0049_nmlch_00: 
 M: ¡Aa!
-C. ¡Ah!
+C: ¡Ah!
 
 nmlch-lfmmcA2_x_0050_lfmmc_00: 
 M: Feyta fey tami *firkütupiukeleal pingen 
@@ -1453,7 +1453,7 @@ nmlch-lfmmcA2_x_0123_lfmmc_00:
 M: Müngeltulafuy. 
 C: No tenía predicciones 
 
-nmlch-lfmmcA2_x_0124_nmlch_00: ..
+nmlch-lfmmcA2_x_0124_nmlch_00: 
 M: <%>Peuma
 C: En sueño 
 
@@ -1541,7 +1541,7 @@ nmlch-lfmmcA2_x_0142_nmlch_00:
 M: Eymiam küdau ka
 C: Usted como trabaja pues. 
 
-nmlch-lfmmcA2_x_0143_lfmmc_00: ..
+nmlch-lfmmcA2_x_0143_lfmmc_00: 
 M: <%>Deu. 
 C: Ya
 
@@ -1686,7 +1686,7 @@ M:*amuli antü
 C: cuando sigue el calor 
 
 M: feyta *witrangi ta lafkenpüle *llellipun tati 
-C. entonces se pide asía al oeste la oración pues. 
+C: entonces se pide asía al oeste la oración pues. 
 
 M: Nabuelbuta llemay chafükura wingkul 
 C: Nabuelbuta pues Chafucura cerros  
@@ -1785,7 +1785,7 @@ M: Fey *tüfi llemay ta ngillatuy ta mürkemeu kom ta pu domo
 C: Claro que antiguamente hacian sus oraciones con pura harina (tostada) las mujeres. 
 
 M: tüfa ta tukuniengelay 
-C; esto no se coloca 
+C: esto no se coloca 
 
 M: re *chamlatuli kom ta *kollonküli tati 
 C: con puro chamal ..................pues.

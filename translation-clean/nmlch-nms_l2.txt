@@ -1990,7 +1990,7 @@ C:  yo tenía amigos antes pues
 M: tremkülewetuy taengün
 C: cuando estaban creciendo estos
 
-M : femngechi nütramkan
+M: femngechi nütramkan
 C: de este tipo de conversación 
 
 M: kiñe rupa +/alletu/+ alleñekefenu.
@@ -2320,7 +2320,7 @@ C: cuando paso cinco años
 M: ñi kutran feychi kutran pu malle.
 C: mi enfermedad, esa enfermedad pues tío.
 
-nmlch-nmsñl2_x_0313_nmlch_00
+nmlch-nmsñl2_x_0313_nmlch_00:
 M: Müna weda.
 C: Que malo.
 
@@ -2749,4 +2749,4 @@ M:  Küdawtuyu pu malle.
 C: Trabajamos pues sobrino.
 
 nmlch-nmsñl2_x_0382_nmlch_00:
- <Laugh> <Laugh>.
+ <Laugh> 

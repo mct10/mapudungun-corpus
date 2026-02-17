@@ -22,7 +22,7 @@ M:<Noise> pura mari <Noise>
 C: ochenta ,
 
 M:  tunten tripantu  nieymi 
-C : ¿Cuántos años tiene usted? 
+C: ¿Cuántos años tiene usted? 
 
 nmlch-lftccB1_1_0003_nmlch_00: 
 M: ¿regle mari pura? 
@@ -453,7 +453,7 @@ C: va de inmediato al pueblo
 M: <*SPA>escapando<!1e'capando>  
 C: escapando 
 
-M<*SPA>la <*SPA>muerte
+M: <*SPA>la <*SPA>muerte
 C:de la muerte
 
 M:ta mülepüray 
@@ -574,7 +574,7 @@ M: wenu Chau feyti <%>
 C: el padre de arriba  ese
 
 M: fey tañi chumlen tichi foro 
-C :asi como  esta ese hueso 
+C:asi como  esta ese hueso 
  
 M:Welngilen
 C:  si esta safado
@@ -1291,7 +1291,7 @@ nmlch-lftccB1_1_0129_nmlch_00:
 M: ¿Iney <!1ini> pingefuychi?
 C: ¿A quien  le dijeron?
 
-nmlch-lftccB1_1_0130_lftcc_00
+nmlch-lftccB1_1_0130_lftcc_00:
 M: <%> Chemam?
 C: Que cosa?
 
@@ -1467,7 +1467,7 @@ nmlch-lftccB1_1_0161_nmlch_00:
 M: ¿Re moyolkefuymün mamaderatuukelafuyengün?
 C:  ¿Solo los amamantaban, no tomaban mamadera?
 
-nmlch-lftccB1_1_0162_lftcc_00
+nmlch-lftccB1_1_0162_lftcc_00:
 M:  May.  
 C:   Sí. 
 
@@ -1614,7 +1614,7 @@ nmlch-lftccB1_1_0187_nmlch_00:
 M: Eymi kiñe püñeñ norume pitalmeu <!1pitalmu> nielafimi?
 C: Usted no tuvo ningun hijo  en el hospital?
 
-nmlch-lftccB1_1_0188_lftcc_00
+nmlch-lftccB1_1_0188_lftcc_00:
 M: : <*SPA>No
 C: No.
 
@@ -1823,7 +1823,7 @@ nmlch-lftccB1_1_0216_lftcc_00:
 M: May
 C: Sí
 
-nmlch-lftccB1_1_0217_nmlch_00
+nmlch-lftccB1_1_0217_nmlch_00:
 M:¿Iney <!1ini> chi mongelpeyu?
 C: ¿Quién la habrá sanado?
 
@@ -1942,7 +1942,7 @@ M:> kintungemey <!1kintungemi> chi
 C: lo fueron a buscar
 
 M: <*SPA>ese <*SPA>lo <*SPA>mejoró
-C.eso lo mejoró
+C: eso lo mejoró
 
 nmlch-lftccB1_1_0233_nmlch_00: 
 M: ¿Fey mongeltuyu?
@@ -2563,7 +2563,7 @@ C: ese es malo sentir latido en mi para ver
 M: witan iñche nien wita iñche nien witan 
 C:tengo latido yo, latido tengo yo, latido 
 
-M<*SPA>sobrino <!1sobrinu>
+M: <*SPA>sobrino <!1sobrinu>
 C: sobrino 
 
 nmlch-lftccB1_1_0289_nmlch_00: 
@@ -2714,7 +2714,7 @@ C: Sí.
 
 nmlch-lftccB1_1_0309_nmlch_00: 
 M: Kümey ta nien ta <uh>
-C :Es bueno tener 
+C:Es bueno tener 
 
 nmlch-lftccB1_1_0310_lftcc_00: 
 M: Pewütüwün

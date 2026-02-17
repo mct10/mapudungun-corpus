@@ -349,7 +349,7 @@ C:me andaban preguntando, dónde dicen ellos
 M: feymu ta inapaeneu che 
 C: por eso me sigue la gente 
 
-M; <%> <Noise> y <P> kümey tañi akunengün 
+M: <%> <Noise> y <P> kümey tañi akunengün 
 C: y es bueno que hayan llegado 
 
 M: ka <P> kümey tañi <Noise> witrakontuyawülün
@@ -1270,7 +1270,7 @@ C: los jovenes me cuidan
 M: <P> fillpiaukelan <*SPA>nunca <%> f
 C: nunca ando hablando de más 
 
-M; eymu iñche feypikefiñ engün 
+M: eymu iñche feypikefiñ engün 
 C: yo les digo a ellos 
 
 M: chumal anta lefkonkeyaukeymün pitalmu peñi 

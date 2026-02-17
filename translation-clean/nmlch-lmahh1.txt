@@ -1590,7 +1590,7 @@ C: también hermano yo creo
 M: <*SPA>que <*SPA>muy <*SPA>importante   
 C: que es muy importante
 
-M<*SPA>también<*SPA>fundamental
+M: <*SPA>también<*SPA>fundamental
 C: también fundamental 
 
 M: <uhm> chi mapu l'awen' <*SPA>si
@@ -1860,7 +1860,7 @@ nmlch-lmahh1_x_0190_lmahh_00:
 M: <*SPA>Sí chi pu chi pu,
 C: Si esto esto 
 
-M. chi pinu pingelu chi kaliptu
+M: chi pinu pingelu chi kaliptu
 C: los pinos que le dicen eucaliptus
 
 M: chi vey ankümki ko vill l'awen'
@@ -3031,7 +3031,7 @@ C:  año nuevo de los mapuches
 M: müñetukevuy puliwen
 C: sa bañaban en la madrugada
 
-M pikingün ka kiñeke
+M: pikingün ka kiñeke
 C: decian algunos 
 
 M: fey femkelu fey. 

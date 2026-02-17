@@ -18,7 +18,7 @@ nmlch-nmflh1_x_0002_nmlch_00:
 M: ¿Chumlefuimi am ta tami mongenmu ta
 C: ¿Cómo estas en tu vida,
 
-M : tami lof tüfamu chumechi rupaleymu am?
+M: tami lof tüfamu chumechi rupaleymu am?
 C: en tu lugar aquí, cómo están pasando ustedes?
  
 nmlch-nmflh1_x_0003_nmlch_00: 
@@ -191,7 +191,7 @@ C: Ah
 M:  <uhm> ¿Tami foro tüfa?
 C: ¿Es tú dentadura?
 
-Nmlch-nmflh1_x_0013_nmflh1_00
+Nmlch-nmflh1_x_0013_nmflh1_00:
 M: Foro, foro may 
 C: Diente, diente sí
 
@@ -472,7 +472,7 @@ nmlch-nmflh1_x_0057_nmlch_00:
 M: Kochü
 C: Dulse. 
 
-nmlch-nmflh1_x_0058_nmflh1_00
+nmlch-nmflh1_x_0058_nmflh1_00:
 M: Kochü mülelu feyta asukura
 C: Dulce hay ahora el azúcar 
 
@@ -511,7 +511,7 @@ C: ahora también como comida esta el arroz
 M: feymew ta newen nietulay ta foro <*SPA>pu'
 C: por eso entoces no es duro los dientes pues. 
 
-nmlch-nmflh1_x_0061_nmlch_00
+nmlch-nmflh1_x_0061_nmlch_00:
 M: ¿Chem ial chikefui kuifi che peñi
 C: ¿Qué comida será que consumia las gentes hermanos 
 
@@ -1055,7 +1055,7 @@ M: Feytichi waka kachu
 C: Ese torongil cuyano  
 
 M: yanküimi kitu kiñeke longko 
-C : cuando se caen algunos pelos  
+C: cuando se caen algunos pelos  
 
 M: fey ka newentuki pingey tati 
 C: este también recupera la fuerza dice  
@@ -1104,7 +1104,7 @@ M: nütrakalen peñi pipen.
 C: para que me converse hermano dije 
 
 nmlch-nmflh1_x_0127_nmflh1_00:
-M. ya <hm> kümey pu peñi,
+M: ya <hm> kümey pu peñi,
 C: y es muy bueno pues hermano 
 
 M: feyta ka,
@@ -1158,7 +1158,7 @@ C: Acu.
 
 
 
-nmlch-nmflh1_x_0132_nmflh1_00
+nmlch-nmflh1_x_0132_nmflh1_00:
 M: Aku 
 C: Acul.
 
@@ -1254,7 +1254,7 @@ C: esto tanto remedio
 M: fewla petu ñamtulu
 C: ahora lo que se estan perdiendo 
  
-M. dew ta fewla tüfachi pichin 
+M: dew ta fewla tüfachi pichin 
 C: listo ya ahora poco 
 
 M: tüfachi makinamew -/kun/- 
@@ -1424,7 +1424,7 @@ nmlch-nmflh1_x_0174_nmlch_00:
 M: ¿Chem küyenmu rume mülekey tüfi kam puken <uhm> walüng pe%?
 C: ¿En qué mes abunda mas esto en el invierno , cosecha o primavera 
 
-nmlch-nmflh1_x_0175_nmflh1_0: 
+nmlch-nmflh1_x_0175_nmflh1_00: 
 M: <uhm> Chem küyenmew reke mülekey
 C: En que mes como que si hubiera 
 
@@ -1479,7 +1479,7 @@ nmlch-nmflh1_x_0185_nmflh1_00:
 M: May no 
 C: Sí no. 
 nmlch-nmflh1_x_0186_nmlch_00:
-M. Ah.
+M: Ah.
 C: Ah.
 
 M: ¿Feyti kay kiñe <uhm> kutran longkomu 
@@ -1518,7 +1518,7 @@ M:  feyta eymi feychi püna tukulmi tolmew feyta
 C: y si usted lo pega en la frente y 
 
 M: ka trapül fenten ta tukulmi feyta ka feychi ta <uhm> 
-La oja hecha un buen poco y entonce así 
+C: La oja hecha un buen poco y entonce así 
 
 M: few kurpumew püle feyta 
 C: en todo el cuerpo entoce 
@@ -1920,7 +1920,7 @@ C: ¿Usted no le a salido salido sarampión pues ?
 
 nmlch-nmflh1_x_0265_nmflh1_00: <*SPA>
 M: no nunca 
-C : No nunca 
+C: No nunca 
 
 nmlch-nmflh1_x_0266_nmlch_00:
 M:  fill che piñualu kiñe kuñifalmu mongenmu
@@ -2258,7 +2258,7 @@ M:  kiñe, kiñe tripantu, no kiñe tripantu no, epu tripantu penu
 C: uno , uno año ,no un año no ,quizas dos año 
 
 nmlch-nmflh1_x_0320_nmlch_00:
-M  epu tripantu nieymi 
+M:  epu tripantu nieymi 
 C: tenia dos año 
 
 nmlch-nmflh1_x_0321_nmflh1_00:
@@ -2282,11 +2282,11 @@ M:  feymew -/vakunen/- vakunangen
 C: Ahí -vacuna - me vacunaron 
 
 _x_0327_nmlch_00311_nmlch_00:
-M. ¿ekuela tulelu eymi vakungelaymi? 
+M: ¿ekuela tulelu eymi vakungelaymi? 
 C: ¿cundo estaba en la escuela te vacunaron ?
 
 nmlch-nmflh1_x_0328_nmflh1_00:
-M. ka vakunangen 
+M: ka vakunangen 
 C: Y me vacunaron 
 
 nmlch-nmflh1_x_0329_nmlch_00: 
@@ -2423,7 +2423,7 @@ C: enfermedad de color no más dijeron
 
 nmlch-nmflh1_x_0355_nmflh1_00: 
 M: re kutran müten feyta, feyta feymew elunge feyti kafon 
-Pura enfermedad ahora, ahora por eso le dieron ese jabón 
+C: Pura enfermedad ahora, ahora por eso le dieron ese jabón 
 
 M: fewla nochikechi rupatui -/notu/- welu fenten antü <*SPA>
 C: Ahora lentamente paso -...-pero arto día 
@@ -2613,8 +2613,8 @@ C: Qué otra enfermedad hay era
 M:  ka femechi müleki ta <*SPA>sarna pikey ta wingka no
 C: Así también hay sarna dice el chileno no 
 
-nmlch-nmflh1_x_0387_nmlch_0
-:M:  pitru 
+nmlch-nmflh1_x_0387_nmlch_00:
+M:  pitru 
 C: sarlch-nmflh1_x_0388_nmflh1_00:
 M:  pitru tripakelu ta longkomew ka -/tripa/-
 C: sarna que sale en la cabeza también ...

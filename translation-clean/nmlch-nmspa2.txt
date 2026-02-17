@@ -100,7 +100,7 @@ M:  ramtuniayu
 C:   preguntando
 
 M:  feyti ka müli ti chi kutran kiñeke wentru pichiche,
- también hay otra enfermedad que afecta a los niños dicen 
+C: también hay otra enfermedad que afecta a los niños dicen 
 
 M:  al'üay rume tuy ka ngüfüllün pingi,
 C:   harto les afecta también ngufullun dicen 
@@ -350,7 +350,7 @@ M: femuechi ta mülekerkefuy kuyfi ta kom l'awen'tuchefe tati.
 C:   así como existían las personas que curaba.
 
 nmlch-nmspa2_x_0057_nmlch_00:
-M.  ¡Ah!
+M:  ¡Ah!
 C:   ¡Ah!    
 
 nmlch-nmspa2_x_0058_nmspa_00: 

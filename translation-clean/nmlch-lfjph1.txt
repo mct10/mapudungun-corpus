@@ -1683,7 +1683,7 @@ C: pero esos dos se separaron vivo
 M: wüsantungingu koni malesa
 C: se separaron, entro la maleza
 
-M.<*SPA> no ke felekingu 
+M:<*SPA> no ke felekingu 
 C: que, no lo iban hacer
 
 M:fey mu fey llikangi pe sungunuam sobrinu.
@@ -2376,7 +2376,7 @@ C: ese  si que no es así ese abuelo
 M: fey ñi ñawemu müli tami ñuke.
 C: y en la hija de él está tu madre.
 
-nmlch-lfjph1_x_0213_nmlch_00
+nmlch-lfjph1_x_0213_nmlch_00:
 M: May. 
 C: Sí.
 

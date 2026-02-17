@@ -1103,7 +1103,7 @@ M: veyta petu müli che
 C: entonces todavía hay persona.
  
 nmlch-pmjctA1_x_0103_nmlch_00: 
-M : Ah.
+M: Ah.
 C: Ah.
 
 M: petu müli
@@ -1933,7 +1933,7 @@ nmlch-pmjctA1_x_0187_nmlch_00:
 M: ¡Ah!.
 C:¡Ah!.
 
-M Fill mapu' 
+M: Fill mapu' 
 C: Distintas tierra 
 
 M: <uh> itrofill l'awen' mülefuy pingi tati. 

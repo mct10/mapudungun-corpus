@@ -1036,8 +1036,7 @@ M: feyta <SPA>seguro ta nial veychi
 C: éste es seguro que tengan esa 
 
 M: kutranengün ka natü engün <SPA>porque.  
-C: enfermedad ellos también lo hiran a tocar ellos
-porque.
+C: enfermedad ellos también lo hiran a tocar ellos porque.
 
 nmlch-nfrqm1_x_0101_nmlch_00: 
 M: Fempeay ka. 

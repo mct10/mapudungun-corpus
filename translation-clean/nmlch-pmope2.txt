@@ -18,8 +18,8 @@ nmlch-pmope2_x_0002_nmlch_00:
 M: <SPA>Orégano pingi tukulelngeki 
 C: Orégano se llama, lo que le hecho 
 
-<SPA>orégano pilunmu<Noise> 
-M: Orégano en la oreja.
+M:<SPA>orégano pilunmu<Noise> 
+C: Orégano en la oreja.
 
 nmlch-pmope2_x_0003_pmope_00:
 M: Rupatuy fey 
@@ -79,7 +79,7 @@ M: lingarkületuki ñi longko weke pichiwentru
 C: Esta la cabeza limpio los niños 
 
 M:  <%> feletuy welu kuyfi ligkelafuy ñi longko engün
-C Antiguamente no era así, no tenían la cabeza blanca
+C: Antiguamente no era así, no tenían la cabeza blanca
 
 M: fütakeche petu peken ka
 C: a adultos he visto también
@@ -298,7 +298,7 @@ C: nueve o diez brotaban ellos.
 nmlch-pmope2_x_0036_nmlch_00:
 M: Fentren pichikeche <Noise>
 C: Muchos niñitos.
-nmlch-pmope 
+nmlch-pmope_00:
 M: Engün <SPA>a <SPA>ta' <SPA>doce <SPA>dicen 
 C: Ellos hasta doce dicen
 
@@ -421,7 +421,7 @@ nmlch-pmope2_x_0060_pmope_00:
 M:  Kim a'lün' pa'tilla eluvi chem ta elufilu engün tati feymu ta chemu
 C: Si a los niños le damos muchas pastillas no sirve
 
-M <SPA>cáncer koni tati pu che ka 
+M: <SPA>cáncer koni tati pu che ka 
 C:  Le entra cancer
 
 pe2_x_0061_pmope_00_nmlch_00:
@@ -710,7 +710,7 @@ C: Por eso de es manera
 M: femngechi kimi che ka adümtukuwi 
 C:  de esa manera sabe la gente y tiene habilidades.
 
-nmlch-pmope2_x_0091_nmlch_00
+nmlch-pmope2_x_0091_nmlch_00:
 M: Fill che <SPA>no'y'que kim<%> 
 C:  No ves que toda la gente...
 
@@ -727,7 +727,7 @@ C:  auque quisiéramos tener inteligencia
 M:  <SPA>pero <SPA>el Dio' <SPA>le <SPA>da 
 C:  pero es el Dios que da
 
-M<SPA>la <SPA>inteligencia <*SPA>pu' 
+M:<SPA>la <SPA>inteligencia <*SPA>pu' 
 C: la inteligencia pues
 
 M: chumrumeavuymi rume 
@@ -1024,7 +1024,7 @@ nmlch-pmope2_x_0112_pmope_00:
 M:  Tripaki ka 
 C:  Sale también.
 
-nmlch-pmope2_x_0113_nmlch_00
+nmlch-pmope2_x_0113_nmlch_00:
 M: Pichikechemu doy tripaki 
 C:  En los niños sale más.
 
@@ -1114,7 +1114,7 @@ M: <SPA>pe'te <SPA>no rume tukelan
 C: ni peste no me ha dado
 
 M:  fey <SPA>gracia <SPA>a Dio' 
-C : eso es por la gracia.
+C: eso es por la gracia.
 
 nmlch-pmope2_x_0121_nmlch_00: 
 M: ¿Tulafimi?
@@ -1931,7 +1931,7 @@ nmlch-pmope2_x_0219_pmope_00:
 M:  Kollalla tüfamu ta mülelay 
 C: Hormigas aquí no hay 
 
-M; ta arkentinumu ta müli 
+M: ta arkentinumu ta müli 
 C: en el lado Argentino hay
 
 M: tamu chew rume inakallevili rume 
@@ -2217,7 +2217,7 @@ C: un tubo de este tamaño por aquí andaba trayendo
 M: tañi <SPA>un <SPA>naylo <SPA>al <%> 
 C: su...un naylon al...
 
-M<SPA>hay <SPA>va <SPA>el <SPA>meao wülki
+M: <SPA>hay <SPA>va <SPA>el <SPA>meao wülki
 C: ahí va, la orina dá 
 
 M: puntuyawleken ta wileñ 
@@ -2482,7 +2482,7 @@ M:  May
 C: Sí.
 
 nmlch-pmope2_x_0263_pmope_00:
-M Kütruavimi fey pütokomam 
+M: Kütruavimi fey pütokomam 
 C:  Tienes que colarlo, luego tomarlo
 nmlch-pmope2_x_0264_nmlch_00: 
 M: Pu welu

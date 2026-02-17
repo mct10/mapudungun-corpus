@@ -111,7 +111,7 @@ M: perimontun l'awen' konkelu
 C: Remedio que entra en visiones sobre naturales 
 
 M: l'awen' ta machimew 
-C. remedio en la machi 
+C: remedio en la machi 
 
 M: machi tüfey tañi werkütukel peñi.
 C: machi  es para  pedirle ayuda hermano.
@@ -298,7 +298,7 @@ C: ........................
 
 nmlh-nmfnn2_x_0032_nmfnn_00: 
 M: Adümkonreke peñi kiñe 
-C.......................hermano uno
+C: ......................hermano uno
 
 M: feymu ta feletuiñ
 C: por eso estamos así
@@ -463,7 +463,7 @@ M: un kude un fücha tripa antü
 C: un anciana un anciano salida, sol
 
 M: kude tripa antü 
-C. anciana salida sol
+C: anciana salida sol
 
 M: fücha widütün 
 C: anciano .........
@@ -1128,7 +1128,7 @@ nmlh-nmfnn2_x_0134_nmfnn_00:
 M: May.
 C: Sí.
 
-nmlh-nmfnn2_x_0135_nmlch_00: <uh> 
+nmlh-nmfnn2_x_0135_nmlch_00:
 M: Nütrammu ta kimi che fey.
 C: Con conversación sabe la gentes eso.
 
@@ -1247,7 +1247,7 @@ C: una frase
 M: kiñe trokiñ müten.
 C: una frase no más.
 
-nmlh-nmfnn2_x_0152_nmfnn_00: <SPA>
+nmlh-nmfnn2_x_0152_nmfnn_00:
 M: Ya pu feley pu.
 C: Ya pues, así es  pues.
 

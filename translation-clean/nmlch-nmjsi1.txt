@@ -29,7 +29,7 @@ M: Kom ta kümelkalekafuiñ tati
 C: Todos estamos bien pues
 
 M: fachantü chi antümu 
-C. hoy día, en este día
+C: hoy día, en este día
 
 M: <*SPA> gracia dio 
 C: gracias a Dios
@@ -3370,7 +3370,7 @@ M: wefki nagnaglu fey ñi kuerpu.
 C: aparece, se enroncha su cuerpo.
 
 nmlch-nmjsi1_x_0436_nmlch_00:
- <Cough><Cough>  
+ <Cough>
 
 nmlch-nmjsi1_x_0437_nmjsi_00: 
 M: Kelü. <%> 
@@ -3554,13 +3554,13 @@ C: para alisarlo
 
 nmlch-nmjsi1_x_0465_nmjsi_00:
 M: May.
-C : Sí.
+C: Sí.
 
 M: L'apümün timu ka pichi pütokolun. 
-C : para alisar también se debe tomar un poco.
+C: para alisar también se debe tomar un poco.
 
 nmlch-nmjsi1_x_0466_nmlch_00: 
-<Cough><Cough>
+<Cough>
 
 nmlch-nmjsi1_x_0467_nmjsi_00:
 M: Mongealmu feyta
@@ -3677,11 +3677,11 @@ M: machimu rume konafuy.
 C: aunque entre la machi.
 
 nmlch-nmjsi1_x_0480_nmlch_00:
- <Cough><Cough>
+ <Cough>
 
 nmlch-nmjsi1_x_0481_nmjsi_00:
-M : <%> Mongenuale rupa <%> müten. 
-C :  Que no va a vivir, pasa nomás.
+M: <%> Mongenuale rupa <%> müten. 
+C:  Que no va a vivir, pasa nomás.
 
 nmlch-nmjsi1_x_0482_nmlch_00:
 M: <Cough>Fempey llemay chi,
